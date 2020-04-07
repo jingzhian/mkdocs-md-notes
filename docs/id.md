@@ -1,3 +1,6 @@
+---
+title: Infectious Diseases
+---
 Infectious Diseases {#sec:id}
 ===================
 
@@ -18,11 +21,11 @@ Microorganisms are spread primarily through three ways within a hospital setting
 
     -   Direct transmission: involves physical contract between an infected person and a susceptible person
 
-    -   Indirect tranmission: involves contact of a susceptible person with a contaminated intermediate object
+    -   Indirect transmission: involves contact of a susceptible person with a contaminated intermediate object
 
 ### Identifying Patient's Precaution Status {#ssec:id-ic-ps}
 
-Method of identifyin infectious patients in SGH
+Method of identifying infectious patients in SGH
 
 -   Coloured discs: [multi-drug resistant organism]{style="color: orange"} and [clostridium difficile]{style="color: green"} patients are identified by orange / green discs on their medical records.
 

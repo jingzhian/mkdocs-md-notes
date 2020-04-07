@@ -5,8 +5,8 @@ site_author: Jingzhi An
 site_url: http://localhost:8000
 
 # Repository
-# repo_name: squidfunk/mkdocs-material
-# repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: jingzhian/mkdocs-md-notes
+repo_url: https://github.com/jingzhian/mkdocs-md-notes
 
 # Copyright
 copyright: Copyright &copy; 2020 Jingzhi An
@@ -80,3 +80,40 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+nav:
+  - Home: index.md
+  - Exam Info: exam-info.md
+  - Healthcare System: healthcare-system.md
+  - Basics of Anatomy, Physiology & Pathology: biomed-sciences.md
+  - Foundation of Clinical Medicine: clinic-foundation.md
+  - Bedside Etiquette: encounter.md
+  - Common presentations: approach.md
+  - emergency.md
+  - opthalmology.md
+  - neurology.md
+  - endocrinology.md
+  - cardiovascular.md
+  - pulmonology.md
+  - gi.md
+  - urorenal.md
+  - obstetrics.md
+  - hematology.md
+  - oncology.md
+  - msk.md
+  - dermatology.md
+  - rheumatology.md
+  - psychiatry.md
+  - frontiers.md
+  - Temporary notes: temp-notes.md
+  - ENT.md
+  - anesthesiology.md
+  - fammed.md
+  - genetic-medicine.md
+  - id.md
+  - pharmaco.md
+  - presentation.md
+  - reproductive.md
+  - respiratory.md
+  - review-peds.md
+  - surgery.md  
