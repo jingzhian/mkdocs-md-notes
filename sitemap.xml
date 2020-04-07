@@ -91,5 +91,49 @@
      <loc>http://localhost:8000/temp-notes/</loc>
      <lastmod>2020-04-07</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/ENT/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/anesthesiology/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/fammed/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/genetic-medicine/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/id/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/pharmaco/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/presentation/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/reproductive/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/respiratory/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/review-peds/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://localhost:8000/surgery/</loc>
+     <lastmod>2020-04-07</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
