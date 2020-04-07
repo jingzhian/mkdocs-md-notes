@@ -1,0 +1,82 @@
+# Project information
+site_name: Clinical Medicine Notes
+site_description: Clinical Medicine Notes
+site_author: Jingzhi An
+site_url: http://localhost:8000
+
+# Repository
+# repo_name: squidfunk/mkdocs-material
+# repo_url: https://github.com/squidfunk/mkdocs-material
+
+# Copyright
+copyright: Copyright &copy; 2020 Jingzhi An
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - instant
+    - tabs
+  icon:
+    logo: material/library
+    repo: fontawesome/brands/git-alt    
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/jingzhian
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/drdrjzan
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/jingzhi-an-281a9315
+
+# Google Analytics
+# google_analytics:
+#   - UA-XXXXXXXX-X
+#   - auto
+
+plugins:
+  - search:
+      prebuild_index: true
+  - git-revision-date-localized
+  - awesome-pages
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
