@@ -14,9 +14,9 @@ Divide into general conditions that applies for most cancers and some cancer spe
 
     -   Cachexia: this is itself a syndrome, characterized by loss of body weight of 10%, reduced food intake and systemic inflammation
 
-        -   Adipose tissue loss due to Zinc-$\alpha$2-glycoprotein, inhibition of lipoprotein lipase by cytokines (TNF-$\alpha$, IL-1, IFN-$\alpha$), Cori cycle is the main metablism pathway of tumor and is only performing glycolysis, Uncoupling proteins UCP1-UCP5 in mitochondrial inner mmb results in a lack of ATP production
+        -   Adipose tissue loss due to Zinc-&alpha;2-glycoprotein, inhibition of lipoprotein lipase by cytokines (TNF-&alpha;, IL-1, IFN-&alpha;), Cori cycle is the main metablism pathway of tumor and is only performing glycolysis, Uncoupling proteins UCP1-UCP5 in mitochondrial inner mmb results in a lack of ATP production
 
-        -   Decreased protein synthesis not corrected by dietary supplementation plus increased protein catabolism; Proteolysis-inducing factor by tumor, cytokines (TNF-$\alpha$, IFN-$\alpha$); Activate NF-$\kappa \beta$ and proteosome degradation ubiquitination of myofibrillar proteins
+        -   Decreased protein synthesis not corrected by dietary supplementation plus increased protein catabolism; Proteolysis-inducing factor by tumor, cytokines (TNF-&alpha;, IFN-&alpha;); Activate NF-&kappa;&beta; and proteosome degradation ubiquitination of myofibrillar proteins
 
     -   Anemia: chronic production of acute phase markers, IL-6 decreases iron circulation and TNF etc decreases body response to EPO
 
@@ -34,7 +34,7 @@ Divide into general conditions that applies for most cancers and some cancer spe
 
     -   Hypercalcemia: Most common metabolic abnormality -- 10% of cancers
 
-    -   Osteoclast resorption of bone due to endocrine (PTH) and paracine (local factors from bone mets inc RANKL, IL-1, TNF-$\alpha$, TGF-$\alpha$) effects
+    -   Osteoclast resorption of bone due to endocrine (PTH) and paracine (local factors from bone mets inc RANKL, IL-1, TNF-&alpha;, TGF-&alpha;) effects
 
 -   Specific Conditions
 
@@ -44,7 +44,7 @@ Divide into general conditions that applies for most cancers and some cancer spe
 
     -   Amyloidosis for Multiple Myeloma / Plasmacytoma
 
-        -   Generally there is deposition of protin in $\beta$ pleated sheets from the tumor
+        -   Generally there is deposition of protin in &beta; pleated sheets from the tumor
 
         -   Or if plasma cells then there is deposition of immunoglobulin
 

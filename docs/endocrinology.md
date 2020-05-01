@@ -157,3 +157,7 @@ Differentiate from neuroblastoma in children.
     -   Late night salivary cortisol assay
 
     -   Low-dose dexamethasone suppression test
+
+#### Dexamethasone Suppression Test
+Dexamethasone suppression test is used to evaluate hypercortisolism (i.e. Cushing Syndrome); suggestive manifestations include proximal muscle weaknss, facial plethora, and supravlavicular fat pads. Hypercortisolism is occasionally seen in MEN1, generally due to ACTH secreting pituitary tumors or adrenal tumors. Primary hyperparathyroidism is also seen in MEN1 and MEN2A. 
+

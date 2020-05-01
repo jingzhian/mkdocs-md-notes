@@ -1,9 +1,60 @@
 Neurology
 =========
 
+## General
+
+### Dermatome and Myotome
+
+|Dermatome | Key Sensory Landmarks | Action
+|----|----|---
+C1 | na       |
+C4 | Shoulder |
+C5 | Lateral antecubital fossa just proximal to elbow joint | elbow flexion - biceps and brachialis, biceps reflex 
+C6 | Dorsal proximal phalanx of thumb | wrist extension - extensor carpi radialis longus and brevis, biceps reflex, supinator reflex
+C7 | Middle Finger | elbow extension-tricepts, triceps reflex
+C8 | Little Finger | middle finger flexion - flexor digitorum profundus (distal phalanx)
+T1 | | Little finger abduction - abductor digiti minimini, interossei
+T4 | Nipples | 
+T6 | Xiphoid | 
+T10 | Umbilicus
+T12 - L 1 | inguinal and medial thigh | No motor deficit
+L3 | Just above the patella | Weakened quadriceps, deminished patellar reflex
+L4 | Medial malleolus | Extensor weakness of big toe and foot
+L5 | Great toe | Diminished or absent Achilles reflex
+S1 | Lateral malleolus
+S4-5 | Peri-anal
+
+![Dermatome](figures/skin-dermatome.jpg)
+
+
+
+
+### Muscle Grading System
+
+Grade | Description
+|---|---
+0 | Total paralysis
+1 | Palpable or visible contraction
+2| Active movement, full range of motion, gravity eliminated
+3 | Active movement, full range of motion, against gravity
+4| Active movement, full range of motion, against gravity and provides some resistance
+5| Active movement, full range of motion, against gravity and provides normal resistance
+NT | Patients unable to reliably exert effort or muscle unavailable for testing due to factors such as immobilization, pain on effort, or contracture
+
+
+
+----------------------
+
+
 Key Presentations
 
 -   mass effect -- headaches, bitemporal hemianopsia, psychiatric disorders, cognitive difficulties
+
+**Nystagmus**
+Central vs. Peripheral
+Rarely an eye cause, most of the time an eye cause
+Ophthalmologist sees to distinguish between different nystagmus because other doctors are not interested.
+Dr. Umapthi and a few worldwide doctors are interested.
 
 Ears
 ----
@@ -413,6 +464,8 @@ Movement Disorders
 ### Huntington's Disease
 
 ### Parkinson's Disease and Parkinsonism
+
+Parkinson disesaes leads to the loss of dopaminergic neurons in the substantia nigra. It may present wiht social isolation and withdrawal.
 
 #### Parkinson Disease Dementia
 

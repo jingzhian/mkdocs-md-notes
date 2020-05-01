@@ -16,17 +16,17 @@ theme:
   name: material
   language: en
   palette:
-    primary: indigo
-    accent: indigo
+    primary: teal
+    accent: teal
   font:
     text: Roboto
     code: Roboto Mono
   features:
-    - instant
+    # - instant
     - tabs
   icon:
     logo: material/library
-    repo: fontawesome/brands/git-alt    
+    repo: fontawesome/brands/github-square    
 
 # Extras
 extra:
@@ -79,7 +79,12 @@ markdown_extensions:
 
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+  - javascripts/extra.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css: 
+  - stylesheets/numbered-headings.css
+
 
 nav:
   - Home: index.md
@@ -90,7 +95,6 @@ nav:
   - Bedside Etiquette: encounter.md
   - Common presentations: approach.md
   - emergency.md
-  - opthalmology.md
   - neurology.md
   - endocrinology.md
   - cardiovascular.md
@@ -101,19 +105,27 @@ nav:
   - hematology.md
   - oncology.md
   - msk.md
-  - dermatology.md
   - rheumatology.md
   - psychiatry.md
   - frontiers.md
-  - Temporary notes: temp-notes.md
-  - ENT.md
-  - anesthesiology.md
-  - fammed.md
-  - genetic-medicine.md
-  - id.md
-  - pharmaco.md
-  - presentation.md
-  - reproductive.md
-  - respiratory.md
-  - review-peds.md
-  - surgery.md  
+  - UWorld Complete:
+    - dermatology.md
+    - psychiatry.md
+    - ophthalmology.md
+  - Temporary notes: 
+    - temp-notes.md
+  - Unorganized:
+    - ENT.md
+    - anesthesiology.md
+    - fammed.md
+    - genetic-medicine.md
+    - id.md
+    - pharmaco.md
+    - presentation.md
+    - reproductive.md
+    - respiratory.md
+    - review-peds.md
+    - surgery.md  
+  #- Completed:
+
+    

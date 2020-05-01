@@ -33,6 +33,78 @@ Why is there an increase in cost and price?
 
 Research Meetings
 -----------------
+### COVID-19 Initiatives
+
+
+
+### EMB AdCOm Meeting
+
+#### EMB Journals update by Amier in 2020 April
+
+COVID19-related papers
+- Increasing COVID19 paper
+- Advertise activities in soliciting nice COVID19 paper
+- PULSE published paper on PPE
+- More papers will be published related to COVID19
+- 600+ papers are made available for free download on IEEE Xplore
+
+His jobs
+- Recruit and manage editors
+- Get the impact factors up
+- Reduce backlog for Journals
+- TBME: 15- 20% acceptance
+- open access journal wanting more papers
+- IEEE Access: open access, all fields, EMB started a section in 2019 sep
+- Package revenue: IEEE Xplore's value does down
+- Paper award for most cited paper
+
+#### Colin VP Technical
+- TC has clear objective; active leadership team
+- Improve operation and make it easier for people to run the TCs
+  - Projects driven by technical committee has no firm process
+  - Technical committee chairs need to know about these
+  - Technical committee development
+  - Fill out a sheet that says what is the project we want to do
+  - June 1 proposal due
+  - Seed funding that can be obtained to start projects
+  - Visibility to the society is a metric
+- EMBS awards are now under-way, 60 applications received across different awards
+  - Each TC contributed one or two nominees from different categories
+  - Balance in gender and regional diversity
+  - Region 7 and Region 9 looking for people
+- Transition to technical committees
+  - New websites and links to where people have to go to sign up
+  - Goal is for 50% - 100% people be on a technical committee
+- Lead the initiation of point of care conference for a new TC
+  - Postponed to next year
+- Nic Chabat - cardiopulmonary technical committee
+  - Expanding on modeling and have a broader view on physio modeling
+  - Busy with COVID19 and his company
+- Standards area very active; neuroengineering leadership and ownership in that area
+  - Natural way to interact with companies and medical
+- Jeff palmer: wearable sensors, big data
+  - Summer school
+  - Big data is strategic
+  - Biosignal processing and imaging
+- New Website
+  - Technical committee need to populate sub-website
+  - Government of the TC
+  - Need a publicity chair
+- New NIH initiative
+  - Colin is in steering committee for POC research network
+  - New allocation of funds to compat COVID19
+  - 25 billion for diagnostic testing
+  - 1 billion allocated to NIH to accelerate the QC and deployment of testkits
+  - Everyone in US test 2 -3 rounds
+  - First round of testing by the end of the year
+  - RADiagx: skills in testing to clinical deployment should engage
+  - Help by guidance
+  - Best people, best advice, best outcome
+- Areas not addressed by the technical committee according to Luis Kun
+  - Public health informatics
+  - Epidimiology surveiliance
+  - Integration of multiple applications
+  - Multiple system integration
 
 ### MD-PhD Round: How to Read Clinical Journals
 
@@ -41,77 +113,49 @@ Research Meetings
 #### When to start clinical trial
 
 -   Available
-
 -   Accessible
-
 -   Affordable
-
 -   Acceptable
 
 #### Methods of Randomization
 
 Problems with randomization
-
 -   Assign patients in turn to control or placebo group
-
 -   Assign patients in one clinic to one arm and the other to another
 
 #### Outcome Design of Clinical Trial
 
 -   Composite Measures
-
     -   Look at all possible outcomes
-
     -   Example: time to first event
 
 #### Ways of Analysing a RCT Clinical Trial
 
 -   Intention-to-treat approach
-
     -   This is a statistical concept described by Fisher in 1990 to handle problem of major complications in RCT, i.e., noncompliance and missing outcomes
-
     -   ITT analysis includes every subject who is randomized according to randomized treatment assignment. It ignores noncompliance, protocol deviations, withdrawal, and anything that happens after randomization. ITT analysis is usually described as "once randomized, always analyzed".
-
     -   Advantage
-
         -   ITT analysis avoids overoptimistic estimates of the efficacy of an intervention resulting from the removal of non-compliers by accepting that noncompliance and protocol deviations are likely to occur in actual clinical practice.
-
         -   ITT analysis preserves the sample size because if noncompliant subjects and dropouts are excluded from the final analysis, it might significantly reduce the sample size, leading to reduced statistical power.
-
         -   Moreover, subjects may be noncompliant or may drop out from the study due to their response of treatment.
-
         -   Reduces Type I error
-
     -   Cons
-
         -   estimate of treatment effect is generally conservative because of dilution due to noncompliance.
-
         -   Also, heterogeneity might be introduced if noncompliants, dropouts and compliant subjects are mixed together in the final analysis.
-
         -   Moreover, end-point data will differ markedly among noncompliant, dropouts and compliant subjects, and interpretation might become difficult if a large proportion of participants cross over to opposite treatment arms
-
         -   Subjected to increase Type II error
-
 -   Modified intention-to-treat approach
-
     -   mITT is a subset of the ITT population and allows the exclusion of some randomized subjects in a justified way (such as patients who were deemed ineligible after randomization or certain patients who never started treatment).
-
     -   Definition given to the modified ITT (mITT) in randomized controlled trial has been found to be irregular and arbitrary because there is a lack of consistent guidelines for its application
-
     -   mITT analysis allows a subjective approach in entry criteria, which may lead to confusion, inaccurate results, and bias.
-
 -   Per-protocol (PP) Analysis
-
     -   Inclusion in the analysis of only those patients who strictly adhered to the protocol.
-
     -   The PP analysis provides an estimate of the true efficacy of an intervention, i.e., among those who completed the treatment as planned. However, as discussed above, its results do not represent the real life situation and it is likely to show an exaggerated treatment effec
 
 #### Statistical measures
 
 -   Kaplan-Meier Analysis:
-
     -   non-parametric statistic used to estimate the survival function from lifetime data.
-
     -   Let $\tau \geq 0$be a random variable, which we think of as the time until an event of interest takes place, survival function is defined as $S(t) = p(\tau>t)$, where $t = 0 , 1, \dots$
 
 -   Harzard Ratio based on Cox Regression Analyses

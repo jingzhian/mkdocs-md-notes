@@ -26,7 +26,7 @@ Anesthesia service
 
     -   Induction
 
-    -   Maintainance
+    -   Maintainable
 
     -   Emergence
 
@@ -66,7 +66,7 @@ Safety of anesthesia machine
 
     -   ARDS is when shunt is increased to 60 - 70% even increasing FiO2 to 100% would not work.
 
-    -   21- 25% machine goes off; Set to 30 - 40% typically, may increase to 100%; target PaO2 above 80%. Splinting of the diagphram, and the lung doesn't expand as well, atelectasis, shunt fraction. As surgery goes along, the PaO2/FiO2 change, need to monitor this - pulse oximetry. Target O2 sat of more than 93%. Inflexion point is around 90% Hb Sat or 60 mmHg, stay on the flat side, so we know the patient is safe. Below 60 patient is unsafe because PaO2 falls too quickly.
+    -   21- 25% machine goes off; Set to 30 - 40% typically, may increase to 100%; target PaO2 above 80%. Splinting of the diaphragm, and the lung doesn't expand as well, atelectasis, shunt fraction. As surgery goes along, the PaO2/FiO2 change, need to monitor this - pulse oximetry. Target O2 sat of more than 93%. Inflection point is around 90% Hb Sat or 60 mmHg, stay on the flat side, so we know the patient is safe. Below 60 patient is unsafe because PaO2 falls too quickly.
 
 -   Ratio controller - oxygen and nitrous oxide. In the older machine there is a chain that links these together. Cannot
 
@@ -132,7 +132,7 @@ Temperature monitoring in OT
 
 -   Anesthetic drugs can affect thermoregulation of hypothalamus
 
--   Hyperthermia - too aggressive warming or maglinant hyperthermia
+-   Hyperthermia - too aggressive warming or malignant hyperthermia
 
 -   Hypothermia - cold OT, losing shivering, loss vasoconstriction s easy to get it; this affect clotting. Why keep OR cold - surgeon comfort, 20 - 24 to reduce infection.
 

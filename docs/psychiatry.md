@@ -8,64 +8,62 @@ Basic Knowledge
 
 #### Immature
 
-L1 in L5 in Isolation & Removing feelings about an event\
-Rationalization & Generate an explanation for an action performed for a different reason\
-Distortion & Altering the perception of reality to make it more acceptable\
-Fantasy & Substituting with imaginary scenarios\
-Denial & Behaving as if the reality does not exist\
-Repression & Unconscious withholding of psychological material from the conscious mind\
-Dissociation & To disrupt memory, identity and consciousness to cope with an event\
-Projection & Transplanting one's unacceptable impulse or affect onto another person's situation\
-Displacement & Transfer the emotion about a situation / someone to a less threatening third party who is not involved\
-Reaction formation & to redirect unacceptable impulses to its opposite; act opposite to what one think / feel\
-Acting out & Expressing unacceptable thoughts or impulses through action\
-Regression & Reverting back to a less mature form of coping with difficulty\
-Identification & Model after someone who seems to be more powerful (can be good or bad)\
-Splitting & Hold the unconscious belief that people are wholly good or wholly bad; characteristically borderline
+
+| Mechanism          | description                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------ |
+| Isolation          | Removing feelings about an event                                                                       |
+| Rationalization    | Generate an explanation for an action performed for a different reason                                 |
+| Distortion         | Altering the perception of reality to make it more acceptable                                          |
+| Fantasy            | Substituting with imaginary scenarios                                                                  |
+| Denial             | Behaving as if the reality does not exist                                                              |
+| Repression         | Unconscious withholding of psychological material from the conscious mind                              |
+| Dissociation       | To disrupt memory, identity and consciousness to cope with an event                                    |
+| Projection         | Transplanting one's unacceptable impulse or affect onto another person's situation                     |
+| Displacement       | Transfer the emotion about a situation / someone to a less threatening third party who is not involved |
+| Reaction formation | to redirect unacceptable impulses to its opposite; act opposite to what one think / feel               |
+| Acting out         | Expressing unacceptable thoughts or impulses through action                                            |
+| Regression         | Reverting back to a less mature form of coping with difficulty                                         |
+| Identification     | Model after someone who seems to be more powerful (can be good or bad)                                 |
+| Splitting          | Hold the unconscious belief that people are wholly good or wholly bad; characteristically borderline   |
 
 #### Mature
-
-  --------------------- ---------------------------------------------------------------------
-  Suppression           Intentional withholding of distressing unconscious material
-  Intellectualization   Use intellect to avoid uncomfortable feelings
-  Sublimation           Channel impulses to socially acceptable behaviors
-  Humor                 Conscious and unconscious way of making light a difficult situation
-  Altruism              Removing sense of guilty by giving to others without solicitation
-  --------------------- ---------------------------------------------------------------------
+| Mechanism           | Description                                                         |
+| ------------------- | ------------------------------------------------------------------- |
+| Suppression         | Intentional withholding of distressing unconscious material         |
+| Intellectualization | Use intellect to avoid uncomfortable feelings                       |
+| Humor               | Conscious and unconscious way of making light a difficult situation |
+| Sublimation         | Channel impulses to socially acceptable behaviors                   |
+| Altruism            | Removing sense of guilty by giving to others without solicitation   |
 
 ### Psychotherapy
 
-  --------------- -----------------------------------------------------------------------------
-  Confrontation   to point out discrepancy in argument
-  Facilitation    ask questions to move discussion along
-  Empathy         try to put ourselves in the shoes of the patient and imagine the experience
-  Support         express concern independent of understanding
-  Reflection      to repeat what the patient is saying, perhaps by summarizing
-  --------------- -----------------------------------------------------------------------------
-
-  : General techniques that can be used during psychotherapy
+General techniques that can be used during psychotherapy
+| Technique     | Overview                                                                    |
+| :------------ | :-------------------------------------------------------------------------- |
+| Facilitation  | ask questions to move discussion along                                      |
+| Reflection    | to repeat what the patient is saying, perhaps by summarizing                |
+| Confrontation | to point out discrepancy in argument                                        |
+| Empathy       | try to put ourselves in the shoes of the patient and imagine the experience |
+| Support       | express concern independent of understanding                                |
+  
 
 #### Supportive Psychotherapy
-
+Application: targets lower functioning patients, patients in crisis, psychotic patients
 -   Broadly applicable approach
-
 -   Provide encouragement with the aim to reduce stress, improve coping skills / adaptive defenses, and maintain hope
 
-Application: targets lower functioning patients, patients in crisis, psychotic patients
+
 
 #### Motivational interviewing
 
-targets lower functioning patients or patients in crisis
-
+Application: substance use disorders, medication adherence issues
 -   Enhances intrinsic motivation to change
-
 -   Non judgemental; acknowledges ambivalence and resistance
 
-Application: substance use disorders, medication adherence issues
 
 #### Psychodynamic psychotherapy
 
--   Targets higher functioning patients
+Targets higher functioning patients
 
 -   Trace problems back to their origins in childhood and unconscious conflict
 
@@ -96,24 +94,18 @@ Applications
 -   PTSD
 
 #### Dialectical Behavioral Therapy
-
+Application: borderline personality disorder
 -   This integrates standard CBT techniques with principles of mindfulness, distress tolerance, and emotion regulation.
 
--   Aim to decrease self harm and builts skills
-
-Application: borderline personality disorder
-
+-   Aim to decrease self harm and build skills
+  
 #### Interpersonal psychotherapy
-
+Application: Depression
 -   links symptoms to current relationship conflicts and interpersonal skill deficits
 
-Application: Depression
-
 #### Biofeedback
-
--   Improves control over physiological reaction to emoitional stressors
-
 Application: Patients with prominent physical symptoms e.g. muscle tension, anxiety, pain disorders
+-   Improves control over physiological reaction to emoitional stressors
 
 #### Family therapy
 
@@ -163,6 +155,7 @@ Application: Patients with prominent physical symptoms e.g. muscle tension, anxi
 
 ### Miscellaneous
 
+-   Patients of all ages and functional levels should be given the opportunity to meet the physician alone
 -   Difference between classical conditioning and operant conditioning is that operant conditioning generates a behavior via rewards but in classical conditioning a reflex response is elicited.
 
 -   The single strongest predictor of suidicde is a prior suicide attempt.
@@ -1581,6 +1574,8 @@ Normal REM sleep is characterized by muscle atonia. However, in RBD, degeneratio
 
 ### Substance/Medication-induced Sleep Disorder
 
+
+
 Sexual Dysfunctions
 -------------------
 
@@ -1720,18 +1715,19 @@ Severe damage to the corpus callosum and surrounding white matter in the context
 
 ### Intoxication Syndromes
 
-L1.25 in\|L1.25 in\|L1.5in\|L1.5in Drug & Action & Symptoms & Physical Exam\
-Heroin & Opioid analgesic & Euphoria, lethargy or coma & **Miosis**, slowed respiration, decreased bowel sounds, normal or low heart rate and BP\
-Benzodiazepine & GABA agonist & mild euphoria, relaxation, slurred speech, amnesia, sedation & decreased respiration, **bradycardia**, hypotension\
-Marijuana & Psychoactive drug & **euphoria**, short term memory loss, increased appetite, decreased perception of time & Tachycardia, dry mouth, slowed reflexes, **injected conjunctiva**\
-Ecstasy & Synthetic amphetamine with mild hyllucinogenic properties (MDMA receptor agonist, increase synaptic norepinephrine, dopamine, and serotonin) & Increased sociability, empathy, and sexual desire; & Amphetamine (HTN, tachycardia, hyperthermia), Serotonin syndrome, hyponatremia (inappropriate ADH secretion and excessive water intake to reduce hyperthermia).\
-Methylenedioxymethamphetamine (MDMA) & & **Euphoria** and increased energy & bruxism and hyperthermia\
-Cocaine & Stimulant - blocks reuptake of dopamine, epinephrine, serotonin & **Chest pain, seizures**, headache, arousal, manic behavior, euphoria & sympathetic simulation (Tachycardia, HTN, **mydriasis**)\
-Methampphetamine / Bath Salt& Stimulant - symmpathomimetic & **Psychosis**, **violent behavior**, agitation, diaphoresis & Tachycardia, HTN, tooth decay, choreiform movements\
-Phenocycline & Hallucinogen, NMDA receptor antagonist increased release of excitatory neurotransmitter & **Aggression**, hallucination, memory loss, dissociation & **multidirectional nystagmus**, ataxia\
-Ketamine & NMDA receptor antagonist & **Hypersalivation** &\
-LSD & Hallucinogen & **Visual hallucinations**, euphoria, occasional dysphoria, panic, depersonalization & Alert and oriented, mild tachycardia, HTN\
-Jimson Weed & Anticholinergic, atropine-containing plant & **hallucinations**, delirium & hyperthermia, tachycardia, nonreactive mydriasis, dry red skin\
+| Drug                                 | Action                                                                                                                                       | Symptoms                                                                               | Physical Exam                                                                                                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Heroin                               | Opioid analgesic                                                                                                                             | Euphoria, lethargy or coma                                                             | **Miosis**, slowed respiration, decreased bowel sounds, normal or low heart rate and BP                                                                         |
+| Benzodiazepine                       | GABA agonist                                                                                                                                 | mild euphoria, relaxation, slurred speech, amnesia, sedation                           | decreased respiration, **bradycardia**, hypotension                                                                                                             |
+| Marijuana                            | Psychoactive drug                                                                                                                            | **euphoria**, short term memory loss, increased appetite, decreased perception of time | Tachycardia, dry mouth, slowed reflexes, **injected conjunctiva**                                                                                               |
+| Ecstasy                              | Synthetic amphetamine with mild hyllucinogenic properties (MDMA receptor agonist, increase synaptic norepinephrine, dopamine, and serotonin) | Increased sociability, empathy, and sexual desire;                                     | Amphetamine (HTN, tachycardia, hyperthermia), Serotonin syndrome, hyponatremia (inappropriate ADH secretion and excessive water intake to reduce hyperthermia). |
+| Methylenedioxymethamphetamine (MDMA) |                                                                                                                                              | **Euphoria** and increased energy                                                      | bruxism and hyperthermia                                                                                                                                        |
+| Cocaine                              | Stimulant - blocks reuptake of dopamine, epinephrine, serotonin                                                                              | **Chest pain, seizures**, headache, arousal, manic behavior, euphoria                  | sympathetic simulation (Tachycardia, HTN, **mydriasis**)                                                                                                        |
+| Methampphetamine / Bath Salt         | Stimulant - symmpathomimetic                                                                                                                 | **Psychosis**, **violent behavior**, agitation, diaphoresis                            | Tachycardia, HTN, tooth decay, choreiform movements                                                                                                             |
+| Phenocycline                         | Hallucinogen, NMDA receptor antagonist increased release of excitatory neurotransmitter                                                      | **Aggression**, hallucination, memory loss, dissociation                               | **multidirectional nystagmus**, ataxia                                                                                                                          |
+| Ketamine                             | NMDA receptor antagonist                                                                                                                     | **Hypersalivation**                                                                    |
+| LSD                                  | Hallucinogen                                                                                                                                 | **Visual hallucinations**, euphoria, occasional dysphoria, panic, depersonalization    | Alert and oriented, mild tachycardia, HTN                                                                                                                       |
+| Jimson Weed                          | Anticholinergic, atropine-containing plant                                                                                                   | **hallucinations**, delirium                                                           | hyperthermia, tachycardia, nonreactive mydriasis, dry red skin                                                                                                  |
 
 #### Drug Testing
 
@@ -1818,7 +1814,7 @@ Cannabis & **Decreased appetite**, irritability, anxiety, depressed mood, insomn
 Medication-related Disorders
 ----------------------------
 
-### Extrapyramidal symoptom associated with antipsychotics
+### Extrapyramidal symptom associated with antipsychotics
 
 L1 in \| L3 in \| L2 in Effect & Description & Pharmacotherapy\
 Parkinsonism & Gradual-onset tremor, rigidity, and bradykinesia & benztropine, amantadine\
@@ -1987,7 +1983,3 @@ Abuse
 
         -   Unpaid expenses or rent payment
 
-Clinical Practice
------------------
-
--   Patients of all ages and functional levels should be given the opportunity to meet the physician alone

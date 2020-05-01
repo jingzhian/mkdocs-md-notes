@@ -1,6 +1,7 @@
 Essential Biomedical Sciences and Related Clinical Issues
 =========================================================
 
+[[TOC]]
 This section covers principles that are useful across multiple specialities and form the basis of patient management.
 
 Anatomy
@@ -167,6 +168,20 @@ Acidosis and alkalosis arise from changes in respiration or metabolic disturbanc
 
 Key chemical equation for buffering is *Henderson Hasselbalch Equation*: . Important buffers in the body are bicarbonate, phosphates, and proteins.
 
+Biomedical Science
+------------------
+
+### Hypersentivity Reactions
+Hypersensitivity reactions occur when the normally protective immune system responds abnormally, potentially harming the body. Various autoimmune disorders as well as allergies fall under the umbrella of hypersensitivity reactions, the difference being that allergies are immune reactions to exogenous substances (antigens or allergens), whereas autoimmune diseases arise from an abnormal immune response to endogenous substances (autoantigens). A symptomatic reaction only occurs in sensitized individuals, i.e., they must have had at least one prior asymptomatic contact with the offending antigen. Hypersensitivity reactions are commonly classified into four types.
+
+- Type I hypersensitivity reactions are immediate allergic reactions (e.g., food and pollen allergies, asthma, anaphylaxis). 
+- Type II hypersensitivity reactions are referred to as cytotoxic, as they involve antibodies that are specific to particular tissues within the body and cause destruction of cells in these tissues (e.g., autoimmune hemolytic anemia, Goodpasture syndrome). 
+- Type III hypersensitivity reactions are immune complex-mediated, with tissue damage caused by antigen-antibody complex deposition (e.g., many vasculitides and glomerulonephritides). 
+- Type IV hypersensitivity reactions (e.g., TB skin tests, contact dermatitis) are delayed and cell-mediated and are the only hypersensitivity reaction that involves sensitized T lymphocytes rather than antibodies. 
+
+Unlike true hypersensitivity reactions, which occur after sensitization, nonallergic hypersensitivity reactions (e.g., pseudoallergies) cause mast cell activation and histamine release after initial exposure to a trigger substance (e.g., radiocontrast media).
+
+
 Blood Product Replacement
 -------------------------
 
@@ -250,9 +265,9 @@ Clinical measurements
 
 -   Renal Blood Flow
 
-    1.  Compute effective Renal Plasma Flow - measured using p-aminohippuric acid (PAH) $$\begin{aligned}
+    1.  Compute effective Renal Plasma Flow - measured using p-aminohippuric acid (PAH) \begin{aligned}
                     \text{ERPF} = \frac{U_\text{PAH} \dot{V}}{P_\text{PAH}} = \text{clearance of PAH}
-                \end{aligned}$$ where $U_\text{PAH}$ is the concentration of PAH in urine, $\dot{V}$ is the urine flow, $P_\text{PAH}$ is the concentration of PAH in plasma.
+                \end{aligned} where $U_\text{PAH}$ is the concentration of PAH in urine, $\dot{V}$ is the urine flow, $P_\text{PAH}$ is the concentration of PAH in plasma.
 
     2.  Get actual renal plasma flow $$\begin{aligned}
                     \frac{\text{ERP}}{\text{Extraction Ratio}} = \frac{x}{0.9} = \text{Actual RPF}

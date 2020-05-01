@@ -354,6 +354,9 @@ It is estimated that 15 to 42% of preschool and school age children are infected
 -   Disease Course\
     The fever that comes with influenza lasts for three to five days. The cough and feeling tired can last longer; some people will have a cough and still feel tired about two weeks after they were initially sick.
 
+
+
+
 ### Viral Pneumonia
 
 It can be caused by influenza (usually as part of a community outbreak in winter), respiratory syncytial virus in children or immunosuppressed individuals, and measles or varicella along with their characteristic rashes. Adenovirus, rhinovirus, and parainfluenza virus are also common causes.
@@ -408,3 +411,28 @@ L0.5inL1.5inL1.5inL1.5inL1.5in 0-3 wk & E. Coli, GBS, Listeria monocytogenes & A
 3wk - 3mth & S. pneumo, Chlamydia, Adenovirus, Influenza, RSV, Parainfluenza & Admit if concern for bacterial pneumonia or if in respiratory distress & Ampicillin or penicillin G or ceftriaxone if the child isn't immunized or if there are resistant strains\
 3mth - 5yrs & Chlamydia, Mycoplasma, S. Pneumoniae, Adenovirus, Influenza, Parainfluenza, Rhinovirus, RSV & Moderate to severe pneumonia (respiratory distress with oxygen sat $<$90%), hypoxia, RR $>$70, difficulty breathing, intermittent apnea, lack of family support and concern for follow-up, pneumonia caused on virulent pathogen \*e.g. MRSA) & Ampicillin or penicillin G, ceftriaxone if child isn't immunized or if there are resistant strains & Amoxicillin for 7 - 10 days\
 5 year to adolescence & C. pneumoniae, M. pneumonia, S. pneumoniae & RR $>$50, hypoxic, in distress, lack of family support to care for them when ill & azithromycin & azithromycin\
+
+
+### Croup / Bacterial trachitis
+
+Presentation
+
+-   With stridor
+
+-   Usually in 1 - 3 year old
+
+-   caused by parainfluenza.
+
+-   Usually admited to peds if there is secondary bacterial infection
+
+Imaging
+
+-   Steeple sign classical of croup on CXR
+
+Lung Cancers 
+----------------
+
+### Small cell carcinoma
+Neuroendocrine lung tumor that occurs almost exclusively in smokers.
+
+

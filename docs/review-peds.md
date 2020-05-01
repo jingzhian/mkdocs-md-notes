@@ -1,6 +1,27 @@
 Pediatrics
 ==========
 
+Child Abuse
+------------
+
+### Abuse by Scalding
+Scald injuries account for the majority of burns in pediatric patients.  Child abuse can present as a scald injury and should be considered in all cases.  Deliberate immersion burns usually involve the buttocks, back, and legs if the child is forced into a bathtub with hot water.  These burns typically spare flexural creases due to ankle, knee, and hip flexion at the time of forced immersion.  A stocking or glove burn distribution with a sharp line of demarcation and uniform burn depth may also be seen if an extremity is forced into hot liquid.  An absence of burn in the distribution of splash marks is often noted as well.
+
+Additional red flags for child abuse include a caregiver's history of an injury that is inconsistent or does not correlate with physical findings (eg, hot liquid spill without splash marks).  A delay in seeking treatment should also raise concern for child abuse.  If a health care provider suspects that a child has been abused or neglected, the local child protective services agency should be notified immediately.
+
+### Unintentional Scald Injuries
+Unintentional scald injuries are characterized by the presence of splash marks, nonuniform burn depth, and poorly defined and asymmetric wound margins.  The most common unintentional scald injury in young children occurs after a hot liquid spill from an elevated surface and results in facial, proximal upper extremity, and superior trunk burns.
+
+Educational objective:
+Child abuse in the form of deliberate scald injuries is characterized by burns with sharp lines of demarcation, uniform depth, lack of splash marks, and spared flexural creases.
+Breastfeeding
+--------------
+Contracindications to direct breastfeeding include
+1. Herpetic breast lesions
+2. Peripartum varicella infection
+
+Mother with history of herpes labialis and childhood varicella infection should be encouraged to breastfeed.
+
 Genetic Syndromes
 -----------------
 

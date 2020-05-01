@@ -10,6 +10,10 @@ General
 
 ### Fever with Rash - Adult
 
+### Social Withdrawal
+
+
+
 Psychiatric Symptoms
 --------------------
 

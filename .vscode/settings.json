@@ -1,5 +1,20 @@
 {
     "cSpell.words": [
+        "Capnography",
         "jingzhi"
-    ]
+    ],
+    "cSpell.enabled": true,
+    "spellright.language": [],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "markdown.styles": [".vscode/style.css"],
+    "markdown.previewFrontMatter": "show",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "files.trimTrailingWhitespace": false
+    }
 }

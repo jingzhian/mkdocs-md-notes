@@ -1,5 +1,6 @@
 Healthcare System {#sec:hthsys}
 =================
+[[TOC]]
 
 Models of Care {#ssec:hthsys-models}
 --------------

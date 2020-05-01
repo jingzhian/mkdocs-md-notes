@@ -1,5 +1,148 @@
 Pharmcology
 ===========
+[[TOC]]
+
+Aspirin: tinnitus and in high doses hearing loss 
+Thiazide (e.g. metolazone): hyponatremia and hypokalemia
+Sacubitril-varsartan: hyperkalemia, hypotension, cough
+
+
+## Formulation
+
+### Forms of Topical Drugs
+
+Choosing the appropirate dosage form
+- Body site
+
+    Site of disese | Choice of dosage form
+    |---|---
+    Hair areas | extensive areas, nail forls. e.g minoxidil scalp lotion, clotrimazole solution | lotion / solution
+    All areas except hairy areas flexures | cream
+    Palsma nd soles at night, not only hairy sarea of flexure | Ointment
+    HAir surface | Gel
+
+    Dosage Form | Smooth, nonhairy skin; skin hyperkeratotic lesion | Palms and soles | Hairy areas | infected areas | between skin folds, moist, macerated lesions|
+    |---|---|---|---|---|---
+    Cream | ++ | ++ | +| + | ++
+    Ointment | +++ |+++ | | |
+    Solution | ||  +++ | +++ | ++
+    Lotion | | |++ | ++ | ++
+    Gel | || ++ | + |+
+
+    
+
+    Dosage form | Examples | Site of fungal infection
+    |---|---|--
+    Cream| clotrimazole, ketoconazol miconazole, | skin
+    Gel | terbinafine gel |  hair
+    Lotion| clotrimazole lotion, ketoconazole shampoo | nail, scalp body
+    Suspension | Selenium sulfide suspension | scalp
+    Power | clotrimazole powder | skin folds
+
+- Morphology of disease
+  
+    Morphology | Choice of dosage form
+    |---|----
+    Dry scaly lichenified | ointment
+    Inflamed | cream, ointment
+    oil | Gel
+    wounds | cream , gel, paste, solution
+
+  
+- Potency of topical corticosteroid
+  
+    UK classification: Very potent, Potent, Moderate, Mild 
+
+    US classification
+    Potency | Steroid 
+    |---- | ----
+    1 (high)| Clobetasol proprionate cream 0.05%, <br>Clobetasol proprionate ointment 0.05%<br> Betamethasone dipropionate ointment 0.05% (optimized vehicle)
+    2 | Betamethasone dipropionate cream 0.05% <br> Mometasone furoate ointment 0.1%
+    3| Betamethasone valerate ointment 0.1% <br> Triamcinolone acetonide ointment 0.1%
+    4| Flucinolone acetonide ointment 0.025% <br> Mometasone furoate cream 0.1%
+    5| Betamethasone valerate cream 0.1% <br> Flucinolone acetonide cream 0.025%
+    6| Betamethasone valerate cream 0.025% <br> Flucinolone acetonide cream 0.0125%<br> Desonide lotion 0.05%
+    7| Hydrocortisone (base or acetate) cream 1.0% <br> Hydrocortisone (base or acetate) ointment 1.0%
+
+    Note that ointment is more potent than cream.
+
+Exmples
+- Daivobet pointment for of betamethasone dipropionate for solves with markedly thickened skin; warm patient it's slipery at night
+- Betmethazone gel for scalp
+- Sulphur resorcinol lotion for body, cream for face
+
+1 palm is 1 % BSA.
+
+## Wound Care
+
+### Wound assessment
+- Type of wound
+- Aetiology
+- Location
+- Clinical appearance of wound bed
+- Wound edge
+- Periwound condition (1 cm)
+- Size of wound 
+- Tissue loss
+- Exudate
+- Pain
+- Presence of infection
+
+### Appropirate Wound Management
+- Provide or main a moise wound healing environment
+- Provide thermal protextion by maintiang tissue
+- Promote epithemal migration
+
+Criteria of an ideal wound dressing
+- Removes excess exudate
+- Allows gaseous exchange
+- Protect against mechanical trauma
+- Cost effective
+
+wound products | remarks
+|----|----
+Antimicrobial | contain agents like silver, iodine or PHMB
+Cadexomer-iodine | 
+Calcium alginate |
+Foam | moderate to high exudative wound and help with moisture control
+Hydrocolloid |
+Hydrofibres |
+Hydrogel |
+Hydrocolloid dressing | 
+
+## Vaccine
+
+#### Live Vaccines
+1. Zoster
+2. Measles, mumps, rubella (MMR combined vaccine)
+3. Rotavirus
+4. Smallpox
+5. Chickenpox
+6. Yellow fever
+
+### Considerations when using systemic immunosuppressants
+1. Complications of chronic corticosteroid use:
+    - Monitor for osteoporosis, hypertension, diabetes and eye complications. 
+    - There is also risk of reactivation of latent infections eg latent TB, hepatitis B/C.
+    - Be aware of the risk of adrenal insufficiency during rapid tapering of steroids. 
+      - Do blood pressure monitoring at home
+      - Hypocount - hypoglycemia
+2. Vaccinations:
+    - Avoid live vaccines. In addition, vaccine efficacy may be limited in patients who are iatrogenically immunosuppressed.
+3. Females of childbearing potential:
+    - Avoid fetotoxic drugs such as cyclophosphamide, methotrexate, mycophenolate mofetil and rituximab.
+
+![steroid use](figures/pharma-steroid.png)
+
+
+### How to Start Someone on Oral Isoretinoid
+
+- HLA-B*1502 pre-dispose patients to carbamazepine-induced SJS/TEN
+
+### Drugs in Pregnancy
+- Stop MTX 3 months, use cyclosporin instead
+- Biologics can cross placenta
+
 
 Pain Meds
 ---------
@@ -281,6 +424,13 @@ Difference between somatic pain, neuropathic pain, and visceral pain
 -   Neuropathic pain - SNRI, TCA, gabapentin
 
 -   Visceral pain -
+
+
+Antihistamine
+---------------
+
+Meclizine: treat motion sickness and vertigo., PO, effect begin in a few hours and last for up to a day.
+
 
 Topicals
 --------

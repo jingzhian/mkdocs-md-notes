@@ -1,8 +1,7 @@
-Gastrointestinal and Hepatobiliary
-==================================
+# Gastrointestinal and Hepatobiliary
 
 GI studies
-----------
+----------- 
 
 ### Endoscopy
 
