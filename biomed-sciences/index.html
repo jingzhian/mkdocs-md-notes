@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -199,40 +201,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +267,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +285,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -347,6 +340,13 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-central-dogma-of-biology-and-related-concepts" class="md-nav__link">
+    The central dogma of biology and related concepts
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#anatomy" class="md-nav__link">
@@ -431,29 +431,28 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#acid-base-disorders" class="md-nav__link">
-    Acid-Base Disorders
+  <a href="#biomedical-science" class="md-nav__link">
+    Biomedical Science
+  </a>
+  
+    <nav class="md-nav" aria-label="Biomedical Science">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hypersentivity-reactions" class="md-nav__link">
+    Hypersentivity Reactions
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#blood-product-replacement" class="md-nav__link">
-    Blood Product Replacement
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#important-molecules" class="md-nav__link">
     Important molecules
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#the-central-dogma-of-biology-and-related-concepts" class="md-nav__link">
-    The central dogma of biology and related concepts
   </a>
   
 </li>
@@ -561,30 +560,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -599,42 +574,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -705,18 +644,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
       Rheumatology
     </a>
@@ -729,8 +656,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -753,8 +680,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -762,6 +689,139 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -770,10 +830,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -782,10 +842,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -794,34 +854,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -830,22 +866,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -854,10 +878,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -866,28 +890,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -915,6 +1196,13 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-central-dogma-of-biology-and-related-concepts" class="md-nav__link">
+    The central dogma of biology and related concepts
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#anatomy" class="md-nav__link">
@@ -999,29 +1287,28 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#acid-base-disorders" class="md-nav__link">
-    Acid-Base Disorders
+  <a href="#biomedical-science" class="md-nav__link">
+    Biomedical Science
+  </a>
+  
+    <nav class="md-nav" aria-label="Biomedical Science">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hypersentivity-reactions" class="md-nav__link">
+    Hypersentivity Reactions
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#blood-product-replacement" class="md-nav__link">
-    Blood Product Replacement
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#important-molecules" class="md-nav__link">
     Important molecules
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#the-central-dogma-of-biology-and-related-concepts" class="md-nav__link">
-    The central dogma of biology and related concepts
   </a>
   
 </li>
@@ -1101,7 +1388,35 @@
                 
                 
                 <h1 id="essential-biomedical-sciences-and-related-clinical-issues">Essential Biomedical Sciences and Related Clinical Issues<a class="headerlink" href="#essential-biomedical-sciences-and-related-clinical-issues" title="Permanent link">&para;</a></h1>
-<p>This section covers principles that are useful across multiple specialities and form the basis of patient management.</p>
+<p>[[TOC]]
+This section covers principles that are useful across multiple specialities and form the basis of patient management.</p>
+<h2 id="the-central-dogma-of-biology-and-related-concepts">The central dogma of biology and related concepts<a class="headerlink" href="#the-central-dogma-of-biology-and-related-concepts" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<p>Mitosis - Centrioles Replicate in G1, DNA replicate in S, Final growth in G2, prophase, metaphase, anaphase, telophase, cytokinesis.</p>
+<ul>
+<li>Ki-67 / MIB-I / Cyclin for detection of mitotic activity</li>
+</ul>
+</li>
+<li>
+<p>Exons are parts of the gene that's translated and introns are not.</p>
+</li>
+<li>
+<p>Transcription happen from 5' to 3'; with addition of 5' cap of 7-methylguanosine triphosphate and poly(A)tail at the 3' end. Introns are then removed by spliceosomes.</p>
+</li>
+<li>
+<p>Arginine and histidine are conditionally essential and must be provided in diet during rapid growth.</p>
+</li>
+<li>
+<p>Translation also occur in the 5' to 3' direction. It starts at AUG in mRNA for methionine and terminates on UGA, UAA, UAG.</p>
+</li>
+<li>
+<p>Chaperone proteins ensure final conformation is good. Signal peptide binds to signal recognition particle (SRP) to lead the growing pepetide chain into the cavity of endoplasmic reticulum.</p>
+</li>
+<li>
+<p>Unibinquitination usually marks the protein for degradation but not always; cytoplasmic proteins are degraded in protasomes, while membrane proteins are degraded in proteasomes and lysosomes.</p>
+</li>
+</ul>
 <h2 id="anatomy">Anatomy<a class="headerlink" href="#anatomy" title="Permanent link">&para;</a></h2>
 <p><em>Anatomy is closely linked to function; usually loss of function is associated with loss of anatomy.</em> Some treatments, especially in orthopedics the restoration of anatomy is the way to restore function.</p>
 <ul>
@@ -1297,32 +1612,16 @@
 <p>Salivary, pancreas, bile, and ileum, are high in HCO3</p>
 </li>
 </ul>
-<h2 id="acid-base-disorders">Acid-Base Disorders<a class="headerlink" href="#acid-base-disorders" title="Permanent link">&para;</a></h2>
-<p>Acidosis and alkalosis arise from changes in respiration or metabolic disturbances, result in deviation of body pH from the normal range of 7.35 - 7.45, and impact the delivery of and removal of . Metabolic acidosis/alkalosis can be due to electrolyte disturbances, severe vomiting or diarrhea, ingestion of certain drugs and toxins, kidney disease, and diseases that affect normal metabolism such as diabetes. Treatment include</p>
+<h2 id="biomedical-science">Biomedical Science<a class="headerlink" href="#biomedical-science" title="Permanent link">&para;</a></h2>
+<h3 id="hypersentivity-reactions">Hypersentivity Reactions<a class="headerlink" href="#hypersentivity-reactions" title="Permanent link">&para;</a></h3>
+<p>Hypersensitivity reactions occur when the normally protective immune system responds abnormally, potentially harming the body. Various autoimmune disorders as well as allergies fall under the umbrella of hypersensitivity reactions, the difference being that allergies are immune reactions to exogenous substances (antigens or allergens), whereas autoimmune diseases arise from an abnormal immune response to endogenous substances (autoantigens). A symptomatic reaction only occurs in sensitized individuals, i.e., they must have had at least one prior asymptomatic contact with the offending antigen. Hypersensitivity reactions are commonly classified into four types.</p>
 <ul>
-<li>
-<p>correct underlying disorder</p>
-</li>
-<li>
-<p>symptomatic treatment depend on type of disorder</p>
-<ul>
-<li>
-<p>respiratory acidosis - restoring ventilation</p>
-</li>
-<li>
-<p>respiratory alkalosis - treat root cause</p>
-</li>
-<li>
-<p>metabolic acidosis - give bicarbonate</p>
-</li>
-<li>
-<p>metabolic alkalosis - some are chloride responsive, otherwise treat underlying disorder</p>
-</li>
+<li>Type I hypersensitivity reactions are immediate allergic reactions (e.g., food and pollen allergies, asthma, anaphylaxis). </li>
+<li>Type II hypersensitivity reactions are referred to as cytotoxic, as they involve antibodies that are specific to particular tissues within the body and cause destruction of cells in these tissues (e.g., autoimmune hemolytic anemia, Goodpasture syndrome). </li>
+<li>Type III hypersensitivity reactions are immune complex-mediated, with tissue damage caused by antigen-antibody complex deposition (e.g., many vasculitides and glomerulonephritides). </li>
+<li>Type IV hypersensitivity reactions (e.g., TB skin tests, contact dermatitis) are delayed and cell-mediated and are the only hypersensitivity reaction that involves sensitized T lymphocytes rather than antibodies. </li>
 </ul>
-</li>
-</ul>
-<p>Key chemical equation for buffering is <em>Henderson Hasselbalch Equation</em>: . Important buffers in the body are bicarbonate, phosphates, and proteins.</p>
-<h2 id="blood-product-replacement">Blood Product Replacement<a class="headerlink" href="#blood-product-replacement" title="Permanent link">&para;</a></h2>
+<p>Unlike true hypersensitivity reactions, which occur after sensitization, nonallergic hypersensitivity reactions (e.g., pseudoallergies) cause mast cell activation and histamine release after initial exposure to a trigger substance (e.g., radiocontrast media).</p>
 <h2 id="important-molecules">Important molecules<a class="headerlink" href="#important-molecules" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
@@ -1380,33 +1679,6 @@
 </ul>
 </li>
 </ul>
-<h2 id="the-central-dogma-of-biology-and-related-concepts">The central dogma of biology and related concepts<a class="headerlink" href="#the-central-dogma-of-biology-and-related-concepts" title="Permanent link">&para;</a></h2>
-<ul>
-<li>
-<p>Mitosis - Centrioles Replicate in G1, DNA replicate in S, Final growth in G2, prophase, metaphase, anaphase, telophase, cytokinesis.</p>
-<ul>
-<li>Ki-67 / MIB-I / Cyclin for detection of mitotic activity</li>
-</ul>
-</li>
-<li>
-<p>Exons are parts of the gene that's translated and introns are not.</p>
-</li>
-<li>
-<p>Transcription happen from 5' to 3'; with addition of 5' cap of 7-methylguanosine triphosphate and poly(A)tail at the 3' end. Introns are then removed by spliceosomes.</p>
-</li>
-<li>
-<p>Arginine and histidine are conditionally essential and must be provided in diet during rapid growth.</p>
-</li>
-<li>
-<p>Translation also occur in the 5' to 3' direction. It starts at AUG in mRNA for methionine and terminates on UGA, UAA, UAG.</p>
-</li>
-<li>
-<p>Chaperone proteins ensure final conformation is good. Signal peptide binds to signal recognition particle (SRP) to lead the growing pepetide chain into the cavity of endoplasmic reticulum.</p>
-</li>
-<li>
-<p>Unibinquitination usually marks the protein for degradation but not always; cytoplasmic proteins are degraded in protasomes, while membrane proteins are degraded in proteasomes and lysosomes.</p>
-</li>
-</ul>
 <h2 id="physiology">Physiology<a class="headerlink" href="#physiology" title="Permanent link">&para;</a></h2>
 <h3 id="renal-physiology">Renal Physiology<a class="headerlink" href="#renal-physiology" title="Permanent link">&para;</a></h3>
 <p>Kidney functions</p>
@@ -1439,15 +1711,9 @@
 <p>Renal Blood Flow</p>
 <ol>
 <li>
-<p>Compute effective Renal Plasma Flow - measured using p-aminohippuric acid (PAH) <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
+<p>Compute effective Renal Plasma Flow - measured using p-aminohippuric acid (PAH) \begin{aligned}
                 \text{ERPF} = \frac{U_\text{PAH} \dot{V}}{P_\text{PAH}} = \text{clearance of PAH}
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \text{ERPF} = \frac{U_\text{PAH} \dot{V}}{P_\text{PAH}} = \text{clearance of PAH}
-            \end{aligned}</script></span></span><script type="math/tex"><span><span class="MathJax_Preview">\begin{aligned}
-                \text{ERPF} = \frac{U_\text{PAH} \dot{V}}{P_\text{PAH}} = \text{clearance of PAH}
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \text{ERPF} = \frac{U_\text{PAH} \dot{V}}{P_\text{PAH}} = \text{clearance of PAH}
-            \end{aligned}</script></span></script></span> where <span><span class="MathJax_Preview">U_\text{PAH}</span><script type="math/tex">U_\text{PAH}</script></span> is the concentration of PAH in urine, <span><span class="MathJax_Preview">\dot{V}</span><script type="math/tex">\dot{V}</script></span> is the urine flow, <span><span class="MathJax_Preview">P_\text{PAH}</span><script type="math/tex">P_\text{PAH}</script></span> is the concentration of PAH in plasma.</p>
+            \end{aligned} where <span><span class="MathJax_Preview">U_\text{PAH}</span><script type="math/tex">U_\text{PAH}</script></span> is the concentration of PAH in urine, <span><span class="MathJax_Preview">\dot{V}</span><script type="math/tex">\dot{V}</script></span> is the urine flow, <span><span class="MathJax_Preview">P_\text{PAH}</span><script type="math/tex">P_\text{PAH}</script></span> is the concentration of PAH in plasma.</p>
 </li>
 <li>
 <p>Get actual renal plasma flow <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
@@ -1471,18 +1737,16 @@
                 \text{Renal Blood Flow} = \text{RPF} \times \frac{1}{1 - \text{Hct}}
             \end{aligned}</script></span></script></span></p>
 </li>
+<li>Glomerular Filtration Rate <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
+        \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
+    \end{aligned}</span><script type="math/tex">\begin{aligned}
+        \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
+    \end{aligned}</script></span></span><script type="math/tex"><span><span class="MathJax_Preview">\begin{aligned}
+        \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
+    \end{aligned}</span><script type="math/tex">\begin{aligned}
+        \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
+    \end{aligned}</script></span></script></span> where <span><span class="MathJax_Preview">K_f</span><script type="math/tex">K_f</script></span> is the glomerular ultrafiltration coefficient, and is the product of the glomerular capillary wall hydraulic conductivity and the effective filtration surface area.</li>
 </ol>
-</li>
-<li>
-<p>Glomerular Filtration Rate <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
-            \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
-        \end{aligned}</span><script type="math/tex">\begin{aligned}
-            \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
-        \end{aligned}</script></span></span><script type="math/tex"><span><span class="MathJax_Preview">\begin{aligned}
-            \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
-        \end{aligned}</span><script type="math/tex">\begin{aligned}
-            \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
-        \end{aligned}</script></span></script></span> where <span><span class="MathJax_Preview">K_f</span><script type="math/tex">K_f</script></span> is the glomerular ultrafiltration coefficient, and is the product of the glomerular capillary wall hydraulic conductivity and the effective filtration surface area.</p>
 </li>
 </ul>
 <h2 id="immunology">Immunology<a class="headerlink" href="#immunology" title="Permanent link">&para;</a></h2>
@@ -1566,7 +1830,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -1669,14 +1933,16 @@
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

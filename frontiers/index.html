@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -199,40 +201,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +267,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +285,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +355,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -400,42 +369,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -506,18 +439,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
       Rheumatology
     </a>
@@ -530,8 +451,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -577,6 +498,33 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#embs-activities" class="md-nav__link">
+    EMBS Activities
+  </a>
+  
+    <nav class="md-nav" aria-label="EMBS Activities">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#make-an-impact-webinar-preparation" class="md-nav__link">
+    Make an impact webinar preparation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#innovation-ideas" class="md-nav__link">
+    Innovation Ideas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#clinical-medicine-developments" class="md-nav__link">
     Clinical Medicine Developments
   </a>
@@ -610,6 +558,47 @@
   
     <nav class="md-nav" aria-label="Research Meetings">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#covid-19-initiatives" class="md-nav__link">
+    COVID-19 Initiatives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nk-and-vst-mostly-heard-rarely-seen" class="md-nav__link">
+    NK and VST: Mostly heard rarely seen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emb-adcom-meeting" class="md-nav__link">
+    EMB AdCom Meeting
+  </a>
+  
+    <nav class="md-nav" aria-label="EMB AdCom Meeting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#emb-journals-update-by-amier-in-2020-april" class="md-nav__link">
+    EMB Journals update by Amier in 2020 April
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#colin-vp-technical" class="md-nav__link">
+    Colin VP Technical
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#md-phd-round-how-to-read-clinical-journals" class="md-nav__link">
@@ -787,8 +776,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -796,6 +785,139 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -804,10 +926,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -816,10 +938,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -828,34 +950,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -864,22 +962,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -888,10 +974,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -900,28 +986,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -949,6 +1292,33 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#embs-activities" class="md-nav__link">
+    EMBS Activities
+  </a>
+  
+    <nav class="md-nav" aria-label="EMBS Activities">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#make-an-impact-webinar-preparation" class="md-nav__link">
+    Make an impact webinar preparation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#innovation-ideas" class="md-nav__link">
+    Innovation Ideas
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#clinical-medicine-developments" class="md-nav__link">
@@ -984,6 +1354,47 @@
   
     <nav class="md-nav" aria-label="Research Meetings">
       <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#covid-19-initiatives" class="md-nav__link">
+    COVID-19 Initiatives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nk-and-vst-mostly-heard-rarely-seen" class="md-nav__link">
+    NK and VST: Mostly heard rarely seen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emb-adcom-meeting" class="md-nav__link">
+    EMB AdCom Meeting
+  </a>
+  
+    <nav class="md-nav" aria-label="EMB AdCom Meeting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#emb-journals-update-by-amier-in-2020-april" class="md-nav__link">
+    EMB Journals update by Amier in 2020 April
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#colin-vp-technical" class="md-nav__link">
+    Colin VP Technical
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
         
           <li class="md-nav__item">
   <a href="#md-phd-round-how-to-read-clinical-journals" class="md-nav__link">
@@ -1169,6 +1580,19 @@
                 
                 
                 <h1 id="frontiers-in-medicine">Frontiers in Medicine<a class="headerlink" href="#frontiers-in-medicine" title="Permanent link">&para;</a></h1>
+<h2 id="embs-activities">EMBS Activities<a class="headerlink" href="#embs-activities" title="Permanent link">&para;</a></h2>
+<h3 id="make-an-impact-webinar-preparation">Make an impact webinar preparation<a class="headerlink" href="#make-an-impact-webinar-preparation" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Go through the flow</li>
+<li>Make sure everyone can speak and knows how to use the various functions on the application</li>
+</ul>
+<h2 id="innovation-ideas">Innovation Ideas<a class="headerlink" href="#innovation-ideas" title="Permanent link">&para;</a></h2>
+<ol>
+<li>OSA - automating polysonogram reading</li>
+<li>Scribes in ED</li>
+<li>Insulin dose adjustment</li>
+<li></li>
+</ol>
 <h2 id="clinical-medicine-developments">Clinical Medicine Developments<a class="headerlink" href="#clinical-medicine-developments" title="Permanent link">&para;</a></h2>
 <h2 id="industry-trends">Industry Trends<a class="headerlink" href="#industry-trends" title="Permanent link">&para;</a></h2>
 <h3 id="trends-in-biotech">Trends in biotech<a class="headerlink" href="#trends-in-biotech" title="Permanent link">&para;</a></h3>
@@ -1200,127 +1624,371 @@
 <p>According to study: A social disease called maximizing shareholder value</p>
 <p>Companies spend more on share buyback and dividends in a recent 10-year period than on R &amp; D. From 2006 through 2015, the 18 drug companies in the Standard &amp; Poor's 500 index spent a combined $516 billion on buybacks and dividends. This exceeded by 11 percent the companies' research and development spending of $465 billion during these years. The authors contend that many big pharmaceutical companies are living off patents that are decades-old and have little to show in the way of new blockbuster drugs. But their share buybacks and dividend payments inoculate them against shareholders who might be concerned about lackluster research and development.</p>
 <ul>
-<li>
-<p>Gilead Sciences spent $27 billion on buybacks versus $17 billion on research</p>
-</li>
-<li>
-<p>Biogen Idec repurchased $14.6 billion in stock and spent $13.8 billion on R&amp;D.</p>
-</li>
+<li>Gilead Sciences spent $27 billion on buybacks versus $17 billion on research</li>
+<li>Biogen Idec repurchased $14.6 billion in stock and spent $13.8 billion on R&amp;D.</li>
 </ul>
 </li>
 </ul>
 <h2 id="research-meetings">Research Meetings<a class="headerlink" href="#research-meetings" title="Permanent link">&para;</a></h2>
+<h3 id="covid-19-initiatives">COVID-19 Initiatives<a class="headerlink" href="#covid-19-initiatives" title="Permanent link">&para;</a></h3>
+<h3 id="nk-and-vst-mostly-heard-rarely-seen">NK and VST: Mostly heard rarely seen<a class="headerlink" href="#nk-and-vst-mostly-heard-rarely-seen" title="Permanent link">&para;</a></h3>
+<p>Occasion: MD-PhD meeting May 27
+Presenter: <strong>Prof Leung Wing Hang</strong></p>
+<p>Haematology/Oncology Service, and Director of Paediatric Bone Marrow Transplant and Cell Therapy Centre of the KK Women's and Children's Hospital. </p>
+<p>NK = natural killer cells; VST = Virus specific T cells</p>
+<p><img alt="frontier-lineage-haem" src="../figures/frontier-lineage-haem.png" /></p>
+<ul>
+<li>
+<p><strong>NK cells</strong> and clinical use in cancer therapy</p>
+</li>
+<li>
+<p>NK cells co-develop with B cells; architecture similar to T cells, but primarily use check points</p>
+</li>
+<li>
+<p>Best way to test NK potency is T-cell depleted HSCT</p>
+<ul>
+<li>3 month old, ALL&lt; WBC 479k</li>
+<li>Poor prednisone response</li>
+<li>Father transfer NK to patient</li>
+<li>Successful treatment! Now 10 years after!</li>
+<li>6 months, t(4;11) ALL</li>
+<li>Relapsed 1 year after completion of chemotherapy</li>
+<li>90% blast at time or referral</li>
+<li>Transferred NK cells to the child</li>
+<li>Now 8 years after transplant</li>
+</ul>
+</li>
+<li>
+<p>Do donar KIR typing, NK cell purification, NK cell expansion and activation; NK cell adoption and transfer to patient</p>
+</li>
+<li>
+<p>KIR is the receptor of NK cells; gremlin polymorphism vs. T-cell through somatic mutation</p>
+</li>
+<li>
+<p>Genotyping is important because not everyone has the same type of genes</p>
+</li>
+<li>
+<p>Select donors with high level expression of KIR D2L1 allele</p>
+</li>
+<li>
+<p>Surface anchoring; mismatched is better than the matched?</p>
+<ul>
+<li>Mismatched with KIR matching is better</li>
+<li>Mismatched also over comes the graft vs host</li>
+</ul>
+</li>
+<li>
+<p><img alt="frontier-nk-usage" src="../figures/frontier-nk-usage.png" /></p>
+</li>
+<li>
+<p>Current survival</p>
+<ul>
+<li>CAR-T half will relapse; NK cell is better</li>
+<li>NK cell may be used to replace BMT</li>
+<li>Cheaper, safer, no latency effect</li>
+</ul>
+</li>
+<li>
+<p>Therapeutic antibody + NK cell work better</p>
+</li>
+<li>
+<p>Can be used in high risk patient e.g. neuroblastoma; to double survival</p>
+</li>
+<li>
+<p>Never cause GVHD</p>
+</li>
+<li>
+<p>Massive chemical screening of 5600 FDA approved compounds and found that it is possible to up regulate NKG2D lights</p>
+</li>
+<li>
+<p>Control of osteosarcoma</p>
+<ul>
+<li>Tumor shrink away</li>
+</ul>
+</li>
+<li>
+<p>Increase post-translational maturation</p>
+<ul>
+<li>PRL-3 can improve maturation of ligands</li>
+<li>CAR-NK has similar cytotoxicity but less cytokine release</li>
+</ul>
+</li>
+<li>
+<p>Increase potency</p>
+<ul>
+<li>BaEV allow CAR+NK to act more effectively</li>
+<li>Add in more cells</li>
+<li>Faster NK cell grow, the better the survival; increase chance of relapse 7 folds</li>
+<li>TOX2 as a novel transcription factor</li>
+</ul>
+</li>
+<li>
+<p>Similar mechanisms and approach can be applied to other immune cells</p>
+<p><img alt="frontier-NKinCA" src="../figures/frontier-NKinCA.png" /></p>
+</li>
+<li>
+<p>Questions</p>
+<ul>
+<li>NK cell may be used for solid tumors</li>
+<li>Solid tumor issue: homing and tumor microenvironment are two additional issues compared to liquid tumors</li>
+<li>Always have activating receptor inhibiting receptor, activating ligand and inhibiting ligand</li>
+<li>NK cell most important function in the body is to aid reproduction </li>
+<li>It works in placenta, interact with placenta cells to control development of spiral artery so that the fetus get nutrition; </li>
+<li><strong>NK cells</strong> work to control viral infections by secreting IFNγ and TNFα.</li>
+<li><strong>Killing</strong> is mediated by cytotoxic molecules which are stored within secretory lysosomes, a specialized exocytic organelle found in <strong>NK cells</strong>.</li>
+<li><strong>Natural killer</strong> (<strong>NK</strong>) <strong>cells</strong> target and <strong>kill</strong> aberrant <strong>cells</strong>, such as virally infected and tumorigenic <strong>cells</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Virus-specific T cells</strong> in COVID19 treatment</p>
+</li>
+<li>
+<p>The disease kills like an autoimmune disease, therefore we can control it immunologically</p>
+</li>
+<li>
+<p>Active immunity: vaccines, natural infection</p>
+</li>
+<li>
+<p>Passive immunity: B cells (antibody, plasma), T cells (pioneered by his group)</p>
+<ul>
+<li>
+<p>In US the most commonly prescribed therapy is plasma</p>
+</li>
+<li>
+<p>His group can do T cells and NK cells, choose T cells because of the pathophysiology</p>
+</li>
+<li>
+<p>Patients recovering from COVID-19 has to make T cells (mandatory for recovery)</p>
+</li>
+<li>
+<p>Whether the T cells are made by the patient or by a kind convalescent donor, they have the same basic function (in terms of efficacy and side effects)</p>
+</li>
+<li>
+<p>Increased T cell is associated with reduced cytokine levels</p>
+<p><img alt="frontier-covid19-tcell" src="../figures/frontier-covid19-tcell.png" /></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Process of therapy</p>
+<ul>
+<li>Recruit convalescent donor: collect whole blood or leukapheresis</li>
+<li>Stimulate with poly peptides: covering M, N, and S proteins</li>
+<li>Select functionally reactive cells: e.g. IFNg+ cells</li>
+<li>Adoptive transfer to patients with severe COVID-19</li>
+</ul>
+</li>
+<li>
+<p>Homologous Use</p>
+</li>
+<li>
+<p>Why T cell might be better</p>
+<p><img alt="frontier-plasma-tcell" src="../figures/frontier-plasma-tcell.png" /></p>
+<ul>
+<li>Living drug means that the T cells continue to grow</li>
+</ul>
+</li>
+<li>
+<p>Product contains memory cells with few naive cells</p>
+<ul>
+<li>69% CD4 direct control; CD8 help B cells to make antibody</li>
+<li>Started treatment in first patient</li>
+</ul>
+</li>
+<li>
+<p>Question</p>
+<ul>
+<li>Stimulate T cells with SARS2; accessory proteins</li>
+<li>MCH I and MCH II is about 15 amino acids</li>
+<li>Whenever we present this, we do not know</li>
+<li>Each person's MHC is different, so the polypeptide we use are different; in the clinical setting, we cannot say this is a T-cell we use</li>
+<li>COVID19 M, N, S protein are important for immunogenic - among the three S (spike protein) - corona virus is due to Spikes; S binds and enable virus to enter cells<ul>
+<li>Therefore if we can only choose one thing, we should choose S.</li>
+<li>However, S is not the only one; others are important too. </li>
+<li>In his approach, he cover not only S but also others since it is War time.</li>
+</ul>
+</li>
+<li>Adaptive T cell transfer to patient, no MHC matching, what will be the immune reaction to the donor T cell that is not matched; </li>
+<li>Design an experiment, do we need matching between donor and recipient? If we need matching how much?</li>
+<li>If we want T cell to kill virus infected host cells, we need some form of recognition, there needs to be some matching; this is the Nobel prize experiment; we cannot transfer without any MHC matching; at least 1 is required</li>
+<li>Clinically this means that if we really need to transfer T cells into you</li>
+<li>Probability of having at least 1 matched?<ul>
+<li>When travel and work place travel becomes lower and lower</li>
+<li>People get it from people in similar ethic group, almost essentially share a MHC</li>
+<li>HLA, even if three donors, we cover 90% of Singaporeans.</li>
+<li>Don't have to worry about HLA matching</li>
+<li>Any random 2 person in their study has a medium of 2 -3 antigen sharing</li>
+</ul>
+</li>
+<li>Rejection? Yes<ul>
+<li>Don't need a week or two in the body is enough</li>
+<li>CMV, EBV, can never clear</li>
+</ul>
+</li>
+<li>CAR-T applied to treat immune disease and other disease</li>
+<li>Cancer already has a lot of good drugs</li>
+<li>Two other disease that is most useful is autoimmune disease and infectious disease</li>
+<li>He used to work in Pharma, blockbuster are autoimmune and infectious disease</li>
+<li>Cancer has no long term disease</li>
+<li>CML is the rare case in which they have to take the drug for a long time</li>
+<li>Currently CAR T make no economic sense to develop further</li>
+<li>If we can transfer it to use in autoimmune disease and infectious disease, the economics is much better</li>
+<li>Cancer is very difficult to treat but autoimmune disease and infectious disease don't have similar problems.</li>
+<li>Can always tune the NK cells if we want; NK cells function by aiding other cells</li>
+<li>A lot of biologics can be repurposed</li>
+<li>As MD-PhD learn what is basic from professor</li>
+<li>Based on medical knowledge, we can cross apply</li>
+<li>Biology and biotechnology background help to pull it through</li>
+<li>Always think outside of the box, usually not that difficult, MD-PhDs we need to link things together that may not appear to be very relevant.</li>
+<li>Don't use VST in infection, use in CMV cells stay in body forever</li>
+<li>Can VST as payload? E.g. insulin, dopamine? Long term repurposing of cells</li>
+<li>Anti-inflammatory drugs, inverse between T cells and cytokines, do we know where the inflammatory cytokines are coming from? They are from the TOL like receptor pathways</li>
+<li>COVID19 is RNA virus, very potent stimulator of TOL like receptor pathway<ul>
+<li>Cytokine is the alarm, the actual police not coming</li>
+<li>Patients with hyper immunity have problem not those with no immunity</li>
+<li>Patients with cancer and aids and immunodeficiency are better</li>
+<li>Patients inflammatory background e.g. diabetes etc get into trouble</li>
+<li>When we put RNS into it, they flare up a lot. </li>
+</ul>
+</li>
+<li>Can we load with anti-inflammatory drugs <ul>
+<li>IL-1 pathway turns out to be great for COVID19</li>
+<li>At the end of the day still need adaptive immunity, therefore plasma therapy is useful</li>
+<li>However, if we can give anti-inflammatory molecule with minimal side effect, there is less</li>
+</ul>
+</li>
+<li>IL10 (prototypical cytokine) - can the drop be associated with clearing of virus?  Chin Yee Tan<ul>
+<li>When ever we trigger the TCL all inflammatory pathways will up regulate</li>
+<li>Whenever we have inflammatory cytokine, the anti-inflammatory cytokine also goes up</li>
+<li>Whenever classify cytokine into TH1 TH2 Th17 etc, a lot of cytokine action depend on dose range and also what is around. IL10 + something else, have paradoxic effect; if we have TGF beta it modulate the cytokine</li>
+<li>If there a lot of NK cells receptor</li>
+</ul>
+</li>
+<li>Treatment for COVID 19 commercialization</li>
+<li>Plasma therapy is good because blood bank is everywhere; in pandemic, whether low or high income country can do it</li>
+<li>Fancy drugs are harder; very few company think they can make money from COVID19; </li>
+<li>Transfusion based practice will have best market value because one can delivery very fast; easy to prepare easy to make easy to delivery</li>
+<li>We don't even need to know biology or the bug; we just need someone to recover from the condition</li>
+</ul>
+</li>
+</ul>
+<h3 id="emb-adcom-meeting">EMB AdCom Meeting<a class="headerlink" href="#emb-adcom-meeting" title="Permanent link">&para;</a></h3>
+<h4 id="emb-journals-update-by-amier-in-2020-april">EMB Journals update by Amier in 2020 April<a class="headerlink" href="#emb-journals-update-by-amier-in-2020-april" title="Permanent link">&para;</a></h4>
+<p>COVID19-related papers
+- Increasing COVID19 paper
+- Advertise activities in soliciting nice COVID19 paper
+- PULSE published paper on PPE
+- More papers will be published related to COVID19
+- 600+ papers are made available for free download on IEEE Xplore</p>
+<p>His jobs
+- Recruit and manage editors
+- Get the impact factors up
+- Reduce backlog for Journals
+- TBME: 15- 20% acceptance
+- open access journal wanting more papers
+- IEEE Access: open access, all fields, EMB started a section in 2019 sep
+- Package revenue: IEEE Xplore's value does down
+- Paper award for most cited paper</p>
+<h4 id="colin-vp-technical">Colin VP Technical<a class="headerlink" href="#colin-vp-technical" title="Permanent link">&para;</a></h4>
+<ul>
+<li>TC has clear objective; active leadership team</li>
+<li>Improve operation and make it easier for people to run the TCs</li>
+<li>Projects driven by technical committee has no firm process</li>
+<li>Technical committee chairs need to know about these</li>
+<li>Technical committee development</li>
+<li>Fill out a sheet that says what is the project we want to do</li>
+<li>June 1 proposal due</li>
+<li>Seed funding that can be obtained to start projects</li>
+<li>Visibility to the society is a metric</li>
+<li>EMBS awards are now under-way, 60 applications received across different awards</li>
+<li>Each TC contributed one or two nominees from different categories</li>
+<li>Balance in gender and regional diversity</li>
+<li>Region 7 and Region 9 looking for people</li>
+<li>Transition to technical committees</li>
+<li>New websites and links to where people have to go to sign up</li>
+<li>Goal is for 50% - 100% people be on a technical committee</li>
+<li>Lead the initiation of point of care conference for a new TC</li>
+<li>Postponed to next year</li>
+<li>Nic Chabat - cardiopulmonary technical committee</li>
+<li>Expanding on modeling and have a broader view on physio modeling</li>
+<li>Busy with COVID19 and his company</li>
+<li>Standards area very active; neuroengineering leadership and ownership in that area</li>
+<li>Natural way to interact with companies and medical</li>
+<li>Jeff palmer: wearable sensors, big data</li>
+<li>Summer school</li>
+<li>Big data is strategic</li>
+<li>Biosignal processing and imaging</li>
+<li>New Website</li>
+<li>Technical committee need to populate sub-website</li>
+<li>Government of the TC</li>
+<li>Need a publicity chair</li>
+<li>New NIH initiative</li>
+<li>Colin is in steering committee for POC research network</li>
+<li>New allocation of funds to compat COVID19</li>
+<li>25 billion for diagnostic testing</li>
+<li>1 billion allocated to NIH to accelerate the QC and deployment of testkits</li>
+<li>Everyone in US test 2 -3 rounds</li>
+<li>First round of testing by the end of the year</li>
+<li>RADiagx: skills in testing to clinical deployment should engage</li>
+<li>Help by guidance</li>
+<li>Best people, best advice, best outcome</li>
+<li>Areas not addressed by the technical committee according to Luis Kun</li>
+<li>Public health informatics</li>
+<li>Epidimiology surveiliance</li>
+<li>Integration of multiple applications</li>
+<li>Multiple system integration</li>
+</ul>
 <h3 id="md-phd-round-how-to-read-clinical-journals">MD-PhD Round: How to Read Clinical Journals<a class="headerlink" href="#md-phd-round-how-to-read-clinical-journals" title="Permanent link">&para;</a></h3>
 <p><img alt="Approach tor reading clinical papers by Sacketts et al in 1981" src="../figures/approach-readpapers.png" />{#fig:approach-readpaper width="\textwidth"}</p>
 <h4 id="when-to-start-clinical-trial">When to start clinical trial<a class="headerlink" href="#when-to-start-clinical-trial" title="Permanent link">&para;</a></h4>
 <ul>
-<li>
-<p>Available</p>
-</li>
-<li>
-<p>Accessible</p>
-</li>
-<li>
-<p>Affordable</p>
-</li>
-<li>
-<p>Acceptable</p>
-</li>
+<li>Available</li>
+<li>Accessible</li>
+<li>Affordable</li>
+<li>Acceptable</li>
 </ul>
 <h4 id="methods-of-randomization">Methods of Randomization<a class="headerlink" href="#methods-of-randomization" title="Permanent link">&para;</a></h4>
-<p>Problems with randomization</p>
-<ul>
-<li>
-<p>Assign patients in turn to control or placebo group</p>
-</li>
-<li>
-<p>Assign patients in one clinic to one arm and the other to another</p>
-</li>
-</ul>
+<p>Problems with randomization
+-   Assign patients in turn to control or placebo group
+-   Assign patients in one clinic to one arm and the other to another</p>
 <h4 id="outcome-design-of-clinical-trial">Outcome Design of Clinical Trial<a class="headerlink" href="#outcome-design-of-clinical-trial" title="Permanent link">&para;</a></h4>
 <ul>
-<li>
-<p>Composite Measures</p>
-<ul>
-<li>
-<p>Look at all possible outcomes</p>
-</li>
-<li>
-<p>Example: time to first event</p>
-</li>
+<li>Composite Measures<ul>
+<li>Look at all possible outcomes</li>
+<li>Example: time to first event</li>
 </ul>
 </li>
 </ul>
 <h4 id="ways-of-analysing-a-rct-clinical-trial">Ways of Analysing a RCT Clinical Trial<a class="headerlink" href="#ways-of-analysing-a-rct-clinical-trial" title="Permanent link">&para;</a></h4>
 <ul>
-<li>
-<p>Intention-to-treat approach</p>
-<ul>
-<li>
-<p>This is a statistical concept described by Fisher in 1990 to handle problem of major complications in RCT, i.e., noncompliance and missing outcomes</p>
-</li>
-<li>
-<p>ITT analysis includes every subject who is randomized according to randomized treatment assignment. It ignores noncompliance, protocol deviations, withdrawal, and anything that happens after randomization. ITT analysis is usually described as "once randomized, always analyzed".</p>
-</li>
-<li>
-<p>Advantage</p>
-<ul>
-<li>
-<p>ITT analysis avoids overoptimistic estimates of the efficacy of an intervention resulting from the removal of non-compliers by accepting that noncompliance and protocol deviations are likely to occur in actual clinical practice.</p>
-</li>
-<li>
-<p>ITT analysis preserves the sample size because if noncompliant subjects and dropouts are excluded from the final analysis, it might significantly reduce the sample size, leading to reduced statistical power.</p>
-</li>
-<li>
-<p>Moreover, subjects may be noncompliant or may drop out from the study due to their response of treatment.</p>
-</li>
-<li>
-<p>Reduces Type I error</p>
-</li>
+<li>Intention-to-treat approach<ul>
+<li>This is a statistical concept described by Fisher in 1990 to handle problem of major complications in RCT, i.e., noncompliance and missing outcomes</li>
+<li>ITT analysis includes every subject who is randomized according to randomized treatment assignment. It ignores noncompliance, protocol deviations, withdrawal, and anything that happens after randomization. ITT analysis is usually described as "once randomized, always analyzed".</li>
+<li>Advantage<ul>
+<li>ITT analysis avoids overoptimistic estimates of the efficacy of an intervention resulting from the removal of non-compliers by accepting that noncompliance and protocol deviations are likely to occur in actual clinical practice.</li>
+<li>ITT analysis preserves the sample size because if noncompliant subjects and dropouts are excluded from the final analysis, it might significantly reduce the sample size, leading to reduced statistical power.</li>
+<li>Moreover, subjects may be noncompliant or may drop out from the study due to their response of treatment.</li>
+<li>Reduces Type I error</li>
 </ul>
 </li>
-<li>
-<p>Cons</p>
-<ul>
-<li>
-<p>estimate of treatment effect is generally conservative because of dilution due to noncompliance.</p>
-</li>
-<li>
-<p>Also, heterogeneity might be introduced if noncompliants, dropouts and compliant subjects are mixed together in the final analysis.</p>
-</li>
-<li>
-<p>Moreover, end-point data will differ markedly among noncompliant, dropouts and compliant subjects, and interpretation might become difficult if a large proportion of participants cross over to opposite treatment arms</p>
-</li>
-<li>
-<p>Subjected to increase Type II error</p>
-</li>
+<li>Cons<ul>
+<li>estimate of treatment effect is generally conservative because of dilution due to noncompliance.</li>
+<li>Also, heterogeneity might be introduced if noncompliants, dropouts and compliant subjects are mixed together in the final analysis.</li>
+<li>Moreover, end-point data will differ markedly among noncompliant, dropouts and compliant subjects, and interpretation might become difficult if a large proportion of participants cross over to opposite treatment arms</li>
+<li>Subjected to increase Type II error</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>
-<p>Modified intention-to-treat approach</p>
-<ul>
-<li>
-<p>mITT is a subset of the ITT population and allows the exclusion of some randomized subjects in a justified way (such as patients who were deemed ineligible after randomization or certain patients who never started treatment).</p>
-</li>
-<li>
-<p>Definition given to the modified ITT (mITT) in randomized controlled trial has been found to be irregular and arbitrary because there is a lack of consistent guidelines for its application</p>
-</li>
-<li>
-<p>mITT analysis allows a subjective approach in entry criteria, which may lead to confusion, inaccurate results, and bias.</p>
-</li>
+<li>Modified intention-to-treat approach<ul>
+<li>mITT is a subset of the ITT population and allows the exclusion of some randomized subjects in a justified way (such as patients who were deemed ineligible after randomization or certain patients who never started treatment).</li>
+<li>Definition given to the modified ITT (mITT) in randomized controlled trial has been found to be irregular and arbitrary because there is a lack of consistent guidelines for its application</li>
+<li>mITT analysis allows a subjective approach in entry criteria, which may lead to confusion, inaccurate results, and bias.</li>
 </ul>
 </li>
-<li>
-<p>Per-protocol (PP) Analysis</p>
-<ul>
-<li>
-<p>Inclusion in the analysis of only those patients who strictly adhered to the protocol.</p>
-</li>
-<li>
-<p>The PP analysis provides an estimate of the true efficacy of an intervention, i.e., among those who completed the treatment as planned. However, as discussed above, its results do not represent the real life situation and it is likely to show an exaggerated treatment effec</p>
-</li>
+<li>Per-protocol (PP) Analysis<ul>
+<li>Inclusion in the analysis of only those patients who strictly adhered to the protocol.</li>
+<li>The PP analysis provides an estimate of the true efficacy of an intervention, i.e., among those who completed the treatment as planned. However, as discussed above, its results do not represent the real life situation and it is likely to show an exaggerated treatment effec</li>
 </ul>
 </li>
 </ul>
@@ -1329,12 +1997,8 @@
 <li>
 <p>Kaplan-Meier Analysis:</p>
 <ul>
-<li>
-<p>non-parametric statistic used to estimate the survival function from lifetime data.</p>
-</li>
-<li>
-<p>Let <span><span class="MathJax_Preview">\tau \geq 0</span><script type="math/tex">\tau \geq 0</script></span>be a random variable, which we think of as the time until an event of interest takes place, survival function is defined as <span><span class="MathJax_Preview">S(t) = p(\tau&gt;t)</span><script type="math/tex">S(t) = p(\tau>t)</script></span>, where <span><span class="MathJax_Preview">t = 0 , 1, \dots</span><script type="math/tex">t = 0 , 1, \dots</script></span></p>
-</li>
+<li>non-parametric statistic used to estimate the survival function from lifetime data.</li>
+<li>Let <span><span class="MathJax_Preview">\tau \geq 0</span><script type="math/tex">\tau \geq 0</script></span>be a random variable, which we think of as the time until an event of interest takes place, survival function is defined as <span><span class="MathJax_Preview">S(t) = p(\tau&gt;t)</span><script type="math/tex">S(t) = p(\tau>t)</script></span>, where <span><span class="MathJax_Preview">t = 0 , 1, \dots</span><script type="math/tex">t = 0 , 1, \dots</script></span></li>
 </ul>
 </li>
 <li>
@@ -1834,7 +2498,7 @@ Managing Director and Chief Economist, DBS Bank\</p>
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -1857,7 +2521,7 @@ Managing Director and Chief Economist, DBS Bank\</p>
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../psychiatry/" title="Psychiatry" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../psychiatry/" title="None" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
             </div>
@@ -1866,19 +2530,19 @@ Managing Director and Chief Economist, DBS Bank\</p>
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Psychiatry
+                None
               </div>
             </div>
           </a>
         
         
-          <a href="../temp-notes/" title="Temporary notes" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../palliative/" title="Palliative Care" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Temporary notes
+                Palliative Care
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -1937,14 +2601,16 @@ Managing Director and Chief Economist, DBS Bank\</p>
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

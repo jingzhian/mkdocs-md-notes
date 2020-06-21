@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -152,14 +154,16 @@
         
           
 
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  
+
+<nav class="md-tabs md-tabs--active" aria-label="Tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
       
         
   <li class="md-tabs__item">
     
-      <a href=".." class="md-tabs__link md-tabs__link--active">
+      <a href=".." class="md-tabs__link">
         Home
       </a>
     
@@ -199,40 +203,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link md-tabs__link--active">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +269,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +287,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +357,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -400,42 +371,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -506,18 +441,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
       Rheumatology
     </a>
@@ -530,8 +453,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -554,8 +477,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -563,6 +486,141 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20" checked>
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -571,10 +629,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
   
 
@@ -621,6 +679,20 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#key-principles" class="md-nav__link">
+    Key Principles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#role-of-anesthesia-service" class="md-nav__link">
+    Role of Anesthesia Service
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#intraop-care" class="md-nav__link">
     Intraop Care
   </a>
@@ -920,6 +992,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#delayed-emergence_1" class="md-nav__link">
+    Delayed Emergence
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -952,16 +1031,104 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#womans-anesthesia" class="md-nav__link">
+    Woman's Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Woman's Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ideal-labour-analgesic" class="md-nav__link">
+    Ideal Labour Analgesic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unique-challenges-in-woman-anesthesia" class="md-nav__link">
+    Unique Challenges in Woman Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Unique Challenges in Woman Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stress-response-induced-physiological-changes" class="md-nav__link">
+    Stress Response Induced Physiological Changes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#difficult-and-failed-intubation-in-obstetrics" class="md-nav__link">
+    Difficult and Failed Intubation in Obstetrics
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#preparing-for-obestetrics-anesthesia" class="md-nav__link">
+    Preparing for Obestetrics Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Preparing for Obestetrics Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-to-know-the-patient" class="md-nav__link">
+    Getting to know the patient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-op-tests-for-lscs" class="md-nav__link">
+    Pre-op Tests for LSCS
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spinal-and-epidural-anesthesia" class="md-nav__link">
+    Spinal and Epidural Anesthesia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transcutaneous-electrical-nerve-stimulation" class="md-nav__link">
+    Transcutaneous Electrical Nerve Stimulation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
     
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -970,34 +1137,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1006,22 +1149,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1030,10 +1161,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1042,28 +1173,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -1101,6 +1489,20 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#key-principles" class="md-nav__link">
+    Key Principles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#role-of-anesthesia-service" class="md-nav__link">
+    Role of Anesthesia Service
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#intraop-care" class="md-nav__link">
     Intraop Care
   </a>
@@ -1400,6 +1802,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#delayed-emergence_1" class="md-nav__link">
+    Delayed Emergence
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -1432,6 +1841,94 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#womans-anesthesia" class="md-nav__link">
+    Woman's Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Woman's Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ideal-labour-analgesic" class="md-nav__link">
+    Ideal Labour Analgesic
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#unique-challenges-in-woman-anesthesia" class="md-nav__link">
+    Unique Challenges in Woman Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Unique Challenges in Woman Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stress-response-induced-physiological-changes" class="md-nav__link">
+    Stress Response Induced Physiological Changes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#difficult-and-failed-intubation-in-obstetrics" class="md-nav__link">
+    Difficult and Failed Intubation in Obstetrics
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#preparing-for-obestetrics-anesthesia" class="md-nav__link">
+    Preparing for Obestetrics Anesthesia
+  </a>
+  
+    <nav class="md-nav" aria-label="Preparing for Obestetrics Anesthesia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-to-know-the-patient" class="md-nav__link">
+    Getting to know the patient
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pre-op-tests-for-lscs" class="md-nav__link">
+    Pre-op Tests for LSCS
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spinal-and-epidural-anesthesia" class="md-nav__link">
+    Spinal and Epidural Anesthesia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transcutaneous-electrical-nerve-stimulation" class="md-nav__link">
+    Transcutaneous Electrical Nerve Stimulation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1453,49 +1950,28 @@
                 
                 
                 <h1 id="anesthesiology">Anesthesiology<a class="headerlink" href="#anesthesiology" title="Permanent link">&para;</a></h1>
-<p>People</p>
-<ul>
-<li>
-<p>Prof Hwang</p>
-</li>
-<li>
-<p>Dr Hairil Abdullah - Preop preparation and optimization of surgical patients, director of perioperative services, oversee all elective surgery, protocols, and workflow, senior consultant</p>
-</li>
-<li>
-<p>Prof Chan Yew Weng -</p>
-</li>
-<li>
-<p>Dr Chong Shin Yuet</p>
-</li>
-<li>
-<p>Dr Suneel Ramesh</p>
-</li>
-<li>
-<p>Dr Christopher Liu christopher.liu.w.y\@singhealth.com.sg </p>
-</li>
-</ul>
+<p>[[TOC]]</p>
+<p>People
+- Prof Hwang
+- Dr Hairil Abdullah: Preop preparation and optimization of surgical patients, director of perioperative services, oversee all elective surgery, protocols, and workflow, senior consultant
+- Prof Chan Yew Weng 
+- Dr Chong Shin Yuet
+- Dr Suneel Ramesh
+- Dr Christopher Liu christopher.liu.w.y\@singhealth.com.sg
+- John Lee</p>
 <h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
-<p>Anesthesia service</p>
-<ul>
-<li>
-<p>Pre-op clinic</p>
-</li>
-<li>
-<p>Intra-operation</p>
-<ul>
-<li>
-<p>Induction</p>
-</li>
-<li>
-<p>Maintainance</p>
-</li>
-<li>
-<p>Emergence</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Pilot analogy is flawed because you wouldn't fly it if it is flawed.</p>
+<h3 id="key-principles">Key Principles<a class="headerlink" href="#key-principles" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Always consider patient factor, anesthesia factor, surgical factor when thinking though problems</li>
+</ol>
+<h3 id="role-of-anesthesia-service">Role of Anesthesia Service<a class="headerlink" href="#role-of-anesthesia-service" title="Permanent link">&para;</a></h3>
+<p>Anesthesia service
+-   Pre-op clinic
+-   Intra-operation
+    -   Induction
+    -   Maintainable
+    -   Emergence</p>
+<p>Pilot analogy is flawed because you wouldn't fly a plane if it is flawed.</p>
 <p>There is in general a huge number of surgeries being done. This is also increasing because of aging population.</p>
 <p>Mortality from anesthesia has decreased significantly, due to advancement of anesthesia, patient safety etc. So now we say anesthesia is safe but surgery can be dangerous!! SGH 1 year mortality rate is 3.5%. The rate is very high on specific groups of patient. The pre-op assessment should help us identify these people and understand if we can do anything to mitigate their risk.</p>
 <p>Difference between anesthesia and other disciplines</p>
@@ -1541,7 +2017,7 @@
 <p>ARDS is when shunt is increased to 60 - 70% even increasing FiO2 to 100% would not work.</p>
 </li>
 <li>
-<p>21- 25% machine goes off; Set to 30 - 40% typically, may increase to 100%; target PaO2 above 80%. Splinting of the diagphram, and the lung doesn't expand as well, atelectasis, shunt fraction. As surgery goes along, the PaO2/FiO2 change, need to monitor this - pulse oximetry. Target O2 sat of more than 93%. Inflexion point is around 90% Hb Sat or 60 mmHg, stay on the flat side, so we know the patient is safe. Below 60 patient is unsafe because PaO2 falls too quickly.</p>
+<p>21- 25% machine goes off; Set to 30 - 40% typically, may increase to 100%; target PaO2 above 80%. Splinting of the diaphragm, and the lung doesn't expand as well, atelectasis, shunt fraction. As surgery goes along, the PaO2/FiO2 change, need to monitor this - pulse oximetry. Target O2 sat of more than 93%. Inflection point is around 90% Hb Sat or 60 mmHg, stay on the flat side, so we know the patient is safe. Below 60 patient is unsafe because PaO2 falls too quickly.</p>
 </li>
 </ul>
 </li>
@@ -3310,18 +3786,26 @@
 <li>
 <p>Treatment</p>
 <ul>
-<li>
-<p>Respiratory / ventilation support</p>
-</li>
-<li>
-<p>Immediate cessation of causative anesthetic</p>
-</li>
-<li>
-<p>Dantrolene - a skeletal muscle relaxant</p>
-</li>
+<li>Respiratory / ventilation support</li>
+<li>Immediate cessation of causative anesthetic</li>
+<li>Dantrolene - a skeletal muscle relaxant</li>
 </ul>
 </li>
 </ul>
+<h3 id="delayed-emergence_1">Delayed Emergence<a class="headerlink" href="#delayed-emergence_1" title="Permanent link">&para;</a></h3>
+<p>Return to consciousness after anesthesia (emergence) typically occurs within 15 minutes of extubation; at a minimum, patients should be responsive with intact protective (eg, gag) reflexes within 30-60 minutes of the last administration of an anesthetic or adjuvant agent (eg, opiate, muscle relaxant). <strong>Delayed emergence</strong> occurs when a patient fails to regain consciousness within the expected window. The etiology is typically multifactorial but generally occurs due to 1 of 3 major causes:</p>
+<ul>
+<li><strong>Drug effect:</strong> Preoperative drug ingestion (eg, opiates, benzodiazepines, illicit drugs, anticholinergic drugs, antihistamines) may potentiate anesthetic effects. Prolonged anesthesia duration or higher medication doses may also delay emergence.</li>
+<li><strong>Metabolic disorder:</strong> Common etiologies include hyper- or hypoglycemia, hyper- or hypothermia, hyponatremia, and liver disease.</li>
+<li><strong>Neurologic disorder:</strong> Intraoperative stroke, seizure (or postictal state), or elevation of intracranial pressure can cause prolonged alterations in mental status.</li>
+</ul>
+<p>This patient's arterial blood gas demonstrates acute hypercarbic and hypoxic <strong>respiratory failure</strong> (low pH, elevated pCO2, low pO2) due to <strong>hypoventilation</strong>. In association with the worsening bradypnea and drop in pulse (which were likely initially elevated due to agitation postextubation), this suggests that the patient's delayed emergence is due to a <strong>prolonged medication effect</strong>, possibly potentiated by preoperative drug or alcohol ingestion in this patient with a history of polysubstance abuse. Management of acute respiratory failure includes <strong>ventilatory support</strong> (eg, bag and mask, reintubation); reversal agents (eg, naloxone) may also be indicated.</p>
+<p><strong>(Choice A)</strong> Acute cardiogenic pulmonary edema can occur in cardiogenic shock, which may be precipitated by surgery. However, patients with cardiogenic shock are typically elderly, have multiple cardiac risk factors, and exhibit elevated jugular venous pressure, hypotension, tachycardia, and tachypnea.</p>
+<p><strong>(Choice B)</strong> Malignant hyperthermia is a hypermetabolic state that occurs in response to volatile anesthetics (eg, isoflurane, halothane) or succinylcholine. Due to increased CO2 production, patients have a respiratory and metabolic acidosis; however, malignant hyperthermia causes hyperventilation rather than hypoventilation. In addition, patients typically have muscle rigidity, hyperthermia, and tachycardia.</p>
+<p><strong>(Choice D)</strong> Intraabdominal hemorrhage would be expected to cause hypotension, tachycardia, and abdominal distension. Hypercarbic respiratory failure would be unexpected.</p>
+<p><strong>(Choice E)</strong> Postextubation laryngeal edema could cause hypercarbic and hypoxic respiratory failure; however, patients would be expected to be stridorous, with tachypnea (rather than bradypnea) and tachycardia.</p>
+<p><strong>Educational objective:</strong>
+Delayed emergence from anesthesia is defined as the failure to return to consciousness within the expected window of the last administration of an anesthetic or adjuvant agent (typically 30-60 minutes). The etiology is often multifactorial, however; the presence of respiratory failure (eg, low pH, elevated pCO2, low pO2), bradypnea, and bradycardia suggests prolonged medication effect resulting in hypoventilation.</p>
 <h2 id="pediatrics-anesthesia">Pediatrics Anesthesia<a class="headerlink" href="#pediatrics-anesthesia" title="Permanent link">&para;</a></h2>
 <p>Don't think of children as little adults. They have different anatomy, physiology, psychology etc.</p>
 <h3 id="aiway-manageemnt">Aiway manageemnt<a class="headerlink" href="#aiway-manageemnt" title="Permanent link">&para;</a></h3>
@@ -3371,8 +3855,126 @@
 <li>
 <p>Oropharyngeal-largyngeal axis</p>
 </li>
-<li></li>
 </ul>
+<h2 id="womans-anesthesia">Woman's Anesthesia<a class="headerlink" href="#womans-anesthesia" title="Permanent link">&para;</a></h2>
+<p>Classify degree of urgency of LCSC </p>
+<p>Category | Definition | Urgency
+  |---|---|---
+  1 | Immediate threat to life of woman or fetus | Maternal or fetal compromise
+  2 | No immediate threat to life of woman or fetus | 
+  3 | Requires early delivery | 
+  4 | At a time to suit the woman and maternity services | No maternal or fetal compromise</p>
+<h3 id="ideal-labour-analgesic">Ideal Labour Analgesic<a class="headerlink" href="#ideal-labour-analgesic" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Good pain relief</li>
+<li>No autonomic block (so no hypotension)</li>
+<li>No adverse maternal or neonatal effects</li>
+<li>No motor block</li>
+<li>No effect on labor and delivery</li>
+<li>No increase in C/S rate</li>
+<li>No increase in instrumental delivery</li>
+<li>No prolongation of labor</li>
+<li>Allows ambulation</li>
+<li>Economical: cost and personnel wise</li>
+</ul>
+<h3 id="unique-challenges-in-woman-anesthesia">Unique Challenges in Woman Anesthesia<a class="headerlink" href="#unique-challenges-in-woman-anesthesia" title="Permanent link">&para;</a></h3>
+<h4 id="stress-response-induced-physiological-changes">Stress Response Induced Physiological Changes<a class="headerlink" href="#stress-response-induced-physiological-changes" title="Permanent link">&para;</a></h4>
+<p>Neuro-endocrine
+- Release of endorphins and ACTH from the anterior pituitary 
+- Increased release of adrenaline and noradrenaline from the adrenal medulla
+- Rise in peripheral resistance nad cardiac output
+- Excessive sympathetic activity -&gt; incoordinate uterine action and uteroplacental constriction, prolonged labor and abnormal foetal heart-rate patterns
+- Activation of the autonomic nervous system -&gt; delays gastric emptying and reduces intestinal peristalsis</p>
+<p>Cardiovascular
+- Labor results in a progressive increase in maternal cardiac output, primarily due to an increase in stroke volume, and to a lesser extent, maternal heart rate
+- Greatest increase in cardiac output occurs immediately after delivery, from the increased venous return associated with the relief of venocaval compression and the autotransfusion resulting from uterine involution.</p>
+<p>Respiratory
+- Hyperventilation -&gt; maternal hypocarbia -&gt; respiratory alkalosis
+- Profound hypocarbia -&gt; inhibit ventilatory drive between contractions -&gt; maternal hypoxemia, lightheadedness, and loss of consciousness
+- ODC shifted to the left -&gt; reduces tissue oxygen transfer, which is already compromised by the increased oxygen consumption associated with labor -&gt; potential foetal hypoxia
+- Maternal alkalosis -&gt; can impair oxygen transfer to the fetus (utero-placental vasoconstriction)</p>
+<h4 id="difficult-and-failed-intubation-in-obstetrics">Difficult and Failed Intubation in Obstetrics<a class="headerlink" href="#difficult-and-failed-intubation-in-obstetrics" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Higher incidence attributed to</li>
+<li>Anesthesia factors: less GA LCSC performed now due to preference for RA technique</li>
+<li>Pregnancy related physiological, anatomical, and pathological changes</li>
+</ul>
+<p>Problem | Cause 
+|----|----
+High risk regurgitation of gastric contents and acid aspiration syndrome | Reduced lower oesophageal sphincter tone and increased gastric pressures; gastric emptying delayed by labor and opioids; increased gastric acid volume and acidity 
+Rapid onset of hypoxemia | reduced FRC by 20%, increased O2 consumption (up to 60% during labor)
+Difficulty inserting laryngoscope | Enlarged breasts, weight gain / obesity
+Poor view at laryngoscopy | cricoid pressure, airway edema from increased TBW or presence of pre-eclampsia
+Risk of bleeding from airway manipulation | Capillary engorgement of mucosa, coagulopathy in pre-eclampsia</p>
+<h3 id="preparing-for-obestetrics-anesthesia">Preparing for Obestetrics Anesthesia<a class="headerlink" href="#preparing-for-obestetrics-anesthesia" title="Permanent link">&para;</a></h3>
+<h4 id="getting-to-know-the-patient">Getting to know the patient<a class="headerlink" href="#getting-to-know-the-patient" title="Permanent link">&para;</a></h4>
+<p>Focused history and physical examination must be taken prior to any anesthetic.</p>
+<p>Important details include
+- indications for LSCS
+- Fasting status
+- Gestational history
+  -  Mother
+     -  Pre-clampsia 
+        -  Take precautions for control of BP
+        -  Careful fluid management to avoid pulmonary edema
+        -  Seizure prophylaxis with MgSO4
+        -  Associated thrombocytopenia can increase risk of bleeding and make patient unsuitable for spinal / epidural
+     - Diabetes
+       - Precautions taken for control of glucose levels
+       - Associated fetal macrosomia may lead to difficulties in delivery and increased blood loss
+     - Placental abnormalties
+       - Increased risk of massive bleeding
+  -  Fetus 
+     - Gestational age: prematurity worsens neonatal outcomes, need neonatologist on standby
+     - Fetal abnormalities: may indicate a need for urgent surgery post delivery; so neonatologists and paediatric anaesthetist and surgeons on standby
+- Past medical history
+- Allergies
+- Previous history of anesthetics and associated problems 
+  - Airway problems
+  - Difficulties or complications with spinal / epidural
+  - Post-op NV</p>
+<p>Important Physical Examinations
+- Vital signs
+- Airway, cardiac, respiratory, and lower back examination</p>
+<h4 id="pre-op-tests-for-lscs">Pre-op Tests for LSCS<a class="headerlink" href="#pre-op-tests-for-lscs" title="Permanent link">&para;</a></h4>
+<ul>
+<li>All parturients coming for LCSC should have at minimum</li>
+<li>Full blood count<ul>
+<li>Baseline Hb helps to determine allowable blood loss during LSCS</li>
+<li>Platelet count helps to determine suitability for spinal / epidural</li>
+</ul>
+</li>
+<li>Type and screen<ul>
+<li>In preparation for post-partum haemorrhage</li>
+</ul>
+</li>
+<li>U/S pelvis</li>
+<li>Estbalish position of placenta, low-lying anterior placenta puts parturient at risk of major haemorrhage, esp if associated with scar from previous CS</li>
+<li>Other tests as indicated by maternal condition</li>
+</ul>
+<h3 id="spinal-and-epidural-anesthesia">Spinal and Epidural Anesthesia<a class="headerlink" href="#spinal-and-epidural-anesthesia" title="Permanent link">&para;</a></h3>
+<p>Contraindications
+- Absolute
+  - Patient refusal
+  - Coagulopathy
+  - Thrombocytopenia
+  - Overlying infection
+- Relative
+  - Sepsis
+  - Back surgery / instrumentation / PID / scoliosis
+  - LA allergy
+  - Neurological deficits / disorders</p>
+<h3 id="transcutaneous-electrical-nerve-stimulation">Transcutaneous Electrical Nerve Stimulation<a class="headerlink" href="#transcutaneous-electrical-nerve-stimulation" title="Permanent link">&para;</a></h3>
+<p>TENS (transcutaneous electrical nerve stimulation) produces analgesia via stimulation of large afferent fibers. This is generally used for mild-moderate acute pain and chronic pain such as low back pain, arthritis, and neuropathic pain.</p>
+<p>Activates opioid recetors in the CNS. </p>
+<p>Theories:
+- Gate Theory: afferent input from large epicritic fibers competes out input from small pain fibers.
+- Conduction block theory: high rates of stimulation exhaust the small nerve fiber ability to transmit signal.</p>
+<p>Conventional use: TENS electrodes are applied to the same dermatome as the pain. The electrodes are periodically stimulated by a direct current generator (typically for 30 minutes several times a day). The usual current is 10-30 mA with a pulse width of 50-80 microseconds at a frequency of 80-100 Hz.</p>
+<p>Alternative use (for patient’s refractory to Conventional use): Low-frequency TENS: a stimulus with a pulse width &gt;200 microseconds and a frequency of &lt; 10 Hz (for 5-15 minutes). Note, the effect of low-frequency stimulation is at least partially reversed by naloxone suggesting a role for endogenous opioids.</p>
+<p>Complications
+- Possible irritation from gel
+- Interference with medical equipment that monitors fetal heartbeat, as well as electrotocography</p>
                 
                   
                     
@@ -3381,7 +3983,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -3484,14 +4086,16 @@
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

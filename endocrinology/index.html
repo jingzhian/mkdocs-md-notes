@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -199,40 +201,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +267,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +285,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +355,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -433,8 +402,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#acid-base-disorders" class="md-nav__link">
-    Acid-Base Disorders
+  <a href="#pituitary-disorders" class="md-nav__link">
+    Pituitary Disorders
   </a>
   
 </li>
@@ -448,8 +417,62 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#hypothyroidism" class="md-nav__link">
+    Hypothyroidism
+  </a>
+  
+    <nav class="md-nav" aria-label="Hypothyroidism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#myxedema-coma" class="md-nav__link">
+    Myxedema Coma
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#hyperthyroidism" class="md-nav__link">
     Hyperthyroidism
+  </a>
+  
+    <nav class="md-nav" aria-label="Hyperthyroidism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#thyroid-storm" class="md-nav__link">
+    Thyroid Storm
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sick-euthyroid" class="md-nav__link">
+    Sick Euthyroid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thyroiditis" class="md-nav__link">
+    Thyroiditis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thyroid-cancer" class="md-nav__link">
+    Thyroid Cancer
   </a>
   
 </li>
@@ -460,11 +483,38 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#insulin-related-disorders" class="md-nav__link">
-    Insulin Related Disorders
+  <a href="#disorders-of-calcium-metabolism" class="md-nav__link">
+    Disorders of Calcium Metabolism
   </a>
   
-    <nav class="md-nav" aria-label="Insulin Related Disorders">
+    <nav class="md-nav" aria-label="Disorders of Calcium Metabolism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#malignant-hypercalcemia" class="md-nav__link">
+    Malignant Hypercalcemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#osteoporosis" class="md-nav__link">
+    Osteoporosis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sugar-control-related-disorders" class="md-nav__link">
+    Sugar Control Related Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Sugar Control Related Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -496,8 +546,29 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#diabetic-ketoacidosis" class="md-nav__link">
+    Diabetic Ketoacidosis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hyperosmolar-hyperglycemic-state" class="md-nav__link">
+    Hyperosmolar Hyperglycemic State
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hypoglycemia" class="md-nav__link">
+    Hypoglycemia
+  </a>
   
 </li>
         
@@ -547,6 +618,53 @@
     Cushing Syndrome
   </a>
   
+    <nav class="md-nav" aria-label="Cushing Syndrome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dexamethasone-suppression-test" class="md-nav__link">
+    Dexamethasone Suppression Test
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#addisons-disease" class="md-nav__link">
+    Addison's Disease
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#addisonian-crisis" class="md-nav__link">
+    Addisonian Crisis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metabolic-syndrome" class="md-nav__link">
+    Metabolic Syndrome
+  </a>
+  
+    <nav class="md-nav" aria-label="Metabolic Syndrome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dyslipidemia" class="md-nav__link">
+    Dyslipidemia
+  </a>
+  
 </li>
         
       </ul>
@@ -558,42 +676,6 @@
   
 </nav>
     
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
-    </a>
   </li>
 
     
@@ -663,18 +745,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
       Rheumatology
     </a>
@@ -687,8 +757,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -711,8 +781,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -720,6 +790,139 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -728,10 +931,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -740,10 +943,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -752,34 +955,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -788,22 +967,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -812,10 +979,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -824,28 +991,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -875,8 +1299,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#acid-base-disorders" class="md-nav__link">
-    Acid-Base Disorders
+  <a href="#pituitary-disorders" class="md-nav__link">
+    Pituitary Disorders
   </a>
   
 </li>
@@ -890,8 +1314,62 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#hypothyroidism" class="md-nav__link">
+    Hypothyroidism
+  </a>
+  
+    <nav class="md-nav" aria-label="Hypothyroidism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#myxedema-coma" class="md-nav__link">
+    Myxedema Coma
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#hyperthyroidism" class="md-nav__link">
     Hyperthyroidism
+  </a>
+  
+    <nav class="md-nav" aria-label="Hyperthyroidism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#thyroid-storm" class="md-nav__link">
+    Thyroid Storm
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sick-euthyroid" class="md-nav__link">
+    Sick Euthyroid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thyroiditis" class="md-nav__link">
+    Thyroiditis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thyroid-cancer" class="md-nav__link">
+    Thyroid Cancer
   </a>
   
 </li>
@@ -902,11 +1380,38 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#insulin-related-disorders" class="md-nav__link">
-    Insulin Related Disorders
+  <a href="#disorders-of-calcium-metabolism" class="md-nav__link">
+    Disorders of Calcium Metabolism
   </a>
   
-    <nav class="md-nav" aria-label="Insulin Related Disorders">
+    <nav class="md-nav" aria-label="Disorders of Calcium Metabolism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#malignant-hypercalcemia" class="md-nav__link">
+    Malignant Hypercalcemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#osteoporosis" class="md-nav__link">
+    Osteoporosis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sugar-control-related-disorders" class="md-nav__link">
+    Sugar Control Related Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Sugar Control Related Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -938,8 +1443,29 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#diabetic-ketoacidosis" class="md-nav__link">
+    Diabetic Ketoacidosis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hyperosmolar-hyperglycemic-state" class="md-nav__link">
+    Hyperosmolar Hyperglycemic State
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hypoglycemia" class="md-nav__link">
+    Hypoglycemia
+  </a>
   
 </li>
         
@@ -989,6 +1515,53 @@
     Cushing Syndrome
   </a>
   
+    <nav class="md-nav" aria-label="Cushing Syndrome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dexamethasone-suppression-test" class="md-nav__link">
+    Dexamethasone Suppression Test
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#addisons-disease" class="md-nav__link">
+    Addison's Disease
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#addisonian-crisis" class="md-nav__link">
+    Addisonian Crisis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metabolic-syndrome" class="md-nav__link">
+    Metabolic Syndrome
+  </a>
+  
+    <nav class="md-nav" aria-label="Metabolic Syndrome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dyslipidemia" class="md-nav__link">
+    Dyslipidemia
+  </a>
+  
 </li>
         
       </ul>
@@ -1017,77 +1590,343 @@
                 
                 
                 <h1 id="endocrinology">Endocrinology<a class="headerlink" href="#endocrinology" title="Permanent link">&para;</a></h1>
-<h2 id="acid-base-disorders">Acid-Base Disorders<a class="headerlink" href="#acid-base-disorders" title="Permanent link">&para;</a></h2>
-<ol>
-<li>
-<p>Determine: Acidemia is \&lt;7.35 and alkalemia is >7.45</p>
-</li>
-<li>
-<p>What is the primary process</p>
 <ul>
-<li>
-<p>For acidemia, \&lt;22 mEq/L metabolic acidosis</p>
-</li>
-<li>
-<p>For acidemia, >45 mmHg is respiratory acidosis</p>
-</li>
-<li>
-<p>For alkalemia, >28 mEq/L is metabolic alkalosis</p>
-</li>
-<li>
-<p>For alkalemia, \&lt;35 mmHg is respiratory alkalosis</p>
-</li>
+<li>All endocrine emergency, MUST check UPT if productive women. </li>
+<li>Always find UNDERLYING causes</li>
+<li>Ventilators cannot easily help with hyperventilating patients - problem in RSI</li>
 </ul>
-</li>
-<li>
-<p>Degree of respiratory compensation</p>
-<ul>
-<li>
-<p>For metabolic alkalosis <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
-                \ce{PaCO2} = 0.9 \times \text{bicarbonate} + 16 \pm 2
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \ce{PaCO2} = 0.9 \times \text{bicarbonate} + 16 \pm 2
-            \end{aligned}</script></span></span><script type="math/tex"><span><span class="MathJax_Preview">\begin{aligned}
-                \ce{PaCO2} = 0.9 \times \text{bicarbonate} + 16 \pm 2
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \ce{PaCO2} = 0.9 \times \text{bicarbonate} + 16 \pm 2
-            \end{aligned}</script></span></script></span> Find the expected PaCO2 range.</p>
-</li>
-<li>
-<p>For metabolic acidosis - Winter's formula <span><span class="MathJax_Preview"><span><span class="MathJax_Preview">\begin{aligned}
-                \ce{PaCO2} = 1.5 \times \text{bicarbonate} + 8 \pm 2
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \ce{PaCO2} = 1.5 \times \text{bicarbonate} + 8 \pm 2
-            \end{aligned}</script></span></span><script type="math/tex"><span><span class="MathJax_Preview">\begin{aligned}
-                \ce{PaCO2} = 1.5 \times \text{bicarbonate} + 8 \pm 2
-            \end{aligned}</span><script type="math/tex">\begin{aligned}
-                \ce{PaCO2} = 1.5 \times \text{bicarbonate} + 8 \pm 2
-            \end{aligned}</script></span></script></span></p>
-</li>
-<li>
-<p>Metabolic compensatory responses are delayed</p>
-</li>
-</ul>
-</li>
-</ol>
+<h2 id="pituitary-disorders">Pituitary Disorders<a class="headerlink" href="#pituitary-disorders" title="Permanent link">&para;</a></h2>
 <h2 id="thyroid-disorder">Thyroid disorder<a class="headerlink" href="#thyroid-disorder" title="Permanent link">&para;</a></h2>
+<h3 id="hypothyroidism">Hypothyroidism<a class="headerlink" href="#hypothyroidism" title="Permanent link">&para;</a></h3>
+<p><img alt="Screenshot 2020-06-19 at 09.35.58" src="../figures/Screenshot%202020-06-19%20at%2009.35.58.png" /></p>
+<h4 id="myxedema-coma">Myxedema Coma<a class="headerlink" href="#myxedema-coma" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Misnomer - rarely oedema, rarely coma; better thought of as decompensated hypothyroidism</li>
+<li>Patients with hypothyroidism - under treated / undiagnosed, with no metabolic reserve</li>
+<li>Triggered by physiologic stressors (infections, surgery, trauma, burns, stroke, MI, cold environment etc)</li>
+<li>Typically elderly female</li>
+</ul>
+<p><strong>Clinical Features</strong></p>
+<ul>
+<li>AMS</li>
+<li>Hypoactive delirium</li>
+<li>Not typically comatose per se</li>
+<li>Bradycardia</li>
+<li>Hypothermia</li>
+<li>Also might see</li>
+<li>Features of a precipitating event e.g. stroke</li>
+<li>Hypoglycemia</li>
+<li>Hyponatremia</li>
+<li>Hypoventilation</li>
+<li>Reduced GI / bladder motility</li>
+</ul>
+<p><strong>Physical Findings</strong></p>
+<ul>
+<li>Thyroidectomy scar, goiter</li>
+<li>Myxedema</li>
+<li>Non-pitting oedema of hands/ face/ lower limbs</li>
+<li>Voice hoarseness, macroglossia, scalloping of the tongue</li>
+<li>Hair loss</li>
+<li>Loss of outer third of eyebrow hair</li>
+<li>Cold intolerance</li>
+<li>Bradycardia, Bradypnea</li>
+<li>Muffled heart sounds</li>
+<li>Pleural effusions</li>
+<li>Abdo distension - secondary to ileus, ascites, ARU</li>
+</ul>
+<p><strong>Investigation</strong></p>
+<ul>
+<li>
+<p>TSH / T4 / Cortisol</p>
+</li>
+<li>
+<p>Renal panel - for hyponatremia</p>
+</li>
+<li>
+<p>Blood cultures, inflammatory markers</p>
+</li>
+<li>
+<p>CK for rhabdo</p>
+</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 09.33.13" src="../figures/Screenshot%202020-06-19%20at%2009.33.13.png" /></p>
+<p><strong>Management</strong></p>
+<ul>
+<li>Aim for normoglycemia</li>
+<li>Correct hyponatremia - will also improve with thyroxine replacement</li>
+<li>Haemodynamic support</li>
+<li>Fluids</li>
+<li>Vasopressors - might be refractory to vasopressor treatment, without thyroid hormone replacement and steroids</li>
+<li>Relief of cardiac tamponade if present - cautiously, these patients are coagulopathic (VWF disfunction)<ul>
+<li>Other invasive procedures need to be done very carefully as well</li>
+</ul>
+</li>
+<li>Stress dose steroid: <strong>Hydrocortisone 100 mg 8 hourly</strong></li>
+<li>Hyperthyroidism can be associated with adrenal insufficiency (as in the converse, where thyroid storms can also be associated with adrenal insufficiency)</li>
+<li>IV levothyroxine replacement, consider T3 replacement(as T4 conversion to T3 can be impaired)</li>
+<li>REFER ENDOCRINE</li>
+<li>Investigate investigate investigate for trigger, consider empirical antibiotics for sepsis (commonest trigger).</li>
+</ul>
 <h3 id="hyperthyroidism">Hyperthyroidism<a class="headerlink" href="#hyperthyroidism" title="Permanent link">&para;</a></h3>
 <p>Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, increased appetite, diaphoresis, nervousness, restlessness, weight loss, tremor, hair loss, and palpitations, among others. On examination, patients typically present with tachycardia, hypertension, hyperreflexia, and goiter. The patient will have elevated T3, T4, and serum glucose, and TSH may be depressed or elevated depending on the etiology.</p>
-<h2 id="insulin-related-disorders">Insulin Related Disorders<a class="headerlink" href="#insulin-related-disorders" title="Permanent link">&para;</a></h2>
+<h4 id="thyroid-storm">Thyroid Storm<a class="headerlink" href="#thyroid-storm" title="Permanent link">&para;</a></h4>
+<p><img alt="Screenshot 2020-06-19 at 10.45.58" src="../figures/Screenshot%202020-06-19%20at%2010.45.58.png" /></p>
+<p><strong>Clinical Feature</strong></p>
+<ul>
+<li>Hyperthermia typically with diaphoresis (as opposed to dry in heatstroke)</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 10.46.46" src="../figures/Screenshot%202020-06-19%20at%2010.46.46.png" /></p>
+<p><strong>Diagnosis</strong></p>
+<ul>
+<li>
+<p>Primarily clinical diagnosis, BE SUSCIPIOUS</p>
+</li>
+<li>
+<p>Blood test does not differ very much from thyrotoxicosis</p>
+</li>
+<li>May use Burch Criteria, but note that this is not very specific</li>
+</ul>
+<p><strong>Management</strong></p>
+<ul>
+<li>Therapies for thyroid storm act by</li>
+<li>Preventing release of T4 from the thyroid</li>
+<li>Preventing peripheral conversion of T4 into F3</li>
+<li>Preventing thyroid hormone synthesis</li>
+<li>Preventing the sympathetic effects of severely elevated thyroid hormone levels</li>
+<li>As is the case for all endocrinological emergencies, hunt for an underlying cause. Typical triggers: sepsis, surgery, trauma, DKA, MI, CVA, drugs, pregnancy etc. And then treat it</li>
+<li>Corticosteroids</li>
+<li>Block release of T4 from thyroid, inhibits peripheral conversion</li>
+<li>Load IV hydrocortisone 200 mg stat, followed by </li>
+<li>Iodide</li>
+<li>Works by the wolff-chaikoff effect<ul>
+<li>Take more iodide thyroid make more hormone</li>
+<li>Wolff-chaikoff effect prevents over production of thyroid hormone, paradoxical suppressive effect of thyroid in the presence of high levels of circulating iodide</li>
+</ul>
+</li>
+<li>To be given post-thioamide administration (give it an hour first)</li>
+<li>Otherwise, the initial dosing might precipitate an increase in thyroid hormone synthesis before the WC effect takes hold</li>
+<li>Lugol's solution, KI solution, 5 drops Q6 hourly</li>
+<li>For allergies to iodine, use lithium instead</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 10.49.25" src="../figures/Screenshot%202020-06-19%20at%2010.49.25.png" /></p>
+<p><img alt="Screenshot 2020-06-19 at 10.50.41" src="../figures/Screenshot%202020-06-19%20at%2010.50.41.png" /></p>
+<p><img alt="Screenshot 2020-06-19 at 10.56.21" src="../figures/Screenshot%202020-06-19%20at%2010.56.21.png" /></p>
+<ul>
+<li>If people can tolerate, go for propranolol. </li>
+<li>Np, he is staying that the peripheral effect of non selective beta blocker is not ideal (why). Many patients cannot tolerate it. Therefore we would think about the selective beta blockers. However, if we think that the patients can tolerate the peripheral effects of non beta blocker, it is good to go for propranolol so that we can also take advantage of its T4 conversion blocking power.</li>
+</ul>
+<h3 id="sick-euthyroid">Sick Euthyroid<a class="headerlink" href="#sick-euthyroid" title="Permanent link">&para;</a></h3>
+<h3 id="thyroiditis">Thyroiditis<a class="headerlink" href="#thyroiditis" title="Permanent link">&para;</a></h3>
+<h3 id="thyroid-cancer">Thyroid Cancer<a class="headerlink" href="#thyroid-cancer" title="Permanent link">&para;</a></h3>
+<h2 id="disorders-of-calcium-metabolism">Disorders of Calcium Metabolism<a class="headerlink" href="#disorders-of-calcium-metabolism" title="Permanent link">&para;</a></h2>
+<h3 id="malignant-hypercalcemia">Malignant Hypercalcemia<a class="headerlink" href="#malignant-hypercalcemia" title="Permanent link">&para;</a></h3>
+<h3 id="osteoporosis">Osteoporosis<a class="headerlink" href="#osteoporosis" title="Permanent link">&para;</a></h3>
+<h2 id="sugar-control-related-disorders">Sugar Control Related Disorders<a class="headerlink" href="#sugar-control-related-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="diabetes">Diabetes<a class="headerlink" href="#diabetes" title="Permanent link">&para;</a></h3>
 <h4 id="diagnosis">Diagnosis<a class="headerlink" href="#diagnosis" title="Permanent link">&para;</a></h4>
 <h4 id="health-impact">Health Impact<a class="headerlink" href="#health-impact" title="Permanent link">&para;</a></h4>
 <p>The majority of deaths from diabetes also results primarily from the increase in cardiovascular disease and chronic renal failure. Diabetics have twice the mortality of non-diabetics. The risk of cardiovascular disease in diabetics is so high that it is assumed that they have cardiovascular disease if they have diabetes.</p>
 <h4 id="medications-for-diabetes-patient">Medications for Diabetes Patient<a class="headerlink" href="#medications-for-diabetes-patient" title="Permanent link">&para;</a></h4>
-<p>L0.85inL0.85inL0.85inL0.85inL0.85inL0.85inL0.85inL0.85in &amp; Metformin &amp; Sulfonylurea &amp; Thiazolidinedione &amp; DPP-4 Inhibitor &amp; SGLT2 Inhibitor &amp; GLP-1 Agonist &amp; Insulin\
-Mechanism &amp; Activates AMP-Kinase &amp; Stimulates insulin secretion &amp; Activates nuclear transcription factor &amp; Inhibits DPP-4, increases incretin secretion &amp; Inhibits SGLT2 in the kidney &amp; Activates GLP-1 receptors, mimics incretin &amp; Overcomes insulin resistance\
-Examples &amp; Metformin &amp; Glipizide, glimeperide &amp; Pioglitazone, rosiglitazone &amp; Sitigliptin, saxagliptin &amp; Canagliflozin, empagliflozin &amp; Exenatide, liraglutide &amp; Glargine, lispro\
-A1C Reduction &amp; 1% to 2% &amp; 1% to 2% &amp; 1% to 2% &amp; 0.5% to 1% &amp; 0.5% to 1% &amp; 1% to 2% &amp; >2%\
-Weight Effect &amp; Neutral or reduction &amp; Gain &amp; Gain &amp; Neutral &amp; Reduction &amp; Reduction &amp; Gain\
-Side Effects &amp; GI; Lactic acidosis &amp; Hypoglycemia &amp; Heart failure; edema &amp; Rare &amp; GU symptoms, dehydration &amp; GI, pancreatitis, medullary thyroid cancer&amp; Hypoglycemia\
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Metformin</th>
+<th>Sulfonylurea</th>
+<th>Thiazolidinedione</th>
+<th>DPP-4 Inhibitor</th>
+<th>SGLT2 Inhibitor</th>
+<th>GLP-1 Agonist</th>
+<th>Insulin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mechanism</td>
+<td>Activates AMP-Kinase</td>
+<td>Stimulates insulin secretion</td>
+<td>Activates nuclear transcription factor</td>
+<td>Inhibits DPP-4, increases incretin secretion</td>
+<td>Inhibits SGLT2 in the kidney &amp; Activates GLP-1 receptors, mimics incretin</td>
+<td>Overcomes insulin resistance</td>
+<td></td>
+</tr>
+<tr>
+<td>Examples</td>
+<td>Metformin</td>
+<td>Glipizide, glimeperide</td>
+<td>Pioglitazone, rosiglitazone</td>
+<td>Sitigliptin, saxagliptin</td>
+<td>Canagliflozin, empagliflozin</td>
+<td>Exenatide, liraglutide</td>
+<td>Glargine, lispro</td>
+</tr>
+<tr>
+<td>A1C Reduction</td>
+<td>1% to 2%</td>
+<td>1% to 2%</td>
+<td>1% to 2%</td>
+<td>0.5% to 1%</td>
+<td>0.5% to 1%</td>
+<td>1% to 2%</td>
+<td>>2%</td>
+</tr>
+<tr>
+<td>Weight Effect</td>
+<td>Neutral or reduction</td>
+<td>Gain &amp; Gain</td>
+<td>Neutral</td>
+<td>Reduction</td>
+<td>Reduction</td>
+<td>Gain</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Side Effects &amp; GI; Lactic acidosis &amp; Hypoglycemia &amp; Heart failure; edema &amp; Rare &amp; GU symptoms, dehydration &amp; GI, pancreatitis, medullary thyroid cancer&amp; Hypoglycemia\
 Evidence of CVD reduction &amp; Yes &amp; No &amp; Yes &amp; No &amp; Yes &amp; Yes &amp; No\
 Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Intermediate\</p>
 <p>Several guidelines recommend treatment to reduce HbA1c levels to less than 7%; however, clinical trials have not demonstrated reductions in cardiovascular events or mortality with intensive glucose control. Recently (March 2018), the American College of Physicians recommended that the treatment goal in patients with Diabetes should be an HbA1c between 7% and 8%; this is due to findings showing that treatment to targets of 7% or less compared to targets of 8% did not reduce deaths or macrovascular complications such as heart attack or stroke, but did result in substantial harms. Studies have also shown inconsistent improvement with intensive glucose control in microvascular complications, including nephropathy, but increased adverse effects, including weight gain, fluid retention, and symptomatic hypoglycemia.</p>
+<h4 id="diabetic-ketoacidosis">Diabetic Ketoacidosis<a class="headerlink" href="#diabetic-ketoacidosis" title="Permanent link">&para;</a></h4>
+<p>Diagnosis: HCO3 &lt; 18, elevated serum or urine ketones, Glucose &gt;14 with <strong>acidosis</strong></p>
+<ul>
+<li>Acidosis NOT acidemia is required; may have normal pH</li>
+<li>Ketone we measure is beta-hydroxybutyric acid would be the most accurate test</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 10.07.24" src="../figures/Screenshot%202020-06-19%20at%2010.07.24.png" /></p>
+<p><img alt="Screenshot 2020-06-19 at 10.07.34" src="../figures/Screenshot%202020-06-19%20at%2010.07.34.png" /></p>
+<p><strong>Management</strong></p>
+<ul>
+<li>Insulin therapy</li>
+<li><strong>Hourly capillary glucose monitoring</strong> and <strong>potassium</strong> levels<ul>
+<li>In insulin therapy, worry hypokalemia because insulin increases the permeability of cells to potassium (also Mg and Phosphate)</li>
+<li>Start potassium replacement around 5 mmol/L; start at <strong>20 mmol/hr KCl</strong> replacement</li>
+<li>IV insulin or calcium gluconate may be used if there is EKG changes for cardioprotective effect</li>
+<li>Do not wait until hypokalemia</li>
+<li>If patient is already hypokalemic, stop insulin, correct hypokalemia, then restart insulin</li>
+</ul>
+</li>
+<li>In severe acidosis, the requirement is higher than textbook recommendations due to increased insulin resistance</li>
+<li>Consider IV insulin bolus 10 u if infusion set-up is taking too long</li>
+<li>Consider IV insulin bolus in severe acidosis</li>
+<li>IV insulin dosage <strong>0.1 u/kg/hr</strong>, can consider higher dosages in severe acidosis (severe acidosis results in insulin resistance, patients with chronic high dose insulin requirements might also require larger insulin infusion dosages of up to 0.3 unit/kg/hr)</li>
+<li>Start patients on long acting basal insulin regimen as soon as possible (resume patient's old insulin home dosages if known) e.g. for insulin naive patients, Lantus starting is 0.25 unit/kg/day split into BD dose.</li>
+<li>Acidosis correction</li>
+<li>Acidosis should rapidly correct with IV fluid replacement and insulin therapy</li>
+<li>In severe acidosis &lt;6.9, consider increasing insulin dosage</li>
+<li>Avoid sodium carbonate which may worsen acidosis but improve pH<ul>
+<li>pH is the measure of extra cellular acid</li>
+<li>Extracellular pH created</li>
+<li>In patients with high circulating H+ form H2CO3 -&gt; CO2, and H2O-</li>
+<li>These patients have kussmaul breathing and have max respiratory drive, cannot blow off the CO2, eventually these then becomes H+ and Hco3-, producing more acid</li>
+<li>Thus main stay therapy is fluid and insulin, if we HAVE to give, give little and slow.</li>
+</ul>
+</li>
+<li>Avoid intubation if you can<ul>
+<li>These are high risk intubations and is important to optimise patient's haemodynamic parameters as much as possible if intubation cannot be avoided</li>
+<li>Obliterate the respiratory drive</li>
+<li>Ventilator cannot match such respiratory drive to hyperventilate patients</li>
+<li>CO2 will go up, worsen acidosis</li>
+<li>Induce profound drop in pressure</li>
+<li>If have to do it, say for a optimise the haemodynamics as much as possible before RSI</li>
+<li>Make sure the patient has boluses of fluid</li>
+<li>If HoTN, keep blood pressure up with vasopressor</li>
+</ul>
+</li>
+<li>End point of insulin therapy is the correction of HAGMA (the ketoacidosis)<ul>
+<li>Therefore, glucose levels might correct before the HAGMA does. So while insulin therapy is still on, start the patients on glucose infusions to avoid hypoglycaemia with insulin therapy. Consider starting IV dextrose infusions once capillary glucose readings are around 14 mmol/L</li>
+</ul>
+</li>
+<li>Monitoring for response to therapy and complications</li>
+<li>NAGMA</li>
+<li>Fluid overload<ul>
+<li>Pediatrics DKA often half the fluid dose</li>
+</ul>
+</li>
+<li>Hypokalemia and hypoglycaemia - from IV insulin  </li>
+<li>Cerebral oedema - patients with more hyperosmolar state, bring to a place with resus and more monitoring capability.<ul>
+<li>Young patient, paediatric patients at risk</li>
+<li>Patients with significant hyperosmolarity, calculated serum ism &gt;330</li>
+<li>Can be seen in </li>
+<li><img alt="Screenshot 2020-06-19 at 10.37.07" src="../figures/Screenshot%202020-06-19%20at%2010.37.07.png" /></li>
+</ul>
+</li>
+<li>Consider DVT prophylaxis</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 10.38.53" src="../figures/Screenshot%202020-06-19%20at%2010.38.53.png" /></p>
+<ul>
+<li>
+<p>Anuric - not as volume depleted, and not losing as much potassium; Go a lot more slower and more gently; Insulin is really excreted, go lower on the dose; Instead of 10 unit IV dose, we use 6 - 8 unit in renal patients - half life is prolonged and glucose and K can drop a lot faster. </p>
+</li>
+<li>
+<p><img alt="Screenshot 2020-06-19 at 10.37.49" src="../figures/Screenshot%202020-06-19%20at%2010.37.49.png" /></p>
+</li>
+</ul>
+<h4 id="hyperosmolar-hyperglycemic-state">Hyperosmolar Hyperglycemic State<a class="headerlink" href="#hyperosmolar-hyperglycemic-state" title="Permanent link">&para;</a></h4>
+<p><strong>Management</strong></p>
+<ul>
+<li>Correct fluid deficit slowly over days aiming for euvolemia</li>
+<li>Combination of osmotic diuresis</li>
+<li>GI loss and reduced appetite</li>
+<li>Use balanced crystal if large volume</li>
+<li>Insulin therapy</li>
+</ul>
+<h3 id="hypoglycemia">Hypoglycemia<a class="headerlink" href="#hypoglycemia" title="Permanent link">&para;</a></h3>
+<p><strong>Causes</strong></p>
+<ul>
+<li>Drugs</li>
+<li>Insulin: accidental, iatrogenic, factitious/self harm</li>
+<li>Increased insulin secretion: e.g. sulfonylureas</li>
+<li>Other diabetic medications: SGLT2 inhibitors, metformin</li>
+<li>Salicylate poisoning</li>
+<li>NSAIDs</li>
+<li>Non-selective beta-blockers</li>
+<li>Disease</li>
+<li>Myxedema coma</li>
+<li>Adrenal insufficiency</li>
+<li>Hepatic failure</li>
+<li>Renal failure (pre-disposition with insulin dose)</li>
+<li>Increased endogenous insulin secretion (insulinoma)</li>
+<li>Depletion</li>
+<li>Exercise</li>
+<li>Starvation states</li>
+<li>Alcohol binges</li>
+</ul>
+<p><strong>Investigation</strong></p>
+<ul>
+<li>Serum insulin, c-peptide, cortisol</li>
+</ul>
+<p><strong>Management</strong></p>
+<ul>
+<li>Try to replenish glucose: if obtunded IV dex, if conscious, give yummy sugary foods orally</li>
+<li>Dessert is a great source of sugar replenishment<ul>
+<li>1x premium, delicious velvety smooth ice cream from Creamier = 6L of 5% dextrose - patient satisfaction goes up, no risk of fluid overload</li>
+<li>1x snickers bar = 1.25 L of 5% dextrose</li>
+</ul>
+</li>
+<li><strong>IV dextrose</strong> bolus: 50%, 20%, 10%, 5%<ul>
+<li>40 ml bolus for D50 typically, and follow with large flush <strong>20 mls</strong></li>
+<li>If need to keep for a long time, try to use D5 over D10 because less irritating to the veins</li>
+<li>Fast supplement over 2 hours (If D10 try to run ASAP)</li>
+<li>For slow supplement give over 4 - 6 hours</li>
+</ul>
+</li>
+<li>If persistent hypoglycaemia</li>
+<li>Try to replenish again</li>
+<li>Consider exogenous <strong>corticosteroids</strong> to increase insulin resistance and induce gluconeogenesis</li>
+<li>Consider <strong>octreotide</strong> -  a somatostatin analogue for hypoglycaemia secondary to sulfonylurea toxicity (acts by inhibiting endogenous insulin release)</li>
+<li>Look for other causes</li>
+</ul>
 <h3 id="insulinoma">Insulinoma<a class="headerlink" href="#insulinoma" title="Permanent link">&para;</a></h3>
 <p>A pancreatic tumor that secretes insulin and is associated with episodes of hypoglycemia and resultant cognitive dysfunction, palpitations, diaphoresis, and tremor.</p>
 <h3 id="acromegaly">Acromegaly<a class="headerlink" href="#acromegaly" title="Permanent link">&para;</a></h3>
@@ -1111,6 +1950,31 @@ Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Inter
 </li>
 </ul>
 <h2 id="adrenal">Adrenal<a class="headerlink" href="#adrenal" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Thyroid storm and some other endocrine conditions may cause adrenal problems</li>
+<li>CAH treatment is corticosteroids</li>
+<li>Neonatal shock is uncommon, CAH is one of the important reasons to get</li>
+<li>Check out the metabolic derangements in CAH!</li>
+<li>Never forget neonatal trauma</li>
+</ul>
+<p><img alt="Screenshot 2020-06-19 at 11.02.19" src="../figures/Screenshot%202020-06-19%20at%2011.02.19.png" /><img alt="Screenshot 2020-06-19 at 11.07.42" src="../figures/Screenshot%202020-06-19%20at%2011.07.42.png" /></p>
+<p><img alt="Screenshot 2020-06-19 at 11.12.31" src="../figures/Screenshot%202020-06-19%20at%2011.12.31.png" /></p>
+<ul>
+<li>Number 1 cause of chronic adrenal insufficiency</li>
+<li>Withdrawal from steroids</li>
+<li>
+<p>Addison's disease: Patch pigmentation of the oral mucosa, </p>
+<ul>
+<li>Patients are often diagnosed early in life, </li>
+</ul>
+</li>
+<li>
+<p>DIVC patients esp meninggococcemia - adrenal hemorrhage - waterhouse-friedrichson syndrome</p>
+</li>
+<li>Check point inhibitors have profound and bizarre complications</li>
+<li>BE WORRIED! Immunotherapy comes in for vague symptoms e.g. SOB CP CF </li>
+<li>IV hydrocortisone and IV dexamethasone take 1 - 2 hours to work; in the meantime support with fluids and vasopressors. </li>
+</ul>
 <h3 id="carcinoid-syndrome">Carcinoid Syndrome<a class="headerlink" href="#carcinoid-syndrome" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -1237,6 +2101,12 @@ Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Inter
 </ul>
 </li>
 </ul>
+<h4 id="dexamethasone-suppression-test">Dexamethasone Suppression Test<a class="headerlink" href="#dexamethasone-suppression-test" title="Permanent link">&para;</a></h4>
+<p>Dexamethasone suppression test is used to evaluate hypercortisolism (i.e. Cushing Syndrome); suggestive manifestations include proximal muscle weaknss, facial plethora, and supravlavicular fat pads. Hypercortisolism is occasionally seen in MEN1, generally due to ACTH secreting pituitary tumors or adrenal tumors. Primary hyperparathyroidism is also seen in MEN1 and MEN2A. </p>
+<h3 id="addisons-disease">Addison's Disease<a class="headerlink" href="#addisons-disease" title="Permanent link">&para;</a></h3>
+<h3 id="addisonian-crisis">Addisonian Crisis<a class="headerlink" href="#addisonian-crisis" title="Permanent link">&para;</a></h3>
+<h2 id="metabolic-syndrome">Metabolic Syndrome<a class="headerlink" href="#metabolic-syndrome" title="Permanent link">&para;</a></h2>
+<h3 id="dyslipidemia">Dyslipidemia<a class="headerlink" href="#dyslipidemia" title="Permanent link">&para;</a></h3>
                 
                   
                     
@@ -1245,7 +2115,7 @@ Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Inter
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -1283,13 +2153,13 @@ Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Inter
           </a>
         
         
-          <a href="../cardiovascular/" title="Cardiovascular" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../urorenal/" title="Urorenal" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Cardiovascular
+                Urorenal
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -1348,14 +2218,16 @@ Costs &amp; Low &amp; Low &amp; Low &amp; High &amp; High &amp; High &amp; Inter
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -199,40 +201,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +267,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +285,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +355,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -400,42 +369,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -505,11 +438,153 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#myeloproliferative-disease" class="md-nav__link">
-    Myeloproliferative Disease
+  <a href="#red-blood-cell-conditions" class="md-nav__link">
+    Red Blood Cell Conditions
   </a>
   
-    <nav class="md-nav" aria-label="Myeloproliferative Disease">
+    <nav class="md-nav" aria-label="Red Blood Cell Conditions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#anemia" class="md-nav__link">
+    Anemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#haemoglobinopathies" class="md-nav__link">
+    Haemoglobinopathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Haemoglobinopathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#thalassemia" class="md-nav__link">
+    Thalassemia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acute-intermittent-porphyria-aip" class="md-nav__link">
+    Acute Intermittent Porphyria (AIP)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#thrombotic-disorders" class="md-nav__link">
+    Thrombotic Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Thrombotic Disorders">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dvt" class="md-nav__link">
+    DVT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pe" class="md-nav__link">
+    PE
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#platelet-disorders" class="md-nav__link">
+    Platelet Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Platelet Disorders">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#idiopathic-thrombocytopenic-purpuria" class="md-nav__link">
+    Idiopathic Thrombocytopenic Purpuria
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coagulopathies" class="md-nav__link">
+    Coagulopathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Coagulopathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disseminated-intravascular-coagulopathy" class="md-nav__link">
+    Disseminated Intravascular Coagulopathy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#overcoagulation" class="md-nav__link">
+    Overcoagulation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hemophilia-a" class="md-nav__link">
+    Hemophilia A
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#von-willebrand-disease" class="md-nav__link">
+    von Willebrand Disease
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multiple-myeloma" class="md-nav__link">
+    Multiple Myeloma
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#myeloproliferative-disorders" class="md-nav__link">
+    Myeloproliferative Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Myeloproliferative Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -539,11 +614,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#lymphoproliferative-diseases" class="md-nav__link">
-    Lymphoproliferative Diseases
+  <a href="#lymphoproliferative-disorders" class="md-nav__link">
+    Lymphoproliferative Disorders
   </a>
   
-    <nav class="md-nav" aria-label="Lymphoproliferative Diseases">
+    <nav class="md-nav" aria-label="Lymphoproliferative Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -587,36 +662,16 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#coagulopathies" class="md-nav__link">
-    Coagulopathies
+  <a href="#lymphatic-disorders" class="md-nav__link">
+    Lymphatic Disorders
   </a>
   
-    <nav class="md-nav" aria-label="Coagulopathies">
+    <nav class="md-nav" aria-label="Lymphatic Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#von-willebrand-disease" class="md-nav__link">
-    von Willebrand Disease
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#other-disorders" class="md-nav__link">
-    Other Disorders
-  </a>
-  
-    <nav class="md-nav" aria-label="Other Disorders">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#acute-intermittent-porphyria-aip" class="md-nav__link">
-    Acute Intermittent Porphyria (AIP)
+  <a href="#chronic-lymphedema" class="md-nav__link">
+    Chronic lymphedema
   </a>
   
 </li>
@@ -663,18 +718,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
       Rheumatology
     </a>
@@ -687,8 +730,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -711,8 +754,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -720,6 +763,139 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -728,10 +904,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -740,10 +916,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -752,34 +928,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -788,22 +940,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -812,10 +952,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -824,28 +964,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -875,11 +1272,153 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#myeloproliferative-disease" class="md-nav__link">
-    Myeloproliferative Disease
+  <a href="#red-blood-cell-conditions" class="md-nav__link">
+    Red Blood Cell Conditions
   </a>
   
-    <nav class="md-nav" aria-label="Myeloproliferative Disease">
+    <nav class="md-nav" aria-label="Red Blood Cell Conditions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#anemia" class="md-nav__link">
+    Anemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#haemoglobinopathies" class="md-nav__link">
+    Haemoglobinopathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Haemoglobinopathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#thalassemia" class="md-nav__link">
+    Thalassemia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acute-intermittent-porphyria-aip" class="md-nav__link">
+    Acute Intermittent Porphyria (AIP)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#thrombotic-disorders" class="md-nav__link">
+    Thrombotic Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Thrombotic Disorders">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dvt" class="md-nav__link">
+    DVT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pe" class="md-nav__link">
+    PE
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#platelet-disorders" class="md-nav__link">
+    Platelet Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Platelet Disorders">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#idiopathic-thrombocytopenic-purpuria" class="md-nav__link">
+    Idiopathic Thrombocytopenic Purpuria
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coagulopathies" class="md-nav__link">
+    Coagulopathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Coagulopathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disseminated-intravascular-coagulopathy" class="md-nav__link">
+    Disseminated Intravascular Coagulopathy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#overcoagulation" class="md-nav__link">
+    Overcoagulation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hemophilia-a" class="md-nav__link">
+    Hemophilia A
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#von-willebrand-disease" class="md-nav__link">
+    von Willebrand Disease
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multiple-myeloma" class="md-nav__link">
+    Multiple Myeloma
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#myeloproliferative-disorders" class="md-nav__link">
+    Myeloproliferative Disorders
+  </a>
+  
+    <nav class="md-nav" aria-label="Myeloproliferative Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -909,11 +1448,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#lymphoproliferative-diseases" class="md-nav__link">
-    Lymphoproliferative Diseases
+  <a href="#lymphoproliferative-disorders" class="md-nav__link">
+    Lymphoproliferative Disorders
   </a>
   
-    <nav class="md-nav" aria-label="Lymphoproliferative Diseases">
+    <nav class="md-nav" aria-label="Lymphoproliferative Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -957,36 +1496,16 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#coagulopathies" class="md-nav__link">
-    Coagulopathies
+  <a href="#lymphatic-disorders" class="md-nav__link">
+    Lymphatic Disorders
   </a>
   
-    <nav class="md-nav" aria-label="Coagulopathies">
+    <nav class="md-nav" aria-label="Lymphatic Disorders">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#von-willebrand-disease" class="md-nav__link">
-    von Willebrand Disease
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#other-disorders" class="md-nav__link">
-    Other Disorders
-  </a>
-  
-    <nav class="md-nav" aria-label="Other Disorders">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#acute-intermittent-porphyria-aip" class="md-nav__link">
-    Acute Intermittent Porphyria (AIP)
+  <a href="#chronic-lymphedema" class="md-nav__link">
+    Chronic lymphedema
   </a>
   
 </li>
@@ -1017,11 +1536,117 @@
                 
                 
                 <h1 id="hematology-and-hematologic-malignancies">Hematology and Hematologic Malignancies<a class="headerlink" href="#hematology-and-hematologic-malignancies" title="Permanent link">&para;</a></h1>
-<p>Some Definitions</p>
+<p>[[TOC]]
+Some Definitions</p>
 <ul>
 <li>Acute Leukemia: Blocked hematopoiesis with increased blasts and cytopenia in peripheral blood.</li>
 </ul>
-<h2 id="myeloproliferative-disease">Myeloproliferative Disease<a class="headerlink" href="#myeloproliferative-disease" title="Permanent link">&para;</a></h2>
+<h2 id="red-blood-cell-conditions">Red Blood Cell Conditions<a class="headerlink" href="#red-blood-cell-conditions" title="Permanent link">&para;</a></h2>
+<h3 id="anemia">Anemia<a class="headerlink" href="#anemia" title="Permanent link">&para;</a></h3>
+<h3 id="haemoglobinopathies">Haemoglobinopathies<a class="headerlink" href="#haemoglobinopathies" title="Permanent link">&para;</a></h3>
+<h4 id="thalassemia">Thalassemia<a class="headerlink" href="#thalassemia" title="Permanent link">&para;</a></h4>
+<h3 id="acute-intermittent-porphyria-aip">Acute Intermittent Porphyria (AIP)<a class="headerlink" href="#acute-intermittent-porphyria-aip" title="Permanent link">&para;</a></h3>
+<p>An autosomal dominant disorder involving alterations in enzymes involved in heme biosynthesis, is characterized by acute, intermittent neurovisceral attacks.</p>
+<ul>
+<li>
+<p>Clinical Feature</p>
+<ul>
+<li>
+<p>Typically patient in 20s or 30s</p>
+</li>
+<li>
+<p>New onset of psychiatric and neurologic abnormalities - likely due to differences in expression of altered enzymes</p>
+</li>
+<li>
+<p>following a period of fasting - carbohydrate restriction induces enzyme synthesis</p>
+</li>
+<li>
+<p>or use of tobacco, alcohol, and certain medications e.g. carbamazepine, phenytoin, rifampin</p>
+</li>
+<li>
+<p>accompanied by unexplained, acute abdominal pain - neuropathic in nature therefore abdominal tenderness in response to palpation is frequently absent on PE</p>
+</li>
+<li>
+<p>May have vomiting, constipation, and tachycardia</p>
+</li>
+<li>
+<p>Symptoms can last for days to weeks and usually resolve between attacks</p>
+</li>
+<li>
+<p>and a family history of similar episodic symptoms</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Laboratory</p>
+<ul>
+<li>Elevated urinary porphobilinogen levels during an attach are diagnostic</li>
+</ul>
+</li>
+<li>
+<p>Treatment</p>
+<ul>
+<li>Hemin (Brand name: Panhematin) - Amelioration of recurrent attacks of acute intermittent porphyria (AIP) temporarily related to the menstrual cycle in susceptible women and similar symptoms which occur in other patients with AIP, porphyria variegata and hereditary coproporphyria.</li>
+</ul>
+</li>
+</ul>
+<h2 id="thrombotic-disorders">Thrombotic Disorders<a class="headerlink" href="#thrombotic-disorders" title="Permanent link">&para;</a></h2>
+<h3 id="dvt">DVT<a class="headerlink" href="#dvt" title="Permanent link">&para;</a></h3>
+<h3 id="pe">PE<a class="headerlink" href="#pe" title="Permanent link">&para;</a></h3>
+<h2 id="platelet-disorders">Platelet Disorders<a class="headerlink" href="#platelet-disorders" title="Permanent link">&para;</a></h2>
+<h3 id="idiopathic-thrombocytopenic-purpuria">Idiopathic Thrombocytopenic Purpuria<a class="headerlink" href="#idiopathic-thrombocytopenic-purpuria" title="Permanent link">&para;</a></h3>
+<h2 id="coagulopathies">Coagulopathies<a class="headerlink" href="#coagulopathies" title="Permanent link">&para;</a></h2>
+<h3 id="disseminated-intravascular-coagulopathy">Disseminated Intravascular Coagulopathy<a class="headerlink" href="#disseminated-intravascular-coagulopathy" title="Permanent link">&para;</a></h3>
+<h3 id="overcoagulation">Overcoagulation<a class="headerlink" href="#overcoagulation" title="Permanent link">&para;</a></h3>
+<h3 id="hemophilia-a">Hemophilia A<a class="headerlink" href="#hemophilia-a" title="Permanent link">&para;</a></h3>
+<p>An <strong>X-linked recessive disease</strong> caused by a deficit in coagulation factor VIII. </p>
+<h3 id="von-willebrand-disease">von Willebrand Disease<a class="headerlink" href="#von-willebrand-disease" title="Permanent link">&para;</a></h3>
+<p>Common coagulopathy that is due to a quantitative or qualitative vVWF deficiency. VWF assist in platelet adhersion and aggregation and acts as a carrier protein for factor VIII. Factor VIII is more rapidly degraded when unbound, and VWF deficiency therefore lead to impairment of the intrinsic coagulation pathway. However patient can have a normal aPTT</p>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>Mucocutaneous bleeding (e.g. epistaxis, gingival bleeding, postpartum hemorrhage)</li>
+</ul>
+</li>
+<li>
+<p>Diagnosis</p>
+<ul>
+<li>
+<p>Normal aPTT despite problems with intrinsic pathway because</p>
+<ul>
+<li>
+<p>Mild to moderate VWF deficiency may have adequate factor VIII levels to maintain aPTT within normal range</p>
+</li>
+<li>
+<p>VWF and factor VIII are acute-phase reactants, stress and inflammation can acutely raise levels</p>
+</li>
+<li>
+<p>VWF synthesis is increased by estrogen and thyroid hormones; pregnancy, oral contraceptives, and thyroid hormone replacement can raise VWF levels and normalize aPTT</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Normal PT platelet count</p>
+</li>
+<li>
+<p>Prolonged bleeding time</p>
+</li>
+<li>
+<p>VMF antigen, activity, and factor VIII levels are abnormal</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Management</p>
+<ul>
+<li>Desmopressin (DDAVP) potentiates release of VWF from endothelial cells and can be used in management of acute bleeding or for prophylaxis</li>
+</ul>
+</li>
+</ul>
+<h2 id="multiple-myeloma">Multiple Myeloma<a class="headerlink" href="#multiple-myeloma" title="Permanent link">&para;</a></h2>
+<p>A cancer of plasma cells. </p>
+<h2 id="myeloproliferative-disorders">Myeloproliferative Disorders<a class="headerlink" href="#myeloproliferative-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="myelodysplastic-syndromes">Myelodysplastic Syndromes<a class="headerlink" href="#myelodysplastic-syndromes" title="Permanent link">&para;</a></h3>
 <p>A set of bone marrow disorders associated with diverse mutatins that leads to ineffective hematopoiesis affecting at least 2 cell lines, resulting in cytopenias and hypercellular bone marrow.</p>
 <ul>
@@ -1100,7 +1725,7 @@
 </ul>
 </li>
 </ul>
-<h2 id="lymphoproliferative-diseases">Lymphoproliferative Diseases<a class="headerlink" href="#lymphoproliferative-diseases" title="Permanent link">&para;</a></h2>
+<h2 id="lymphoproliferative-disorders">Lymphoproliferative Disorders<a class="headerlink" href="#lymphoproliferative-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="leukemoid-reaction">Leukemoid Reaction<a class="headerlink" href="#leukemoid-reaction" title="Permanent link">&para;</a></h3>
 <p>An abnormal elevation of white cell count in response to infections, rarely <span><span class="MathJax_Preview">&gt;50,000</span><script type="math/tex">>50,000</script></span>/mm3.</p>
 <ul>
@@ -1156,97 +1781,26 @@
 <p>Prognosis: Excellent</p>
 </li>
 </ul>
-<h2 id="coagulopathies">Coagulopathies<a class="headerlink" href="#coagulopathies" title="Permanent link">&para;</a></h2>
-<h3 id="von-willebrand-disease">von Willebrand Disease<a class="headerlink" href="#von-willebrand-disease" title="Permanent link">&para;</a></h3>
-<p>Common coagulopathy that is due to a quantitative or qualitative vVWF deficiency. VWF assist in platelet adhersion and aggregation and acts as a carrier protein for factor VIII. Factor VIII is more rapidly degraded when unbound, and VWF deficiency therefore lead to impairment of the intrinsic coagulation pathway. However patient can have a normal aPTT</p>
-<ul>
-<li>
-<p>Presentation</p>
-<ul>
-<li>Mucocutaneous bleeding (e.g. epistaxis, gingival bleeding, postpartum hemorrhage)</li>
-</ul>
-</li>
-<li>
-<p>Diagnosis</p>
-<ul>
-<li>
-<p>Normal aPTT despite problems with intrinsic pathway because</p>
-<ul>
-<li>
-<p>Mild to moderate VWF deficiency may have adequate factor VIII levels to maintain aPTT within normal range</p>
-</li>
-<li>
-<p>VWF and factor VIII are acute-phase reactants, stress and inflammation can acutely raise levels</p>
-</li>
-<li>
-<p>VWF synthesis is increased by estrogen and thyroid hormones; pregnancy, oral contraceptives, and thyroid hormone replacement can raise VWF levels and normalize aPTT</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Normal PT platelet count</p>
-</li>
-<li>
-<p>Prolonged bleeding time</p>
-</li>
-<li>
-<p>VMF antigen, activity, and factor VIII levels are abnormal</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Management</p>
-<ul>
-<li>Desmopressin (DDAVP) potentiates release of VWF from endothelial cells and can be used in management of acute bleeding or for prophylaxis</li>
-</ul>
-</li>
-</ul>
-<h2 id="other-disorders">Other Disorders<a class="headerlink" href="#other-disorders" title="Permanent link">&para;</a></h2>
-<h3 id="acute-intermittent-porphyria-aip">Acute Intermittent Porphyria (AIP)<a class="headerlink" href="#acute-intermittent-porphyria-aip" title="Permanent link">&para;</a></h3>
-<p>An autosomal dominant disorder involving alterations in enzymes involved in heme biosynthesis, is characterized by acute, intermittent neurovisceral attacks.</p>
-<ul>
-<li>
-<p>Clinical Feature</p>
-<ul>
-<li>
-<p>Typically patient in 20s or 30s</p>
-</li>
-<li>
-<p>New onset of psychiatric and neurologic abnormalities - likely due to differences in expression of altered enzymes</p>
-</li>
-<li>
-<p>following a period of fasting - carbohydrate restriction induces enzyme synthesis</p>
-</li>
-<li>
-<p>or use of tobacco, alcohol, and certain medications e.g. carbamazepine, phenytoin, rifampin</p>
-</li>
-<li>
-<p>accompanied by unexplained, acute abdominal pain - neuropathic in nature therefore abdominal tenderness in response to palpation is frequently absent on PE</p>
-</li>
-<li>
-<p>May have vomiting, constipation, and tachycardia</p>
-</li>
-<li>
-<p>Symptoms can last for days to weeks and usually resolve between attacks</p>
-</li>
-<li>
-<p>and a family history of similar episodic symptoms</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Laboratory</p>
-<ul>
-<li>Elevated urinary porphobilinogen levels during an attach are diagnostic</li>
-</ul>
-</li>
-<li>
-<p>Treatment</p>
-<ul>
-<li>Hemin (Brand name: Panhematin) - Amelioration of recurrent attacks of acute intermittent porphyria (AIP) temporarily related to the menstrual cycle in susceptible women and similar symptoms which occur in other patients with AIP, porphyria variegata and hereditary coproporphyria.</li>
-</ul>
-</li>
-</ul>
+<h2 id="lymphatic-disorders">Lymphatic Disorders<a class="headerlink" href="#lymphatic-disorders" title="Permanent link">&para;</a></h2>
+<h3 id="chronic-lymphedema">Chronic lymphedema<a class="headerlink" href="#chronic-lymphedema" title="Permanent link">&para;</a></h3>
+<p>Chronic lymphedema is most commonly caused by an acquired disruption of the lymphatic system (eg, chronic inflammation, malignancy) and typically presents with pain and swelling in one or more extremities.  Patients usually have pitting edema that later progresses to nonpitting edema accompanied by firm, thickened skin.</p>
+<p>Lymphedema most commonly results from an acquired disruption of the lymphatic system that leads to accumulation of lymphatic fluid in the interstitium.  Common causes include malignancy and its treatment (eg, radiation, lymph node dissection), chronic inflammation (eg, recurrent cellulitis, connective tissue disease), and severe chronic venous insufficiency.  Obesity is often a strong contributing factor.</p>
+<p>Chronic lymphedema typically presents with pain, swelling, and heaviness in one or more extremities.  Patients with early disease usually demonstrate soft skin with pitting edema.  However, progressive deposition of subcutaneous collagen and adipose tissue occurs, leading to later development of firm, thickened skin and nonpitting edema.  In advanced cases, the skin may develop a warty appearance.  Inability to lift the skin on the dorsum of the second toe (positive <strong>Stemmer sign</strong>) is highly specific for lymphedema.</p>
+<p>The diagnosis is usually based on clinical presentation, but imaging (eg, duplex ultrasound) may be useful in some cases.  Treatment is challenging and may involve weight loss, limb elevation, compression bandages, and physiotherapy (eg, lymphatic drainage by massage).</p>
+<p>Etiology: Physical disruption of lymphatic drainage
+- Lymphadenectomy, radiation
+- Malignant obstruction
+- Chronic inflammation (eg, recurrent cellulitis)
+- Parasitic infection (eg, filariasis)
+- Congenital (eg, Turner syndrome)</p>
+<p>Clinical presentation
+- Swelling, heaviness, discomfort
+- Early: soft skin, pitting edema
+- Late: firm, dry &amp; thickened skin; nonpitting edema</p>
+<p>Treatment
+- Weight loss, limb elevation
+- Compression bandages &amp; physiotherapy
+- Diuretics contraindicated</p>
                 
                   
                     
@@ -1255,7 +1809,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -1358,14 +1912,16 @@
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

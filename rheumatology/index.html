@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -199,40 +201,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +267,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +285,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +355,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -400,42 +369,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -504,18 +437,6 @@
       
       
 
-
-  <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
   
 
 
@@ -572,6 +493,19 @@
     Dermatomyositis
   </a>
   
+    <nav class="md-nav" aria-label="Dermatomyositis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dermatomyositis-polymyositis" class="md-nav__link">
+    Dermatomyositis / Polymyositis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -580,16 +514,43 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#vasculitis" class="md-nav__link">
-    Vasculitis
+  <a href="#systemic-vasculitis" class="md-nav__link">
+    Systemic Vasculitis
   </a>
   
-    <nav class="md-nav" aria-label="Vasculitis">
+    <nav class="md-nav" aria-label="Systemic Vasculitis">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#henoch-schonlein-purpura" class="md-nav__link">
     Henoch-Schonlein Purpura
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#soft-tissue-rheumatism" class="md-nav__link">
+    Soft Tissue Rheumatism
+  </a>
+  
+    <nav class="md-nav" aria-label="Soft Tissue Rheumatism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#systemic-sclerosis" class="md-nav__link">
+    Systemic sclerosis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ankylosing-spondylitis" class="md-nav__link">
+    Ankylosing Spondylitis
   </a>
   
 </li>
@@ -621,6 +582,88 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#antiphospholipid-syndrome" class="md-nav__link">
+    Antiphospholipid Syndrome
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arthritis" class="md-nav__link">
+    Arthritis 关节炎
+  </a>
+  
+    <nav class="md-nav" aria-label="Arthritis 关节炎">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#septic-arthritis" class="md-nav__link">
+    Septic Arthritis 化脓性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#osteoarthritis" class="md-nav__link">
+    Osteoarthritis 骨性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rheumatoid-arthritis" class="md-nav__link">
+    Rheumatoid Arthritis 风湿性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#psoriatic-arthritis" class="md-nav__link">
+    Psoriatic Arthritis 银屑病关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reactive-arthritis-reiter-syndrome" class="md-nav__link">
+    Reactive Arthritis (Reiter Syndrome) 反应性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crystal-arthropathies" class="md-nav__link">
+    Crystal Arthropathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Crystal Arthropathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gout" class="md-nav__link">
+    Gout 痛风
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pseudogout" class="md-nav__link">
+    Pseudogout 假痛风
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -639,8 +682,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
-      Psychiatry
+    <a href="../psychiatry/" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -663,8 +706,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
-      Temporary notes
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
     </a>
   </li>
 
@@ -672,6 +715,139 @@
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18">
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../psychiatry/" title="Psychiatry" class="md-nav__link">
+      Psychiatry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
+      Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -680,10 +856,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -692,10 +868,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -704,34 +880,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -740,22 +892,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -764,10 +904,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -776,28 +916,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -846,6 +1243,19 @@
     Dermatomyositis
   </a>
   
+    <nav class="md-nav" aria-label="Dermatomyositis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dermatomyositis-polymyositis" class="md-nav__link">
+    Dermatomyositis / Polymyositis
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
       </ul>
@@ -854,16 +1264,43 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#vasculitis" class="md-nav__link">
-    Vasculitis
+  <a href="#systemic-vasculitis" class="md-nav__link">
+    Systemic Vasculitis
   </a>
   
-    <nav class="md-nav" aria-label="Vasculitis">
+    <nav class="md-nav" aria-label="Systemic Vasculitis">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#henoch-schonlein-purpura" class="md-nav__link">
     Henoch-Schonlein Purpura
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#soft-tissue-rheumatism" class="md-nav__link">
+    Soft Tissue Rheumatism
+  </a>
+  
+    <nav class="md-nav" aria-label="Soft Tissue Rheumatism">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#systemic-sclerosis" class="md-nav__link">
+    Systemic sclerosis
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ankylosing-spondylitis" class="md-nav__link">
+    Ankylosing Spondylitis
   </a>
   
 </li>
@@ -892,6 +1329,88 @@
   <a href="#systemic-lupus-erythematosis" class="md-nav__link">
     Systemic Lupus Erythematosis
   </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#antiphospholipid-syndrome" class="md-nav__link">
+    Antiphospholipid Syndrome
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arthritis" class="md-nav__link">
+    Arthritis 关节炎
+  </a>
+  
+    <nav class="md-nav" aria-label="Arthritis 关节炎">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#septic-arthritis" class="md-nav__link">
+    Septic Arthritis 化脓性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#osteoarthritis" class="md-nav__link">
+    Osteoarthritis 骨性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rheumatoid-arthritis" class="md-nav__link">
+    Rheumatoid Arthritis 风湿性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#psoriatic-arthritis" class="md-nav__link">
+    Psoriatic Arthritis 银屑病关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reactive-arthritis-reiter-syndrome" class="md-nav__link">
+    Reactive Arthritis (Reiter Syndrome) 反应性关节炎
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crystal-arthropathies" class="md-nav__link">
+    Crystal Arthropathies
+  </a>
+  
+    <nav class="md-nav" aria-label="Crystal Arthropathies">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gout" class="md-nav__link">
+    Gout 痛风
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pseudogout" class="md-nav__link">
+    Pseudogout 假痛风
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -956,31 +1475,47 @@
 <li>anti-jo-1 antibodies</li>
 </ul>
 </li>
+<li>
+<h4 id="dermatomyositis-polymyositis">Dermatomyositis / Polymyositis<a class="headerlink" href="#dermatomyositis-polymyositis" title="Permanent link">&para;</a></h4>
+<p>Muscle fiber injury</p>
+<p>Clinical feature</p>
+<ul>
+<li>Symmetrical and more proximal muscle weakness</li>
+<li>Intersititual lung disease, oesophageal dysmotility, Raynaud phenomenon</li>
+<li>Polyarthritis</li>
+<li>Esophageal dysmotility</li>
+<li>Skin findings (e.g. Gottron papules, héliotrope rash) in dermatomyositis</li>
 </ul>
-<h2 id="vasculitis">Vasculitis<a class="headerlink" href="#vasculitis" title="Permanent link">&para;</a></h2>
+</li>
+</ul>
+<h2 id="systemic-vasculitis">Systemic Vasculitis<a class="headerlink" href="#systemic-vasculitis" title="Permanent link">&para;</a></h2>
 <h3 id="henoch-schonlein-purpura">Henoch-Schonlein Purpura<a class="headerlink" href="#henoch-schonlein-purpura" title="Permanent link">&para;</a></h3>
 <p>Henoch-Schonlein purpura (HSP) also known as IgA vasculitis, is a disease of the skin, mucous membranes, and sometimes other organs that most commonly affects children. In the skin, the disease causes palpable purpura (small, raised areas of bleeding underneath the skin), often with joint pain and abdominal pain.</p>
 <p>Henoch-Schonlein purpura (HSP) is characterized by nonthrombocytopenic purpura, arthralgia, renal disease, abdominal pain, gastrointestinal bleeding, and occasionally scrotal pain.</p>
 <p>The onset of scrotal pain may be acute or insidious.</p>
 <p>In boys who lack other characteristic findings of HSP, sonography can usually distinguish HSP from testicular torsion.</p>
 <p>Treatment of HSP is supportive.</p>
+<h2 id="soft-tissue-rheumatism">Soft Tissue Rheumatism<a class="headerlink" href="#soft-tissue-rheumatism" title="Permanent link">&para;</a></h2>
+<h3 id="systemic-sclerosis">Systemic sclerosis<a class="headerlink" href="#systemic-sclerosis" title="Permanent link">&para;</a></h3>
+<p>A connective tissue disease characterized by fibrosis of the skin and visceral organs. Gastrointestinal involvement often causes dysphagia due to fibrous tissue replacement of smooth muscle in the esophagus. Esophageal manometry classically shows dysmotility and low LES pressure.</p>
+<h3 id="ankylosing-spondylitis">Ankylosing Spondylitis<a class="headerlink" href="#ankylosing-spondylitis" title="Permanent link">&para;</a></h3>
+<p>There is a strong association between HLA-B27 and ankylosing spondylitis (AS). AS presents in young males (aged 15-30 years) and symptoms include low back pain with limited spinal mobility. Symptoms improve with exercise early in the disease.</p>
 <h2 id="syndromes">Syndromes<a class="headerlink" href="#syndromes" title="Permanent link">&para;</a></h2>
 <h3 id="sjogren-syndrome">Sjogren Syndrome<a class="headerlink" href="#sjogren-syndrome" title="Permanent link">&para;</a></h3>
 <p>Autoimmune disorders characterized by inflammation of the exocrine glands</p>
+<p><strong>Presentation</strong></p>
 <ul>
-<li>
-<p>Presentation</p>
-<ul>
-<li>
-<p>Exocrine features: Dry mouth, Autoimmune sialoadenitis, Kratoconjunctivitis sicca</p>
-</li>
-<li>
-<p>Extraglandular features: arthritis, Raynaud phenomenon, dyspareunia, cutaneous vasculitis, interstitial lung disease, non-Hodgkin lymphoma</p>
-</li>
+<li>Exocrine features: Dry mouth, Autoimmune sialoadenitis, Kratoconjunctivitis sicca</li>
+<li>Extraglandular features: arthritis, Raynaud phenomenon, dyspareunia, cutaneous vasculitis, interstitial lung disease, non-Hodgkin lymphoma</li>
+<li>Sjögren syndrome can present with salivary gland enlargement (typically painless) due to lymphocytic infiltration of the glands. </li>
 </ul>
-</li>
-<li>
-<p>Diagnostic</p>
+<p><strong>Clinical Feature</strong></p>
+<ul>
+<li>Patients are typically women</li>
+<li>More often affects the parotid glands</li>
+<li>Secretions are significantly decreased, resulting in both xerostomia and dry eyes.</li>
+</ul>
+<p><strong>Diagnostic</strong></p>
 <ul>
 <li>
 <p>Objective signs of decreased lacrimination (schirmer test)</p>
@@ -1003,8 +1538,6 @@
 </ul>
 </li>
 </ul>
-</li>
-</ul>
 <h3 id="systemic-lupus-erythematosis">Systemic Lupus Erythematosis<a class="headerlink" href="#systemic-lupus-erythematosis" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -1020,6 +1553,306 @@
 <p>SLE arthritis is also typically migratory.</p>
 </li>
 </ul>
+<h3 id="antiphospholipid-syndrome">Antiphospholipid Syndrome<a class="headerlink" href="#antiphospholipid-syndrome" title="Permanent link">&para;</a></h3>
+<h2 id="arthritis">Arthritis 关节炎<a class="headerlink" href="#arthritis" title="Permanent link">&para;</a></h2>
+<h3 id="septic-arthritis">Septic Arthritis 化脓性关节炎<a class="headerlink" href="#septic-arthritis" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>
+<p>Abrupt onset of pain and swelling</p>
+</li>
+<li>
+<p>Typically only in a single joint</p>
+</li>
+<li>
+<p>Generalized extreme pain with any movement</p>
+</li>
+<li>
+<p>Risk factors include diabetes, rheumatoid arthritis, prosthetic joints, recent surgery, preceding skin infection or trauma, and being over the age of 80.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Physical</p>
+<ul>
+<li>
+<p>Knee exam is usually remarkable for swelling and warmth.</p>
+</li>
+<li>
+<p>Typically febrile, but older patients may not be febrile</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Investigation</p>
+<ul>
+<li>
+<p>Arthrocentesis with turbid synovial fluid and an abundance of inflammatory cells (white blood cell count 15K to > 200K;</p>
+</li>
+<li>
+<p>Blood: Elevated WBC; Elevated ESR (usually >50 mm/hr)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="osteoarthritis">Osteoarthritis 骨性关节炎<a class="headerlink" href="#osteoarthritis" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>very common</li>
+<li>Chronic joint stiffness and pain; Usually the large joints are asymmetrically involved.</li>
+<li>Can be monoarticular in young adults if due to trauma or a congenital defect, but more commonly presents as polyarticular or generalized arthritis.</li>
+<li>No acute trauma; though past history of trauma can predispose to developing osteoarthritis</li>
+<li>Pain aggrevated by weight-bearing activities, relieved by rest</li>
+<li>Joint stiffness, if present, is typically worse after effort.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Diagnosis</strong></p>
+<ul>
+<li>
+<p>Knee pain with &gt;/= 3 out of following 6 criteria (sensitivity 95%; specificity 69%)</p>
+</li>
+<li>
+<p>Physical</p>
+<ul>
+<li>
+<p>Generalized or joint line tenderness</p>
+</li>
+<li>
+<p>Crepitus on exam</p>
+</li>
+<li>
+<p>Mild or no joint effusion</p>
+</li>
+<li>Investigation</li>
+</ul>
+</li>
+</ul>
+<p><strong>Management</strong></p>
+<ul>
+<li>Exercise (best outcome for pain reduction)<ul>
+<li>Types of resistance, function, coordination<ul>
+<li>Muscle strengthening exercise<ul>
+<li>Isometric: static muscle contraction without length change</li>
+<li>Isotonic: muscle contraction with constant load through range of motion</li>
+<li>Isokinetic: change in muscle length at constant speed with constant tension</li>
+</ul>
+</li>
+<li>Strengthening exercises<ul>
+<li>Quad sets</li>
+<li>Hamstrings sets</li>
+<li>Calf stretch (towel / standing)</li>
+<li>Knee extension (seated)</li>
+<li>Straight leg raise (seated/lying)</li>
+<li>Alternate knee extension</li>
+<li>Wall half-squats</li>
+<li>Heel raises</li>
+<li>Sit-stand</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Evidence for pain control and reduction of disability</li>
+<li>Water- or land-based exercise, aerobic walking, quadriceps strengthening, resistance exercise, tai chi; <ul>
+<li>Yoga/Pilates belong to a group of flexibility and core strengthening. </li>
+<li>Tai Chi is aimed at balance training AND strength of quadricep muscles</li>
+<li>Stretching exercise improve ROM</li>
+</ul>
+</li>
+<li>When considering exercise: frequency, intensity, time, type, progression, precautions<ul>
+<li>5 x / week</li>
+<li>Moderate (up to 50 -6 0%)</li>
+<li>30 min</li>
+<li>5 min up to 45 min (no longer to avoid muscle fatigue)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Weight loss</li>
+<li>Occupational therapy in OA<ul>
+<li>Joint protection:reduce strain on affected joints</li>
+<li>Orthoses: e.g. thermoplastic splints</li>
+<li>Assistive devices e.g. large handled spoons, long reacher</li>
+</ul>
+</li>
+<li>
+<p>Medications</p>
+<ul>
+<li>Acetaminophen:</li>
+<li>
+<p>Not as effective as NSAIDs, but due to much better safety and side-effect profile is recommended as the first choice.</p>
+</li>
+<li>
+<p>Dosing is <strong>up to 4 gm per day</strong> in divided doses, though the FDA recently recommended lower doses (2-3 gm/day in divided doses) if long-term use is desired.</p>
+</li>
+<li>
+<p>Little risk of nephrotoxicity, and hepatotoxicity is a rare side effect if taken appropriately.</p>
+</li>
+<li>
+<p>NSAID</p>
+<ul>
+<li>
+<p>Second choice to acetaminophen because of their association with gastrointestinal side-effects, acute kidney injury and hypertension.</p>
+</li>
+<li>
+<p>Especially true in the geriatric population because of their increased risk of acute gastrointestinal bleeding, even when used in conjunction with antacids or proton pump inhibitors.</p>
+</li>
+<li>
+<p>Diclofenac may be the most effective NSAID at reducing pain due to osteoarthritis.</p>
+</li>
+<li>
+<p>Topical diclofenac (weaker evidence) may provide benefit to some patients with knee osteoarthritis.</p>
+<ul>
+<li>Intra-articular corticosteroid injections</li>
+</ul>
+</li>
+<li>
+<p>Should be considered if the knee joint is inflamed, as evidenced by swelling and pain.</p>
+</li>
+<li>No more than three injections per year, and no more frequent than one injection per month.</li>
+<li>Long-acting triamcinolone is typically preferred over methylprednisolone, and 1 ml of steroid should be combined with 3-4 ml local anesthetic.</li>
+<li>24 hours of immobilization following the injection helps maximize the effects, but prolonged rest should be avoided.</li>
+<li>Can reduce pain, limit the need for other medications, and improve function, but benefit is unclear from the evidence and likely of short duration.</li>
+<li>Fewer associated side effects than NSAIDs or opiates.</li>
+<li>Other knee injections: hyaluronic acid injections, platelet rich plasma injections</li>
+<li>
+<p>Tramadol (Ultram)</p>
+<ul>
+<li>
+<p>There is good evidence that tramadol can help with pain from osteoarthritis.</p>
+</li>
+<li>
+<p>Tramadol is an atypical opioid and does have abuse potential, though the risk appears to be significantly lower than that of traditional opiates.</p>
+</li>
+<li>
+<p>Can lower seizure threshold in patients with epilepsy.</p>
+</li>
+<li>Adjuvant<ul>
+<li>Acupuncture: may provide some benefit</li>
+<li>Orthoses and walking aids</li>
+<li>Medial patellar taping</li>
+<li>Massage therapy</li>
+<li>TENS (transcutaneous electrical nerve stimulation); pulsed electromagnetic field (PEMF) stimulation.</li>
+<li>Vitamin D</li>
+</ul>
+</li>
+<li>Glucosamine and chondroitin: unlikely to provide benefit</li>
+<li>To avoid</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Laterally directed patellar taping</p>
+</li>
+<li>
+<p>Knee braces</p>
+</li>
+<li>
+<p>Laterally wedged insoles</p>
+</li>
+<li>
+<p>Balance exercises</p>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="rheumatoid-arthritis">Rheumatoid Arthritis 风湿性关节炎<a class="headerlink" href="#rheumatoid-arthritis" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>
+<p>Can develop at a broad range of ages.</p>
+</li>
+<li>
+<p>Joint stiffness for more than thirty minutes in the morning is common.</p>
+</li>
+<li>
+<p>Typically bilateral joint pain, involving three or more joints (in particular the hands or feet).</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Physical</p>
+<ul>
+<li>Can have associated subcutaneous nodules that are firm and nontender, and are located at pressure points.</li>
+</ul>
+</li>
+</ul>
+<h3 id="psoriatic-arthritis">Psoriatic Arthritis 银屑病关节炎<a class="headerlink" href="#psoriatic-arthritis" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>Common clinical manifestations may include peripheral arthritis, nail and skin disease, dactylitis, enthesitis and axial disease.</li>
+<li>Clinical pattern is variable, and arthritis may precede skin changes.</li>
+<li>Skin findings precede joint symptoms in up to 75% of patients.</li>
+<li>Can be difficult to distinguish from RA if skin changes not present, though less common.</li>
+</ul>
+</li>
+</ul>
+<h3 id="reactive-arthritis-reiter-syndrome">Reactive Arthritis (Reiter Syndrome) 反应性关节炎<a class="headerlink" href="#reactive-arthritis-reiter-syndrome" title="Permanent link">&para;</a></h3>
+<h3 id="crystal-arthropathies">Crystal Arthropathies<a class="headerlink" href="#crystal-arthropathies" title="Permanent link">&para;</a></h3>
+<h4 id="gout">Gout 痛风<a class="headerlink" href="#gout" title="Permanent link">&para;</a></h4>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>
+<p>Acute pain and swelling without prior trauma</p>
+</li>
+<li>
+<p>Occurs in recurrent episodes of acute unilateral pain and swelling lasting days to weeks.</p>
+</li>
+<li>
+<p>Most common joint is the first metatarsophalangeal joint, though other joints such as the knees are commonly affected.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Physical</p>
+<ul>
+<li>
+<p>Painful joint to touch</p>
+</li>
+<li>
+<p>Can be associated with tophi which are visible or palpable nodules often located on the ears or in the soft tissue. Tophi can also form in the bones, joints, and cartilage. They are typically not painful, and take years to develop.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Investigation</p>
+<ul>
+<li>Arthrocentesis with clear or slightly cloudy synovial fluid with Negatively birefringent rods</li>
+</ul>
+</li>
+</ul>
+<h4 id="pseudogout">Pseudogout 假痛风<a class="headerlink" href="#pseudogout" title="Permanent link">&para;</a></h4>
+<ul>
+<li>
+<p>Presentation</p>
+<ul>
+<li>Acute pain and swelling without prior trauma</li>
+</ul>
+</li>
+<li>
+<p>Physical</p>
+<ul>
+<li>Painful joint to touch</li>
+</ul>
+</li>
+<li>
+<p>Investigation</p>
+<ul>
+<li>Arthrocentesis with clear or slightly cloudy synovial fluid with positively birefringent rhomboids</li>
+</ul>
+</li>
+</ul>
                 
                   
                     
@@ -1028,7 +1861,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -1051,7 +1884,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../dermatology/" title="Dermatology" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../msk/" title="Msk" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
             </div>
@@ -1060,19 +1893,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Dermatology
+                Msk
               </div>
             </div>
           </a>
         
         
-          <a href="../psychiatry/" title="Psychiatry" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../psychiatry/" title="None" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Psychiatry
+                None
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -1131,14 +1964,16 @@
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

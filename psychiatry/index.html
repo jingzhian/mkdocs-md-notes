@@ -32,7 +32,7 @@
       
         
         
-        <meta name="theme-color" content="#3f51b5">
+        <meta name="theme-color" content="#009688">
       
     
     
@@ -45,6 +45,8 @@
     
     
     
+      <link rel="stylesheet" href="../stylesheets/numbered-headings.css">
+    
     
       
     
@@ -54,7 +56,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-primary="teal" data-md-color-accent="teal">
   
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -133,7 +135,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -152,14 +154,16 @@
         
           
 
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  
+
+<nav class="md-tabs md-tabs--active" aria-label="Tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
       
         
   <li class="md-tabs__item">
     
-      <a href=".." class="md-tabs__link md-tabs__link--active">
+      <a href=".." class="md-tabs__link">
         Home
       </a>
     
@@ -199,40 +203,43 @@
         
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../dermatology/" class="md-tabs__link md-tabs__link--active">
+          UWorld Complete
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../temp-notes/" class="md-tabs__link">
+          Temporary notes
+        </a>
+      
+    </li>
+  
+
       
         
+  
+  
+    <li class="md-tabs__item">
       
-        
+        <a href="../ENT/" class="md-tabs__link">
+          Unorganized
+        </a>
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
+    </li>
+  
+
       
     </ul>
   </div>
@@ -262,7 +269,7 @@
 <a href="https://github.com/jingzhian/mkdocs-md-notes/" title="Go to repository" class="md-source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM277.3 415.7c-8.4 1.5-11.5-3.7-11.5-8 0-5.4.2-33 .2-55.3 0-15.6-5.2-25.5-11.3-30.7 37-4.1 76-9.2 76-73.1 0-18.2-6.5-27.3-17.1-39 1.7-4.3 7.4-22-1.7-45-13.9-4.3-45.7 17.9-45.7 17.9-13.2-3.7-27.5-5.6-41.6-5.6-14.1 0-28.4 1.9-41.6 5.6 0 0-31.8-22.2-45.7-17.9-9.1 22.9-3.5 40.6-1.7 45-10.6 11.7-15.6 20.8-15.6 39 0 63.6 37.3 69 74.3 73.1-4.8 4.3-9.1 11.7-10.6 22.3-9.5 4.3-33.8 11.7-48.3-13.9-9.1-15.8-25.5-17.1-25.5-17.1-16.2-.2-1.1 10.2-1.1 10.2 10.8 5 18.4 24.2 18.4 24.2 9.7 29.7 56.1 19.7 56.1 19.7 0 13.9.2 36.5.2 40.6 0 4.3-3 9.5-11.5 8-66-22.1-112.2-84.9-112.2-158.3 0-91.8 70.2-161.5 162-161.5S388 165.6 388 257.4c.1 73.4-44.7 136.3-110.7 158.3zm-98.1-61.1c-1.9.4-3.7-.4-3.9-1.7-.2-1.5 1.1-2.8 3-3.2 1.9-.2 3.7.6 3.9 1.9.3 1.3-1 2.6-3 3zm-9.5-.9c0 1.3-1.5 2.4-3.5 2.4-2.2.2-3.7-.9-3.7-2.4 0-1.3 1.5-2.4 3.5-2.4 1.9-.2 3.7.9 3.7 2.4zm-13.7-1.1c-.4 1.3-2.4 1.9-4.1 1.3-1.9-.4-3.2-1.9-2.8-3.2.4-1.3 2.4-1.9 4.1-1.5 2 .6 3.3 2.1 2.8 3.4zm-12.3-5.4c-.9 1.1-2.8.9-4.3-.6-1.5-1.3-1.9-3.2-.9-4.1.9-1.1 2.8-.9 4.3.6 1.3 1.3 1.8 3.3.9 4.1zm-9.1-9.1c-.9.6-2.6 0-3.7-1.5s-1.1-3.2 0-3.9c1.1-.9 2.8-.2 3.7 1.3 1.1 1.5 1.1 3.3 0 4.1zm-6.5-9.7c-.9.9-2.4.4-3.5-.6-1.1-1.3-1.3-2.8-.4-3.5.9-.9 2.4-.4 3.5.6 1.1 1.3 1.3 2.8.4 3.5zm-6.7-7.4c-.4.9-1.7 1.1-2.8.4-1.3-.6-1.9-1.7-1.5-2.6.4-.6 1.5-.9 2.8-.4 1.3.7 1.9 1.8 1.5 2.6z"/></svg>
   </div>
   <div class="md-source__repository">
     jingzhian/mkdocs-md-notes
@@ -280,18 +287,6 @@
   <li class="md-nav__item">
     <a href=".." title="Home" class="md-nav__link">
       Home
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../exam-info/" title="Exam Info" class="md-nav__link">
-      Exam Info
     </a>
   </li>
 
@@ -362,30 +357,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../emergency/" title="Emergency" class="md-nav__link">
-      Emergency
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../opthalmology.md" title="None" class="md-nav__link">
-      None
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
     <a href="../neurology/" title="Neurology" class="md-nav__link">
       Neurology
     </a>
@@ -400,42 +371,6 @@
   <li class="md-nav__item">
     <a href="../endocrinology/" title="Endocrinology" class="md-nav__link">
       Endocrinology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../cardiovascular/" title="Cardiovascular" class="md-nav__link">
-      Cardiovascular
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../pulmonology/" title="Pulmonology" class="md-nav__link">
-      Pulmonology
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../gi/" title="Gi" class="md-nav__link">
-      Gi
     </a>
   </li>
 
@@ -506,8 +441,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
-      Dermatology
+    <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
+      Rheumatology
     </a>
   </li>
 
@@ -518,8 +453,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../rheumatology/" title="Rheumatology" class="md-nav__link">
-      Rheumatology
+    <a href="./" title="None" class="md-nav__link">
+      None
     </a>
   </li>
 
@@ -527,6 +462,69 @@
       
       
       
+
+
+  <li class="md-nav__item">
+    <a href="../frontiers/" title="Frontiers" class="md-nav__link">
+      Frontiers
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../palliative/" title="Palliative Care" class="md-nav__link">
+      Palliative Care
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-18" type="checkbox" id="nav-18" checked>
+    
+    <label class="md-nav__link" for="nav-18">
+      UWorld Complete
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="UWorld Complete" data-md-level="1">
+      <label class="md-nav__title" for="nav-18">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        UWorld Complete
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../dermatology/" title="Dermatology" class="md-nav__link">
+      Dermatology
+    </a>
+  </li>
+
+        
+          
+          
+          
 
   
 
@@ -600,6 +598,33 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#sentinel-questions-for-psychiatrics-symptoms" class="md-nav__link">
+    Sentinel Questions for Psychiatrics Symptoms
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#physical-examination" class="md-nav__link">
+    Physical Examination
+  </a>
+  
+    <nav class="md-nav" aria-label="Physical Examination">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mental-status-examination" class="md-nav__link">
+    Mental Status Examination
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#psychotherapy" class="md-nav__link">
     Psychotherapy
   </a>
@@ -688,6 +713,26 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#frameworks-for-psychiatry" class="md-nav__link">
+    Frameworks for Psychiatry
+  </a>
+  
+    <nav class="md-nav" aria-label="Frameworks for Psychiatry">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psychosis" class="md-nav__link">
+    Psychosis 思觉失调
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#neurodevelopmental-disorders" class="md-nav__link">
     Neurodevelopmental Disorders
   </a>
@@ -743,10 +788,10 @@
       
         <li class="md-nav__item">
   <a href="#schizophrenia-spectrum-and-other-psychotic-disorders" class="md-nav__link">
-    Schizophrenia Spectrum and Other Psychotic Disorders
+    Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症
   </a>
   
-    <nav class="md-nav" aria-label="Schizophrenia Spectrum and Other Psychotic Disorders">
+    <nav class="md-nav" aria-label="Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -936,10 +981,10 @@
       
         <li class="md-nav__item">
   <a href="#bipolar-and-related-disorders" class="md-nav__link">
-    Bipolar and Related Disorders
+    Bipolar and Related Disorders 两极症
   </a>
   
-    <nav class="md-nav" aria-label="Bipolar and Related Disorders">
+    <nav class="md-nav" aria-label="Bipolar and Related Disorders 两极症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -991,10 +1036,10 @@
       
         <li class="md-nav__item">
   <a href="#depressive-disorders" class="md-nav__link">
-    Depressive Disorders
+    Depressive Disorders 抑郁症
   </a>
   
-    <nav class="md-nav" aria-label="Depressive Disorders">
+    <nav class="md-nav" aria-label="Depressive Disorders 抑郁症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1039,10 +1084,10 @@
       
         <li class="md-nav__item">
   <a href="#anxiety-disorders" class="md-nav__link">
-    Anxiety Disorders
+    Anxiety Disorders 焦虑症
   </a>
   
-    <nav class="md-nav" aria-label="Anxiety Disorders">
+    <nav class="md-nav" aria-label="Anxiety Disorders 焦虑症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1742,13 +1787,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#alcohol-withdrawal-and-delirium-tremens" class="md-nav__link">
-    Alcohol Withdrawal and Delirium Tremens
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#korsakoff-syndrome" class="md-nav__link">
     Korsakoff Syndrome
   </a>
@@ -1762,18 +1800,12 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-        
           <li class="md-nav__item">
-  <a href="#intoxication-syndromes" class="md-nav__link">
-    Intoxication Syndromes
+  <a href="#alcohol-withdrawal-and-delirium-tremens" class="md-nav__link">
+    Alcohol Withdrawal and Delirium Tremens
   </a>
   
-    <nav class="md-nav" aria-label="Intoxication Syndromes">
-      <ul class="md-nav__list">
+</li>
         
           <li class="md-nav__item">
   <a href="#drug-testing" class="md-nav__link">
@@ -1809,6 +1841,33 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#opioid-related-diseases" class="md-nav__link">
+    Opioid Related Diseases
+  </a>
+  
+    <nav class="md-nav" aria-label="Opioid Related Diseases">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#opioid-intoxication" class="md-nav__link">
+    Opioid intoxication
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#opioid-withdrawal" class="md-nav__link">
+    Opioid Withdrawal
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#gambling-disorder" class="md-nav__link">
     Gambling Disorder
   </a>
@@ -1829,8 +1888,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#extrapyramidal-symoptom-associated-with-antipsychotics" class="md-nav__link">
-    Extrapyramidal symoptom associated with antipsychotics
+  <a href="#extrapyramidal-symptom-associated-with-antipsychotics" class="md-nav__link">
+    Extrapyramidal symptom associated with antipsychotics
   </a>
   
 </li>
@@ -1895,29 +1954,27 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#clinical-practice" class="md-nav__link">
-    Clinical Practice
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
     
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
-    <a href="../frontiers/" title="Frontiers" class="md-nav__link">
-      Frontiers
+    <a href="../ophthalmology/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
     </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -1926,16 +1983,71 @@
       
 
 
-  <li class="md-nav__item">
-    <a href="../temp-notes/" title="Temporary notes" class="md-nav__link">
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-19" type="checkbox" id="nav-19">
+    
+    <label class="md-nav__link" for="nav-19">
       Temporary notes
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Temporary notes" data-md-level="1">
+      <label class="md-nav__title" for="nav-19">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Temporary notes
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../temp-notes/" title="Temp notes" class="md-nav__link">
+      Temp notes
     </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
       
       
       
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-20" type="checkbox" id="nav-20">
+    
+    <label class="md-nav__link" for="nav-20">
+      Unorganized
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Unorganized" data-md-level="1">
+      <label class="md-nav__title" for="nav-20">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
+        </span>
+        Unorganized
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1944,10 +2056,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1956,10 +2068,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -1968,34 +2080,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../genetic-medicine/" title="Genetic medicine" class="md-nav__link">
-      Genetic medicine
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../id/" title="Infectious Diseases" class="md-nav__link">
-      Infectious Diseases
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -2004,22 +2092,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../presentation/" title="Presentation" class="md-nav__link">
-      Presentation
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -2028,10 +2104,10 @@
     </a>
   </li>
 
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
@@ -2040,28 +2116,285 @@
     </a>
   </li>
 
-    
-      
-      
-      
-
-
-  <li class="md-nav__item">
-    <a href="../review-peds/" title="Review peds" class="md-nav__link">
-      Review peds
-    </a>
-  </li>
-
-    
-      
-      
-      
+        
+          
+          
+          
 
 
   <li class="md-nav__item">
     <a href="../surgery/" title="Surgery" class="md-nav__link">
       Surgery
     </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../accident/" title="Accident" class="md-nav__link">
+      Accident
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-signs/" title="Signs" class="md-nav__link">
+      Signs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../approach-symptoms/" title="Symptoms and Symptomatic Management" class="md-nav__link">
+      Symptoms and Symptomatic Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cardiology/" title="Cardiology" class="md-nav__link">
+      Cardiology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../career/" title="Exam Information" class="md-nav__link">
+      Exam Information
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../clinical-scores/" title="Clinical Scores" class="md-nav__link">
+      Clinical Scores
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devices/" title="Medical Devices" class="md-nav__link">
+      Medical Devices
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../gastroenterology/" title="Gastroenterology" class="md-nav__link">
+      Gastroenterology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../general-medicine/" title="General Medicine" class="md-nav__link">
+      General Medicine
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../genetics-immune/" title="Genetics immune" class="md-nav__link">
+      Genetics immune
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../infectious-diseases/" title="Infectious Diseases" class="md-nav__link">
+      Infectious Diseases
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../investigations/" title="Investigations" class="md-nav__link">
+      Investigations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pain-management/" title="General Pain Management" class="md-nav__link">
+      General Pain Management
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../pediatrics/" title="Pediatrics" class="md-nav__link">
+      Pediatrics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../people/" title="Ophthalmology" class="md-nav__link">
+      Ophthalmology
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../procedures/" title="Procedures" class="md-nav__link">
+      Procedures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../rehabilitation/" title="Rehabilitation" class="md-nav__link">
+      Rehabilitation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../residency/" title="Career" class="md-nav__link">
+      Career
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../sgh-dsml/" title="DSML Notes" class="md-nav__link">
+      DSML Notes
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../system-checklist/" title="Onsite Learning Checklist" class="md-nav__link">
+      Onsite Learning Checklist
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../trauma/" title="Trauma" class="md-nav__link">
+      Trauma
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../vascular/" title="Vascular" class="md-nav__link">
+      Vascular
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -2126,6 +2459,33 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#sentinel-questions-for-psychiatrics-symptoms" class="md-nav__link">
+    Sentinel Questions for Psychiatrics Symptoms
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#physical-examination" class="md-nav__link">
+    Physical Examination
+  </a>
+  
+    <nav class="md-nav" aria-label="Physical Examination">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mental-status-examination" class="md-nav__link">
+    Mental Status Examination
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#psychotherapy" class="md-nav__link">
     Psychotherapy
   </a>
@@ -2214,6 +2574,26 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#frameworks-for-psychiatry" class="md-nav__link">
+    Frameworks for Psychiatry
+  </a>
+  
+    <nav class="md-nav" aria-label="Frameworks for Psychiatry">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psychosis" class="md-nav__link">
+    Psychosis 思觉失调
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#neurodevelopmental-disorders" class="md-nav__link">
     Neurodevelopmental Disorders
   </a>
@@ -2269,10 +2649,10 @@
       
         <li class="md-nav__item">
   <a href="#schizophrenia-spectrum-and-other-psychotic-disorders" class="md-nav__link">
-    Schizophrenia Spectrum and Other Psychotic Disorders
+    Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症
   </a>
   
-    <nav class="md-nav" aria-label="Schizophrenia Spectrum and Other Psychotic Disorders">
+    <nav class="md-nav" aria-label="Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -2462,10 +2842,10 @@
       
         <li class="md-nav__item">
   <a href="#bipolar-and-related-disorders" class="md-nav__link">
-    Bipolar and Related Disorders
+    Bipolar and Related Disorders 两极症
   </a>
   
-    <nav class="md-nav" aria-label="Bipolar and Related Disorders">
+    <nav class="md-nav" aria-label="Bipolar and Related Disorders 两极症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -2517,10 +2897,10 @@
       
         <li class="md-nav__item">
   <a href="#depressive-disorders" class="md-nav__link">
-    Depressive Disorders
+    Depressive Disorders 抑郁症
   </a>
   
-    <nav class="md-nav" aria-label="Depressive Disorders">
+    <nav class="md-nav" aria-label="Depressive Disorders 抑郁症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -2565,10 +2945,10 @@
       
         <li class="md-nav__item">
   <a href="#anxiety-disorders" class="md-nav__link">
-    Anxiety Disorders
+    Anxiety Disorders 焦虑症
   </a>
   
-    <nav class="md-nav" aria-label="Anxiety Disorders">
+    <nav class="md-nav" aria-label="Anxiety Disorders 焦虑症">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -3268,13 +3648,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#alcohol-withdrawal-and-delirium-tremens" class="md-nav__link">
-    Alcohol Withdrawal and Delirium Tremens
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#korsakoff-syndrome" class="md-nav__link">
     Korsakoff Syndrome
   </a>
@@ -3288,18 +3661,12 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-        
           <li class="md-nav__item">
-  <a href="#intoxication-syndromes" class="md-nav__link">
-    Intoxication Syndromes
+  <a href="#alcohol-withdrawal-and-delirium-tremens" class="md-nav__link">
+    Alcohol Withdrawal and Delirium Tremens
   </a>
   
-    <nav class="md-nav" aria-label="Intoxication Syndromes">
-      <ul class="md-nav__list">
+</li>
         
           <li class="md-nav__item">
   <a href="#drug-testing" class="md-nav__link">
@@ -3335,6 +3702,33 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#opioid-related-diseases" class="md-nav__link">
+    Opioid Related Diseases
+  </a>
+  
+    <nav class="md-nav" aria-label="Opioid Related Diseases">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#opioid-intoxication" class="md-nav__link">
+    Opioid intoxication
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#opioid-withdrawal" class="md-nav__link">
+    Opioid Withdrawal
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#gambling-disorder" class="md-nav__link">
     Gambling Disorder
   </a>
@@ -3355,8 +3749,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#extrapyramidal-symoptom-associated-with-antipsychotics" class="md-nav__link">
-    Extrapyramidal symoptom associated with antipsychotics
+  <a href="#extrapyramidal-symptom-associated-with-antipsychotics" class="md-nav__link">
+    Extrapyramidal symptom associated with antipsychotics
   </a>
   
 </li>
@@ -3421,13 +3815,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#clinical-practice" class="md-nav__link">
-    Clinical Practice
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -3452,63 +3839,203 @@
 <h2 id="basic-knowledge">Basic Knowledge<a class="headerlink" href="#basic-knowledge" title="Permanent link">&para;</a></h2>
 <h3 id="defense-mechanisms">Defense Mechanisms<a class="headerlink" href="#defense-mechanisms" title="Permanent link">&para;</a></h3>
 <h4 id="immature">Immature<a class="headerlink" href="#immature" title="Permanent link">&para;</a></h4>
-<p>L1 in L5 in Isolation &amp; Removing feelings about an event\
-Rationalization &amp; Generate an explanation for an action performed for a different reason\
-Distortion &amp; Altering the perception of reality to make it more acceptable\
-Fantasy &amp; Substituting with imaginary scenarios\
-Denial &amp; Behaving as if the reality does not exist\
-Repression &amp; Unconscious withholding of psychological material from the conscious mind\
-Dissociation &amp; To disrupt memory, identity and consciousness to cope with an event\
-Projection &amp; Transplanting one's unacceptable impulse or affect onto another person's situation\
-Displacement &amp; Transfer the emotion about a situation / someone to a less threatening third party who is not involved\
-Reaction formation &amp; to redirect unacceptable impulses to its opposite; act opposite to what one think / feel\
-Acting out &amp; Expressing unacceptable thoughts or impulses through action\
-Regression &amp; Reverting back to a less mature form of coping with difficulty\
-Identification &amp; Model after someone who seems to be more powerful (can be good or bad)\
-Splitting &amp; Hold the unconscious belief that people are wholly good or wholly bad; characteristically borderline</p>
+<table>
+<thead>
+<tr>
+<th>Mechanism</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Isolation</td>
+<td>Removing feelings about an event</td>
+</tr>
+<tr>
+<td>Rationalization</td>
+<td>Generate an explanation for an action performed for a different reason</td>
+</tr>
+<tr>
+<td>Distortion</td>
+<td>Altering the perception of reality to make it more acceptable</td>
+</tr>
+<tr>
+<td>Fantasy</td>
+<td>Substituting with imaginary scenarios</td>
+</tr>
+<tr>
+<td>Denial</td>
+<td>Behaving as if the reality does not exist</td>
+</tr>
+<tr>
+<td>Repression</td>
+<td>Unconscious withholding of psychological material from the conscious mind</td>
+</tr>
+<tr>
+<td>Dissociation</td>
+<td>To disrupt memory, identity and consciousness to cope with an event</td>
+</tr>
+<tr>
+<td>Projection</td>
+<td>Transplanting one's unacceptable impulse or affect onto another person's situation</td>
+</tr>
+<tr>
+<td>Displacement</td>
+<td>Transfer the emotion about a situation / someone to a less threatening third party who is not involved</td>
+</tr>
+<tr>
+<td>Reaction formation</td>
+<td>to redirect unacceptable impulses to its opposite; act opposite to what one think / feel</td>
+</tr>
+<tr>
+<td>Acting out</td>
+<td>Expressing unacceptable thoughts or impulses through action</td>
+</tr>
+<tr>
+<td>Regression</td>
+<td>Reverting back to a less mature form of coping with difficulty</td>
+</tr>
+<tr>
+<td>Identification</td>
+<td>Model after someone who seems to be more powerful (can be good or bad)</td>
+</tr>
+<tr>
+<td>Splitting</td>
+<td>Hold the unconscious belief that people are wholly good or wholly bad; characteristically borderline</td>
+</tr>
+</tbody>
+</table>
 <h4 id="mature">Mature<a class="headerlink" href="#mature" title="Permanent link">&para;</a></h4>
-<hr />
-<p>Suppression           Intentional withholding of distressing unconscious material
-  Intellectualization   Use intellect to avoid uncomfortable feelings
-  Sublimation           Channel impulses to socially acceptable behaviors
-  Humor                 Conscious and unconscious way of making light a difficult situation
-  Altruism              Removing sense of guilty by giving to others without solicitation</p>
-<hr />
+<table>
+<thead>
+<tr>
+<th>Mechanism</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Suppression</td>
+<td>Intentional withholding of distressing unconscious material</td>
+</tr>
+<tr>
+<td>Intellectualization</td>
+<td>Use intellect to avoid uncomfortable feelings</td>
+</tr>
+<tr>
+<td>Humor</td>
+<td>Conscious and unconscious way of making light a difficult situation</td>
+</tr>
+<tr>
+<td>Sublimation</td>
+<td>Channel impulses to socially acceptable behaviors</td>
+</tr>
+<tr>
+<td>Altruism</td>
+<td>Removing sense of guilty by giving to others without solicitation</td>
+</tr>
+</tbody>
+</table>
+<h3 id="sentinel-questions-for-psychiatrics-symptoms">Sentinel Questions for Psychiatrics Symptoms<a class="headerlink" href="#sentinel-questions-for-psychiatrics-symptoms" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Symptoms</th>
+<th>Questions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Delusion</td>
+<td>"Do you feel that someone is watching you or trying to hurt you?" <br/>"Do you have any special abilities or powers?"</td>
+</tr>
+<tr>
+<td>Hallucination</td>
+<td>"Do you ever hear things that other people don't hear or see things that other people don't see?"</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="physical-examination">Physical Examination<a class="headerlink" href="#physical-examination" title="Permanent link">&para;</a></h3>
+<h4 id="mental-status-examination">Mental Status Examination<a class="headerlink" href="#mental-status-examination" title="Permanent link">&para;</a></h4>
+<p>consciousness, orientation, attention, perception, thinking, memory, motor, sleep</p>
+<table>
+<thead>
+<tr>
+<th>Signs</th>
+<th>Task</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Attention</td>
+<td>spelling a short word forward and backward (W-O-R-L-D / D-L-R-O-W is a standard) <br/>repeating a string of integers forward and backward (digit span, normal is 6 or more forward and 4 or more backward, depending slightly on age and education) <br/>naming the months forward and then backward</td>
+</tr>
+<tr>
+<td>Orientation</td>
+<td>Ask for the patient's full name, the location, and the date, and note the exact response.<br/>Document: "alert and oriented to person, place, and time"—abbreviated as "A&amp;O×3."</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td><strong>Recent Memory</strong>: Ask the patient to recall three items  after a delay of 3 to 5 minutes. Be sure the information has been registered by asking the patient to repeat it immediately before initiating the delay. <br/>Sequence <strong>Remote memory.</strong> Ask the patient about historical or verifiable personal events.</td>
+</tr>
+<tr>
+<td>Language</td>
+<td><strong>Spontaneous speech.</strong> Note the patient's fluency, including phrase length, rate, and abundance of spontaneous speech. Also note tonal modulation and whether <em>paraphasic errors</em> (inappropriately substituted words or syllables), <em>neologisms</em> (nonexistent words), or errors in grammar are present. <br/><strong>Comprehension.</strong> Can the patient understand simple questions and commands? Comprehension of grammatical structure should be tested as well; for example, "Mike was shot by John. Is John dead?" <br/><strong>Naming.</strong> Ask the patient to name some easy (pen, watch, tie, etc.) and some more difficult (fingernail, belt buckle, stethoscope, etc.) objects. Naming parts of objects is often more difficult. Write down what was said to enable follow-up comparisons. <br/><strong>Repetition.</strong> Can the patient repeat single words and sentences (a standard is "no ifs ands or buts")? Again, titrate function using a range of easy to difficult tests, and write down what the patient says.<br/><strong>Reading.</strong> Ask the patient to read single words, a brief passage, and the front page of the newspaper aloud and test for comprehension. Writing. Ask the patient to write their name and write a sentence.</td>
+</tr>
+<tr>
+<td>Calculations</td>
+<td>Can the patient do simple addition, subtraction, and so on?</td>
+</tr>
+<tr>
+<td>Right-left confusion</td>
+<td>Can the patient identify right and left body parts?</td>
+</tr>
+<tr>
+<td>Ringer agnosia</td>
+<td>SequenceCan the patient name and identify each digit?</td>
+</tr>
+<tr>
+<td>Agraphia</td>
+<td><strong>Repetition.</strong> Can the patient repeat single words and sentences (a standard is "no ifs ands or buts")? Again, titrate function using a range of easy to difficult tests, and write down what the patient says.Can the patient write their name and a sentence?</td>
+</tr>
+<tr>
+<td>Apraxia</td>
+<td>Repetition</td>
+</tr>
+<tr>
+<td>Neglect and constructions</td>
+<td></td>
+</tr>
+<tr>
+<td>Sequencing</td>
+<td>Sequence</td>
+</tr>
+</tbody>
+</table>
 <h3 id="psychotherapy">Psychotherapy<a class="headerlink" href="#psychotherapy" title="Permanent link">&para;</a></h3>
-<hr />
-<p>Confrontation   to point out discrepancy in argument
-  Facilitation    ask questions to move discussion along
-  Empathy         try to put ourselves in the shoes of the patient and imagine the experience
-  Support         express concern independent of understanding
-  Reflection      to repeat what the patient is saying, perhaps by summarizing</p>
-<hr />
-<p>: General techniques that can be used during psychotherapy</p>
+<p>General techniques that can be used during psychotherapy
+| Technique     | Overview                                                                    |
+| :------------ | :-------------------------------------------------------------------------- |
+| Facilitation  | ask questions to move discussion along                                      |
+| Reflection    | to repeat what the patient is saying, perhaps by summarizing                |
+| Confrontation | to point out discrepancy in argument                                        |
+| Empathy       | try to put ourselves in the shoes of the patient and imagine the experience |
+| Support       | express concern independent of understanding                                |</p>
 <h4 id="supportive-psychotherapy">Supportive Psychotherapy<a class="headerlink" href="#supportive-psychotherapy" title="Permanent link">&para;</a></h4>
-<ul>
-<li>
-<p>Broadly applicable approach</p>
-</li>
-<li>
-<p>Provide encouragement with the aim to reduce stress, improve coping skills / adaptive defenses, and maintain hope</p>
-</li>
-</ul>
-<p>Application: targets lower functioning patients, patients in crisis, psychotic patients</p>
+<p>Application: targets lower functioning patients, patients in crisis, psychotic patients
+-   Broadly applicable approach
+-   Provide encouragement with the aim to reduce stress, improve coping skills / adaptive defenses, and maintain hope</p>
 <h4 id="motivational-interviewing">Motivational interviewing<a class="headerlink" href="#motivational-interviewing" title="Permanent link">&para;</a></h4>
-<p>targets lower functioning patients or patients in crisis</p>
-<ul>
-<li>
-<p>Enhances intrinsic motivation to change</p>
-</li>
-<li>
-<p>Non judgemental; acknowledges ambivalence and resistance</p>
-</li>
-</ul>
-<p>Application: substance use disorders, medication adherence issues</p>
+<p>Application: substance use disorders, medication adherence issues
+-   Enhances intrinsic motivation to change
+-   Non judgemental; acknowledges ambivalence and resistance</p>
 <h4 id="psychodynamic-psychotherapy">Psychodynamic psychotherapy<a class="headerlink" href="#psychodynamic-psychotherapy" title="Permanent link">&para;</a></h4>
-<ul>
-<li>
 <p>Targets higher functioning patients</p>
-</li>
+<ul>
 <li>
 <p>Trace problems back to their origins in childhood and unconscious conflict</p>
 </li>
@@ -3551,25 +4078,17 @@ Splitting &amp; Hold the unconscious belief that people are wholly good or wholl
 </li>
 </ul>
 <h4 id="dialectical-behavioral-therapy">Dialectical Behavioral Therapy<a class="headerlink" href="#dialectical-behavioral-therapy" title="Permanent link">&para;</a></h4>
+<p>Application: borderline personality disorder
+-   This integrates standard CBT techniques with principles of mindfulness, distress tolerance, and emotion regulation.</p>
 <ul>
-<li>
-<p>This integrates standard CBT techniques with principles of mindfulness, distress tolerance, and emotion regulation.</p>
-</li>
-<li>
-<p>Aim to decrease self harm and builts skills</p>
-</li>
+<li>Aim to decrease self harm and build skills</li>
 </ul>
-<p>Application: borderline personality disorder</p>
 <h4 id="interpersonal-psychotherapy">Interpersonal psychotherapy<a class="headerlink" href="#interpersonal-psychotherapy" title="Permanent link">&para;</a></h4>
-<ul>
-<li>links symptoms to current relationship conflicts and interpersonal skill deficits</li>
-</ul>
-<p>Application: Depression</p>
+<p>Application: Depression
+-   links symptoms to current relationship conflicts and interpersonal skill deficits</p>
 <h4 id="biofeedback">Biofeedback<a class="headerlink" href="#biofeedback" title="Permanent link">&para;</a></h4>
-<ul>
-<li>Improves control over physiological reaction to emoitional stressors</li>
-</ul>
-<p>Application: Patients with prominent physical symptoms e.g. muscle tension, anxiety, pain disorders</p>
+<p>Application: Patients with prominent physical symptoms e.g. muscle tension, anxiety, pain disorders
+-   Improves control over physiological reaction to emoitional stressors</p>
 <h4 id="family-therapy">Family therapy<a class="headerlink" href="#family-therapy" title="Permanent link">&para;</a></h4>
 <ul>
 <li>
@@ -3649,31 +4168,18 @@ Splitting &amp; Hold the unconscious belief that people are wholly good or wholl
 </ul>
 <h3 id="miscellaneous">Miscellaneous<a class="headerlink" href="#miscellaneous" title="Permanent link">&para;</a></h3>
 <ul>
-<li>
-<p>Difference between classical conditioning and operant conditioning is that operant conditioning generates a behavior via rewards but in classical conditioning a reflex response is elicited.</p>
-</li>
-<li>
-<p>The single strongest predictor of suidicde is a prior suicide attempt.</p>
-</li>
-<li>
-<p>Firearm ownership is heavily associated with homicide.</p>
-</li>
-<li>
-<p>Conditions that we don't expect to resolve in a short time - do not observe patient in ED</p>
-</li>
-<li>
-<p>In all cases, exclude medical or substance-use cause of psychiatric symptoms before diagnosing a truely psychological condition.</p>
-</li>
-<li>
-<p>Deliver bad-news at a face-to-face visit in a comfortable setting - allow physician to repond to nonverbal aspects of communication and provide empathy and emotional support as needed. It is also important to assess the patient's understanding of the condition, and how much the patient actually wants to know. Other steps include gaining an understanding of cultural/educational/religious issues, making medical information understandable to patient, and formulating a collaborative treatment plan. (SPIKES protocol)</p>
-</li>
-<li>
-<p>Help-rejecting patients who are hopeless about treatment can lead physicians to become frustrated and confrontational and to desire to refer the patient to another provider. Clear expression of empathy and a collaborative approach with limited goals are the most effective appraoches.</p>
-</li>
-<li>
-<p>Decisions about whether to accept gifts from patients include the cost, type, and timing of the gift and the motivation behind giving it. Gifts should not be accepted from patients experiencing a mood episode potentially affecting their judgement.</p>
-</li>
+<li>Patients of all ages and functional levels should be given the opportunity to meet the physician alone</li>
+<li>Difference between classical conditioning and operant conditioning is that operant conditioning generates a behavior via rewards but in classical conditioning a reflex response is elicited.</li>
+<li>The single strongest predictor of suidicde is a prior suicide attempt.</li>
+<li>Firearm ownership is heavily associated with homicide.</li>
+<li>Conditions that we don't expect to resolve in a short time - do not observe patient in ED</li>
+<li>In all cases, exclude medical or substance-use cause of psychiatric symptoms before diagnosing a truely psychological condition.</li>
+<li>Deliver bad-news at a face-to-face visit in a comfortable setting - allow physician to repond to nonverbal aspects of communication and provide empathy and emotional support as needed. It is also important to assess the patient's understanding of the condition, and how much the patient actually wants to know. Other steps include gaining an understanding of cultural/educational/religious issues, making medical information understandable to patient, and formulating a collaborative treatment plan. (SPIKES protocol)</li>
+<li>Help-rejecting patients who are hopeless about treatment can lead physicians to become frustrated and confrontational and to desire to refer the patient to another provider. Clear expression of empathy and a collaborative approach with limited goals are the most effective appraoches.</li>
+<li>Decisions about whether to accept gifts from patients include the cost, type, and timing of the gift and the motivation behind giving it. Gifts should not be accepted from patients experiencing a mood episode potentially affecting their judgement.</li>
 </ul>
+<h2 id="frameworks-for-psychiatry">Frameworks for Psychiatry<a class="headerlink" href="#frameworks-for-psychiatry" title="Permanent link">&para;</a></h2>
+<h3 id="psychosis">Psychosis 思觉失调<a class="headerlink" href="#psychosis" title="Permanent link">&para;</a></h3>
 <h2 id="neurodevelopmental-disorders">Neurodevelopmental Disorders<a class="headerlink" href="#neurodevelopmental-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="autism-spectrum-disorder">Autism Spectrum Disorder<a class="headerlink" href="#autism-spectrum-disorder" title="Permanent link">&para;</a></h3>
 <ul>
@@ -3884,7 +4390,7 @@ Splitting &amp; Hold the unconscious belief that people are wholly good or wholl
 </ul>
 </li>
 </ul>
-<h2 id="schizophrenia-spectrum-and-other-psychotic-disorders">Schizophrenia Spectrum and Other Psychotic Disorders<a class="headerlink" href="#schizophrenia-spectrum-and-other-psychotic-disorders" title="Permanent link">&para;</a></h2>
+<h2 id="schizophrenia-spectrum-and-other-psychotic-disorders">Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症<a class="headerlink" href="#schizophrenia-spectrum-and-other-psychotic-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="schizotypal-personality-disorder">Schizotypal (Personality) Disorder<a class="headerlink" href="#schizotypal-personality-disorder" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -4305,7 +4811,7 @@ Electrolyte disorder\</p>
 </ul>
 </li>
 </ul>
-<h2 id="bipolar-and-related-disorders">Bipolar and Related Disorders<a class="headerlink" href="#bipolar-and-related-disorders" title="Permanent link">&para;</a></h2>
+<h2 id="bipolar-and-related-disorders">Bipolar and Related Disorders 两极症<a class="headerlink" href="#bipolar-and-related-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="hypomanic-episode">Hypomanic Episode<a class="headerlink" href="#hypomanic-episode" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -4468,7 +4974,7 @@ Electrolyte disorder\</p>
 </ul>
 </li>
 </ul>
-<h2 id="depressive-disorders">Depressive Disorders<a class="headerlink" href="#depressive-disorders" title="Permanent link">&para;</a></h2>
+<h2 id="depressive-disorders">Depressive Disorders 抑郁症<a class="headerlink" href="#depressive-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="disruptive-mood-dysregulation-disorder">Disruptive Mood Dysregulation Disorder<a class="headerlink" href="#disruptive-mood-dysregulation-disorder" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -4736,7 +5242,7 @@ Electrolyte disorder\</p>
 </ul>
 </li>
 </ul>
-<h2 id="anxiety-disorders">Anxiety Disorders<a class="headerlink" href="#anxiety-disorders" title="Permanent link">&para;</a></h2>
+<h2 id="anxiety-disorders">Anxiety Disorders 焦虑症<a class="headerlink" href="#anxiety-disorders" title="Permanent link">&para;</a></h2>
 <h3 id="separation-anxiety-disorder">Separation Anxiety Disorder<a class="headerlink" href="#separation-anxiety-disorder" title="Permanent link">&para;</a></h3>
 <h3 id="selective-mutism">Selective Mutism<a class="headerlink" href="#selective-mutism" title="Permanent link">&para;</a></h3>
 <h3 id="specific-phobia">Specific Phobia<a class="headerlink" href="#specific-phobia" title="Permanent link">&para;</a></h3>
@@ -5829,6 +6335,7 @@ Body dysmorphic disorder &amp; intense preoccupation with a perceived defect in 
 <ul>
 <li>Gambling</li>
 </ul>
+<p>Note that substance abuse need to be reported to the Central Narcotic Bureau. In this case we are obliged to bridge patient confidentiality.</p>
 <h3 id="alcohol-related-diseases">Alcohol Related Diseases<a class="headerlink" href="#alcohol-related-diseases" title="Permanent link">&para;</a></h3>
 <h4 id="alcohol-abuse">Alcohol Abuse<a class="headerlink" href="#alcohol-abuse" title="Permanent link">&para;</a></h4>
 <p>Definition of alcohol use problem is by negative health effects. This has been found for</p>
@@ -5906,14 +6413,6 @@ Body dysmorphic disorder &amp; intense preoccupation with a perceived defect in 
 </ul>
 </li>
 </ul>
-<h4 id="alcohol-withdrawal-and-delirium-tremens">Alcohol Withdrawal and Delirium Tremens<a class="headerlink" href="#alcohol-withdrawal-and-delirium-tremens" title="Permanent link">&para;</a></h4>
-<p>Untreated alcohol withdrawal can progress; delirium tremens can be fatal in up to 5% of the cases and should be treated with benzodiazepine. In particular, in the hospital setting, lorazepam, an intermediate-duration benzodiazepine that can be given intravenously is preferred. It is also safer in patients with decreased liver function. Anticonvulsant phenobarbital has also been used as an adjunct to benzodiazepines in treatment-refractory alcohol withdrawal and withdrawal-related seizures.</p>
-<p>L2 in|L 2 in|L2 in Manifestations &amp; Symptoms / Signs &amp; Onset Since Last Drink\
-Mild withdrawal&amp; Anxiety, insomnia, tremors, diaphoresis, palpitations, GI upset, intact orientation &amp; 6 - 24\
-Seizures &amp; Single or multiple generalized tonic-clonic &amp; 12-48\
-Alcohol hallucinosis&amp; Visual, auditory, or tactile; intact orientation; stable vital signs &amp; 12 - 48\
-Delirium Tremens &amp; Confusion, agitation, fever, tachycardia, hypertension, diaphoresis, hallucinations &amp; 48 - 96\</p>
-<p>Patients with alcohol withdrawal also require frequent monitoring of vital signs, thiamine, folate, and nutritional support.</p>
 <h4 id="korsakoff-syndrome">Korsakoff Syndrome<a class="headerlink" href="#korsakoff-syndrome" title="Permanent link">&para;</a></h4>
 <p>A potential complication of Wernicke encephalopathy (WE), which is an acute disorder of thaimine deficiency characterized by the classic triad of encephaloapthy, ataxia, and oculomotor dysfunction. Although WE may be seen in conditions affecting oral intake other than alcohol use disorder (e.g. anorexia, hyperemesis gravidarum), the risk of WE progressing to KS is much higher in alcohol use disorder than in other WE-associated conditions.</p>
 <ul>
@@ -5951,19 +6450,17 @@ Delirium Tremens &amp; Confusion, agitation, fever, tachycardia, hypertension, d
 <ul>
 <li>Clinical feature: dementia, motor dysfunction, dysarthria</li>
 </ul>
-<h3 id="intoxication-syndromes">Intoxication Syndromes<a class="headerlink" href="#intoxication-syndromes" title="Permanent link">&para;</a></h3>
-<p>L1.25 in|L1.25 in|L1.5in|L1.5in Drug &amp; Action &amp; Symptoms &amp; Physical Exam\
-Heroin &amp; Opioid analgesic &amp; Euphoria, lethargy or coma &amp; <strong>Miosis</strong>, slowed respiration, decreased bowel sounds, normal or low heart rate and BP\
-Benzodiazepine &amp; GABA agonist &amp; mild euphoria, relaxation, slurred speech, amnesia, sedation &amp; decreased respiration, <strong>bradycardia</strong>, hypotension\
-Marijuana &amp; Psychoactive drug &amp; <strong>euphoria</strong>, short term memory loss, increased appetite, decreased perception of time &amp; Tachycardia, dry mouth, slowed reflexes, <strong>injected conjunctiva</strong>\
-Ecstasy &amp; Synthetic amphetamine with mild hyllucinogenic properties (MDMA receptor agonist, increase synaptic norepinephrine, dopamine, and serotonin) &amp; Increased sociability, empathy, and sexual desire; &amp; Amphetamine (HTN, tachycardia, hyperthermia), Serotonin syndrome, hyponatremia (inappropriate ADH secretion and excessive water intake to reduce hyperthermia).\
-Methylenedioxymethamphetamine (MDMA) &amp; &amp; <strong>Euphoria</strong> and increased energy &amp; bruxism and hyperthermia\
-Cocaine &amp; Stimulant - blocks reuptake of dopamine, epinephrine, serotonin &amp; <strong>Chest pain, seizures</strong>, headache, arousal, manic behavior, euphoria &amp; sympathetic simulation (Tachycardia, HTN, <strong>mydriasis</strong>)\
-Methampphetamine / Bath Salt&amp; Stimulant - symmpathomimetic &amp; <strong>Psychosis</strong>, <strong>violent behavior</strong>, agitation, diaphoresis &amp; Tachycardia, HTN, tooth decay, choreiform movements\
-Phenocycline &amp; Hallucinogen, NMDA receptor antagonist increased release of excitatory neurotransmitter &amp; <strong>Aggression</strong>, hallucination, memory loss, dissociation &amp; <strong>multidirectional nystagmus</strong>, ataxia\
-Ketamine &amp; NMDA receptor antagonist &amp; <strong>Hypersalivation</strong> &amp;\
-LSD &amp; Hallucinogen &amp; <strong>Visual hallucinations</strong>, euphoria, occasional dysphoria, panic, depersonalization &amp; Alert and oriented, mild tachycardia, HTN\
-Jimson Weed &amp; Anticholinergic, atropine-containing plant &amp; <strong>hallucinations</strong>, delirium &amp; hyperthermia, tachycardia, nonreactive mydriasis, dry red skin\</p>
+<h4 id="alcohol-withdrawal-and-delirium-tremens">Alcohol Withdrawal and Delirium Tremens<a class="headerlink" href="#alcohol-withdrawal-and-delirium-tremens" title="Permanent link">&para;</a></h4>
+<p>Untreated alcohol withdrawal can progress; delirium tremens can be fatal in up to 5% of the cases and should be treated with benzodiazepine. In particular, in the hospital setting, lorazepam, an intermediate-duration benzodiazepine that can be given intravenously is preferred. It is also safer in patients with decreased liver function. Anticonvulsant phenobarbital has also been used as an adjunct to benzodiazepines in treatment-refractory alcohol withdrawal and withdrawal-related seizures.</p>
+<p>| Manifestations       | Symptoms and Signs                                                                  | Time from last drink (hr) |
+| -------------------- | ----------------------------------------------------------------------------------- | ------------------------- |  |
+| Mild withdrawal      | Anxiety, insomnia, tremors, diaphoresis, palpitations, GI upset, intact orientation | 6 - 24                    |
+| Seizures             | Single or multiple generalized tonic-clonic                                         | 12 - 48                   |
+| Alcohol hallucinosis | Visual, auditory, or tactile; intact orientation; stable vital signs                | 12 - 48                   |
+| Delirium Tremens     | Confusion, agitation, fever, tachycardia, hypertension, diaphoresis, hallucinations | 48 - 96                   |</p>
+<p>Patients with alcohol withdrawal also require frequent monitoring of vital signs, thiamine, folate, and nutritional support.</p>
+<p>DT is a late complication of alcohol withdrawal that may affect up to 5% of patients who experience an initial milder withdrawal syndrome.  DT does not present before 48 hours after the last drink, but symptoms may take as long as 96 hours to be seen.  These symptoms may persist for up to 5 days and are associated with a mortality rate of up to 5%.</p>
+<p>Treatment of DT is similar to milder forms of alcohol withdrawal in that benzodiazepines (eg, lorazepam, diazepam) are the pharmacologic treatment of choice; however, the treatment of DT invariably requires intensive care unit–level supportive management.</p>
 <h4 id="drug-testing">Drug Testing<a class="headerlink" href="#drug-testing" title="Permanent link">&para;</a></h4>
 <p>L1 in|L1.5 in|L1.5 in|L1.5 in Drug &amp; +ve test (short-term use) &amp; +ve test (long-term) &amp; false positive\
 Amphetamine &amp; days &amp; days &amp; atenolol, propranolol, bupropion, nasal decongestants\
@@ -5973,24 +6470,19 @@ Opioids &amp; days &amp; days &amp; poppy seeds\
 Phencyclidine &amp; days &amp; days &amp; dextromethorphan, diphenhydramine, doxylamine, ketamine, tramadol, venlafaxine\</p>
 <p>Also note that standard urine screens do not detect semisynthetic (e.g. hydrocodone, hydromorphone, oxycodone) or snythetic (e.g. fentanyl, meperidine, methadone, tramadol) opioids.</p>
 <h3 id="amphetamine-intoxication">Amphetamine Intoxication<a class="headerlink" href="#amphetamine-intoxication" title="Permanent link">&para;</a></h3>
+<p>acetaminophen toxicity causes a predictable clinical sequence of nausea and vomiting, right upper quadrant pain, and potential liver failure and death. Seizures are not typical.</p>
 <ul>
 <li>
 <p>Clinical Features</p>
 <ul>
-<li>
-<p>delusions, tactile hallucinations, aggressive behavior, severe insomnia, mood disturbances</p>
-</li>
-<li>
-<p>physical findings of poor dentition, bruxism, and skin sores or excoriations due to chronic skin picking, sympathetic overactivity (elevated pulse and BP, hyperthermia, pupillary dilation)</p>
-</li>
+<li>delusions, tactile hallucinations, aggressive behavior, severe insomnia, mood disturbances</li>
+<li>physical findings of poor dentition, bruxism, and skin sores or excoriations due to chronic skin picking, sympathetic overactivity (elevated pulse and BP, hyperthermia, pupillary dilation)</li>
+<li>Decongestant pseudoephedrine and antidepresants bupropion and selegiline can cause false positives for amphetamine on urine toxicology testing.</li>
 </ul>
 </li>
-</ul>
-<p><code>{=html}
-&lt;!-- --&gt;</code>
--   Decongestant pseudoephedrine and antidepresants bupropion and selegiline can cause false positives for amphetamine on urine toxicology testing.</p>
-<ul>
-<li>Newer synthetic cathinones may not be detectable on routine toxicology screens.</li>
+<li>
+<p>Newer synthetic cathinones may not be detectable on routine toxicology screens.</p>
+</li>
 </ul>
 <h3 id="inhalant-abuse">Inhalant Abuse<a class="headerlink" href="#inhalant-abuse" title="Permanent link">&para;</a></h3>
 <p>Commonly abused inhalants include glue, toluene, nitrous oxide, amyl nitrite, and spray paints. They may be abused by sniffing, huffing (inhaled from a saturated cloth), or bagging (bag over mouth or nose) to concentrate the inhaled substance</p>
@@ -6035,6 +6527,11 @@ Stimulants &amp; Psychomotor retardation, severe depression ("crash"), hypersomn
 Cocaine &amp; depression, fatigue, hypersomnia, increased dreaming, hyperphasia, intense drug craving, impaired concentration &amp; lack of or minor physical symptoms &amp; -\
 Nicotine &amp; <strong>Increase appetite</strong>, dysphoria, irritability, anxiety &amp; No significant finding &amp;\
 Cannabis &amp; <strong>Decreased appetite</strong>, irritability, anxiety, depressed mood, insomnia&amp; no significant finding &amp;\</p>
+<h3 id="opioid-related-diseases">Opioid Related Diseases<a class="headerlink" href="#opioid-related-diseases" title="Permanent link">&para;</a></h3>
+<h4 id="opioid-intoxication">Opioid intoxication<a class="headerlink" href="#opioid-intoxication" title="Permanent link">&para;</a></h4>
+<p>(which can be reversed with the opioid antagonist naloxone) can cause weakness, lethargy, and respiratory failure; however, most patients have bradypnea, and ptosis is uncommon.  </p>
+<h4 id="opioid-withdrawal">Opioid Withdrawal<a class="headerlink" href="#opioid-withdrawal" title="Permanent link">&para;</a></h4>
+<p>Intravenous buprenorphine can be used to treat symptoms of opioid withdrawal, which is usually characterized by flulike symptoms (eg, myalgia, rhinorrhea, diarrhea); </p>
 <h3 id="gambling-disorder">Gambling Disorder<a class="headerlink" href="#gambling-disorder" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -6073,19 +6570,15 @@ Cannabis &amp; <strong>Decreased appetite</strong>, irritability, anxiety, depre
 </li>
 </ul>
 <h2 id="medication-related-disorders">Medication-related Disorders<a class="headerlink" href="#medication-related-disorders" title="Permanent link">&para;</a></h2>
-<h3 id="extrapyramidal-symoptom-associated-with-antipsychotics">Extrapyramidal symoptom associated with antipsychotics<a class="headerlink" href="#extrapyramidal-symoptom-associated-with-antipsychotics" title="Permanent link">&para;</a></h3>
-<p>L1 in | L3 in | L2 in Effect &amp; Description &amp; Pharmacotherapy\
-Parkinsonism &amp; Gradual-onset tremor, rigidity, and bradykinesia &amp; benztropine, amantadine\
-Acute dystonia &amp; Sudden sustained contraction of the neck, mouth, tongue and eye muscles &amp; benzotropine, diphenhydramine\
-Akathisia &amp; Subjective restlessness, inability to sit still &amp; beta blocker (propanolol), benzo (lorazepam), benztropine\
-Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dyskinesia of the month, face, trunk, and extremities; Due to D2 receptor upregulation and supersensitivity from chronic blockage OR imbalance between D1 and D2 in basal ganglia, as well as excitotoxic destruction of GABA neurons in the striatum &amp; Valbenazine, deutetrabenazine\</p>
+<h3 id="extrapyramidal-symptom-associated-with-antipsychotics">Extrapyramidal symptom associated with antipsychotics<a class="headerlink" href="#extrapyramidal-symptom-associated-with-antipsychotics" title="Permanent link">&para;</a></h3>
+<p>Effect | Description | Pharmacotherapy
+|--|--|--
+Parkinsonism | Gradual-onset tremor, rigidity, and bradykinesia | benztropine, amantadine
+Acute dystonia | Sudden sustained contraction of the neck, mouth, tongue and eye muscles | benzotropine, diphenhydramine
+Akathisia | Subjective restlessness, inability to sit still | beta blocker (propanolol), benzo (lorazepam), benztropine
+Tardive dyskinesia | Gradual onset after prolonged therapy (&gt;6 months): dyskinesia of the month, face, trunk, and extremities; Due to D2 receptor upregulation and supersensitivity from chronic blockage OR imbalance between D1 and D2 in basal ganglia, as well as excitotoxic destruction of GABA neurons in the striatum | Valbenazine, deutetrabenazine</p>
 <ul>
-<li>
-<p>Treatment</p>
-<ul>
-<li>Propranolol</li>
-</ul>
-</li>
+<li>Treatment: Propranolol</li>
 </ul>
 <h3 id="neuroleptic-malignant-syndrome">Neuroleptic Malignant Syndrome<a class="headerlink" href="#neuroleptic-malignant-syndrome" title="Permanent link">&para;</a></h3>
 <p>This is a potentially lethal reaction to antipsychotic medications. Althogh NMS is not fully understood and the involvement of multiple neurotransmitters has been proposed, it is thought to be primarily due to dysregulation of dopamine caused by D2 receptor antagonism. Dopamine antagonism in the nigrostriatal pathway may lead to diffuse lead pipe rigidity seen in NMS. D2 antagonism is the mechanism of action of all first-generation and most second generation antipsychotics.</p>
@@ -6170,34 +6663,22 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
 <li>
 <p>Etiology</p>
 <ul>
-<li>
-<p>Acute - intentional overdose</p>
-</li>
-<li>
-<p>Chronic - decreased renal perfusion due to dehydration or medication (thiazide, NSAIDs, ACEi)</p>
-</li>
+<li>Acute - intentional overdose</li>
+<li>Chronic - decreased renal perfusion due to dehydration or medication (thiazide, NSAIDs, ACEi)</li>
 </ul>
 </li>
 <li>
 <p>Clinical features</p>
 <ul>
-<li>
-<p>Acute: GI disturbance, vomiting, diarrhea, with late neurological sequelaw</p>
-</li>
-<li>
-<p>Chronic: letharguy, confusion, agitation, ataxia, tremor / fasciculations, seizure</p>
-</li>
+<li>Acute: GI disturbance, vomiting, diarrhea, with late neurological sequelaw</li>
+<li>Chronic: lethargy, confusion, agitation, ataxia, tremor / fasciculations, seizure</li>
 </ul>
 </li>
 <li>
 <p>Management</p>
 <ul>
-<li>
-<p>IV hydration (dilution) if mild</p>
-</li>
-<li>
-<p>Hemodialysis if severe (lithium level >2.5 mEq/L and prominent signs of toxicity)</p>
-</li>
+<li>IV hydration (dilution) if mild</li>
+<li>Hemodialysis if severe (lithium level >2.5 mEq/L and prominent signs of toxicity)</li>
 </ul>
 </li>
 </ul>
@@ -6349,10 +6830,6 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
 </ul>
 </li>
 </ul>
-<h2 id="clinical-practice">Clinical Practice<a class="headerlink" href="#clinical-practice" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Patients of all ages and functional levels should be given the opportunity to meet the physician alone</li>
-</ul>
                 
                   
                     
@@ -6361,7 +6838,7 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
 <div class="md-source-date">
   <small>
     
-      Last update: April 7, 2020
+      Last update: June 21, 2020
     
   </small>
 </div>
@@ -6384,7 +6861,7 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../rheumatology/" title="Rheumatology" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../dermatology/" title="Dermatology" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg>
             </div>
@@ -6393,19 +6870,19 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Rheumatology
+                Dermatology
               </div>
             </div>
           </a>
         
         
-          <a href="../frontiers/" title="Frontiers" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../ophthalmology/" title="Ophthalmology" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Frontiers
+                Ophthalmology
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
@@ -6464,14 +6941,16 @@ Tardive dyskinesia &amp; Gradual onset after prolonged therapy (>6 months): dysk
       <script>
         app = initialize({
           base: "..",
-          features: ["instant", "tabs"],
+          features: ["tabs"],
           search: Object.assign({
             worker: "../assets/javascripts/worker/search.3bc815f0.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <script src="../javascripts/extra.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

@@ -1,0 +1,104 @@
+body {
+    counter-reset: h2;
+    overscroll-behavior: none !important;
+}
+
+h2 {
+    counter-reset: h3;
+}
+
+h3 {
+    counter-reset: h4;
+}
+
+h4 {
+    counter-reset: h5;
+}
+
+h5 {
+    counter-reset: h6;
+}
+
+article h2:before {
+    content: counter(h2, decimal) ". " !important;
+    counter-increment: h2;
+    display: inline !important;
+    opacity: 0.8;
+}
+
+article h3:before {
+    content: counter(h2, decimal) "." counter(h3, decimal) ". " !important;
+    counter-increment: h3;
+    display: inline !important;
+    opacity: 0.8;
+}
+
+article h4:before {
+    content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) ". " !important;
+    counter-increment: h4;
+    display: inline !important;
+    opacity: 0.8;
+}
+
+article h5:before {
+    content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) ". " !important;
+    counter-increment: h5;
+    display: inline !important;
+    opacity: 0.8;
+}
+
+article h6:before {
+    content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) "." counter(h6, decimal) ". " !important;
+    counter-increment: h6;
+    display: inline !important;
+    opacity: 0.8;
+}
+
+h2.nocount:before,
+h3.nocount:before,
+h4.nocount:before,
+h5.nocount:before,
+h6.nocount:before {
+    content: "";
+    counter-increment: none;
+}
+
+[data-md-component="toc"] .md-nav ul {
+    list-style-type: none;
+    counter-reset: item;
+    margin: 0;
+    padding: 0;
+}
+
+[data-md-component="toc"] .md-nav ul>li {
+    display: table;
+    counter-increment: item;
+}
+
+[data-md-component="toc"] .md-nav ul>li:before {
+    content: counters(item, ".") ". ";
+    display: table-cell;
+    padding-right: 0.4em;
+    font-size: 85%;
+}
+
+[data-md-component="toc"] .md-nav li ul>li {
+    margin: 0;
+}
+
+[data-md-component="toc"] .md-nav li ul>li:before {
+    content: counters(item, ".") " ";
+}
+
+[data-md-component="toc"] .md-nav__item {
+    padding: 0 0.3em 0 0;
+}
+
+[data-md-component="toc"] .md-nav li ul>li ul>li:before {
+    content: "";
+    display: none;
+}
+
+[data-md-component="toc"] .md-nav li ul>li ul>li {
+    font-size: 90%;
+}
