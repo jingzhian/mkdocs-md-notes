@@ -35,6 +35,40 @@ Basic Knowledge
 | Sublimation         | Channel impulses to socially acceptable behaviors                   |
 | Altruism            | Removing sense of guilty by giving to others without solicitation   |
 
+
+
+### Sentinel Questions for Psychiatrics Symptoms
+
+| Symptoms      | Questions                                                    |
+| ------------- | ------------------------------------------------------------ |
+| Delusion      | "Do you feel that someone is watching you or trying to hurt you?" <br/>"Do you have any special abilities or powers?" |
+| Hallucination | "Do you ever hear things that other people don't hear or see things that other people don't see?" |
+|               |                                                              |
+
+
+
+### Physical Examination
+
+#### Mental Status Examination
+
+consciousness, orientation, attention, perception, thinking, memory, motor, sleep
+
+| Signs                     | Task                                                         |
+| ------------------------- | ------------------------------------------------------------ |
+| Attention                 | spelling a short word forward and backward (W-O-R-L-D / D-L-R-O-W is a standard) <br/>repeating a string of integers forward and backward (digit span, normal is 6 or more forward and 4 or more backward, depending slightly on age and education) <br/>naming the months forward and then backward |
+| Orientation               | Ask for the patient's full name, the location, and the date, and note the exact response.<br/>Document: "alert and oriented to person, place, and time"—abbreviated as "A&O×3." |
+| Memory                    | **Recent Memory**: Ask the patient to recall three items  after a delay of 3 to 5 minutes. Be sure the information has been registered by asking the patient to repeat it immediately before initiating the delay. <br/>Sequence **Remote memory.** Ask the patient about historical or verifiable personal events. |
+| Language                  | **Spontaneous speech.** Note the patient's fluency, including phrase length, rate, and abundance of spontaneous speech. Also note tonal modulation and whether *paraphasic errors* (inappropriately substituted words or syllables), *neologisms* (nonexistent words), or errors in grammar are present. <br/>**Comprehension.** Can the patient understand simple questions and commands? Comprehension of grammatical structure should be tested as well; for example, "Mike was shot by John. Is John dead?" <br/>**Naming.** Ask the patient to name some easy (pen, watch, tie, etc.) and some more difficult (fingernail, belt buckle, stethoscope, etc.) objects. Naming parts of objects is often more difficult. Write down what was said to enable follow-up comparisons. <br/>**Repetition.** Can the patient repeat single words and sentences (a standard is "no ifs ands or buts")? Again, titrate function using a range of easy to difficult tests, and write down what the patient says.<br/>**Reading.** Ask the patient to read single words, a brief passage, and the front page of the newspaper aloud and test for comprehension. Writing. Ask the patient to write their name and write a sentence. |
+| Calculations              | Can the patient do simple addition, subtraction, and so on?  |
+| Right-left confusion      | Can the patient identify right and left body parts?          |
+| Ringer agnosia            | SequenceCan the patient name and identify each digit?        |
+| Agraphia                  | **Repetition.** Can the patient repeat single words and sentences (a standard is "no ifs ands or buts")? Again, titrate function using a range of easy to difficult tests, and write down what the patient says.Can the patient write their name and a sentence? |
+| Apraxia                   | Repetition                                                   |
+| Neglect and constructions |                                                              |
+| Sequencing                | Sequence                                                     |
+
+
+
 ### Psychotherapy
 
 General techniques that can be used during psychotherapy
@@ -45,7 +79,7 @@ General techniques that can be used during psychotherapy
 | Confrontation | to point out discrepancy in argument                                        |
 | Empathy       | try to put ourselves in the shoes of the patient and imagine the experience |
 | Support       | express concern independent of understanding                                |
-  
+
 
 #### Supportive Psychotherapy
 Application: targets lower functioning patients, patients in crisis, psychotic patients
@@ -98,7 +132,7 @@ Application: borderline personality disorder
 -   This integrates standard CBT techniques with principles of mindfulness, distress tolerance, and emotion regulation.
 
 -   Aim to decrease self harm and build skills
-  
+
 #### Interpersonal psychotherapy
 Application: Depression
 -   links symptoms to current relationship conflicts and interpersonal skill deficits
@@ -157,20 +191,19 @@ Application: Patients with prominent physical symptoms e.g. muscle tension, anxi
 
 -   Patients of all ages and functional levels should be given the opportunity to meet the physician alone
 -   Difference between classical conditioning and operant conditioning is that operant conditioning generates a behavior via rewards but in classical conditioning a reflex response is elicited.
-
 -   The single strongest predictor of suidicde is a prior suicide attempt.
-
 -   Firearm ownership is heavily associated with homicide.
-
 -   Conditions that we don't expect to resolve in a short time - do not observe patient in ED
-
 -   In all cases, exclude medical or substance-use cause of psychiatric symptoms before diagnosing a truely psychological condition.
-
 -   Deliver bad-news at a face-to-face visit in a comfortable setting - allow physician to repond to nonverbal aspects of communication and provide empathy and emotional support as needed. It is also important to assess the patient's understanding of the condition, and how much the patient actually wants to know. Other steps include gaining an understanding of cultural/educational/religious issues, making medical information understandable to patient, and formulating a collaborative treatment plan. (SPIKES protocol)
-
 -   Help-rejecting patients who are hopeless about treatment can lead physicians to become frustrated and confrontational and to desire to refer the patient to another provider. Clear expression of empathy and a collaborative approach with limited goals are the most effective appraoches.
-
 -   Decisions about whether to accept gifts from patients include the cost, type, and timing of the gift and the motivation behind giving it. Gifts should not be accepted from patients experiencing a mood episode potentially affecting their judgement.
+
+## Frameworks for Psychiatry
+
+### Psychosis 思觉失调
+
+
 
 Neurodevelopmental Disorders
 ----------------------------
@@ -302,7 +335,7 @@ One of the most common learning disorder.
     -   Paroxysmal dyskinesia\
         Movement disorder in which episodic attacks of involuntary motor dysfunction (e.g. dystonia, choreoathetosis) occur. These episodes are usually precipitated by sudden movement, exercise, or stress. Consciousness is preserved.
 
-Schizophrenia Spectrum and Other Psychotic Disorders
+Schizophrenia Spectrum and Other Psychotic Disorders 精神分裂症
 ----------------------------------------------------
 
 ### Schizotypal (Personality) Disorder
@@ -582,7 +615,7 @@ Dissociative Disorders
 
     -   Is frequently reversible
 
-Bipolar and Related Disorders
+Bipolar and Related Disorders 两极症
 -----------------------------
 
 ### Hypomanic Episode
@@ -681,7 +714,7 @@ Bipolar and Related Disorders
 
     -   years of fluctuating, mild hypomanic and depressive symptoms that do not meet criteria for hypomanic or major depressive episodes.
 
-Depressive Disorders
+Depressive Disorders 抑郁症
 --------------------
 
 ### Disruptive Mood Dysregulation Disorder
@@ -846,7 +879,7 @@ Also known as seasonable affective disorder
 
     -   Cognitive behavior therapy has mixed results, may help to reduce affective symptoms and preoccupation with physical symptoms in patients who wish to avoid medication.
 
-Anxiety Disorders
+Anxiety Disorders 焦虑症
 -----------------
 
 ### Separation Anxiety Disorder
@@ -1625,6 +1658,8 @@ Non-substance-related problem
 
 -   Gambling
 
+Note that substance abuse need to be reported to the Central Narcotic Bureau. In this case we are obliged to bridge patient confidentiality.
+
 ### Alcohol Related Diseases
 
 #### Alcohol Abuse
@@ -1675,18 +1710,6 @@ Diagnosis
 
         -   Can only be used in abstinent patients who are highly motivated or take the medication in a supervised setting
 
-#### Alcohol Withdrawal and Delirium Tremens
-
-Untreated alcohol withdrawal can progress; delirium tremens can be fatal in up to 5% of the cases and should be treated with benzodiazepine. In particular, in the hospital setting, lorazepam, an intermediate-duration benzodiazepine that can be given intravenously is preferred. It is also safer in patients with decreased liver function. Anticonvulsant phenobarbital has also been used as an adjunct to benzodiazepines in treatment-refractory alcohol withdrawal and withdrawal-related seizures.
-
-L2 in\|L 2 in\|L2 in Manifestations & Symptoms / Signs & Onset Since Last Drink\
-Mild withdrawal& Anxiety, insomnia, tremors, diaphoresis, palpitations, GI upset, intact orientation & 6 - 24\
-Seizures & Single or multiple generalized tonic-clonic & 12-48\
-Alcohol hallucinosis& Visual, auditory, or tactile; intact orientation; stable vital signs & 12 - 48\
-Delirium Tremens & Confusion, agitation, fever, tachycardia, hypertension, diaphoresis, hallucinations & 48 - 96\
-
-Patients with alcohol withdrawal also require frequent monitoring of vital signs, thiamine, folate, and nutritional support.
-
 #### Korsakoff Syndrome
 
 A potential complication of Wernicke encephalopathy (WE), which is an acute disorder of thaimine deficiency characterized by the classic triad of encephaloapthy, ataxia, and oculomotor dysfunction. Although WE may be seen in conditions affecting oral intake other than alcohol use disorder (e.g. anorexia, hyperemesis gravidarum), the risk of WE progressing to KS is much higher in alcohol use disorder than in other WE-associated conditions.
@@ -1713,21 +1736,24 @@ Severe damage to the corpus callosum and surrounding white matter in the context
 
 -   Clinical feature: dementia, motor dysfunction, dysarthria
 
-### Intoxication Syndromes
+#### Alcohol Withdrawal and Delirium Tremens
 
-| Drug                                 | Action                                                                                                                                       | Symptoms                                                                               | Physical Exam                                                                                                                                                   |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Heroin                               | Opioid analgesic                                                                                                                             | Euphoria, lethargy or coma                                                             | **Miosis**, slowed respiration, decreased bowel sounds, normal or low heart rate and BP                                                                         |
-| Benzodiazepine                       | GABA agonist                                                                                                                                 | mild euphoria, relaxation, slurred speech, amnesia, sedation                           | decreased respiration, **bradycardia**, hypotension                                                                                                             |
-| Marijuana                            | Psychoactive drug                                                                                                                            | **euphoria**, short term memory loss, increased appetite, decreased perception of time | Tachycardia, dry mouth, slowed reflexes, **injected conjunctiva**                                                                                               |
-| Ecstasy                              | Synthetic amphetamine with mild hyllucinogenic properties (MDMA receptor agonist, increase synaptic norepinephrine, dopamine, and serotonin) | Increased sociability, empathy, and sexual desire;                                     | Amphetamine (HTN, tachycardia, hyperthermia), Serotonin syndrome, hyponatremia (inappropriate ADH secretion and excessive water intake to reduce hyperthermia). |
-| Methylenedioxymethamphetamine (MDMA) |                                                                                                                                              | **Euphoria** and increased energy                                                      | bruxism and hyperthermia                                                                                                                                        |
-| Cocaine                              | Stimulant - blocks reuptake of dopamine, epinephrine, serotonin                                                                              | **Chest pain, seizures**, headache, arousal, manic behavior, euphoria                  | sympathetic simulation (Tachycardia, HTN, **mydriasis**)                                                                                                        |
-| Methampphetamine / Bath Salt         | Stimulant - symmpathomimetic                                                                                                                 | **Psychosis**, **violent behavior**, agitation, diaphoresis                            | Tachycardia, HTN, tooth decay, choreiform movements                                                                                                             |
-| Phenocycline                         | Hallucinogen, NMDA receptor antagonist increased release of excitatory neurotransmitter                                                      | **Aggression**, hallucination, memory loss, dissociation                               | **multidirectional nystagmus**, ataxia                                                                                                                          |
-| Ketamine                             | NMDA receptor antagonist                                                                                                                     | **Hypersalivation**                                                                    |
-| LSD                                  | Hallucinogen                                                                                                                                 | **Visual hallucinations**, euphoria, occasional dysphoria, panic, depersonalization    | Alert and oriented, mild tachycardia, HTN                                                                                                                       |
-| Jimson Weed                          | Anticholinergic, atropine-containing plant                                                                                                   | **hallucinations**, delirium                                                           | hyperthermia, tachycardia, nonreactive mydriasis, dry red skin                                                                                                  |
+Untreated alcohol withdrawal can progress; delirium tremens can be fatal in up to 5% of the cases and should be treated with benzodiazepine. In particular, in the hospital setting, lorazepam, an intermediate-duration benzodiazepine that can be given intravenously is preferred. It is also safer in patients with decreased liver function. Anticonvulsant phenobarbital has also been used as an adjunct to benzodiazepines in treatment-refractory alcohol withdrawal and withdrawal-related seizures.
+
+| Manifestations       | Symptoms and Signs                                                                  | Time from last drink (hr) |
+| -------------------- | ----------------------------------------------------------------------------------- | ------------------------- |  |
+| Mild withdrawal      | Anxiety, insomnia, tremors, diaphoresis, palpitations, GI upset, intact orientation | 6 - 24                    |
+| Seizures             | Single or multiple generalized tonic-clonic                                         | 12 - 48                   |
+| Alcohol hallucinosis | Visual, auditory, or tactile; intact orientation; stable vital signs                | 12 - 48                   |
+| Delirium Tremens     | Confusion, agitation, fever, tachycardia, hypertension, diaphoresis, hallucinations | 48 - 96                   |
+
+Patients with alcohol withdrawal also require frequent monitoring of vital signs, thiamine, folate, and nutritional support.
+
+DT is a late complication of alcohol withdrawal that may affect up to 5% of patients who experience an initial milder withdrawal syndrome.  DT does not present before 48 hours after the last drink, but symptoms may take as long as 96 hours to be seen.  These symptoms may persist for up to 5 days and are associated with a mortality rate of up to 5%.
+
+Treatment of DT is similar to milder forms of alcohol withdrawal in that benzodiazepines (eg, lorazepam, diazepam) are the pharmacologic treatment of choice; however, the treatment of DT invariably requires intensive care unit–level supportive management.
+
+
 
 #### Drug Testing
 
@@ -1742,15 +1768,12 @@ Also note that standard urine screens do not detect semisynthetic (e.g. hydrocod
 
 ### Amphetamine Intoxication
 
+acetaminophen toxicity causes a predictable clinical sequence of nausea and vomiting, right upper quadrant pain, and potential liver failure and death. Seizures are not typical.
+
 -   Clinical Features
 
     -   delusions, tactile hallucinations, aggressive behavior, severe insomnia, mood disturbances
-
-    -   physical findings of poor dentition, bruxism, and skin sores or excoriations due to chronic skin picking, sympathetic overactivity (elevated pulse and BP, hyperthermia, pupillary dilation)
-
-```{=html}
-<!-- -->
-```
+-   physical findings of poor dentition, bruxism, and skin sores or excoriations due to chronic skin picking, sympathetic overactivity (elevated pulse and BP, hyperthermia, pupillary dilation)
 -   Decongestant pseudoephedrine and antidepresants bupropion and selegiline can cause false positives for amphetamine on urine toxicology testing.
 
 -   Newer synthetic cathinones may not be detectable on routine toxicology screens.
@@ -1789,6 +1812,18 @@ Cocaine & depression, fatigue, hypersomnia, increased dreaming, hyperphasia, int
 Nicotine & **Increase appetite**, dysphoria, irritability, anxiety & No significant finding &\
 Cannabis & **Decreased appetite**, irritability, anxiety, depressed mood, insomnia& no significant finding &\
 
+
+
+### Opioid Related Diseases
+
+#### Opioid intoxication
+
+(which can be reversed with the opioid antagonist naloxone) can cause weakness, lethargy, and respiratory failure; however, most patients have bradypnea, and ptosis is uncommon.  
+
+#### Opioid Withdrawal
+
+Intravenous buprenorphine can be used to treat symptoms of opioid withdrawal, which is usually characterized by flulike symptoms (eg, myalgia, rhinorrhea, diarrhea); 
+
 ### Gambling Disorder
 
 -   Clinical feature: characteristics related to problematic gambling
@@ -1816,15 +1851,14 @@ Medication-related Disorders
 
 ### Extrapyramidal symptom associated with antipsychotics
 
-L1 in \| L3 in \| L2 in Effect & Description & Pharmacotherapy\
-Parkinsonism & Gradual-onset tremor, rigidity, and bradykinesia & benztropine, amantadine\
-Acute dystonia & Sudden sustained contraction of the neck, mouth, tongue and eye muscles & benzotropine, diphenhydramine\
-Akathisia & Subjective restlessness, inability to sit still & beta blocker (propanolol), benzo (lorazepam), benztropine\
-Tardive dyskinesia & Gradual onset after prolonged therapy (\>6 months): dyskinesia of the month, face, trunk, and extremities; Due to D2 receptor upregulation and supersensitivity from chronic blockage OR imbalance between D1 and D2 in basal ganglia, as well as excitotoxic destruction of GABA neurons in the striatum & Valbenazine, deutetrabenazine\
+Effect | Description | Pharmacotherapy
+|--|--|--
+Parkinsonism | Gradual-onset tremor, rigidity, and bradykinesia | benztropine, amantadine
+Acute dystonia | Sudden sustained contraction of the neck, mouth, tongue and eye muscles | benzotropine, diphenhydramine
+Akathisia | Subjective restlessness, inability to sit still | beta blocker (propanolol), benzo (lorazepam), benztropine
+Tardive dyskinesia | Gradual onset after prolonged therapy (>6 months): dyskinesia of the month, face, trunk, and extremities; Due to D2 receptor upregulation and supersensitivity from chronic blockage OR imbalance between D1 and D2 in basal ganglia, as well as excitotoxic destruction of GABA neurons in the striatum | Valbenazine, deutetrabenazine
 
--   Treatment
-
-    -   Propranolol
+- Treatment: Propranolol
 
 ### Neuroleptic Malignant Syndrome
 
@@ -1877,21 +1911,15 @@ Happens when MAOIs are combined with serotonergic antidepressants, illicit subst
 ### Lithium Toxicity
 
 -   Etiology
-
     -   Acute - intentional overdose
-
     -   Chronic - decreased renal perfusion due to dehydration or medication (thiazide, NSAIDs, ACEi)
 
 -   Clinical features
-
     -   Acute: GI disturbance, vomiting, diarrhea, with late neurological sequelaw
-
-    -   Chronic: letharguy, confusion, agitation, ataxia, tremor / fasciculations, seizure
+    -   Chronic: lethargy, confusion, agitation, ataxia, tremor / fasciculations, seizure
 
 -   Management
-
     -   IV hydration (dilution) if mild
-
     -   Hemodialysis if severe (lithium level \>2.5 mEq/L and prominent signs of toxicity)
 
 ### TCA Overdose

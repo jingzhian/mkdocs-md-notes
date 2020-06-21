@@ -1285,6 +1285,8 @@ African American women are more likely to have preeclampsia than other women (As
 
         Manage pulmomary edema with supplemental oxygen, fluid restriction, and cautious diuresis.
 
+    - Posterior shoulder dislocation due to seizure
+
 -   Management
 
     -   Gestational HTN only: Low dose aspirin in high risk patients should be initiated at 12 - 28 weeks and ideally before 16 weeks and continued daily until delivery - inhibits platelet aggregation and helps prevent placental ischemia;
@@ -1621,21 +1623,14 @@ Oxytocin, commonly used for induction of labor and postpartum hemorrhage managem
 Magnesium is the treatment of choice for the prevention of eclamptic seizures, it is also administered to patients for whom preterm delivery is imminent as it decreases risk for cerebral palsy in premature infants.
 
 -   Common adverse effect of magnesium sulfate
-
     -   Headache
-
     -   Nausea
-
     -   Fatigue
-
     -   Diaphoresis
 
 -   Signs of toxicity
-
     -   Affect skeletal muscle Loss of deep tendon reflex, muscle weakness, respiratory depression
-
     -   Affect cardiac muscle prolonged conduction time and cardiac arrest
-
     -   Somnolence
 
 -   Risk factors for toxicity

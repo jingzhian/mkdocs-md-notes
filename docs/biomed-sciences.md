@@ -4,6 +4,25 @@ Essential Biomedical Sciences and Related Clinical Issues
 [[TOC]]
 This section covers principles that are useful across multiple specialities and form the basis of patient management.
 
+The central dogma of biology and related concepts
+-------------------------------------------------
+
+-   Mitosis - Centrioles Replicate in G1, DNA replicate in S, Final growth in G2, prophase, metaphase, anaphase, telophase, cytokinesis.
+
+    -   Ki-67 / MIB-I / Cyclin for detection of mitotic activity
+
+-   Exons are parts of the gene that's translated and introns are not.
+
+-   Transcription happen from 5' to 3'; with addition of 5' cap of 7-methylguanosine triphosphate and poly(A)tail at the 3' end. Introns are then removed by spliceosomes.
+
+-   Arginine and histidine are conditionally essential and must be provided in diet during rapid growth.
+
+-   Translation also occur in the 5' to 3' direction. It starts at AUG in mRNA for methionine and terminates on UGA, UAA, UAG.
+
+-   Chaperone proteins ensure final conformation is good. Signal peptide binds to signal recognition particle (SRP) to lead the growing pepetide chain into the cavity of endoplasmic reticulum.
+
+-   Unibinquitination usually marks the protein for degradation but not always; cytoplasmic proteins are degraded in protasomes, while membrane proteins are degraded in proteasomes and lysosomes.
+
 Anatomy
 -------
 
@@ -149,25 +168,6 @@ Electrolytes
 
 -   Salivary, pancreas, bile, and ileum, are high in HCO3
 
-Acid-Base Disorders
--------------------
-
-Acidosis and alkalosis arise from changes in respiration or metabolic disturbances, result in deviation of body pH from the normal range of 7.35 - 7.45, and impact the delivery of and removal of . Metabolic acidosis/alkalosis can be due to electrolyte disturbances, severe vomiting or diarrhea, ingestion of certain drugs and toxins, kidney disease, and diseases that affect normal metabolism such as diabetes. Treatment include
-
--   correct underlying disorder
-
--   symptomatic treatment depend on type of disorder
-
-    -   respiratory acidosis - restoring ventilation
-
-    -   respiratory alkalosis - treat root cause
-
-    -   metabolic acidosis - give bicarbonate
-
-    -   metabolic alkalosis - some are chloride responsive, otherwise treat underlying disorder
-
-Key chemical equation for buffering is *Henderson Hasselbalch Equation*: . Important buffers in the body are bicarbonate, phosphates, and proteins.
-
 Biomedical Science
 ------------------
 
@@ -180,10 +180,6 @@ Hypersensitivity reactions occur when the normally protective immune system resp
 - Type IV hypersensitivity reactions (e.g., TB skin tests, contact dermatitis) are delayed and cell-mediated and are the only hypersensitivity reaction that involves sensitized T lymphocytes rather than antibodies. 
 
 Unlike true hypersensitivity reactions, which occur after sensitization, nonallergic hypersensitivity reactions (e.g., pseudoallergies) cause mast cell activation and histamine release after initial exposure to a trigger substance (e.g., radiocontrast media).
-
-
-Blood Product Replacement
--------------------------
 
 Important molecules
 -------------------
@@ -221,25 +217,6 @@ Important molecules
         -   Pyrimidine: Cytosine, Uracil, Thymine\
             Pyrimidines carabolized to $\beta$-amino acids; which unlike physiologically active amino acids; the latter are $\alpha$-amino acids. *Thus $\beta$-amino acids, especially $\beta$-aminoisobutyrate can be used as measure of DNA turnover.*\
 
-The central dogma of biology and related concepts
--------------------------------------------------
-
--   Mitosis - Centrioles Replicate in G1, DNA replicate in S, Final growth in G2, prophase, metaphase, anaphase, telophase, cytokinesis.
-
-    -   Ki-67 / MIB-I / Cyclin for detection of mitotic activity
-
--   Exons are parts of the gene that's translated and introns are not.
-
--   Transcription happen from 5' to 3'; with addition of 5' cap of 7-methylguanosine triphosphate and poly(A)tail at the 3' end. Introns are then removed by spliceosomes.
-
--   Arginine and histidine are conditionally essential and must be provided in diet during rapid growth.
-
--   Translation also occur in the 5' to 3' direction. It starts at AUG in mRNA for methionine and terminates on UGA, UAA, UAG.
-
--   Chaperone proteins ensure final conformation is good. Signal peptide binds to signal recognition particle (SRP) to lead the growing pepetide chain into the cavity of endoplasmic reticulum.
-
--   Unibinquitination usually marks the protein for degradation but not always; cytoplasmic proteins are degraded in protasomes, while membrane proteins are degraded in proteasomes and lysosomes.
-
 Physiology
 ----------
 
@@ -276,10 +253,11 @@ Clinical measurements
     3.  Calculate Renal Blood Flow $$\begin{aligned}
                     \text{Renal Blood Flow} = \text{RPF} \times \frac{1}{1 - \text{Hct}}
                 \end{aligned}$$
-
 -   Glomerular Filtration Rate $$\begin{aligned}
             \text{GFR} = K_f[(P_\text{GC} - P_T) - (\pi_\text{GC} - \pi_{T})]
         \end{aligned}$$ where $K_f$ is the glomerular ultrafiltration coefficient, and is the product of the glomerular capillary wall hydraulic conductivity and the effective filtration surface area.
+
+
 
 Immunology
 ----------

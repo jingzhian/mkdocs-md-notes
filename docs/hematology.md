@@ -1,11 +1,116 @@
 Hematology and Hematologic Malignancies
 =======================================
 
+[[TOC]]
 Some Definitions
 
 -   Acute Leukemia: Blocked hematopoiesis with increased blasts and cytopenia in peripheral blood.
 
-Myeloproliferative Disease
+
+
+## Red Blood Cell Conditions
+
+### Anemia
+
+### Haemoglobinopathies
+
+#### Thalassemia
+
+### Acute Intermittent Porphyria (AIP)
+
+An autosomal dominant disorder involving alterations in enzymes involved in heme biosynthesis, is characterized by acute, intermittent neurovisceral attacks.
+
+-   Clinical Feature
+
+    -   Typically patient in 20s or 30s
+
+    -   New onset of psychiatric and neurologic abnormalities - likely due to differences in expression of altered enzymes
+
+    -   following a period of fasting - carbohydrate restriction induces enzyme synthesis
+
+    -   or use of tobacco, alcohol, and certain medications e.g. carbamazepine, phenytoin, rifampin
+
+    -   accompanied by unexplained, acute abdominal pain - neuropathic in nature therefore abdominal tenderness in response to palpation is frequently absent on PE
+
+    -   May have vomiting, constipation, and tachycardia
+
+    -   Symptoms can last for days to weeks and usually resolve between attacks
+
+    -   and a family history of similar episodic symptoms
+
+-   Laboratory
+
+    -   Elevated urinary porphobilinogen levels during an attach are diagnostic
+
+-   Treatment
+
+    -   Hemin (Brand name: Panhematin) - Amelioration of recurrent attacks of acute intermittent porphyria (AIP) temporarily related to the menstrual cycle in susceptible women and similar symptoms which occur in other patients with AIP, porphyria variegata and hereditary coproporphyria.
+
+## Thrombotic Disorders
+
+### DVT
+
+### PE
+
+
+
+## Platelet Disorders
+
+### Idiopathic Thrombocytopenic Purpuria
+
+
+
+Coagulopathies
+--------------
+
+### Disseminated Intravascular Coagulopathy
+
+
+
+### Overcoagulation
+
+
+
+### Hemophilia A
+
+An **X-linked recessive disease** caused by a deficit in coagulation factor VIII. 
+
+### von Willebrand Disease
+
+Common coagulopathy that is due to a quantitative or qualitative vVWF deficiency. VWF assist in platelet adhersion and aggregation and acts as a carrier protein for factor VIII. Factor VIII is more rapidly degraded when unbound, and VWF deficiency therefore lead to impairment of the intrinsic coagulation pathway. However patient can have a normal aPTT
+
+-   Presentation
+
+    -   Mucocutaneous bleeding (e.g. epistaxis, gingival bleeding, postpartum hemorrhage)
+
+-   Diagnosis
+
+    -   Normal aPTT despite problems with intrinsic pathway because
+
+        -   Mild to moderate VWF deficiency may have adequate factor VIII levels to maintain aPTT within normal range
+
+        -   VWF and factor VIII are acute-phase reactants, stress and inflammation can acutely raise levels
+
+        -   VWF synthesis is increased by estrogen and thyroid hormones; pregnancy, oral contraceptives, and thyroid hormone replacement can raise VWF levels and normalize aPTT
+
+    -   Normal PT platelet count
+
+    -   Prolonged bleeding time
+
+    -   VMF antigen, activity, and factor VIII levels are abnormal
+
+-   Management
+
+    -   Desmopressin (DDAVP) potentiates release of VWF from endothelial cells and can be used in management of acute bleeding or for prophylaxis
+
+
+## Multiple Myeloma
+
+A cancer of plasma cells. 
+
+
+
+Myeloproliferative Disorders
 --------------------------
 
 ### Myelodysplastic Syndromes
@@ -60,7 +165,7 @@ A myeloproliferative disease in which neoplastic bone marrow precursors are stil
 
     -   Platelet count and erythrocyte count can be normal or even slightly elevated
 
-Lymphoproliferative Diseases
+Lymphoproliferative Disorders
 ----------------------------
 
 ### Leukemoid Reaction
@@ -105,66 +210,34 @@ Post-transplant lymphoproliferative disorder Associated with EBV infection, test
 
 -   Prognosis: Excellent
 
-Coagulopathies
---------------
 
-### von Willebrand Disease
 
-Common coagulopathy that is due to a quantitative or qualitative vVWF deficiency. VWF assist in platelet adhersion and aggregation and acts as a carrier protein for factor VIII. Factor VIII is more rapidly degraded when unbound, and VWF deficiency therefore lead to impairment of the intrinsic coagulation pathway. However patient can have a normal aPTT
 
--   Presentation
+Lymphatic Disorders
+--------------------
 
-    -   Mucocutaneous bleeding (e.g. epistaxis, gingival bleeding, postpartum hemorrhage)
+### Chronic lymphedema
+Chronic lymphedema is most commonly caused by an acquired disruption of the lymphatic system (eg, chronic inflammation, malignancy) and typically presents with pain and swelling in one or more extremities.  Patients usually have pitting edema that later progresses to nonpitting edema accompanied by firm, thickened skin.
 
--   Diagnosis
+Lymphedema most commonly results from an acquired disruption of the lymphatic system that leads to accumulation of lymphatic fluid in the interstitium.  Common causes include malignancy and its treatment (eg, radiation, lymph node dissection), chronic inflammation (eg, recurrent cellulitis, connective tissue disease), and severe chronic venous insufficiency.  Obesity is often a strong contributing factor.
 
-    -   Normal aPTT despite problems with intrinsic pathway because
+Chronic lymphedema typically presents with pain, swelling, and heaviness in one or more extremities.  Patients with early disease usually demonstrate soft skin with pitting edema.  However, progressive deposition of subcutaneous collagen and adipose tissue occurs, leading to later development of firm, thickened skin and nonpitting edema.  In advanced cases, the skin may develop a warty appearance.  Inability to lift the skin on the dorsum of the second toe (positive **Stemmer sign**) is highly specific for lymphedema.
 
-        -   Mild to moderate VWF deficiency may have adequate factor VIII levels to maintain aPTT within normal range
+The diagnosis is usually based on clinical presentation, but imaging (eg, duplex ultrasound) may be useful in some cases.  Treatment is challenging and may involve weight loss, limb elevation, compression bandages, and physiotherapy (eg, lymphatic drainage by massage).
 
-        -   VWF and factor VIII are acute-phase reactants, stress and inflammation can acutely raise levels
+Etiology: Physical disruption of lymphatic drainage
+- Lymphadenectomy, radiation
+- Malignant obstruction
+- Chronic inflammation (eg, recurrent cellulitis)
+- Parasitic infection (eg, filariasis)
+- Congenital (eg, Turner syndrome)
 
-        -   VWF synthesis is increased by estrogen and thyroid hormones; pregnancy, oral contraceptives, and thyroid hormone replacement can raise VWF levels and normalize aPTT
+Clinical presentation
+- Swelling, heaviness, discomfort
+- Early: soft skin, pitting edema
+- Late: firm, dry & thickened skin; nonpitting edema
 
-    -   Normal PT platelet count
-
-    -   Prolonged bleeding time
-
-    -   VMF antigen, activity, and factor VIII levels are abnormal
-
--   Management
-
-    -   Desmopressin (DDAVP) potentiates release of VWF from endothelial cells and can be used in management of acute bleeding or for prophylaxis
-
-Other Disorders
----------------
-
-### Acute Intermittent Porphyria (AIP)
-
-An autosomal dominant disorder involving alterations in enzymes involved in heme biosynthesis, is characterized by acute, intermittent neurovisceral attacks.
-
--   Clinical Feature
-
-    -   Typically patient in 20s or 30s
-
-    -   New onset of psychiatric and neurologic abnormalities - likely due to differences in expression of altered enzymes
-
-    -   following a period of fasting - carbohydrate restriction induces enzyme synthesis
-
-    -   or use of tobacco, alcohol, and certain medications e.g. carbamazepine, phenytoin, rifampin
-
-    -   accompanied by unexplained, acute abdominal pain - neuropathic in nature therefore abdominal tenderness in response to palpation is frequently absent on PE
-
-    -   May have vomiting, constipation, and tachycardia
-
-    -   Symptoms can last for days to weeks and usually resolve between attacks
-
-    -   and a family history of similar episodic symptoms
-
--   Laboratory
-
-    -   Elevated urinary porphobilinogen levels during an attach are diagnostic
-
--   Treatment
-
-    -   Hemin (Brand name: Panhematin) - Amelioration of recurrent attacks of acute intermittent porphyria (AIP) temporarily related to the menstrual cycle in susceptible women and similar symptoms which occur in other patients with AIP, porphyria variegata and hereditary coproporphyria.
+Treatment
+- Weight loss, limb elevation
+- Compression bandages & physiotherapy
+- Diuretics contraindicated

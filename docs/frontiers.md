@@ -1,6 +1,20 @@
 Frontiers in Medicine
 =====================
 
+## EMBS Activities
+
+### Make an impact webinar preparation
+
+- Go through the flow
+- Make sure everyone can speak and knows how to use the various functions on the application
+
+Innovation Ideas
+----------------
+1. OSA - automating polysonogram reading
+2. Scribes in ED
+3. Insulin dose adjustment
+4. 
+
 Clinical Medicine Developments
 ------------------------------
 
@@ -28,16 +42,201 @@ Why is there an increase in cost and price?
     Companies spend more on share buyback and dividends in a recent 10-year period than on R & D. From 2006 through 2015, the 18 drug companies in the Standard & Poor's 500 index spent a combined \$516 billion on buybacks and dividends. This exceeded by 11 percent the companies' research and development spending of \$465 billion during these years. The authors contend that many big pharmaceutical companies are living off patents that are decades-old and have little to show in the way of new blockbuster drugs. But their share buybacks and dividend payments inoculate them against shareholders who might be concerned about lackluster research and development.
 
     -   Gilead Sciences spent \$27 billion on buybacks versus \$17 billion on research
-
-    -   Biogen Idec repurchased \$14.6 billion in stock and spent \$13.8 billion on R&D.
+-   Biogen Idec repurchased \$14.6 billion in stock and spent \$13.8 billion on R&D.
 
 Research Meetings
 -----------------
 ### COVID-19 Initiatives
 
+### NK and VST: Mostly heard rarely seen
 
+Occasion: MD-PhD meeting May 27
+Presenter: **Prof Leung Wing Hang**
 
-### EMB AdCOm Meeting
+Haematology/Oncology Service, and Director of Paediatric Bone Marrow Transplant and Cell Therapy Centre of the KK Women's and Children's Hospital. 
+
+NK = natural killer cells; VST = Virus specific T cells
+
+![frontier-lineage-haem](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-lineage-haem.png)
+
+- **NK cells** and clinical use in cancer therapy
+
+  - NK cells co-develop with B cells; architecture similar to T cells, but primarily use check points
+
+  - Best way to test NK potency is T-cell depleted HSCT
+
+    - 3 month old, ALL< WBC 479k
+      - Poor prednisone response
+      - Father transfer NK to patient
+      - Successful treatment! Now 10 years after!
+    - 6 months, t(4;11) ALL
+      - Relapsed 1 year after completion of chemotherapy
+      - 90% blast at time or referral
+      - Transferred NK cells to the child
+      - Now 8 years after transplant
+
+  - Do donar KIR typing, NK cell purification, NK cell expansion and activation; NK cell adoption and transfer to patient
+
+  - KIR is the receptor of NK cells; gremlin polymorphism vs. T-cell through somatic mutation
+
+  - Genotyping is important because not everyone has the same type of genes
+
+  - Select donors with high level expression of KIR D2L1 allele
+
+  - Surface anchoring; mismatched is better than the matched?
+
+    - Mismatched with KIR matching is better
+    - Mismatched also over comes the graft vs host
+
+  - ![frontier-nk-usage](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-nk-usage.png)
+
+  - Current survival
+
+    - CAR-T half will relapse; NK cell is better
+    - NK cell may be used to replace BMT
+      - Cheaper, safer, no latency effect
+
+  - Therapeutic antibody + NK cell work better
+
+  - Can be used in high risk patient e.g. neuroblastoma; to double survival
+
+  - Never cause GVHD
+
+  - Massive chemical screening of 5600 FDA approved compounds and found that it is possible to up regulate NKG2D lights
+
+  - Control of osteosarcoma
+
+    - Tumor shrink away
+
+  - Increase post-translational maturation
+
+    - PRL-3 can improve maturation of ligands
+    - CAR-NK has similar cytotoxicity but less cytokine release
+
+  - Increase potency
+
+    - BaEV allow CAR+NK to act more effectively
+    - Add in more cells
+    - Faster NK cell grow, the better the survival; increase chance of relapse 7 folds
+      - TOX2 as a novel transcription factor
+
+  - Similar mechanisms and approach can be applied to other immune cells
+
+    ![frontier-NKinCA](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-NKinCA.png)
+
+  - Questions
+
+    - NK cell may be used for solid tumors
+    - Solid tumor issue: homing and tumor microenvironment are two additional issues compared to liquid tumors
+    - Always have activating receptor inhibiting receptor, activating ligand and inhibiting ligand
+    - NK cell most important function in the body is to aid reproduction 
+      - It works in placenta, interact with placenta cells to control development of spiral artery so that the fetus get nutrition; 
+      - **NK cells** work to control viral infections by secreting IFNγ and TNFα.
+      - **Killing** is mediated by cytotoxic molecules which are stored within secretory lysosomes, a specialized exocytic organelle found in **NK cells**.
+      - **Natural killer** (**NK**) **cells** target and **kill** aberrant **cells**, such as virally infected and tumorigenic **cells**.
+
+- **Virus-specific T cells** in COVID19 treatment
+  - The disease kills like an autoimmune disease, therefore we can control it immunologically
+
+  - Active immunity: vaccines, natural infection
+
+  - Passive immunity: B cells (antibody, plasma), T cells (pioneered by his group)
+
+    - In US the most commonly prescribed therapy is plasma
+
+    - His group can do T cells and NK cells, choose T cells because of the pathophysiology
+
+      - Patients recovering from COVID-19 has to make T cells (mandatory for recovery)
+
+      - Whether the T cells are made by the patient or by a kind convalescent donor, they have the same basic function (in terms of efficacy and side effects)
+
+      - Increased T cell is associated with reduced cytokine levels
+
+        ![frontier-covid19-tcell](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-covid19-tcell.png)
+
+  - Process of therapy
+
+    - Recruit convalescent donor: collect whole blood or leukapheresis
+    - Stimulate with poly peptides: covering M, N, and S proteins
+    - Select functionally reactive cells: e.g. IFNg+ cells
+    - Adoptive transfer to patients with severe COVID-19
+
+  - Homologous Use
+
+  - Why T cell might be better
+
+    ![frontier-plasma-tcell](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-plasma-tcell.png)
+
+    - Living drug means that the T cells continue to grow
+
+  - Product contains memory cells with few naive cells
+
+    - 69% CD4 direct control; CD8 help B cells to make antibody
+    - Started treatment in first patient
+
+  - Question
+
+    - Stimulate T cells with SARS2; accessory proteins
+      - MCH I and MCH II is about 15 amino acids
+      - Whenever we present this, we do not know
+      - Each person's MHC is different, so the polypeptide we use are different; in the clinical setting, we cannot say this is a T-cell we use
+      - COVID19 M, N, S protein are important for immunogenic - among the three S (spike protein) - corona virus is due to Spikes; S binds and enable virus to enter cells
+        - Therefore if we can only choose one thing, we should choose S.
+        - However, S is not the only one; others are important too. 
+        - In his approach, he cover not only S but also others since it is War time.
+    - Adaptive T cell transfer to patient, no MHC matching, what will be the immune reaction to the donor T cell that is not matched; 
+      - Design an experiment, do we need matching between donor and recipient? If we need matching how much?
+      - If we want T cell to kill virus infected host cells, we need some form of recognition, there needs to be some matching; this is the Nobel prize experiment; we cannot transfer without any MHC matching; at least 1 is required
+      - Clinically this means that if we really need to transfer T cells into you
+      - Probability of having at least 1 matched?
+        - When travel and work place travel becomes lower and lower
+        - People get it from people in similar ethic group, almost essentially share a MHC
+        - HLA, even if three donors, we cover 90% of Singaporeans.
+        - Don't have to worry about HLA matching
+        - Any random 2 person in their study has a medium of 2 -3 antigen sharing
+      - Rejection? Yes
+        - Don't need a week or two in the body is enough
+        - CMV, EBV, can never clear
+    - CAR-T applied to treat immune disease and other disease
+      - Cancer already has a lot of good drugs
+      - Two other disease that is most useful is autoimmune disease and infectious disease
+      - He used to work in Pharma, blockbuster are autoimmune and infectious disease
+      - Cancer has no long term disease
+      - CML is the rare case in which they have to take the drug for a long time
+      - Currently CAR T make no economic sense to develop further
+      - If we can transfer it to use in autoimmune disease and infectious disease, the economics is much better
+      - Cancer is very difficult to treat but autoimmune disease and infectious disease don't have similar problems.
+      - Can always tune the NK cells if we want; NK cells function by aiding other cells
+    - A lot of biologics can be repurposed
+      - As MD-PhD learn what is basic from professor
+      - Based on medical knowledge, we can cross apply
+      - Biology and biotechnology background help to pull it through
+    - Always think outside of the box, usually not that difficult, MD-PhDs we need to link things together that may not appear to be very relevant.
+    - Don't use VST in infection, use in CMV cells stay in body forever
+      - Can VST as payload? E.g. insulin, dopamine? Long term repurposing of cells
+    - Anti-inflammatory drugs, inverse between T cells and cytokines, do we know where the inflammatory cytokines are coming from? They are from the TOL like receptor pathways
+      - COVID19 is RNA virus, very potent stimulator of TOL like receptor pathway
+        - Cytokine is the alarm, the actual police not coming
+        - Patients with hyper immunity have problem not those with no immunity
+        - Patients with cancer and aids and immunodeficiency are better
+        - Patients inflammatory background e.g. diabetes etc get into trouble
+        - When we put RNS into it, they flare up a lot. 
+      - Can we load with anti-inflammatory drugs 
+        - IL-1 pathway turns out to be great for COVID19
+        - At the end of the day still need adaptive immunity, therefore plasma therapy is useful
+        - However, if we can give anti-inflammatory molecule with minimal side effect, there is less
+      - IL10 (prototypical cytokine) - can the drop be associated with clearing of virus?  Chin Yee Tan
+        - When ever we trigger the TCL all inflammatory pathways will up regulate
+        - Whenever we have inflammatory cytokine, the anti-inflammatory cytokine also goes up
+        - Whenever classify cytokine into TH1 TH2 Th17 etc, a lot of cytokine action depend on dose range and also what is around. IL10 + something else, have paradoxic effect; if we have TGF beta it modulate the cytokine
+        - If there a lot of NK cells receptor
+    - Treatment for COVID 19 commercialization
+      - Plasma therapy is good because blood bank is everywhere; in pandemic, whether low or high income country can do it
+      - Fancy drugs are harder; very few company think they can make money from COVID19; 
+      - Transfusion based practice will have best market value because one can delivery very fast; easy to prepare easy to make easy to delivery
+      - We don't even need to know biology or the bug; we just need someone to recover from the condition
+
+### EMB AdCom Meeting
 
 #### EMB Journals update by Amier in 2020 April
 

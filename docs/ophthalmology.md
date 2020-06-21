@@ -10,9 +10,16 @@ Ophthalmology
 
 Teachers and Resources
 - https://timroot.com
-- kiew.sieh.yean@singhealth.com.sg (eye exam)
+- Khung Peng Shuan Sebastian Sim kiew.sieh.yean@singhealth.com.sg (eye exam)
 - beau.fenner@mohh.com.sg (red eye and visual loss)
 - Louis.tong.h.t@singhealth.com.sg (osce cases)
+- Ng Wei Yan
+- Ms Yap Shi En (Optometrist)
+- Marcus Ang 
+- Dr Lim Hou Boon
+- Dr Shaun Sim
+- Prof Louis Tong 
+- Sonal Farzavandi
 
 
 Red desaturation: hemoanopia detection.
@@ -61,6 +68,7 @@ Collagen fibers in cornea are arranged so that light can
 - Fovea is 2 disc area away from the disc
 - Edge of the disc is the where the vessels are turning
   
+
 ![retina anatomy](figures/eye-retina-anatomy.jpg)
 ![fundus anatomy](figures/eye-fundus-anatomy.png)
 
@@ -88,13 +96,16 @@ The pupillary light reflex (PLR) or photopupillary reflex is a reflex that contr
 **Relative Afferent Pupillary Defect (RAPD)**, also known as Marcus Gunn pupil, is a condition in which pupils respond differently to light stimuli shone in one eye at a time due to unilateral or asymmetrical disease of the retina or optic nerve. This is elicited using the Swinging flashlight test or Marcus Gunn test. 
 
 ![Pupillary Light Reflex](figures/PupillaryLightReflexNeuralPathway.jpg)
+
 Sign | Lesions
-|---|---
+---|---
 Unequal is more obvious in the light | The dilated eye is abnormal (failure to constrict); DDx parasympathetic denervation, CNIII lesion, Drugs (atropine and cocaine use)
 Unequal is more obvious in the dark | The constricted eye is abnormal (failure to dilate); DDx of small eye include sympathetic denervation, Horner's syndrome, drugs (pilocarine and morphine)
 
+
+
 Optic Nerve Conditions Leading to RAPD | Remark
-|-----|------
+-----|------
 Optic nerve disorders| Unilateral optic neuropathies are common causes of RAPD.
 Demyelination Optic neuritis| Even very mild optic neuritis with a minimal loss of vision can lead to a very strong RAPD.
 Ischemic optic neuropathies| These include arteritic (Giant Cell Arteritis) and non-arteritic causes. Usually there will be a loss of vision or a horizontal cut in the visual field.
@@ -110,7 +121,7 @@ Post Surgical damage to the optic nerve| This could include damage following ret
 
 Retinal disease may also lead to RAPD but the damage has to be quite extensive
 Retinal Problems in RAPD | Remarks
-|---|---
+---|---
 Ischemic retinal disease| Causes include ischemic central retinal vein occlusion, central retinal artery occlusion, severe ischemic branch retinal or arterial occlusions, severe ischemic diabetic or sickle-cell retinopathy.
 Ischemic ocular disease (Ocular ischemic syndrome)| This usually arises from obstruction of the ophthalmic or carotid artery on one side.
 Retinal detachment| A RAPD can often be seen if the macula is detached, or if at least two quadrants of retina are detached.
@@ -119,9 +130,11 @@ Intraocular tumor| Retinal and choroidal tumors including melanoma, retinoblasto
 Retinal infection| Cytomegalovirus, herpes simplex, and other causes of retinitis can lead to a RAPD if there is extensive disease.
 
 Other Causes | Remark
-|---|----
+---|----
 Amblyopia| i.e. Lazy eye If severe, can lead to a relative afferent pupillary defect. Usually the visual acuity would be 20/400, or worse.
 Cerebral vascular disease| Usually, it is an optic nerve disorder that leads to a RAPD, rather than an optic tract or visual cortex disorder. However, there tends to be a higher percentage of crossed vs. uncrossed nerve fibers at the optic chiasm. Thus, in a patient with a homonymous hemianopia from an optic tract disorder, an RAPD could be seen in the eye with the temporal visual field defect. The nasal retina serves the temporal visual field, and these are the fibers that would cross at the chiasm
+
+
 
 #### Ocular Nerves and Movements
 
@@ -247,7 +260,7 @@ Visual acuity is the **spatial resolving capacity** of the visual system. It is 
      - Top row starts at 1, every row lower is -0.1, and then plus the 0.02n where n is the number of mistakes in that row
      - Add 0.3 for each time the distance is halved. e.g. 2 meters, add 0.3; 1 meter add 0.6
      - For research, and the low vision chart, LogMAR is preferred because it is more detailed and has no jumps. It is therefore better for monitoring progression and changes.
-  
+
   Additional Testing Mechanisms
   - Near reading chart e.g. N5 N6 N12
   - Pinhole (Super Useful): if improve vision, should make glasses.
@@ -278,18 +291,18 @@ Visual acuity is the **spatial resolving capacity** of the visual system. It is 
       - Measure habitual near VA.Get the patient to put on the spectacles specific for near seeing if he/she has any. Get the patient to hold the reading material at their habitual reading distance and report the smallest row of letters on the reading chart that can be read. Record the near VA and the habitual reading distance. Near VA should also be tested monocularly.
       - Repeat for fellow eye
    5. Observe the patient throughout the testing and note down any special observation such as abnormal head tilt, head turn, slow reading, reading with great effort, can only read one side of the chart etc.
-  
+
   Note: Crowding phenomenon - Isolate the letters helps patients read helps
 
 **Testing Children and Babies**
 
 Note: When testing VA in children, a whole row of targets should be shown during VA measurement. Targets should not be isolated. This is to help in diagnosing any cases of amblyopia. Amblyopia is the reduction in best corrected VA. It is due to an underdeveloped nerve that resulted in the brain favouring one eye over another. Crowding phenomenon is strongly related to amblyopia. Crowding phenomenon is the increased in difficulty in recognition of a character due to the presence of neighbouring characters. Hence a row of characters is critical in testing for amblyopia.
-  
+
    Tests for Recognition VA | Age | Description
    |---|----|---
    Response to eye occlusion | <18 month | Eye is occluded to test for any objection (e.g. crying, pushing of hands away, loss of fixation, fidgeting of head). The test can suggest any amblyopic or poor seeing eye.
    Bock’scandytest (100’s and 1000’s test) | 10 -12 month | The child is asked to pick up candy beads of 1 mm size at a testing distance of 40cm. Ability to do so estimate VA to be Snellen equivalent 6/60.
-   
+
    Tests for Resolution VA | Age | Description
    |----|---|---
    Optokinetic nystagmus drum| < 18 month | Nystagmus is elicited by passing a drum with black and white lines. The width of the lines resolved gives an estimation of the VA.
@@ -304,7 +317,7 @@ Note: When testing VA in children, a whole row of targets should be shown during
 General practitioners can screen VA using response to eye occlusion method and matching tests for babies and young child respectively. The more elaborated testing such as optokinetic drum, preferential looking test, VEP etc. will be used in a hospital setting or paediatric specialist clinics.
 
 **How to read a glass prescription?**
-  
+
   |Sphere | cylindrical | Axis 
   |--- |---|---
   |-1.00 | - 0.50 |x180
@@ -711,6 +724,18 @@ Frameworks
 ### Ptosis
 - Senile ptosis
 - Congenital ptosis
+- Acetylcholine receptor antibody testing is used to diagnose myasthenia gravis, which often presents with ptosis. Although migrating muscle weakness is common, progressive shoulder and arm pain would be atypical.
+
+### Strabismus
+
+Normal ocular alignment results in symmetric corneal light reflexes in the center of the eye and bilateral red reflexes that are equal in color and brightness. In contrast, this patient's right eye esotropia (nasal deviation) and abnormal red reflexes are findings consistent with **strabismus**, or **ocular misalignment**. Untreated strabismus can lead to amblyopia, or decreased visual acuity of the improperly aligned eye.
+
+Examination findings in strabismus include **asymmetric corneal light reflexes** and **asymmetric red reflexes** (more intense in the deviated eye). Strabismus can also be identified by the **cover test**, in which a patient focuses on an object while one eye is covered to assess for movement in the uncovered eye. A misaligned eye shifts to refixate on the object; an unaffected eye maintains the same position without moving.
+
+Although most cases of strabismus are idiopathic or related to convergence insufficiency, the underlying condition can be life-threatening (eg, intraorbital mass, increased intracranial pressure). Therefore, the first step in evaluation is a **dilated funduscopic examination** to assess for secondary causes, particularly **retinoblastoma**, an intraocular malignancy that can often be visualized on funduscopy as a nodular, cream-colored retinal mass. Esotropia (a form of strabismus in which one or both eyes turns inward) due to central vision loss is the second most common presentation of retinoblastoma, after leukocoria.
+
+
+
 ### Papilledema
 
 An enlarged blind spot may be seen with papilledema
@@ -873,7 +898,12 @@ Pupils
 - Fungal keratitis
 - Eclampsia, liver abcess, rule out opthalmitis
 
+### Pediatrics Leukocoria
 
+- **leukocoria** (white pupillary reflex) concerning for **retinoblastoma**, the most common intraocular tumor of childhood, which occurs due to inactivation of the tumor suppressor gene *RB1*. Sporadic retinoblastoma often presents as unilateral disease, whereas inheritable retinoblastoma is more commonly bilateral.
+- Cytomegalovirus and rubella are congenital infections contracted in utero that can cause leukocoria due to cataracts (lens opacification). However, bilateral white pupillary reflexes and abnormalities such as hearing loss and microcephaly would be expected with these conditions.
+- Retinitis pigmentosa is a genetic disorder characterized by progressive retinal degeneration. Typical presentation includes night blindness, decreased visual acuity, and visual field loss. Cataracts can develop but are very rare in infancy.
+- Severe retinopathy of prematurity with associated retinal detachment can cause leukocoria;  the condition typically affects infants born at <30 weeks gestation.
 
 Systematic Diseases with Ocular Manifestation
 -------------------------------
@@ -881,16 +911,20 @@ Systematic Diseases with Ocular Manifestation
 ### Diabetic Retinopathy
 Diabetic retinopathy is the leading cause of blindness in the USA.  It occurs in both insulin dependent and non-insulin dependent diabetes mellitus. 
 
+Disease located in the peripheral retina is usually secondary to diabetes, which can lead to either proliferative or non-proliferative retinopathy. 
+
+Diabetic retinopathy patients are usually asymptomatic, even though changes in fundoscopy are seen. Vitreous hemorrhage frequently occurs in patients with proliferative diabetic retinopathy. Once a diabetic patient presents with a sudden onset of visual loss with numerous floaters, a vitreous hemorrhage is most likely to have occurred. 
+
 The 3 main categories of diabetic retinopathy are background or simple (microaneurysms, hemorrhages, exudates, retinal edema), pre-proliferative (cotton wool spots), and proliferative or malignant (neovascularization).  Visual impairment occurs with the development of macular edema.  Argon laser photocoagulation is performed for the prevention of complications.
 
 
  There are 3 main categories:
-- background or simple retinopathy - consists of microaneurysms, hemorrhages, exudates, and retinal edema
-- pre-proliferative retinopathy - with cotton wool spots
-- proliferative or malignant retinopathy - consists of newly formed vessels. 
+- **background or simple retinopathy** - consists of microaneurysms, hemorrhages, exudates, and retinal edema
+- **pre-proliferative retinopathy** - with cotton wool spots
+- **proliferative or malignant retinopathy** - consists of newly formed vessels. 
 
 Patients are usually asymptomatic at first, despite early signs of retinopathy (e.g., microaneurysms).  Visual impairment occurs with the development of macular edema.  Argon laser photocoagulation is the suggested treatment for the prevention of complications.
- 
+
 
 Risk Factors for Diabetic Retinopathy
 - Duration of diabetes
@@ -955,6 +989,7 @@ Management
 
  Hypertensive retinopathy presents with blurred vision, sometimes with limited visual field defects.  Examination shows arteriovenous nicking, copper wiring, flame hemorrhages, cotton-wool spots, and optic disc edema.
 
+Hypertension can cause progressive arteriolar changes in the retina.  Most patients with hypertensive retinopathy are asymptomatic; symptoms can occur due to retinal hemorrhage but typically present acutely with monocular vision loss.
 
 - Patients with hypertensive retinopathy are usually asymptomatic
 - The eye is the only place in the body where blood vessels can be observed directly- end organ disease manifestation
@@ -979,7 +1014,7 @@ Management
   - Grade 4 hypertensive retinopathy: optic disc oedema
 • Treatment of underlying hypertension
 • If a patient is previously undiagnosed, refer for assessment:
-– Grade 1 or 2 reTinopathy – non-urgent referral – Grade 3 – more urgent referral to GP
+– Grade 1 or 2 retinopathy – non-urgent referral – Grade 3 – more urgent referral to GP
 – Grade 4 – IMMEDIATE referral to casualty
 
 Hypertensive retinopathy associated conditions
@@ -1027,12 +1062,28 @@ Treatment Ladder
 Intravenous methylprednisolone medical decompression
 If does not work, do surgical decompression
 
-### Optic neuritis 
+#### Graves opthalmopathy
+In Graves disease, thyrotropin (TSH) receptor autoantibodies (TRAB) stimulate thyroid hormone production, resulting in hyperthyroidism.  Thyroid hormone increases sensitivity to catecholamines, and thyrotoxicosis of any etiology may cause lid lag and retraction due to sympathetic activation and contraction of the superior tarsal muscle.  However, true exophthalmos with impaired extraocular motion is seen only in Graves disease and is due to T cell activation and **stimulation of orbital fibroblasts and adipocytes by TRAB**, resulting in orbital tissue expansion and lymphocytic infiltration.
+
+**Risk Factors**
+- female sex
+- advancing age
+- smoking
+
+**Clinical Feature**
+- hyperthyroidism (ie, weight loss, heat intolerance, tachycardia) 
+- orbital tissue expansion: proptosis, lid lag, and impaired extraocular motion (decreased convergence, diplopia) 
+  - Graves ophthalmopathy can cause increased intraocular pressure due to orbital tissue expansion and compression of the globe.  However, increased intraocular pressure alone (eg, glaucoma) does not cause proptosis.
+- irritation (eg, gritty or sandy sensation), redness, photophobia, pain, and tearing
+- Ophthalmopathy in Graves disease is typically diagnosed at the same time as hyperthyroidism but may occur before or after the onset of hyperthyroidism.
+
+
+
+### Optic Neuritis
 Optic neuritis s a common manifestation of multiple sclerosis.  It can also occur in association with systemic autoimmune disorders (especially systemic lupus erythematosus) but is an uncommon manifestation of SS. Symptoms in optic neuritis typically include visual loss, with or without eye pain.  Uveitis may occur (uncommonly), but the conjunctiva is not typically affected.
 
 ### Myasthenia Gravis
-• Autoimmune disease
-• Reduction in postsynaptic Ach receptors on endplates of neuromuscular junction of skeletal muscle
+Myasthenia gravis (MG) is a autoimmune disorder of the neuromuscular junction caused by autoantibodies against acetylcholine receptors on the motor end plate of skeletal muscles.  Ocular involvement may cause fluctuating diplopia and ptosis.  
 
 Ocular features
 • 90% of patients have ocular signs; 15% present with pure ocular MG
@@ -1054,6 +1105,9 @@ Treatment
 – Plasmapheresis and Human immune globulin
 • Surgical
 – Thymectomy
+
+### Lambert-Eaton myasthenic syndrome (LEMS)
+A paraneoplastic syndrome that may also cause diplopia.  However, ocular involvement by LEMS is less common than involvement of the proximal limb muscles.
 
 ### Plexiform Neurofibroma
 
@@ -1101,11 +1155,12 @@ Ocular injury by non-caseating granulomas is typical for sarcoidosis.
 Circulated immune complexes can affect the eye in systemic lupus erythematosus.
 
 ### Sjogren Syndrome
-Immune-mediated destruction of the lacrimal and salivary glands that can occur as primary disease or secondary with other autoimmune disorders (e.g. SLE, RA). Decreased tear volume in SS leads to a hyperosmolar state on the surface of the eye, resulting in irritative symptoms and promoting an inflammatory response.  It may occur independently or as a manifestation of another autoimmune disorder (eg, systemic sclerosis).  Onset is typically in middle age, and a majority of patients have a positive antinuclear antibody assay.
+Immune-mediated destruction of the lacrimal and salivary glands that can occur as primary disease or secondary with other autoimmune disorders (e.g. SLE, RA). Decreased tear volume in SS leads to a hyperosmolar state on the surface of the eye, resulting in irritative symptoms and promoting an inflammatory response.  It may occur independently or as a manifestation of another autoimmune disorder (eg, systemic sclerosis).  Onset is typically in middle age, and a majority of patients have a positive ANA assay.
 
 Sjögren syndrome is characterized by inflammation of the exocrine glands, commonly presenting with dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia).  Decreased tear volume leads to a hyperosmolar state on the surface of the eye, resulting in irritative symptoms and promoting an inflammatory response.  Complications include decreased visual acuity, infection, corneal ulceration, and corneal perforation.
 
 **Clinical features**
+
 - chronic dry eyes (keratoconjunctivitis sicca), with discomfort, grittiness, foreign body sensation, that are often worse in windy conditions, or when doing tasks associated with decreased blinking  (e.g. reading, computer work)
 - dry mouth (xerostomia), salivary hypertrophy
 - dry skin (xerosis)
@@ -1121,19 +1176,23 @@ Sjögren syndrome is characterized by inflammation of the exocrine glands, commo
 **Management**
 - Initial management includes artificial tears, humidifers and eyeglasses with occlusive barriers around the eyes.
 
-### Kawasaki Diease
+### Vasculitis
+
+#### Kawasaki Diease
 Kawasaki disease is a vasculitis of medium-sized arteries that affects young children (age usually <5).  Symptoms may include conjunctivitis as well as fever, lymphadenopathy, and mucocutaneous inflammation (erythema of lips, tongue, and palate; peripheral edema, desquamation, and generalized rash).
 
-### Temporal Arteritis
+#### Temporal Arteritis
 
 Systemic steroids are used in the management of vision loss associated with temporal arteritis; however, this patient has no signs suggestive of temporal arteritis.
+anterior ischemic optic neuropathy in giant cell (temporal) arteritis
+High-dose systemic glucocorticoids (eg, methylprednisolone) are indicated for the treatment 
 
 
 Anterior Segment Conditions
 --------------
 
 ### Corneal Ulcer
-
+Corneal ulceration presents as a foreign body sensation, blurred vision, photophobia, and pain.  A history of contact lens use, recent trauma, or ocular disease may be present.  The eye is erythematous, and ciliary injection is present.  Purulent exudates are seen in the conjunctival sac and on the ulcer surface.
 
 ### Infectious Keratitis
 Patient with contact lens and white corneal should get urgent referral. These patients can become blind very quickly. 
@@ -1173,6 +1232,8 @@ Herpes simplex keratitis causes corneal lesions and results in ocular pain, tear
 Treatment:
 - Topical acyclovir ointment 5x /day 10 - 14 days
 
+Herpes simplex keratitis is characterized by branching ulcers of the cornea, which may be visualized on inspection with fluorescein dye staining. However, it presents acutely with unilateral eye pain, redness, and tearing.
+
 **Herpes Zoster ophthalmicus** 
 
 Herpes zoster ophthalmicus is an infection caused by varicella-zoster virus.  Most episodes occur in the elderly.  It presents with fever malaise and a burning, itching sensation in the periorbital region.  Examination reveals a vesicular rash in the distribution of the cutaneous branch of the first division of the trigeminal nerve.  Conjunctivitis and dendriform corneal ulcers characterize the eye involvement.
@@ -1180,6 +1241,8 @@ Herpes zoster ophthalmicus is an infection caused by varicella-zoster virus.  Mo
 This is an infection caused by varicella-zoster virus characterized by dendriform corneal ulcers and a vesicular rash in the trigeminal distribution.
 
 Most episodes occur in the elderly or immunosuppressed.  VZ virus remains latent in the trigeminal ganglion.  During periods of immunosuppression, the virus travels via the ophthalmic branch to the forehead and the eye.  Symptoms become manifest thereafter with fever, malaise and a burning, itching sensation in the periorbital region.  Examination reveals a vesicular rash in the distribution of the cutaneous branch of the first division of the trigeminal nerve.  Conjunctivitis and dendriform corneal ulcers characterize the eye involvement.  Treatment started within 72 hrs after eruption with high dose acyclovir reduces the development of complications.
+
+Ophthalmic zoster (which is treated with valacyclovir) presents with eye pain, conjunctivitis, and corneal ulcers.  It is usually associated with a vesicular rash in the distribution of the cutaneous branch of the first division of the trigeminal nerve [CN V].  Headache and retching are more typical of ACG.
 
 #### Bacterial Keratitis
 Bacterial keratitis is usually seen in contact lens wearers, and following corneal trauma.  The cornea appears hazy with a central ulcer and adjacent stromal abscess.  Hypopyon may be present.
@@ -1260,17 +1323,17 @@ Bacterial conjunctivitis is characterized by conjunctival edema and hyperemia an
 
 Conjunctivitis is characterized by very mild pain.  The cornea is clear.  Pupillary size and response to light is normal.  Visual acuity is not affected.
 
- Symptoms | Viral | Bactrial | Allergic
- |---|---|---|---
- Eye involvement | Unilateral / Bilateral | Unilateral / Bilateral | Bilateral
- Eye "stuck shut" | Yes | Yes | Yes
- Discharge | Watery, scant, stringy | Purulent, thick | Watery, scant, stringy
- Discharge reappearing after wiping | No | Yes | No
- Sensation | Burning, gritty | Unremitting discharge | Itchy
- Prodromal symptoms | Sometimes | No | No
- Conjunctival appearance | Diffuse injection; follicular or "bumpy" | Diffuse injection; non-follicular | Diffuse injection; follicular or "bumpy"; conjunctival edema (chemosis)
- Duration of symptoms | median | long | short
-Treatment| Warm or cold compresses +/- antihistamine / decongestant drops | Erythromycin ointment, polymyxin-trimethoprim drops, azithromycin drops, preferred agent in contact lens wearers: fluoroquinolone drops | over-the-counter antihistamine/decongestant drops for intermittent symptoms; mast cell stabilizer/antihistamine drops for frequent episodes.
+| Symptoms                           | Viral                                                        | Bactrial                                                     | Allergic                                                     |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Eye involvement                    | Unilateral / Bilateral                                       | Unilateral / Bilateral                                       | Bilateral                                                    |
+| Eye "stuck shut"                   | Yes                                                          | Yes                                                          | Yes                                                          |
+| Discharge                          | Watery, scant, stringy                                       | Purulent, thick                                              | Watery, scant, stringy                                       |
+| Discharge reappearing after wiping | No                                                           | Yes                                                          | No                                                           |
+| Sensation                          | Burning, gritty                                              | Unremitting discharge                                        | Itchy                                                        |
+| Prodromal symptoms                 | Sometimes                                                    | No                                                           | No                                                           |
+| Conjunctival appearance            | Diffuse injection; follicular or "bumpy"                     | Diffuse injection; non-follicular                            | Diffuse injection; follicular or "bumpy"; conjunctival edema (chemosis) |
+| Duration of symptoms               | median                                                       | long                                                         | short                                                        |
+| Treatment                          | Warm or cold compresses +/- antihistamine / decongestant drops | Erythromycin ointment, polymyxin-trimethoprim drops, azithromycin drops, preferred agent in contact lens wearers: fluoroquinolone drops | over-the-counter antihistamine/decongestant drops for intermittent symptoms; mast cell stabilizer/antihistamine drops for frequent episodes. |
 
 Red flags that suppest another etiology:
 - decreased visual acuity
@@ -1290,6 +1353,20 @@ Red flags that suppest another etiology:
   - Pain, poor visio, purulent discharge (bacteria)
   - Corneal involvement
   - Prolonged course (more than 1 week)
+
+#### Neonate Conjunctivitis
+
+| Agent      | Time to Present | Clinical Feature                                             | Treatment                                       |
+| ---------- | --------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| chemial    | <24 hours       | most common in neonates prescribed silver nitrate for gonococcal conjunctivitis prophylaxis; Symptoms are mild, resolve in a day, and do not include purulent discharge. | Eye lubricant                                   |
+| gonococcal | 2 - 5 days      | Copious exudate & eyelid swelling; Because urogenital gonorrhea is often asymptomatic, babies can acquire infection from mothers with no apparent history of it; Gonococcal conjunctivitis is the **most severe** form of neonatal conjunctivitis and can progress to corneal ulceration, scarring, and **blindness** if untreated. Treatment is a single intramuscular dose of a third-generation cephalosporin (eg, cefotaxime). It can be prevented with erythromycin ointment at birth. | Single IM dose of 3rd- generation cephalosporin |
+| chlamydial | 5 - 14 days     | milder chemosis and eyelid swelling as well as watery discharge | PO macrolide (azithromycin)                     |
+
+- **Azithromycin** is often used preferentially in infants <1 month given lower rates of pyloric stenosis when compared with erythromycin.
+
+- **Topical erythromycin** ointment is routinely administered to all neonates as **prophylaxis against gonococcal conjunctivitis** but does not effectively prevent or treat chlamydial disease 
+
+  
 
 #### Bacterial Conjunctivitis
 
@@ -1321,6 +1398,12 @@ Red flags that suppest another etiology:
 - Follicular
 - May have keratitis
 - Conjunctival scraping: direct IF stain or PCR
+
+#### Trachoma
+
+This child's conjunctival injection, tarsal inflammation, and pale follicles are concerning for **trachoma**. Trachoma is due to *Chlamydia trachomatis* serotypes A, B, and C and is the leading cause of blindness worldwide. *C trachomatis* spreads effectively in crowded or unsanitary conditions. The active phase is most common in children and is characterized by **follicular conjunctivitis** and pannus (neovascularization) formation in the cornea. There is often a concomitant nasopharyngeal infection (eg, rhinorrhea, pharyngitis). Repeated or chronic infection leads to **scarring** of the eyelids and **inversion** of the eyelashes (trichiasis). Over time, the lashes rub on the eye and cause ulcerations and **blindness** (cicatricial trachoma).
+
+The diagnosis can be made clinically by examination of the tarsal conjunctivae. *C trachomatis* may be visible by Giemsa stain examination of conjunctival scrapings. Oral **azithromycin** is effective against *C trachomatis*; in general, the entire region (eg, village, refugee camp) should be treated simultaneously. For individuals with trichiasis, **eyelid surgery** is needed to preserve vision.
 
 #### Gonococcal Conjunctivitis
 - Neisseria gonorhoeae
@@ -1388,12 +1471,15 @@ Olopatadine and azelastine, which are mast cell stabilizing agents and antihista
   - Corneal changes
 
 ### Uveitis
+Uveitis (ie, viral or parasitic infection within the eye) presents as blurred vision with moderate pain, conjunctival injection, and constricted pupils.  Hypopyon (cell layering within the anterior chamber) is seen in severe anterior uveitis.  Keratic precipitates ("mutton fat") and iris nodules may be seen.  It is associated with HLA B27-related conditions.
 
 Uveitis presents with moderate pain and blurred vision.  Cornea may be hazy.  The anterior chamber shows flare and cells on slit lamp examination.  The pupil is constricted with a poor light response (In acute glaucoma, the pupil is dilated and is nonreactive to light).
 
 Uveitis is characterized by inflammation of the iris, ciliary body, and/or choroid.  It can occur in association with a number of systemic autoimmune disorders (eg, spondyloarthritis, sarcoidosis, inflammatory bowel disease) but is only an infrequent complication of SS. 
 
 Characterized by inflammation of the iris, ciliary body, and/or choroid. It can occur in association with a number of systemic autoimmune disorders (e.g. spondyloarthritis, sarcoidosis, inflammatory bowel disease). It is also an infrequent complication of Sjogren Syndrome.
+
+ Tertiary syphilis can manifest as uveitis, causing eye redness, ocular pain, and decreased vision. Tertiary syphilis is extremely rare in children and, when present, should raise suspicion for sexual abuse.
 
 ### Anterior Uveitis
 
@@ -1476,7 +1562,7 @@ Refractory conditions include
   - Myopia: lens too thick, ciliary body cannot relax
   - Astigmatism
   - Presbyoia
-  
+
    ![tropias](figures/eye-refractive.jpg)
 
 ### Astigmatism
@@ -1485,8 +1571,35 @@ A nonspherical cornea can lead to astigmatism, which typically presents with blu
 ### Cornea Reshaping
 Chronic contact lens use problem in corneal reshaping. Patients complain about contact lens no longer fits, eye irritation, vision problems. Usually by the time the corneal is reshaped, the refractory correction is not good, refer to ophthalmology to identify other causes. 
 
-
 ### Myopia
+
+progressive **myopia** (nearsightedness), a refractive error most commonly caused by **increased anterior-posterior diameter** of the eye. As the axial length of the eye increases during adolescence, the risk of myopia also increases because the focal point of a refracted image shifts anterior to the retina. The image displacement causes **blurred distance vision**, although vision of nearby objects is normal. Examination shows decreased visual acuity; peripheral field testing and funduscopic examination are normal. Management of myopia is with prescription lenses with a diverging (concave) lens, which refocuses the refracted image onto the retina.
+
+- Caused by increased axial length of eye (most common) or corneal protrusion
+- Results in refracted image focused anterior to retina
+
+**Epidemiology**
+
+- New-onset incidence highest in adolescents
+- Severity typically stabilizes by early adulthood
+- Risk factors: positive family history, East Asian descent
+
+**Clinical Features**
+
+- Blurred distance vision
+- Normal near vision
+
+**Complications**
+
+Patients with progressive myopia (ie, untreated or refractory to treatment) may develop **high myopia**, which is characterized by needing **≥6 diopters of correction** to achieve normal visual acuity, as seen in this patient. High myopia leads to stretching and thinning of the sclera, choroid, and retina. These mechanical changes are associated with an increased risk of **retinal detachment** and **macular degeneration**, both of which can lead to vision loss. Retinal detachment in high myopia is characterized by a retinal tear that allows vitreous fluid to accumulate between the retinal layers.
+
+- Retinal detachment
+- Macular degeneration
+
+**Management**
+
+- Prescription lenses with diverging (concave) lenses
+- In some children, antimuscarinic drops (eg, atropine) or orthokeratology (ie, rigid contact lens) may be used to slow progressive myopia and prevent subsequent complications.
 
 ### Hyperopia / Presbyopia
 
@@ -1495,13 +1608,35 @@ Chronic contact lens use problem in corneal reshaping. Patients complain about c
 ### Presbyopia
 This patient is most likely suffering from presbyopia, which is a common age-related disorder that results from the loss of elasticity in the lens.  This decrease in elasticity prohibits accommodation of the lens, which is required in order to focus on near objects.  The tendency of patients to hold reading material at a further distance is classic for presbyopia.  Patients often have no history of eye problems.  Most patients will report the onset of presbyopia while they are in their forties, and symptoms typically peak at some point in their sixties.  The poor near vision associated with presbyopia can easily be improved with reading glasses.
 
-### Cataracts
+### Cataracts 白内障
+A cataract is a vision-impairing opacification of the lens, most commonly related to oxidative damage of the lens with aging.  Other risk factors for cataract include diabetes, smoking, chronic sunlight exposure, and glucocorticoid use.
+
 Lens opacification is the cause of visual loss from cataracts.
 
+**Presentation**: painless loss / blurring of vision
 
-Once removed, cataracts do not typically recur.  Following cataract surgery, some patients develop posterior capsule opacification (thickening of the capsule holding the artificial lens), which can cause cloudy vision and can be treated (eg, with laser) without resulting in longterm vision problems.  
+**Clinical Feature**
+- progressive, bilateral blurring of vision
+  - Cataracts are usually bilateral, but patients may become symptomatic in one eye before the other.  
+- painless blurring of vision, bothersome glare, and often halos around lights at night due to scattering of light in the lens.  
+- Ocular examination in early cataract formation may show a normal red reflex with clear visualization of the retina; as the cataract progresses, the red reflex is lost and retinal detail may not be visible.
+
+**Differentials**
+
+- Hypertension can cause progressive arteriolar changes in the retina.  However, most patients with hypertensive retinopathy are asymptomatic; symptoms can occur due to retinal hemorrhage but typically present acutely with monocular vision loss.
+- Open-angle glaucoma presents with insidious, gradual loss of peripheral vision.  This may lead to near-miss motor vehicle collisions, but night driving is not preferentially affected.  Open-angle glaucoma also does not cause halos around bright lights; these are sometimes seen with acute angle-closure glaucoma, which classically presents with severe eye pain, conjunctival redness, and a poorly reactive mid-dilated pupil.
+- Macular degeneration causes decreased acuity of central vision.  However, difficulty with night driving, typically due to glare, and halos are more suggestive of cataracts.
+- Diabetic retinopathy is characterized by vascular proliferation with or without vitreous hemorrhage.  Symptoms are a late finding and may include floaters, decreased visual acuity, focal visual field defects, and acute monocular vision loss. However, it does not result in progressive blurring with glare and halos.
+
+**Management**
+- Cataracts typically follow a slowly progressive course, and treatment is indicated when loss of vision impairs activities of daily living.  Definitive treatment is lens extraction with artificial lens implantation.
+- Once removed, cataracts do not typically recur.  Following cataract surgery, some patients develop posterior capsule opacification (thickening of the capsule holding the artificial lens), which can cause cloudy vision and can be treated (eg, with laser) without resulting in longterm vision problems.  
 
 #### Cortical Cataracts
+
+### Pterygium
+
+Pterygium is a wedge-shaped proliferation of conjunctival tissue that expands from the lateral aspects of the eye toward the cornea. Patients typically have chronic ultraviolet light exposure; myopia is not associated with pterygium development.
 
 Posterior Segment Conditions
 ------------------------
@@ -1566,6 +1701,13 @@ Age-related macular degeneration (AMD) is usually seen in patients age >50.  It 
 
 AMD results from degeneration and atrophy of the central retina (macula), retinal pigment epithelium, Bruch's membrane, and choriocapillaries.
 
+It occurs in 2 primary forms: atrophic (dry), which causes slowly progressive, vision loss that involves one or both eyes and is usually associated with scotoma (ie, blind spot); and exudative/neovascular (wet), which causes unilateral, aggressive vision loss, often starting with straight line distortion.  
+
+Patients with macular degeneration typically present with painless progressive blurring of central vision, which can be acute or insidious. It occurs bilaterally.
+
+
+
+ Antioxidant supplements (eg, vitamins C and E, zinc) are recommended for patients with early signs of age-related macular degeneration. Examination in this disorder shows deposits of cellular debris (drusen) in the retina.
 
 #### Dry AMD
 
@@ -1573,6 +1715,8 @@ AMD results from degeneration and atrophy of the central retina (macula), retina
 Exudative macular degeneration typically presents as painless, progressive blurring of central vision, which can be acute or insidious.  It occurs bilaterally.  Testing reveals central scotoma.  Ophthalmoscopy reveals growth of abnormal vessels in the retinal space.  Sudden visual loss may occur if it is complicated by retinal detachment.
 
 ### Retinal Detachment
+
+Retinal detachment refers to the separation of the inner layers of the retina. It may be associated with metabolic disorders (e.g., diabetes mellitus), trauma (including ocular surgery), vascular disease, myopia, or degeneration. Patients typically complain of vision loss, photopsia with showers of floaters.  Fundoscopy typically demonstrates an elevated retina with folds and/or a tear.
 
 Retinal detachment usually presents with a sudden onset of photopsia and floaters.  The most classic description is that of "a curtain coming down over my eyes."
 
@@ -1587,10 +1731,13 @@ Risk factors for retinal detachment include severe myopia, diabetic retinopathy,
 
 Retinal detachment refers to the separation of the layers of the retina.  It usually occurs in people aged 40-70 years.  Patients complain of photopsia (flashes of light) and floaters (spots in the visual field.).  The most classic description is that of "a curtain coming down over my eyes."  Usually, the inciting event occurs months before retinal detachment.  Myopia or trauma can cause retinal breaks, through which fluid seeps in and separates the retinal layers.  In this patient, ocular trauma most likely occurred due to her cataract surgery.  Ophthalmoscopic examination reveals a grey, elevated retina.  Laser therapy and cryotherapy are done to create permanent adhesions between the neurosensory retina, retinal pigment epithelium, and choroid. 
 
+| Types          | Remark                                                 |
+| -------------- | ------------------------------------------------------ |
+| Rhegmatogenous | Retinal Break                                          |
+| Exudative      | Fluid Accumulation                                     |
+| Tractional     | Usually from severe proliferative diabetic retinopathy |
 
-Types | Rhegmatogenous | Exudative | Tractional
-|---|---|---|---
-|| Retinal Break | Fluid Accumulation | Usually from severe proliferative diabetic retinopathy
+
 
 #### Rhegmatogenous Retinal Detachment
 
@@ -1637,13 +1784,21 @@ Treatment
 
 Fundoscopy: Attenuated arterioles, thinner than the vein, bull's eye
 
+ Retinitis pigmentosa is an inherited degenerative disease of the retinal photoreceptor cells that causes bilateral tunnel vision and, eventually, binocular blindness. Uniocular vision loss, proptosis, and skin findings would be uncommon.
+
+
+
 ### HIV Retinopathy and Related Conditions
 HIV retinopathy is marked by cotton-wool retinal lesions that are rarely hemorrhagic and tend to resolve over weeks to months.  HIV retinopathy does not commonly cause floaters or blurred vision.
 
-#### Acute Retinal Necrosis Syndrome
-Ophthalmologic problems occur in approximately half of patients with advanced HIV infection.  Retinitis can occur as a complication of opportunistic infections in AIDS patients.  Both varicella-zoster (VZV) and herpes simplex virus (HSV) can cause severe, devastating intraocular inflammation.  Most cases of retinal disease are believed to be a reactivation of a previously acquired infection.
+#### Cataract 白内障
 
-In an immunocompromised individual, HSV retinitis may be characterized by rapidly progressing bilateral necrotizing retinitis (referred to as the "acute retinal necrosis syndrome").  This patient's clinical presentation is suggestive of acute retinal necrosis most likely due to HSV.  The initial symptoms are keratitis and conjunctivitis with eye pain, followed by rapidly progressive visual loss.  Funduscopy reveals widespread, pale, peripheral lesions and central necrosis of the retina.
+atients with **chronic HIV infection** are at increased risk for cataracts, possibly due to accelerated aging or chronic immune suppression, and often develop cataracts at an **early age**. 
+
+#### Acute Retinal Necrosis Syndrome
+Ophthalmologic problems occur in approximately half of patients with advanced HIV infection.  Retinitis can occur as a complication of opportunistic infections in AIDS patients.  Both **varicella-zoster (VZV) and herpes simplex virus (HSV) can cause severe,** devastating intraocular inflammation.  Most cases of retinal disease are believed to be a reactivation of a previously acquired infection.
+
+In an immunocompromised individual, **HSV retinitis** may be characterized by rapidly progressing bilateral necrotizing retinitis (referred to as the "acute retinal necrosis syndrome").  This patient's clinical presentation is suggestive of acute retinal necrosis most likely due to HSV.  The initial symptoms are keratitis and conjunctivitis with eye pain, followed by rapidly progressive visual loss.  Funduscopy reveals widespread, pale, peripheral lesions and central necrosis of the retina.
 
 In HIV patients, both HSV and VZV can cause severe, acute retinal necrosis associated with pain, keratitis, uveitis, and funduscopic findings of peripheral pale lesions and central retinal necrosis.  In contrast, CMV retinitis is painless, not usually associated with keratitis or conjunctivitis, and characterized by funduscopic findings of hemorrhages and fluffy or granular lesions around the retinal vessels.
 
@@ -1659,6 +1814,10 @@ Retinitis is the most common end-organ manifestation of CMV in patients with adv
 
 Patients with CMV retinitis are usually treated with oral antivirals (eg, valganciclovir).  Lesions near the fovea or optic nerve typically require concomitant intravitreal injections to reduce the risk of blindness and retinal detachment due to retinal scarring.  Antiretroviral therapy should also be initiated (usually 2 weeks after beginning CMV treatment) to prevent CMV recurrence and progression.
 
+Cytomegalovirus (CMV) retinitis presents with central vision loss, scotomata (ie, blind spots), floaters, and photopsia (ie, flashing lights). Unlike this patient's chronic symptoms, symptoms of CMV retinitis are typically subacute (weeks) and unilateral, and examination shows yellow-white fluffy lesions adjacent to the fovea and retinal vessels.
+
+
+
 
 ### Syphilitic chorioretinitis 
 Usually presents with uveitis and diminished visual acuity and almost always occurs with symptoms of syphilitic meningitis (eg, nuchal rigidity, confusion, fever).
@@ -1666,31 +1825,36 @@ Usually presents with uveitis and diminished visual acuity and almost always occ
 ### Toxoplasmic chorioretinitis
 Toxoplasmic chorioretinitis usually causes eye pain and decreased vision.  Retinal lesions appear in a nonvascular (not perivascular) distribution.
 
+### Retinoblastoma 
+
+A rare intraocular malignancy that usually affects children age <2. Suspicion typically arises when a child has leukocoria, an abnormal white reflex of the eye. Patients may also have progressive deterioration of monocular vision, strabismus, and proptosis. 
+
 Global Ocular Conditions
 -------------------
 
 ### Endophthalmitis
-Endophthalmitis is an invasive infection of the globe (bacterial or fungal) and is due to disruption of the external surface of the eye (eg, trauma).  Endophthalmitis may show conjunctival irritation as well, but patients will usually have purulent haziness of the ocular contents and may have a layering-out of pus in the anterior chamber (hypopyon).
+Endophthalmitis is an invasive infection of the globe (bacterial or fungal), and in particular affecting the vitreous humor. It is typically due to disruption of the external surface of the eye (eg, trauma). Endophthalmitis may show conjunctival irritation as well, but patients will usually have purulent haziness of the ocular contents and may have a layering-out of pus in the anterior chamber (hypopyon).
 
-Candida can cause endophthalmitis, especially with disseminated candidiasis infection.  Patients with candida fungemia who appear sick should be evaluated by an ophthalmologist for possible endophthalmitis.
+Types | Remarks
+|---|---
+Postoperative endophthalmitis | This is the most common form of endophthalmitis.  It usually occurs within 6 weeks of surgery. 
+Candida endopthalmitis | Candida can cause endophthalmitis, especially with disseminated candidiasis infection.  Patients with candida fungemia who appear sick should be evaluated by an ophthalmologist for possible endophthalmitis.
 
-Endophthalmitis is a purulent inflammation of the intraocular fluids (vitreous and aqueous) usually due to infection.
+**Presentation**: pain and severe visual acuity
 
+**Clinical Feature**
 - Trauma, ocular surgery, immunocompromised patients
-- Painful
-- Visual loss severe
-- Conjunctival injection & chemosis
+- Swollen eyelids, conjunctival injection & chemosis, corneal edema and infection
 - Anterior chamber cells & hypopyon
 - Poor view of fundus
 
 ![endopthalmitis](figures/eye-endoopthalmitis.jpeg)
 
-Management
+**Management**
 - Vitreous tap for identification of causative agents
-- Intravitreal antibiotics
-- Intensive topical and systemic antibiotics
-- KIV vitrectomy
+- Based on the severity, intravitreal antibiotic injection or vitrectomy is done.
 
+**Differential**
 Uveitis | Endopthalmitis
 |----|---
 Non-purulent | Purulent
@@ -1699,7 +1863,7 @@ No Swelling | Chemosis
 Hypopyron RARE | Hypopyon COMMON
 Posterior Synechia (hallmark) | Posterior Synechia (rare)
 
-### Glaucoma
+### Glaucoma 青光眼
 Drugs To Watch For in Glaucoma
 - Systemic or ophthalmic glucocorticoids (eg, prednisone and prednisolone eye drops, respectively) can worsen OAG by decreasing the outflow of aqueous humor from the anterior chamber.  
 - Ophthalmic atropine is used to dilate the pupil to facilitate examination of the retina.  It is contraindicated in patients with OAG because the dilation can lead to angle narrowing, which results in decreased outflow of aqueous humor from the anterior chamber, leading to acute angle-closure glaucoma.
@@ -1709,67 +1873,43 @@ The intraocular pressure is usually monitored in individuals with suspected glau
 #### Acute Primary Angle Closure Glaucoma
 Typical case: Elderly chinese female, small build, small stature, a week or two of headache, nausea, blurring of vision, some times vomiting, red-eyes, hazy look cornea. Seen in ED opthalmology room.
 
-Risk factors
+Acute corneal opacification suggests angle closure glaucoma, which most commonly occurs in older individuals and is associated with headache, nausea, conjunctival redness, and a fixed, dilated pupil.
+
+ACG is characterized by narrowing or closure of the anterior chamber angle, leading to decreased aqueous outflow and elevated intraocular pressure (IOP).  
+
+**Risk factors**
 - Small eyes
 - Elderly with cateract resulting in thickened lens
 
-Symptoms
-- Sudden onset
-- Unilateral
-- Redness, pain, blurring
+**Symptoms**
+- Sudden onset, unilateral
+- Ocular redness, pain, reduction in visual acuity (blurring)
 - One-sided headache, vomiting
 
-Signs
-- Conjunctival injection
-- Cornea edema / hazy
-- **Mid-dilated pupil**
-- Shallow AC
-- Raised IOP
-- Ballot the eyeball
+**Physical Exam Signs**
+- Examination findings include 
+  - conjunctival injection; corneal edem, opacity; and a **fixed, mid-dilated pupil**.
+  - palpable firmness of the eyeball; 
+  - shallow AC
+  
 
-Treatment
-- Abort attack
-- Miose pupil
-- Lower intraocular pressure with topical or systemic Rx
-- Laser peripheral iridotomy
+**Diagnosis**
+- gonioscopy to visualize the corneal angle
+- and/or tonometry to measure IOP.
+  
 
-#### Lens-induced Glaucoma
+**Management**: 
+- Key: abort attack and prevent future recurrence  
+  - Lower intraocular pressure with topical or systemic Rx
+    - Multidrug topical therapy
+      - **timolol**: reduce aqueous production
+      - **pilocarpine**: causes ciliary muscle contraction to open the trabecular meshwork at the corneal angle
+      - **apraclonidine**: decreased aqueous production and increases outflow
+    - Systemic therapy: **acetazolamide** (consider mannitol)
+  - Laser peripheral iridotomy: facilitate aqueous outflow and provide definitive management.
+- Avoid
+  - Pupillary dilation (eg, dilated funduscopic examination) narrows the corneal angle and can precipitate or worsen ACG.  Therefore, mydriatic drops (eg, phenylephrine, cyclopentolate) should not be given in patients with ACG.
 
-#### Pseudoexfoliation glaucoma
-Pseudoexfoliation glaucoma, or pseudoexfoliative glaucoma, is the same condition with the addition of elevated eye pressure and evidence of damage to the optic nerve. Pseudoexfoliation is not to be confused with “true exfoliation”, which is due to heat or infrared exposure (and which can be found among glassblowers).
-
-#### Neovascular Glaucoma
-
-In patients with proliferative eye disease, ischemia results in new vessels development along the iris, along the trabecular meshwork. Resulting in secondary angle closure, raised ICP, and more difficult to treat.
-
-#### Open-angle Glaucoma
-
-A form of optic neuropathy typically (but not always) associated with elevated intraocular pressure (IOP) and characterized by atrophy of the optic nerve head (e.g. optic disc rim thinning, increased cup/disc ratio). OAG is usually asymptomatic in the early stages, but patients can develop gradual loss of peripheral vision. Because vision loss from OAG is generally irreversible, treatment should be initiated before the patient develops significant sympomts
-
-Open angle glaucoma is also seen in diabetics, but is characterized by gradual loss of peripheral vision, resulting in tunnel vision.  Ophthalmoscopy shows pathologic cupping of the optic disc.
-
-Primary open-angle glaucoma usually presents with peripheral visual field defects followed by central visual loss.
-
-This patient has primary open-angle glaucoma (OAG), manifesting as loss of peripheral vision in association with an enlarged optic cup and an increased cup/disc ratio (ie, "cupping" of the optic disc).  OAG is a type of optic neuropathy characterized by atrophy of the optic nerve head.  It is typically associated with increased intraocular pressure (IOP), as measured by tonometry, but this finding is not highly sensitive or specific.  The prevalence of OAG is elevated in African Americans, patients with diabetes mellitus, and those with a family history of glaucoma.
-
-OAG usually has an insidious, slowly progressive course, and patients frequently are asymptomatic until the condition is advanced.  Early symptoms, when present, typically include tripping over objects or being involved in near-miss motor vehicle collisions.  Screening (eg, tonometry, peripheral vision testing, slit lamp examination) is not universally recommended but can be considered for older individuals and patients with risk factors.  Initial treatment includes topical agents (eg, bimatoprost) to decrease the volume and pressure of aqueous humor or laser trabeculoplasty.
-
-Open-angle glaucoma (OAG) is a type of optic neuropathy characterized by loss of peripheral vision associated with an enlarged optic cup and an increased cup/disc ratio (ie, "cupping").  It is typically associated with increased intraocular pressure, but this finding is not highly sensitive or specific.  OAG usually has an insidious course, and patients frequently are asymptomatic until the condition is advanced.
-
-Management
-OAG can be treated with a number of **topical agents** that lower IOP by decreasing the formation of aqueous humor or increasing its outflow from the anterior chamber
-  - 1st line agent for most patient is a topical prostaglandin (e.g. latanoprost, bimatoprost), which acts by increasing drainage of aqueous humor through the uveosclerar pathway
-  - If prostaglandins are ineffective, topical beta blockers (e.g. timolol) can be added, although they should be used with caution in patients with comorbid asthma
-  - If topical agents are ineffective or not tolerated, surgical intervention (e.g. laser trabeculoplasty) can be considered
-  - *Topical carbonic anhydrase inhibitors (e.g. dorzolamide), as opposed to systemic or oral ones are preferred in OAG.* - why?
-
-Notes
-- Systemic or opthalmic glucocorticoids (e.g. prednisone and prednisolone eye drops respectively) can worse OAG by decreasing the outflow of aqueous humor from the anterior chamber. However, this adverse effect is much rarer with inhaled glucocorticoids.
-- Ophthalmic atropine is used to dilate the pupil to facilitate examination of the retina. It is contraindicated in patients to OAG because the dilation can lead to angle narrowing, which results in decreased outflow of aqueous humor from the anterior chamber, leading to acute angle-closure glaucoma.
-
-Open angle glaucoma has an insidious onset, with gradual loss of peripheral vision resulting in tunnel vision.  Other characteristic features are persistently increased intraocular pressure and pathologic cupping of the optic disc.
-
-#### Angle Closure Glaucoma
 Angle closure glaucoma occurs predominantly in people aged 55-70 years.  It presents with an acute onset of severe eye pain and blurred vision associated with nausea and vomiting.  Examination reveals a red eye with steamy cornea and moderately dilated pupil that is non reactive to light.
 
 Angle closure glaucoma occurs with closure of a pre-existing narrow anterior chamber angle.  It predominantly occurs in people aged 55-70 years.  It presents with an acute onset of severe eye pain and blurred vision associated with nausea and vomiting.  It usually occurs following pupillary dilation, which may occur in darkened movie theaters, during times of stress, or due to drug intake.  Examination reveals a red eye with steamy cornea and moderately dilated pupil that is non reactive to light.  The anterior chamber is shallow with inflammatory changes.  Tonometry reveals increased intraocular pressure.  Intravenous acetazolamide (with subsequent oral administration) may lower the intraocular pressure.  Permanent cure is offered with laser peripheral iridotomy.
@@ -1790,6 +1930,7 @@ Trigger
 - Topiramate or some antipsychotic that cause pupil dilation and accomodation (bring lens closer to the corneal) might trigger closure
 - Another trigger is watching emotional movie in a dark room;
   
+
 Management
 - Systemic (oral and intravenous) carbonic anhydrase inhibitors (e.g. azetazolamide) are used acutely for angle-closure glaucoma, which presents with headache, ocular pain, vomiting, and a fixed middilated pupil. 
 - Shining light and cutting sphinter might not be able to help. 
@@ -1837,12 +1978,58 @@ OAG can be treated with a number of topical agents that lower IOP by decreasing 
 
 Systemic (ie, oral, intravenous) carbonic anhydrase inhibitors (eg, acetazolamide) are used acutely for angle-closure glaucoma, which presents with headache, ocular pain, vomiting, and a fixed, middilated pupil.  For OAG, topical carbonic anhydrase inhibitors (eg, dorzolamide) are preferred.
 
+#### Open-angle Glaucoma
+
+A form of optic neuropathy typically (but not always) associated with elevated intraocular pressure (IOP) and characterized by atrophy of the optic nerve head (e.g. optic disc rim thinning, increased cup/disc ratio). OAG is usually asymptomatic in the early stages, but patients can develop gradual loss of peripheral vision. Because vision loss from OAG is generally irreversible, treatment should be initiated before the patient develops significant sympomts
+
+Open angle glaucoma is also seen in diabetics, but is characterized by gradual loss of peripheral vision, resulting in tunnel vision.  Ophthalmoscopy shows pathologic cupping of the optic disc.
+
+Primary open-angle glaucoma usually presents with peripheral visual field defects followed by central visual loss.
+
+This patient has primary open-angle glaucoma (OAG), manifesting as loss of peripheral vision in association with an enlarged optic cup and an increased cup/disc ratio (ie, "cupping" of the optic disc).  OAG is a type of optic neuropathy characterized by atrophy of the optic nerve head.  It is typically associated with increased intraocular pressure (IOP), as measured by tonometry, but this finding is not highly sensitive or specific.  The prevalence of OAG is elevated in African Americans, patients with diabetes mellitus, and those with a family history of glaucoma.
+
+OAG usually has an insidious, slowly progressive course, and patients frequently are asymptomatic until the condition is advanced.  Early symptoms, when present, typically include tripping over objects or being involved in near-miss motor vehicle collisions.  Screening (eg, tonometry, peripheral vision testing, slit lamp examination) is not universally recommended but can be considered for older individuals and patients with risk factors.  Initial treatment includes topical agents (eg, bimatoprost) to decrease the volume and pressure of aqueous humor or laser trabeculoplasty.
+
+Patients who develop impaired vision while receiving glucocorticoid eyedrops (ie, prednisolone), suggest possible steroid-induced open-angle glaucoma (OAG).  OAG is a type of optic neuropathy associated with increased intraocular pressure (IOP).  Topical glucocorticoid eyedrops and systemic glucocorticoids can raise IOP due to decreased outflow of aqueous humor via drainage channels in the anterior chamber, possibly worsened by the swelling of structures (eg, choroid, lens) in the posterior chamber.
+
+OAG is characterized by insidious loss of peripheral vision related to atrophy of the optic nerve head; signs include enlargement of the optic cup and increased cup/disc ratio (ie, "cupping" of the optic disc), but this is a late finding and may not be immediately apparent.  However, patients with steroid-induced OAG may also develop central blurriness early in the course due to corneal edema.  Chronic use of glucocorticoids can also cause subcapsular cataracts, although this is not yet seen in this patient.
+
+Elevated IOP in OAG can be documented with tonometry.  Tonometry measures deformation of the cornea in response to applied (mechanical or pneumatic) pressure.  Patients with suspected OAG should also receive assessment of peripheral fields using automated test devices (manual visual field testing by opposition has low sensitivity for OAG).
+
+Open-angle glaucoma (OAG) is a type of optic neuropathy characterized by loss of peripheral vision associated with an enlarged optic cup and an increased cup/disc ratio (ie, "cupping").  It is typically associated with increased intraocular pressure, but this finding is not highly sensitive or specific.  OAG usually has an insidious course, and patients frequently are asymptomatic until the condition is advanced.
+
+**Management**
+OAG can be treated with a number of **topical agents** that lower IOP by decreasing the formation of aqueous humor or increasing its outflow from the anterior chamber
+
+  - 1st line agent for most patient is a topical prostaglandin (e.g. **latanoprost**, **bimatoprost**), which acts by increasing drainage of aqueous humor through the uveosclerar pathway
+  - If prostaglandins are ineffective, topical beta blockers (e.g. **timolol**) can be added, although they should be used with caution in patients with comorbid asthma
+  - If topical agents are ineffective or not tolerated, surgical intervention (e.g. **laser trabeculoplasty**) can be considered
+  - *Topical carbonic anhydrase inhibitors (e.g. **dorzolamide**), as opposed to systemic or oral ones are preferred in OAG.* - why? 
+
+**Notes**
+
+- Systemic or opthalmic glucocorticoids (e.g. prednisone and prednisolone eye drops respectively) can worse OAG by decreasing the outflow of aqueous humor from the anterior chamber. However, this adverse effect is much rarer with inhaled glucocorticoids.
+- Ophthalmic atropine is used to dilate the pupil to facilitate examination of the retina. It is contraindicated in patients to OAG because the dilation can lead to angle narrowing, which results in decreased outflow of aqueous humor from the anterior chamber, leading to acute angle-closure glaucoma.
+
+Open angle glaucoma has an insidious onset, with gradual loss of peripheral vision resulting in tunnel vision.  Other characteristic features are persistently increased intraocular pressure and pathologic cupping of the optic disc.
+
+
+#### Lens-induced Glaucoma
+
+#### Pseudoexfoliation glaucoma
+Pseudoexfoliation glaucoma, or pseudoexfoliative glaucoma, is the same condition with the addition of elevated eye pressure and evidence of damage to the optic nerve. Pseudoexfoliation is not to be confused with “true exfoliation”, which is due to heat or infrared exposure (and which can be found among glassblowers).
+
+#### Neovascular Glaucoma
+
+In patients with proliferative eye disease, ischemia results in new vessels development along the iris, along the trabecular meshwork. Resulting in secondary angle closure, raised ICP, and more difficult to treat.
+
+
 Optic Nerve Conditions
 ------------------
 
 ### Optic Neuritis
-Inflammation of the optic nerve
- 
+Inflammation of the optic nerve. Optic neuritis is characterized by acute unilateral loss of vision, severe pain, and an afferent pupillary defect. It most commonly occurs in women age <50 and is often an initial presentation of multiple sclerosis.
+
 Aetiology
   - Idiopathic
   - Demyelinating e.g. Multiple sclerosis
@@ -1892,6 +2079,7 @@ Presentation of arteritic ION e.g. Giant cell arteritis
 - based on clinical diagnosis
 - need to give steroids for prompt diagnosis
   
+
 Causes of non arteritic ION 
 - Hypertension
 - Diabetes mellitus
@@ -1914,6 +2102,39 @@ Visual Pathway Disorders
 ------------------
 MRI imaging is used to localize the lesion. Neurologists drive the management.
 
+
+
+### Amblyopia
+
+- Functional reduction in visual acuity due to visual disturbances in early childhood
+- Unilateral (most common): ≥2-line difference in vision between eyes (eg, 20/30 & 20/50)
+- Bilateral: vision worse than 20/40 at age ≥4
+- Amblyopia, which is usually unilateral, occurs when binocular vision is disturbed while the visual system is developing (age <5). During early childhood, decreased visual stimuli from one eye results in preferentially enhanced development of the visual cortex associated with the other, normally functioning eye and therefore further decreased visual acuity of the affected eye.
+
+**Etiology**
+
+- Strabismus: eye deviation
+- Asymmetric refractive error
+- Vision deprivation (eg, cataracts, ptosis, or corneal opacities): dull red reflex
+
+**Diagnosis**
+
+- Unilateral amblyopia is diagnosed by a ≥2-line difference in vision between eyes using the Snellen chart. 
+
+**Prognosis**
+
+- Without treatment, vision loss can worsen and may become permanent.
+
+**Management**
+
+- Corrective lenses to correct the refractive error
+- Encourage use of amblyopic eye
+  - Patching eye with better vision
+  - Cycloplegic drops to blur normal eye
+- Surgery (eg, cataract removal)
+
+
+
 ### Homonymous Hemianopia
 - Loss of vision on one side of both visual fields 
 - Due to lesions of the retrochiasmal pathway e.g. infarct, haemorrhage, tumour 
@@ -1930,10 +2151,14 @@ MRI imaging is used to localize the lesion. Neurologists drive the management.
 Vascular Conditions of the Eye
 ----------------------
 
+###  Amaurosis fugax 
+
+Usually caused by atheroemboli from the carotid arteries and causes temporary vision loss as opposed to the persistent vision loss seen in this patient. Swelling of the optic disc may be seen in some cases
+
 ### Retinal Vein Occlusion
 
 #### Central retinal vein occlusion (CRVO)
-Central retinal vein occlusion presents as a sudden, painless, unilateral loss of vision.  It is also noted in patients with a history of hypertension.  Ophthalmoscopic signs are disk swelling, venous dilation and tortuosity, retinal hemorrhages, and cotton wool spots. 
+Central retinal vein occlusion presents as a sudden, painless, unilateral loss of vision.  It is also noted in patients with a history of hypertension.  Ophthalmoscopic signs are disk swelling, venous dilation and tortuosity, retinal hemorrhages, and cotton wool spots. Central retinal vein occlusion presents with acute or subacute painless monocular visual loss. Funduscopic examination shows a "blood and thunder" appearance consisting of optic disk swelling, retinal hemorrhages, dilated veins, and cotton wool spots.
 
   - Non-ishaemic CRVO mild to moderate visual loss
   - Ischaemic CRVO marked visual loss
@@ -2037,9 +2262,68 @@ Management
 
 Amaurosis fugax is usually caused by atheroemboli from the carotid arteries and causes temporary vision loss.  Swelling of the optic disc may be seen in some cases but no retinal hemorrhage.
 
-
 Muscular Disorders Related to the Eyes
 -------------------------------
+
+### CN III problems
+
+CN III has 2 major components as follows:
+
+- Inner somatic fibers - innervate the levator muscle of the eyelid and 4 of the extraocular muscles (EOMs) (superior rectus, medial rectus, inferior rectus, inferior oblique)
+- **Superficial parasympathetic fibers** - innervate the sphincter of the iris and the ciliary muscles (controlling pupil constriction).
+
+#### Diabetic Ophthalmoplegia
+
+The most common cause of CN III palsy in adults is **ischemic neuropathy** due to poorly controlled **diabetes mellitus**.
+
+Ischemic oculomotor (CN III) palsy is commonly associated with poorly controlled diabetes mellitus and is characterized by damage to the inner somatic nerve fibers while sparing the more peripheral parasympathetic fibers. This manifests with ptosis, "down-and-out" gaze, diplopia, and normal pupillary response.
+
+Because the inner somatic fibers are farther from the blood supply, they are more susceptible to ischemic injury. Therefore, patients with ischemic CN III palsy typically have paralysis of the levator muscle (**ptosis**) and 4 EOMs (**"down-and-out-gaze"**) with **preserved pupillary response**.
+
+*Case: A 64-year-old woman is brought to the emergency department due to sudden-onset double vision for the past few hours. She has had no headache, vertigo, or slurring of speech and no focal weakness or numbness. The patient has a history of hypertension, type 2 diabetes mellitus with poor glycemic control, and chronic kidney disease. She smokes cigarettes but does not use alcohol or illicit drugs. Blood pressure is 140/90 mm Hg and pulse is 82/min. Physical examination shows ptosis of her right eye. The right eyelid is manually elevated, showing the right eye in a "down-and-out" position. Right eye adduction, elevation, and depression movements are significantly impaired. Left extraocular movements are normal in all directions. Bilateral pupils are equal and reactive to light. The remainder of the neurologic examination is normal.* 
+
+#### Compression of CNIII
+
+Nerve compression (eg, aneurysm, tumor) of CN III can cause similar manifestations to ischemic palsy. However, nerve compression usually also affects the parasympathetic fibers, leading to an abnormal pupillary response (eg, mydriasis).
+
+#### Isolated nerve inflammation of CN III 
+
+(eg, vasculitis, autoimmune disorders)  Much less common than an ischemic pathology, especially in patients with extensive vascular risk factors.
+
+### EOM infiltration 
+
+(eg, inflammatory, neoplastic, infective) can result in unilateral or bilateral ophthalmoparesis, which typically does not isolate to a single cranial nerve. This patient with vascular risk factors has deficits isolated to CN III, suggesting an ischemic etiology.
+
+
+
+
+
+### **Strabismus** (ocular misalignment)
+
+This patient has **strabismus**, which is **ocular misalignment** characterized by nasal (esotropia) or temporal (exotropia) deviation of the eye. Intermittent strabismus can be expected in infants age <4 months due to immature extraocular muscles (ocular instability of infancy). However, strabismus beyond early infancy must be treated to prevent **amblyopia**, a functional reduction in visual acuity from disuse of the deviated eye.
+
+**Clinical Features**
+
+- Constant eye deviation at any age
+- Intermittent eye deviation at age >4 months
+- Eye deviation on cover test
+- Asymmetric corneal light reflexes
+- Asymmetric intensity of red reflexes
+- Torticollis or head tilt
+- The **cover test** is performed by covering one eye and observing for movement in the other while the child focuses on an object. A normal eye maintains the same position without moving; a misaligned eye shifts to refixate on the object when the normal eye is covered.
+
+**Complication**
+
+- Amblyopia (reduced visual acuity)
+- Diplopia
+
+**Management**
+
+- Screening for strabismus should be performed at every well child visit until age 5 because treatment outcomes are best when initiated while the visual cortex is most malleable.
+- prescription eyeglasses for correction of significant refractive errors (if present) 
+- and promoting the use of the affected eye
+  - the amblyopic eye can be strengthened by patching the normal eye 
+  - or **blurring the vision of the normal eye** with cycloplegic drops (eg, atropine)
 
 ### Facial Nerve Palsy
 
@@ -2053,6 +2337,8 @@ Note that ptosis is defined by location of the lid.
 
 Glands and Soft Tissue Conditions
 -------------------
+
+
 
 ### Blepharitis
 
@@ -2099,44 +2385,63 @@ Chalazion presents as lid discomfort.  It is a chronic, granulomatous inflammati
 
 ### Sebaceous gland Carcinoma of the Eye
 
+
+
+### Dacryostenosis 
+
+(obstruction of the nasolacrimal duct) is most common in infancy and causes tearing and crusting. Conjunctival injection and eyelid edema are not seen.
+
 ### Dacryocystitis 
 
-Dacryocystitis is an infection of the lacrimal sac due to obstruction of the nasolacrimal duct.  It usually occurs in infants and adults over the age of 40.  Acute dacryocystitis is characterized by the sudden onset of pain and redness in the medial canthal region.  Sometimes, a purulent discharge is noted from the punctum. A few patients present with fever, prostration, and an elevated leukocyte count.  Staphylococcus aureus and beta-hemolytic Streptococcus are the usual infecting organisms.  It usually responds to systemic antibiotic therapy. It is characterized by pain, swelling, tenderness, and redness in the tear sac area.  Mucous or pus can be expressed.
+Dacryocystitis is an infection of the lacrimal sac due to obstruction of the nasolacrimal duct.  It usually occurs in infants and adults over the age of 40.  Acute dacryocystitis is characterized by the sudden onset of pain and redness in the medial canthal region.  Sometimes, a purulent discharge is noted from the punctum. A few patients present with fever, prostration, and an elevated leukocyte count.  Staphylococcus aureus and beta-hemolytic Streptococcus are the usual infecting organisms.  It usually responds to systemic antibiotic therapy. It is characterized by pain, swelling, tenderness, and redness in the tear sac area.  Mucous or pus can be expressed.  It is characterized by pain, swelling, tenderness, and redness in the tear sac area. Mucous or pus can be expressed.
 
 
 ### Pre-septal and orbital cellulitis
 Bacterial infection usually results from local spread
-- Preseptal cellulitis
-  - Usually follows periorbital trauma or dermal infection
-  - Infection of subcutaeous tissue anterior to the orbital septum
-  - Causes erythema, induration, and tenderness of the eyelid
-  - Rarely a/w systemic symptoms
-- Orbital cellulitis
-  - Infection and inflammation within the orbital cavity producing orbital signs and symptoms 
-  - this is Sight threatening and life-threatening
-    - optical nerve compression
-    - subperiosteal or orbital abscess
-    - Meningitis
-    - Cavernous sinus thrombosis
-  - Most commonly secondary to ethmoidal sinusitis
-  - Additional signs not present in preseptal cellulitis
-    - Proptosis
-    - Chemosis
-    - Ophthalmoplegia
-    - Decreased visual acuity
-    - RAPD
-    - Fever / toxicity
-  - Need
-    - Surgery for drainage
-    - CT to map the infection
-    - Start antibiotics
-      - Augmentin 1 - 2 weeks
+#### Preseptal cellulitis
+
+- Usually follows periorbital trauma or dermal infection
+- Infection of subcutaeous tissue anterior to the orbital septum
+- Causes erythema, induration, and tenderness of the eyelid
+- Rarely a/w systemic symptoms
+
+Breaks in the skin due to inflammation (eg, atopic dermatitis) or trauma (eg, insect bite) can lead to cutaneous infections, such as preseptal cellulitis. Unlike orbital cellulitis, preseptal cellulitis is an infection anterior to the orbital septum and does not present with proptosis, visual changes, or ophthalmoplegia.
+
+#### Orbital cellulitis
+
+- Infection and inflammation within the orbital cavity producing orbital signs and symptoms 
+- this is Sight threatening and life-threatening
+  - optical nerve compression
+  - subperiosteal or orbital abscess
+  - Meningitis
+  - Cavernous sinus thrombosis
+- Most commonly secondary to ethmoidal sinusitis
+- Additional signs not present in preseptal cellulitis
+  - Proptosis
+  - Chemosis
+  - Ophthalmoplegia
+  - Decreased visual acuity
+  - RAPD
+  - Fever / toxicity
+- Need
+  - Surgery for drainage
+  - CT to map the infection
+  - Start antibiotics
+    - Augmentin 1 - 2 weeks
+
+| **Risk factors**   | Local infection (eg, sinusitis, dental infection, skin infection)Orbital trauma |
+| ------------------ | ------------------------------------------------------------ |
+| **Clinical signs** | Painful eye movementsOphthalmoplegiaProptosisVisual changes  |
+| **Diagnosis**      | ClinicalCT scan if diagnosis is uncertain                    |
+| **Treatment**      | Intravenous antibioticsSurgical drainage for abscess         |
 
 Preseptal cellulitis presents with acute, unilateral eyelid swelling and erythema. 
 
  Preseptal cellulitis is an infection of the eyelid anterior to the orbital septum.  It presents with fever and leukocytosis as well as erythema and edema of the eyelid and is treated with oral antibiotics (eg, doxycycline).
 
+Patients with suspected orbital cellulitis should undergo CT scan of the orbits and sinuses to identify drainable fluid collections within the orbit (ie, orbital abscess). Intravenous **antibiotic** therapy is the mainstay of treatment, and purulent material in the sinuses or orbit should be drained if present.
 
+Dental caries or abscesses, particularly in maxillary teeth (which are close to the sinuses and orbits), can predispose to orbital cellulitis. 
 
 Occular Trauma
 -------
@@ -2168,6 +2473,8 @@ Save Life, Save Eye, Save Sight.
 - Dislodged contact lens
   - Topical anesthesia and wait for about 5 - 10 seconds
   - Put cotton stick on the fornix and see if we can collect the contact lens
+
+
 
 ### Blunt Trauma to Anterior Segment
 
@@ -2225,6 +2532,12 @@ Pain, headache, nausea, vomiting
 - Worry blockage of trabecular 
 - Carbonic anhydrous inhibitor injection
 
+
+
+#### Lens Dislocation
+
+Lens dislocation can present with acute vision loss after trauma. It is commonly associated with iris tremulousness and does not cause RAPD.
+
 ### Blunt Trauma to the Posterior Segment
 
 #### Choroidal Rupture
@@ -2275,6 +2588,7 @@ Commotio retinae refers to traumatic retinopathy secondary to direct or indirect
 - Vertical eye movement - vertical diplopia
 - Infraorbital nerve paresthesia - check for decreases sensation
   
+
 **Management**
 - Does not need immediate repair unless there is life threatening cases in pediatrics
 - Other cases, wait for edema to go down first before operation
@@ -2283,12 +2597,28 @@ Commotio retinae refers to traumatic retinopathy secondary to direct or indirect
 
 ### Penetrating Trauma
 
-**Management**
+#### Open globe laceration (OGL) 
+Typically in patients with a high-velocity projectile injury to the eye; however, the object is not identified on inspection, raising the possibility of open globe laceration (OGL) with an intraocular foreign body.  OGL is typically caused by small, high-velocity particles (eg, metal shards) sent airborne by power tools, explosions (including weapons), lawn mowers, or motor vehicle accidents.  Penetration of the globe most commonly occurs at the cornea, therefore there is also a good chance of a concurrent corneal abrasion.
+
+**Clinical Features**
+- A large OGL may present with globe deformity, extrusion of vitreous or iris, or visible entry wound.  
+- In the absence of an obvious wound, OGL may be inferred by a peaked or teardrop pupil (iris stretching due to the laceration or foreign object), increased or decreased anterior chamber depth, or reduced intraocular pressure. 
+- Other potential manifestations include loss of visual acuity or absent afferent pupillary response.  
+- Smaller lacerations and abrasions may not be visible on routine inspection.  
+
+**Investigation**
 - If the retina is visible through iris, do direct fundoscopy
-- Management is similar to globe rupture
+- Further assessment of ocular injury can be obtained with **fluorescein drops**; 
+  - As aqueous humor drains through an OGL site, fluorescein may be seen streaming away from the site or clear fluid may be seen flowing through the fluorescein.  
+  - In the case of corneal abrasion, fluorescein instillation in the eye preferentially stains the corneal defect and appears yellow (an ophthalmoscope with a cobalt blue filter can facilitate visualization if needed).
+- Do CT scan of the eye to identify extend of injury
 
-#### Eyeball Laceration
-
+**Management**
+- Management of OGL requires shielding of the eye and emergent ophthalmologic consultation for surgical repair. (Similar to globe rupture.)
+  - Intravenous Antibiotics
+  - Tetanus prophylaxis
+- Avoid
+  - Saline irrigation can be used to clear a superficial foreign body but should not be performed unless OGL has been ruled out and a foreign body identified.
 
 #### Sympathetic ophthalmia 
 Sympathetic ophthalmia is also known as "spared eye injury."  It is characterized by an immune-mediated inflammation of one eye (the sympathetic eye) after a penetrating injury to the other eye.  The typical manifestation is anterior uveitis, but panuveitis, papillary edema, and blindness may develop.  The pathophysiological mechanism is believed to be the uncovering of 'hidden' antigens.  Some antigens contained within the eye are protected from immunologic recognition by natural barriers.  Breaking these barriers results in the uncovering of 'hidden' antigens.  An immune response against these antigens can involve autoantibodies as well as a cell-mediated reaction.
@@ -2335,6 +2665,7 @@ Symptoms
 - Redness 
 - Blurring
   
+
 **Signs**
 - Conjunctival injection 
 - Limbal ischaemia
@@ -2360,7 +2691,22 @@ Symptoms
 - May need surgical mx later
 - Patch
 
+This patient has a vision-threatening ocular chemical burn.  Typical symptoms include eye pain, blepharospasm (eg, inability to open the eyelid), a gritty sensation, and eye erythema; severe cases may lead to ischemia of the conjunctiva, and the eye may appear white.  As in other parts of the body, chemical burns are categorized as follows:
 
+Acid burns: cause coagulation necrosis (eg, protein denaturation) that results in an eschar, thereby preventing further acid penetration and injury
+Alkali burns (eg, bleach): cause liquefactive necrosis (eg, cell membrane dissolution), which leads to deeper penetration of tissues and therefore more severe injuries
+In either case, the most important (and urgent) step in management is to restore a neutral pH by flushing the eye copiously with water or saline.  Normalization of pH typically takes 30-60 minutes but may take greater than >2 hours for alkali burns.  In ideal circumstances, a provider continuously flushes the eye, but eye-wash devices (eg, Morgan lens) can be used.  Topical anesthesia can be administered to improve patient comfort and tolerance of irrigation.  After cessation of irrigation, the eye's pH should be remeasured with litmus paper to confirm that it remains neutral.
+
+(Choice A)  Cycloplegics (parasympatholytic agents that prevent light-induced miosis) may be prescribed for long-term management of pain caused by photophobia resulting from large corneal abrasions.  They are not indicated for acute ocular burns.
+
+(Choice C)  Topical antibiotics may be used in the management of ocular chemical burns but not before normalization of the eye's pH is achieved through copious irrigation.
+
+(Choice D)  Eye patch application was once a commonly used treatment for corneal abrasions because it was thought to promote epithelial proliferation and encourage healing.  It is used much less frequently now because it does not seem to provide much benefit.  Patching is not appropriate for the treatment of chemical burns.
+
+(Choice E)  Although neutralization of pH is of the utmost importance, it should be achieved with pH-neutral saline irrigation rather than a neutralizing agent (eg, acetic acid for alkali burns) because acid-base neutralization reactions are exothermic and therefore can cause further injury.  Acetic acid is sometimes used for alkali burns on skin, but evidence regarding its efficacy is limited.
+
+Educational objective:
+Chemical burns to the eye are vision-threatening emergencies.  The most important and urgent step in management is copious irrigation to normalize the pH.
 
 
 

@@ -1,4 +1,4 @@
-Preventative Medicine and General Health {#sec:fammed}
+Preventative Medicine and General Health 
 ========================================
 
 The model for clinical practice, especially for family medicine, besides working on urgent care and illnesses always consistutes **RISE**:
@@ -36,10 +36,10 @@ The USPSTF recommends that clinicians screen women of childbearing age for intim
 
 This is routinely done at annual exams or when red flags are present.
 
--   Prevalence\
+-   Prevalence
     It is important to be aware of domestic violence when addressing our patients as approximately 25% of women in the US report being victimized by an intimate partner at some point in their lifetime. While the majority of intimate partner violence (IPV) victims are women, IPV victims are both male and female, occur in both heterosexual and same sex relationships and cross all socioeconomic, age and ethnic divides.
 
--   Complications\
+-   Complications
     In addition to the trauma incurred, the rates of chronic disease, including heart disease, diabetes, depression and suicide are significantly higher in victims as well as in adults who were victimized as children as a result of direct abuse and exposure to domestic violence.
 
 -   Increased Health Risk
@@ -111,6 +111,18 @@ Vaccinations
 
 L1.25 in\|L2.25 in\|L2.5 in Vaccination & Indications & Contraindications\
 
+### Flu Vaccine
+
+For patients who have experienced previous apparent vaccine failure, which has discouraged him from accepting future vaccination. In this case, the patient's past illness could have been due to a different flulike infection, which would not represent true vaccine failure. In addition, there may be differences between the strains in the vaccine and those in circulation. Even if the patient acquired influenza despite vaccination in a prior flu season, he is still likely to benefit from seasonal influenza vaccination because it reduces both the risk of infection and the severity of illness.
+
+In cases in which a patient declines a recommended service based on inaccurate or incomplete information, the clinician should provide a balanced assessment of the recommended intervention, including the likely benefits, risks, and limitations. Giving a more accurate and thorough explanation can reinforce patient autonomy and improve decision-making.
+
+
+
+During influenza outbreaks, oseltamivir can be given prophylactically to exposed, high-risk patients (eg, patients in skilled nursing facilities, family members of confirmed cases). In such situations, it is administered in short courses, not through the whole season.
+
+
+
 ### Tetanus, Diphtheria, and Acellular Pertussis (Td/Tdap) Vaccination In Adults
 
 -   Persons aged 11 years or older who have not received Tdap vaccine or for whom vaccine status is unknown should receive a dose of Tdap followed by tetanus and diphtheria toxoids (Td) booster doses every 10 years thereafter. Tdap can be administered regardless of interval since the most recent tetanus or diphtheria-toxoid containing vaccine.
@@ -125,7 +137,7 @@ L1.25 in\|L2.25 in\|L2.5 in Vaccination & Indications & Contraindications\
 
 Adults age 19 through 64 with chronic heart disease (including congestive heart failure and cardiomyopathies, excluding hypertension), chronic lung disease (including chronic obstructive lung disease, emphysema, and asthma), chronic liver disease (including cirrhosis), alcoholism, cigarette smoking, or diabetes mellitus: Administer PPSV23. Additionally, patients age 19 to 64 with chronic immunosuppression (e.g. human immunodeficiency virus (HIV) disease, post-splenectomy) should receive PPSV23.
 
-Screening and Preventative Medicine {#sec}
+Screening and Preventative Medicine
 -----------------------------------
 
 ### Cardiovascular Risk Factors Screening
@@ -227,7 +239,7 @@ Coexisting disorders - The metabolic syndrome is also associated with a higher r
 
 -   gout
 
-### Obesity {#ssec:fammed-obesity}
+### Obesity
 
 #### Obesity History Taking
 
@@ -299,22 +311,32 @@ non-Hodgkin lymphoma multiple myeloma cancers of the esophagus, colon, rectum, l
 #### Classification for BMI
 
 ::: {#tbl:bmi-class}
-  ----------------- -------------
+----------------- -------------
   Underweight       $\leq$ 18.5
   Normal weight     18.5 - 24.9
   Overweight        25 - 29.9
   Obesity           30 - 40
   Extreme Obesity   \> 40
-  ----------------- -------------
+----------------- -------------
 
   : Body mass index categories
 :::
 
 #### Management
 
+| Behavioral interventions         | Details                                                      |
+| -------------------------------- | ------------------------------------------------------------ |
+| **Stimulus control**             | Maintain stocks of easy-to-prepare, healthy foodsStore healthy foods in prominent locationsLimit stocks of less healthy foods |
+| **Physical activity**            | Moderate-to-intense aerobic exerciseResistance/strength trainingLifestyle activity (eg, take stairs, reduce sitting time) |
+| **Self-monitoring**              | Regular documentation of:WeightFood intakeExercise           |
+| **Accountability/****follow-up** | Provider visits, phone calls, Internet contactsGroup participation sessions |
+
+-   Regardless of the specific diet chosen, successful **weight loss** can be enhanced by incorporating behavioral strategies into the overall program. In particular, detailed **self-monitoring** of **dietary intake**, **exercise**, and **daily weight** is associated with **increased success** rates. Self-monitoring is also associated with greater **long-term maintenance** of weight loss. Although some patients fear that daily weighings may lead to frustration and less weight loss, most studies have not found this effect in practice.
+-   Exercise should be included in a broader weight loss program because it is associated with greater weight loss and better long-term maintenance. However, exercise alone is not generally effective for weight loss.
+-   Weight-loss medications are recommended for patients in whom conservative measures have failed and whose BMI is ≥30 kg/m2 or ≥27 kg/m2 with additional weight-related conditions (eg, diabetes mellitus). However, the costs and potential adverse effects of these medications are not typically justified for otherwise healthy, overweight patients.
 -   Bariatric surgery: if BMI kg/m2 or BMI kg/m2 in association with obesity-related comorbidities (e.g. T2DM)
 
-### Hypertension {#ssec:fammed-cd-htn}
+### Hypertension
 
 #### Screening and Risk Factors
 
@@ -443,7 +465,7 @@ Physical for patient with HTN should include
 Classification of HTN
 
   BP category   SBP (mmHg)    DBP (mmHg)
-  ------------- ------------- ------------
+------------- ------------- ------------
   Normal        $<120$        $<80$
   Elevated      $120 - 129$   $<80$
   Stage 1 HTN   $130 - 139$   $80-89$
@@ -486,7 +508,7 @@ Start medications targeting blood pressure of 130/80 mmHg for:
 Note that older patients are more prone to adverse events with tight BP control, including orthostasis, falls, and kidney injury. Caution should be taken to ensure that older patients are not orthostatic before changes in medication therapy. Recommendations for tight BP control are restricted to community-dwelling seniors who are not nursing-home eligible. Patients with a limited life expectancy are unlikely to benefit from tight BP control.
 
   Medications   General   CKD   Black   Preg
-  ------------- --------- ----- ------- ------
+------------- --------- ----- ------- ------
   Thiazide      1         2     1       \-
   CCB           2         2     1       \-
   ACE-i / ARB   2         1     2       \-
@@ -571,7 +593,7 @@ Key principles
 Categories of Statins
 
   Drug name      Dose         Intensity
-  -------------- ------------ -----------
+-------------- ------------ -----------
   Pitavastatin   1 mg         Low
                  2 - 4 mg     Moderate
   Simvastatin    10 mg        Low

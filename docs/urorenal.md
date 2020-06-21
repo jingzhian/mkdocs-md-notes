@@ -1,5 +1,9 @@
-Renal and Urinary
+Renal and Urology 泌尿科
 =================
+
+PSA: 前列线特殊抗体
+
+
 
 Kidney Diseases
 ---------------
@@ -10,7 +14,15 @@ Patients with renal artery stenosis are largely asymptomatic, but as the kidney 
 
 ### Acute Kidney Injury
 
+Causes
+
+- Rhabdomyolysis from trauma: elevated creatine kinase
+- NSAID drugs (e.g. naproxen)
+- Diuretics (hydrochlorothiazide)
+
 ### Chronic Kidney Disease
+
+### End-stage Renal Failure
 
 ### Diabetic Kidney Disease
 
@@ -21,19 +33,45 @@ Patients with renal artery stenosis are largely asymptomatic, but as the kidney 
 Nephritic Syndromes
 -------------------
 
+### Glomerulonephritis
+
+
+
 Nephrotic Syndromes
 -------------------
 
 Urinary Tract Diseases
 ----------------------
 
-### Urinary Tract Infection
+### Urinary Tract Infection 泌尿道感染
 
 #### Asymptomatic Bacteriuria
 
 Asymptomatic bacteriuria is very common in older patients. There is no evidence that treating it helps. As many as 50% of older men will have a positive urine culture within six weeks of treatment for a UTI. As such, there is no need for a test of cure. If an older patient has a UTI, and then has similar symptoms again, he will need a urine culture at that point.
 
+#### Yeast Infection 酵母菌感染
+
+
+
 ### Urinary Tract Obstruction
+
+#### Urolithiasis
+
+- Do U/S at bedside for hydronephrosis; not good for visualising renal stone
+- Symptomatic treatment
+  - Pain: NSAIDs, opioids
+    - What to do if the pain come back
+    - What is the threshold for returning to the hospital
+  - antiemetics
+- Treat underlying cause
+  - Conversation vs definitive
+  - Hydration and advice about condition
+  - Urology follow up
+  - Antibiotics if concurrent infection
+
+### Bladder Cancer 膀胱癌
+
+
 
 Prostate Conditions
 -------------------
@@ -110,7 +148,13 @@ physical exam
 
         Side effect of alpha blockers: feeling tired or sleepy.
 
-    -   In general, if bladder outlet obstruction is creating a risk for upper urinary tract injury such as hydronephrosis, renal insufficiency, or lower urinary tract injury such as urinary retention, recurrent urinary tract infection, or bladder decompensation; surgical intervention is needed. Surgery also should be considered if combination treatment fails to improve symptoms of BPH.
+    -   In general, if bladder outlet obstruction is creating a risk for upper urinary tract injury such as hydronephrosis, renal insufficiency, or lower urinary tract injury such as urinary retention, recurrent urinary tract infection, or bladder decompensation; surgical intervention is needed. Surgery also should be considered if combination treatment fails to improve symptoms of BPH.'
+
+### Prostate Cancer 前列腺癌
+
+
+
+
 
 Testicular and Penil Conditions
 -------------------------------

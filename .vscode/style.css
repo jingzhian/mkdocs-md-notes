@@ -1,12 +1,16 @@
     body {
-        counter-reset: h2;
+        counter-reset: h1;
         overscroll-behavior: none !important;
-        font-family: Roboto !important;
-        font-weight: 400;
+        /*font-family: Roboto !important;
+        font-weight: 400;*/
     }
     
     body::-webkit-scrollbar {
         display: none;
+    }
+    
+    h1 {
+        counter-reset: h2;
     }
     
     h2 {
@@ -24,6 +28,11 @@
     
     h5 {
         counter-reset: h6;
+    }
+    
+    .vscode-body {
+        color: black !important;
+        padding: 10px 0px !important;
     }
     
     .vscode-body table {
@@ -116,31 +125,39 @@
     
     h2.code-active-line:before,
     h2.code-line:hover:before {
-        border-left: 0;
+        border-left: 0 !important;
         position: relative !important;
     }
     
     h3.code-active-line:before,
     h3.code-line:hover:before {
-        border-left: 0;
+        border-left: 0 !important;
         position: relative !important;
     }
     
     h4.code-active-line:before,
     h4.code-line:hover:before {
-        border-left: 0;
+        border-left: 0 !important;
         position: relative !important;
     }
     
     h5.code-active-line:before,
     h5.code-line:hover:before {
-        border-left: 0;
+        border-left: 0 !important;
         position: relative !important;
+    }
+    
+    h1:before,
+    h1:hover:before {
+        content: counter(h1, decimal) ". " !important;
+        counter-increment: h1;
+        display: inline !important;
+        left: 0 !important;
     }
     
     h2:before,
     h2:hover:before {
-        content: counter(h2, decimal) ". " !important;
+        content: counter(h1, decimal) "." counter(h2, decimal) ". " !important;
         counter-increment: h2;
         display: inline !important;
         left: 0 !important;
@@ -148,7 +165,7 @@
     
     h3:before,
     h3:hover:before {
-        content: counter(h2, decimal) "." counter(h3, decimal) ". " !important;
+        content: counter(h1, decimal) "." counter(h2, decimal) "." counter(h3, decimal) ". " !important;
         counter-increment: h3;
         display: inline !important;
         left: 0 !important;
@@ -156,7 +173,7 @@
     
     h4:before,
     h4:hover:before {
-        content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) ". " !important;
+        content: counter(h1, decimal) "." counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) ". " !important;
         counter-increment: h4;
         display: inline !important;
         left: 0 !important;
@@ -164,7 +181,7 @@
     
     h5:before,
     h5:hover:before {
-        content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) ". " !important;
+        content: counter(h1, decimal) "." counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) ". " !important;
         counter-increment: h5;
         display: inline !important;
         left: 0 !important;
@@ -172,7 +189,7 @@
     
     h6:before,
     h6:hover:before {
-        content: counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) "." counter(h6, decimal) ". " !important;
+        content: counter(h1, decimal) "." counter(h2, decimal) "." counter(h3, decimal) "." counter(h4, decimal) "." counter(h5, decimal) "." counter(h6, decimal) ". " !important;
         counter-increment: h6;
         display: inline !important;
         left: 0 !important;

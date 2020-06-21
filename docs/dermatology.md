@@ -3,18 +3,25 @@ title: Dermatology
 author: Jingzhi An
 ---
 
-Dermatology
+Dermatology 皮肤,头发, 指甲健康
 ===================
 
 - Lim Yen Loo: yllim@nsc.com.sg
 - Chong Wei Sheng: wschong@nsc.com.sg
   
+
 [[TOC]]
 
 
 Question:
 - Why is there a time window for performing DIF?
-  
+
+
+
+Doc said it's eczema. applied cream given by doctor but it got worse. it's becoming swollen and started bleeding. anyone know what can be done? (asking on behalf of a mummy!)
+
+![unknown-skin-rxn](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/unknown-skin-rxn.jpg)
+
 ## General Skills
 
 ### Useful Things to Note
@@ -23,6 +30,14 @@ Question:
 - Type III rashes, due to IgG mediated immune-complex deposition, resulting in phagocyte and NK cell activation, as well as complement fixation, tend to be more erythematous and maculopapular.
 - Type IV rashes, due to delayed cytotoxic response involving T-cells, resulting in macrophage and eosinophil activation.
 - Chronic photoageing of the skin is primarily caused by chronic exposure to UVA (320-400nm).
+
+### Key Derm Red Flags
+
+- Painful
+- Involving mucous membranes
+- Constitutional symptoms - fever, malaise
+- Systemic symptoms - neuro, respi, abdo
+- New medications
 
 ### Skin Anatomy and Physiology
 The skin is the largest organ of the body. The skin covers over 1 sq metre surface in an adult and accounts for 20% of total body weight.
@@ -33,7 +48,7 @@ The skin is the largest organ of the body. The skin covers over 1 sq metre surfa
 3. Protection from ultraviolet radiation - Melanocytes, Keratinocytes
 4. Sensory organ - input of external environment
 5. Metabolism - Vitamin D
- 
+
 #### Anatomy of the Skin
 The skin is composed of the following layers, each serving its own function.
 1. Stratum corneum: composed of compact keratin
@@ -262,7 +277,7 @@ Melanosis| darkening from increased melanin deposition of the skin (hypermelanos
 Term | Definition
 ---|---
 Alopecia |loss of hair.
-Furuncle | Also known as a boil, is a painful infection that forms around a hair follicle and contains pus.
+Furuncle | Also known as a boil, is a painful skin abscess that forms around a hair follicle and contains pus, usually due to Staphylococcus aureus.
 Carbuncle | collection of furuncle that develop under the skin.
 
 
@@ -329,7 +344,7 @@ These can be done for histology (not scraping), cultures, microbiology (scraping
 
 Type of biopsy | Procedure | Tool and specimen size
 ---|---|---
-Incisional / punch biopsy | Incisional biopsy means taking out a part of the skin lesion, while punch biopsy is a specific incisional biopsy using a cylindrical dermal biopsy tool. | Disposable punches are very convenient and available from two to eight millimeters in size.A full thickness of skin can easily be obtained with a punch biopsy. If a lesion is less than three millimeters in size, it does not need stitches after biopsy.
+Incisional / punch biopsy | Incisional biopsy means taking out only a representative portion of a lesion. It is typically used for large lesions for which excision is impractical or for lesions with a low risk of malignancy. Punch biopsy is a specific incisional biopsy using a cylindrical dermal biopsy tool. | Disposable punches are very convenient and available from two to eight millimeters in size.A full thickness of skin can easily be obtained with a punch biopsy. If a lesion is less than three millimeters in size, it does not need stitches after biopsy.
 Excisional biopsy | Excisional biopsy involves removing the whole lesion with a two to three millimeter margin, depending on the nature of the lesion. | Larger-sized punches may be useful for excisional punch biopsies. This is the diagnostic method of choice if there is a strong suspicion of malignant melanoma.
 Shave biopsy | Shave biopsy is feasible when the lesion is elevated above the surface. It is used for microscopy for mycology, bacteria, parasites, viral inclusions body and giant cells. It is also used for culture for fungus, bacteria, parasite, and viruses | Some experts occasionally elevate the lesion with lidocaine and shave in certain circumstances in order to avoid stitches.
 
@@ -493,7 +508,7 @@ Keys to Physical Examination
 Common Causes  | Uncommon Causes | Rare Causes
 |---|---|---
 Atopic dermatitis<br> Contact dermatitis<br> Drug eruption<br> Erythema multiforme<br> Fifth disease (erythema infectiosum)<br> Folliculitis<br> Guttate psoriasis<br> Insect bites<br> Keratosis pilaris<br> Lichen planus<br> Miliaria rubra<br> Nummular eczema<br> Pityriasis rosea<br> Plaque psoriasis<br> Roseola (exanthem subitum sixth disease)<br> Scabies<br> Seborrheic dermatitis<br> Tinea corporis<br> Urticaria<br> Varicella <br>Non-specific Viral Exanthem | Bullous pemphigoid<br> Dermatitis herpetiformis<br> HIV acute exanthem<br> ID reaction<br> Kawasaki disease<br> Lupus (subacute cutaneous lupus erythematosus)<br> Lyme disease<br> Meningococcemia<br> Cutaneous <br>cell lymphoma<br> Rocky mountain spotted Fever<br> Scarlet fever<br> Secondary syphilis<br> Staphylococcal scalded skin syndrome<br> Steven<br>Johnson syndrome / Toxic epidermal necrolysis<br> Sweet syndrome (i.e., acute febrile neutrophilic dermatosis)<br> Toxic shock syndrome |lichen nitidus<br> pityriasis lichenoides<br> pityriasis rubra pilaris<br> rickettsialpox<br> rubella<br> rubeola
-  
+
 ### Neonatal Rashes
 
 Diagnosis | Clinical presentation | treatment
@@ -556,7 +571,7 @@ alopecia
      - iron deficiency
      - thyroid dysfunction
      - systemic lupus erythematosus
-  
+
 **Scarring Alopecia**
 1. Discoid Lupus Erythematosus
    - Erythematous scaly atrophic plaques
@@ -632,6 +647,9 @@ The most common is aphthous ulcer.
 - infection
 - drug
 - autoimmune
+
+Aphthous ulcers (canker sores) are characterized by shallow, fibrin-coated ulcerations with underlying mononuclear infiltrates.  They are recurrent, self-limiting ulcerations of the oral cavity and do not affect surfaces covered by keratinized stratified squamous epithelium.
+
 
 ### Urticaria
 **History**
@@ -964,6 +982,7 @@ Porphyria cutanea tarda is the most common porphyria, and it is due to deficienc
   - Estrogen use
   - smoking
   
+
 ![Porphyria Cutanea Tarda](figures/skin-porphyria-cutanea-tarda.jpg)
 
 **Diagnosis**
@@ -1195,7 +1214,7 @@ Patients with suspected drugs may need some time to sort out in cases of polypha
 - Drugs - when taken? whens topped?
 - Rash - when started? what rash? lasted how long?
 - Past exposure to drug(s) and any reaction?
-- Did patient take the drug(s) agaon after the reaction
+- Did patient take the drug(s) again after the reaction
 - What are the other concurrent medications
 - History of similar symptoms or signs in the past
 - Risk factors favouring reactions to certain medications e.g. HIV?
@@ -1238,7 +1257,9 @@ Note for patient the systemic drugs that might cause problems
 - No organ involvement usually
 - Beware of exanthem that continue to get worse over time after stopping the drug - might be DRESS or DIHS
   
-Treatment
+
+**Treatment**
+
 - Withdraw drug, disappear within 2 weeks
 - Topical steroid, antihistamine
 - Short dose pred if severe.
@@ -1254,12 +1275,12 @@ Treatment
 - It is also possible to be non-immunologically mediated e.g. opioates and NSAIDs, radiocontrast, not IgE related, direct mast cell degranulate. This is a pseudoallergic reaction.
 
 Treatment 
-- antihistamines
+- Antihistamines
 - stopping the causative drug
 - Watch for angioedema and anaphylaxis; stand by E-trolley if relevant
 - Can use short course of prednisolone as well
 
-### Fixed Drug Erruption
+### Fixed Drug Eruption
 
 Fixed drug eruptions (FDE) are distinctive because they recur on the same sites every time upon exposure to the same drug. Onset is usually rapid, within 30mins up to a few days. More lesions can appear with subsequent episodes. Lesions resolve typically with postinflammatory hyperpigmentation which may be persistent.
 
@@ -1274,33 +1295,39 @@ Characteristic hyperpigmentation.
 Common causes are NSAIDs, paracetamol, tetracyclines and penicillins.
 
 Note fixed food /drink eruption from quinin in Soda water; and fixed solar eruption.
+
 **Management**
+
 - Identify and stop the drug. 
 - Topical or systemic steroids may be used for faster resolution of the rash.
 - Octenidine dihydrochloride is a cationic surfactant, with a gemini-surfactant structure, derived from pyridine. It is active against Gram-positive and Gram-negative bacteria. Since 1987, it has been used primarily in Europe as an antiseptic prior to medical procedures, including on neonates.
 
-### Stevens-Johnson Syndrome and Toxic Epidermal 
+### Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
 
-Stevens johnson syndrome is an inflammatory reaction to drugs or certain infections (e.g. Mycoplasma pneumoniae) and is characterized by coalescing erythematous macules, bullae, desquamation and mucositis. Systemtic signs include fever, haemodynamic instabiloity, and altered level of consciousness. 
+![Screenshot 2020-06-18 at 09.15.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2009.15.08-2442978.png)Stevens johnson syndrome is an inflammatory reaction to drugs or certain infections (e.g. Mycoplasma pneumoniae) and is characterized by coalescing erythematous macules, bullae, desquamation and mucositis. Systemtic signs include fever, haemodynamic instabiloity, and altered level of consciousness. 
 
-Necrolysis
-Acute mucocutaneous disorder with associated systemic toxicity. Due to inflammatory hypersensitivity reaction to drugs, or certain infections. 
+Acute mucocutaneous disorder with associated systemic toxicity. Due to inflammatory **type IV hypersensitivity** (T-cell mediated) reaction to drugs, or certain infections. 
 
 TEN and SJS are related disorders that may be considered on a continuum of severity. By convention, SJS denotes involvement <10% of body surface area. 
-|BSA| Condition
-|-------|-----| 
-<10% | SJS
-10 - 30%| SJS/TEN overlap
-\>30% | TEN
+
+| BSA      | Condition       |
+| -------- | --------------- |
+| <10%     | SJS             |
+| 10 - 30% | SJS/TEN overlap |
+| \>30%    | TEN             |
 
 Stevens-Johnson Syndrome & Toxic epidermal necrolysis (SJS/TEN) is the most severe cutaneous adverse drug reaction. It constitutes a spectrum of disease ranging from mild (SJS) to severe (TEN), based on body surface area involvement. By definition, SJS involves < 10% BSA, TEN involves >30% BSA and SJS-TEN overlap involves 10-30% BSA.
+
 Clinically, it can resemble thermal burns but differs as it involves only the epidermis. Causes include allopurinol, anti-convulsants, NSAIDs and Bactrim. Onset of rash is usually 5-28 days after drug use. A minority are caused by infection eg. Mycoplasma pneumonia. Up to 30% remain idiopathic.
 Mortality depends on extent of involvement and can be up to 30%.
 
 Spectrum of diseaes
 Serious life-threateing CADR
 
+HLA-B*1502 pre-dispose patients to carbamazepine-induced SJS/TEN
+
 **Clinical features**
+
 - 4 - 28 days after exposure to trigger (2 days after repeated exposure)
   - 5-28 days, up to 56 days prior to rash development
   - a few days after repeat exposure
@@ -1314,6 +1341,7 @@ Serious life-threateing CADR
  blisters
 
 **Triggers**
+
 - Drugs: allopurinol, antibiotics (e.g. sulfonamides), anti-convulsants (e.g. carbamazepine, lamotrigine, phenytoin), NSAIDs (e.g. piroxicam), Sulfasalazine
   - ALWAYS exclude drug first.
   - These are the red flag drugs: allopurionol, NSAID
@@ -1322,29 +1350,58 @@ Serious life-threateing CADR
 - Graft-vs-host disease
 
 **Diagnosis**
--based on the typical mucocutaneous lesions, systemic signs, and exposure to a likely causative medication. 
+Based on the typical mucocutaneous lesions, systemic signs, and exposure to a likely causative medication. 
 
 **Complication**
 Complications include corneal scarring, blindess, renal failure, pneumonia and respiratory failure. Urgent management by a dermatologist is needed. Supportive care managing fluid/electrolyte imbalance and sepsis. Referral to Eye specialist is needed. Ciclosporin or systemic steroids may be considered in specific treatment but more evidence is needed to prove efficacy.
+
 - Fluid-eletrolyte imbalance
 - Large slits of detachment
 
 **Management**
-Treatment is supportive, with aggressive fluid support and wound care similar to that for burns, Secondary infections are common and fatalities may occur despite treatment. 
-- SCORTEN for prognosticating SJS/TEN
+Treatment is **supportive**, with aggressive fluid support and wound care similar to that for burns, Secondary infections are common and fatalities may occur despite treatment. 
+
+- **SCORTEN** for prognosticating SJS/TEN
+
+  | Prognostic Factor             | Points |
+  | ----------------------------- | ------ |
+  | Age > 40 years                | 1      |
+  | Tachycardia > 120 bpm         | 1      |
+  | Neoplasia                     | 1      |
+  | Initial detachment > 10%      | 1      |
+  | Serum urea > 10 mmol/L        | 1      |
+  | Serum bicarbonate < 20 mmol/L | 1      |
+  | Blood glucose > 14 mmol/L     | 1      |
+
+  | Score   | Mortality |
+  | ------- | --------- |
+  | 0 -1    | 3         |
+  | 2       | 12        |
+  | 3       | 35        |
+  | 4       | 58        |
+  | &geq; 5 | 90        |
+
 - Identify and stop culprit drug
+
 - Supportive care
-- Eye care very important, refer to opthalmologist
+
+- Eye care very important, refer to opthalmologist; Look at private cases
+
 - For TEN, manage in Burns unit if possible
+
 - Specific treatment
-  - Early SJS: corticosteroids may be considered
-  - SJS-TEN overlap, TEN
+  - **Early SJS: corticosteroids** may be considered
+  - **SJS-TEN overlap, TEN: Just support**
     - Corticosteroids increase mortality
     - IV IG not found to be useful
     - Cyclosporin - blocks activated T cells, pending further evidence
-- HLA-B*1502 pre-dispose patients to carbamazepine-induced SJS/TEN
+
+**Prognosis**
+
+- Usually don't scar
 
 **Differentials**
+
 - Rowell syndrome, a form of SLE.
 - DDx Staphylococcus Scaled Skin Syndrome - due to exotoxins that bind to Desmoglein 1.
 
@@ -1398,7 +1455,7 @@ Psoriasiform eruptions | beta-blockers captopril chloroquine lithium
 Pityriasis rosea-like eruptions | barbiturates bismuth beta-blockers captopril gold salts metronidazole
 Lichenoid eruptions | beta-blockers captopril carbamazepine methyldopa phenothiazines penicillamine quinidine sulfonylureas tetracycline thiazides
 
-#### Generalized exfoliative dermatitis (GED) 
+### Generalized exfoliative dermatitis (GED) 
 Aka
 erythroderma is characterized by widespread erythema and scaling involving BSA>90%. Drugs eg. anti-TB drugs must be excluded. Other causes of GED must be considered – these include severe atopic eczema or psoriasis and cutaneous T cell lymphoma.
 
@@ -1428,7 +1485,7 @@ Urticaria and pruritus without systemic symptoms are usually treated with antihi
 Treatment with epinephrine and corticosteroids is reserved for more severe reactions accompanied by systemic systems (e.g. anaphylaxis). Patients requiring such therapy usually have respiratory symptoks (dyspnea, wheeze, stridor) or abdominal symptoms (diarrhea, cramps), unstable vital signs (hypotension) and hypoxia.
 
 
-Eczema
+Eczema 湿疹
 --------------------
 Eczema (aka dermatitis) is the most common skin condition seen at NSC. These HAVE TO BE ITCHY! So look for excorations.
 
@@ -1982,7 +2039,7 @@ Some substances, on contact with the skin, provoke contact dermatitis only after
 2. Phototoxic contact dermatitis
    
     This occurs in all persons in contact with the phototoxic agent and exposed to UV light. Examples of phototoxic agents are psoralens and tar.
-  
+
 **Diagnosis**
 
 Photo-Patch Testing
@@ -2032,16 +2089,28 @@ Aka autoimmune bullous disorders
 
 Autoimmune blistering diseases are characterized by the presence of autoantibodies directed against structural proteins of the skin. At the basal cell layer of the epidermis, there are proteins which are essential for adhesion of epidermal keratinocytes (eg. desmogleins) and those responsible for epidermal-basement membrane adhesion (eg. BP180/230). These proteins may be affected by autoantibodies, leading to autoimmune blistering diseases. 
 
-Intraepidermal Blister | Subepidermal Blister
+| Intraepidermal Blister     | Subepidermal Blister                          |
+| -------------------------- | --------------------------------------------- |
+| Split within the epidermis | Split below the epidermis                     |
+| Flaccid bulla              | Tense bulla                                   |
+| Ruptures easily            | Persistent bulla, tends not to rupture easily |
+| Clear fluid or pas         |                                               |
+
 |--- |---
 Split within the epidermis | Split below the epidermis
 Flaccid bulla | Tense bulla
 Ruptures easily | Persistent bulla, tends not to rupture easily
 Clear fluid/ pus |  Clear/ Haemorrhagic fluid
 Heals with post-inflammatory pigmentary changes | Heals with post-inflammatory pigmentary changes, milia, +/- scarring
-  
+
+Conditions that wax and wane, with occasional flares, think autoimmune!
+
 ### Bullous Pemphigoid
 This is a chronic, subepidermal AIBD, characterised by **severe itch**. Autoantibodies (IgG/IgM/IgE) specific to the **hemidesmosomal** bullous pemphigoid antigens bind to BP180 and BP230, resulting in cytokine release from T cells, complement activation, neutrophil recruitment, destruction of hemidesmosomes and ultimately, the formation of **subepidermal** blisters.
+
+- A little more common in Singapore
+- Quite benign, seen in older people
+- NO ORAL lesions
 
 **Clinical Feature**
 - The disease is characterized by a variable prodrome of **urticarial plaques** or eczematous patches in the early stages and subsequently develop **large tense bullae and plaques** affecting the **flexural areas, groin, or axilla**.
@@ -2059,8 +2128,9 @@ For diagnosis, these investigations are done:
 
 Significant morbidity and mortality is associated with active bullous pemphigoid. The most common causes of death include infections, in particular pneumonia, cardiovascular disease, and stroke. 
 
-**Management**\
+**Management**\\
 The goal of treatment in bullous pemphigoid is to achieve clinical remission with the least treatment-related side effects.
+
 - Topical corticosteroids (superpotent) e.g. clobetasol
 - Systemic immunomodulatory agents such as 
   - systemic steroids (prednisolone)
@@ -2070,9 +2140,11 @@ The goal of treatment in bullous pemphigoid is to achieve clinical remission wit
   - methotrexate
   - mycophenolate mofetil
   - IV immunoglobulins (IVIG): temporary measure
-- Biologic therapy such as rituximab (anti-CD 20 antibody), in recalcitrant cases.
+- Biologic therapy such as **rituximab** (anti-CD 20 antibody), in recalcitrant cases.
+- Drain the blisters and have proper wound care
 
 **Differential-Bullous Leisions**
+
 - Bullous impetigo
 - Dyshidrotic hand ezcema
 - Pemphigus vulgaris
@@ -2080,6 +2152,8 @@ The goal of treatment in bullous pemphigoid is to achieve clinical remission wit
   
 ### Pemphigus 
 An autoimmune disease caused by antibiotics to desmosomes. There are 3 main types of pemphigus. Only pemphigus vulgaris, pemphigus foliaceous and paraneoplastic pemphigus will be discussed here.
+
+- Uncommon in Asian population, common in Jews
 
 **Treatment of pemphigus**
 Immunsuppress and reduce production of autoantibiotics.
@@ -2091,7 +2165,7 @@ Immunsuppress and reduce production of autoantibiotics.
 - Local mucosal treatment with topical corticosteroids
   - No evidence for full body topical corticosteroids
 - Systemic Immunomodulatory agents such as 
-  - systemic steroids (prednisolone)
+  - systemic steroids (IV prednisolone)
   - dapsone (for PF, not for pemphigus vulgaris - too intense; dapsone work at the end of the cascade, damage is done)
   - azathioprine
   - mycophenolate mofetil
@@ -2106,6 +2180,7 @@ There are **mucosal-dominant** and **mucocutaneous types** of PV. There are IgG 
 Onset of disease is between 50-60 years old, sometimes even in children. Characterised by erosions and flaccid blisters of the skin and mucous membranes, and separation of the epidermis from the dermis with light friction leaving raw ulcers. A lot of post-inflammatory hyperpigmentation arising from healing process of initial injury and insult. Post-inflammatory hyperpigmentation indicate time has past, early lesions solved.
 
 **Diagnosis**
+
 - On histology, there will be an intraepidermal blister with a split at the suprabasal level of the epidermis with inflammatory infiltrates and RBCs. 
 - DIF and IIF show bright **intercellular IgG and C3 deposits within the epidermis**. This is called a fish net appearance.
 
@@ -2124,6 +2199,7 @@ IgG autoantibodies are directed against desmoglein 1 (Dsg 1). Mucosa surface cel
 - Erosions tend to be **distributed in the seborrhoeic areas**.
 - Rarely present with blister because the blisters typically have bursted upon presentation.
   
+
 **Diagnosis** 
 - On histology, there will be an **intraepidermal blister with a split at the subcorneal area**.
 
@@ -2163,6 +2239,30 @@ Suspected EB warrants biopsy of a fresh blister for immunofluorescence microscop
 
 Other Autoimmune and Inflammatory Skin Conditions
 ---------------------
+### Pyoderma Gangrenosum
+Pyoderma gangrenosum causes a rapidly progressive and painful ulcer with a purulent base and violaceous border.  Most patients have associated systemic disease (eg, inflammatory bowel disease).  Diagnosis is made clinically after excluding other etiologies, usually with skin biopsy.
+
+Clinical Features
+- starts as an inflammatory papule, pustule, or nodule
+- Rapidly progressive, painful ulcer with purulent base and an irregular, violaceous border
+- Precipitation of ulceration at site of injury (pathergy)
+- PG can present as single or multiple lesions, usually on the trunk or lower extremities. 
+- Nearly 30% of cases are triggered by local trauma (pathergy).
+  
+
+Epidemiology
+- Peak onset age 40-60
+- Women > men
+- Most patients with PG have an associated systemic disorder.  Common associations include inflammatory bowel disease, inflammatory arthropathies (eg, rheumatoid arthritis), and hematologic conditions (eg, acute myeloid leukemia). 
+
+Diagnosis
+-  PG is diagnosed clinically after excluding other diagnoses (eg, infection, venous ulcers, cutaneous cancers).  
+-  Skin biopsy of the ulcer margin is recommended and typically shows a mixed cellular infiltrate with dermal and epidermal necrosis.  
+
+Management
+-  Surgical debridement is usually avoided due to the potential of inducing pathergy;
+-  most lesions respond to treatment with local or systemic glucocorticoids.
+
 
 ### Erythema Multiforme
 A self-limited illness characterized by acute erythematous rash involving target lesion with erythematous iris shaped macules that can also contain vesicles or bullae. Usually occurs after HSV infection.
@@ -2180,6 +2280,7 @@ A self-limited acute inflammatory disorder due to a cell-mediated immune process
 - Can be painful or pruritic
 - Last for a few days
   
+
 ![Erythema Multiforme](figures/skin-erythema-multiforme.jpg)
 
 **Diagnosis**
@@ -2529,6 +2630,7 @@ Skin manifestations:
 - Red, friable and hyperplastic gingiva
 - Papulonecrotic lesions
   
+
 Other organ involvement:
 - Pulmonary
 - Renal
@@ -2540,7 +2642,7 @@ Other organ involvement:
 #### Microscopic polyangitis (MPA)
 #### Granulomatosis with Polyangiitis (GPA) (Wegener’s granulomatosis)
 #### Eosinophilic Granulomatosis with Polyangiitis (EGPA) (Churg Strauss Syndrome)
-  
+
 ### Polyarteritis Nodosa (PAN)
 PAN is a medium sized arteries vasculitis which is not associated with ANCA. It typically presents with systemic symptoms and signs, but can be only cutaneous.
 
@@ -2686,7 +2788,7 @@ Pancreatic panniculitis may be the initial presentation of pancreatic disease or
 
 
 
-Acneiform Disorders
+Acneiform Disorders 暗疮,痤疮,青春痘
 --------------
 
 ### Acne Vulgaris
@@ -2865,8 +2967,8 @@ Sites
 
 Morphology - silvery is psoriasis
             - collarett in PR
-            - Gresy in seb dem
-            - violaceous in LP
+                        - Gresy in seb dem
+                        - violaceous in LP
 
 Symptoms - short duration in drug rash, PR
 - Long standing-psoriasis, seb derm
@@ -2882,7 +2984,7 @@ Investigation
 - Skin Biopsy: 
 - Syphilic serology
 
-### Psoriasis and Variants (NOT SKIN DEEP)
+### Psoriasis 牛皮廯 and Variants (NOT SKIN DEEP)
 Monophorphic! 
 
 A genetically-determined, chronic, and proliferative autoimmune disease of the skin, characterized by keratinocyte proliferation, inflammation and angiogenesis. In its usual form, it is characterized by the presence of well-defined erythematous plaques surmounted by silvery scales.
@@ -2911,8 +3013,9 @@ be 1.1% of all new dermatology cases seen in the Skin Clinic.
 - Age of onset: There are 2 peaks, 20-30 years and a smaller peak at 50-60 years. In Singapore, mean age of onset is 34 years.
 - Family history: one-third has a positive family. In a patient with psoriasis, the chance of another sibling having psoriasis is 16% if one parent has psoriasis and rises to 50% if 2 parents are affected.
 
-**Precipitating Factors**\
+**Precipitating Factors**
 Before looking at the trigger, definitely check medication compliance first.
+
 - Local skin trauma (Koebner Phenomenon); isomorphic response, viligo; Need to have moisturizer whether or not the patient is itchy - treating the dry skin is an effective way to 
 - Infections - streptococcal throat infection which tends to provoke guttate
 psoriasis
@@ -3059,10 +3162,12 @@ HOLISTIC APPROACH and multi-drug is key to psoriasis.
    - Photochemotherapy or PUVA (Psoralen + UVA)
      - Second line, more difficult to use 
      - Soak patient
-  
-    Worry about sun burn and skin caner, so this is short term therapy.
+   
+   
 
-    Acute side-effects of phototherapy include pruritis, erythema and pigmentation. Chronic side-effects include photoaging, PUVA lentigenes and skin cancers (actinic keratoses, Bowen’s disease, BCC and SCC)
+ Worry about sun burn and skin caner, so this is short term therapy.
+
+ Acute side-effects of phototherapy include pruritis, erythema and pigmentation. Chronic side-effects include photoaging, PUVA lentigenes and skin cancers (actinic keratoses, Bowen’s disease, BCC and SCC)
 
 4. Systemic Therapy
    - Methotrexate: 
@@ -3122,14 +3227,34 @@ Chronic skin condition, characterized by erythematous plaques with a white or si
   - Systemic therapy: methotrexate, calcineurin inhibitors, retinoids, apremilast, biologic agents(e.g. tumor necrosis factor inhibitors such as etanercept) 
 - Systematic treatment are also used if patients have psoriatic arthritis.
 
+
+
+#### Inverse Psoriasis
+
+
+
 #### Guttate Psoriasis
 HIV and streptococcal pharyngitis are associated with flares of guttate psoriasis.
 presents with scattered, scaly, erythematous papules or small plaques, typically following an acute streptococcal infection.
 
- Guttate psoriasis presents with widely scattered, erythematous, scaly papules and plaques.  It typically follows a streptococcal infection but can also occur in patients with rheumatoid arthritis, especially those on tumor necrosis factor-α inhibitors.  Treatment options include ultraviolet phototherapy, topical glucocorticoids, and vitamin D analogs.
+Guttate psoriasis presents with widely scattered, erythematous, scaly papules and plaques.  It typically follows a streptococcal infection but can also occur in patients with rheumatoid arthritis, especially those on tumor necrosis factor-α inhibitors.  Treatment options include ultraviolet phototherapy, topical glucocorticoids, and vitamin D analogs.
 
 
-#### Inverse Psoriasis
+
+#### Pustular Psoriasis
+
+- Long period of psoriasis
+- Stop being compliant
+- Steroid use
+
+
+
+Management
+
+- Methotrexate, cyclosporine, 
+- Early admission of patient and dermatology consult
+
+
 
 ### Pityriasis Rosea
 A common, self-limiting papulosquamous eruption, affecting children and young adults.
@@ -3172,7 +3297,7 @@ the sun-exposed parts. Spares palms and soles (ddx secondary syphilis which invo
 - secondary syphilis
 
 ### Lichen Planus
-A pruritic inflammatory dermatosis of unknown aetiology with distinct clinical and histological features that is common in middle age.
+A pruritic inflammatory dermatosis of unknown aetiology with distinct clinical and histological features that is common in middle age. LP is an autoimmune disorder driven by CD8+ T cells and may occur after exposure to a trigger, such as an infection, a medication, or a contact allergen. LP occurs in a higher frequency in patients with hepatitis C, although the relevance of this association is controversial.
 
 ![lichen planus](figures/skin-lichen-planus.jpeg)
 
@@ -3189,14 +3314,10 @@ aetiology.
 - Special sites include
   - Scalp - giving rise to scarring alopecia known as Lichen planopilaris
     ![lichen planus scalp](figures/skin-lichen-planopilaris.jpg)
-  - Mucous membrane – especially buccal mucosa, tongue and lips. Lesions are white patches with typical lacy reticulated pattern, and are known as **Wickham's striae**. May become erosive and painful. Patients can complain of burning mouth, cannot eat spicy food; related to dental almougum allergic contact dermitisi of buccal mucosa; might need patch to test. Rarely, carcinoma may develop.
-    ![lichen planus oral](figures/skin-lichen-planus-wickham.jpg)
   - Nail - longitudinal ridging and splitting, pterygium formation.
     ![lichen planus nail](figures/skin-lichen-planus-nail.jpeg)
-  - Lichen planus pigmentosus: a rare form of lichen planus characterized by oval or irregularly-shaped brown to gray-brown macules and patches on the skin. Common in sun-exposed area or in places where two areas of skin touch or rub together (i.e. the armpit, groin, etc). 
-    ![lichen planus](figures/skin-lichen-planus-pigmentosus.jpeg)
 - Koebner phenomenon occurs.
-  
+
 **Management**
 1. Must screen for Hep B and Hep C
 2. Benign, self-limiting disease. Clears in 18 to 24 months. Hypertrophic variant (usually occur on legs) and mucosal lesions tend to be more chronic and recalcitrant to treatment.
@@ -3205,6 +3326,25 @@ aetiology.
    - Oral steroids, for severe cases
    - Anti-histamines
    - Phototherapy (UVB)
+
+#### Lichen planus pigmentosus
+
+A rare form of lichen planus characterized by oval or irregularly-shaped brown to gray-brown macules and patches on the skin. Common in sun-exposed area or in places where two areas of skin touch or rub together (i.e. the armpit, groin, etc). 
+![lichen planus](figures/skin-lichen-planus-pigmentosus.jpeg)
+
+
+
+#### Oral Lichen Planus
+
+Oral manifestations of LP may occur alone or in association with skin or genital lesions. Unlike cutaneous LP (eg, pruritic purple/pink polygonal papules), oral LP lesions are most commonly characterized by **white papules** or plaques connected by white, lacy markings known as **Wickham striae**; erythematous mucosal atrophy or ulcerations can also occur. Lesions are typically bilateral and symmetric and can form along the lines of minor trauma **(Köbner phenomenon)**. Oral LP is often asymptomatic but can be associated with pain or irritation.
+
+Mucous membrane – especially buccal mucosa, tongue and lips. 
+
+May become erosive and painful. Patients can complain of burning mouth, cannot eat spicy food; related to dental almougum allergic contact dermitisi of buccal mucosa; might need patch to test. Rarely, carcinoma may develop.
+
+![lichen planus oral](figures/skin-lichen-planus-wickham.jpg)
+
+The diagnosis of LP is based primarily on examination, but biopsy should be considered for confirmation, especially in patients with erythematous mucosal atrophy or ulceration. Treatment includes **topical high-potency glucocorticoids** (eg, fluocinonide). Unlike cutaneous LP, which is self-limited and often resolves within 2 years, oral LP often has a prolonged course with relapsing symptoms over many years.
 
 ### Pityriasis lichenoides et varioliformis acuta and chronica (PLEVA, PLC)
 An acute form of an inflammatory skin condition of unknown etiology. Rash comes in waves, like **tsunami**. It affects adolescents and young adults. Crops of lesions usually occur on the trunk and proximal extremities. It is a spectrum of conditions that can range from a relatively mild chronic form to a more severe acute eruption. 
@@ -3287,12 +3427,15 @@ This may be either a primary or secondary pyoderma.
 
 ### Bacterial Diseases
 
-#### Erysipelas 
-Infection by Streptococcus Pyogenes that is limited to the epidermis and superficial dermis, which gives erysipelas its characteristic raised sharp borders and intense erythema. Erysipelas is a superficial form of cellulitis most commonly due to Streptococcus Pyogenes. Erysipelas affects the upper dermis (epidermis and superficial dermis) and extends into the superficial cutaneous lymphatics. It is also known as St Anthony's fire due to the intense rash associated with it.
+Subcutaneous bacterial invasion may lead to cellulitis or, in the case of Clostridium perfringens, gas gangrene with myonecrosis.  Cellulitis is typically characterized by skin warmth and gas gangrene is characterized by crepitus.
+
+#### Erysipelas or Antony's Fire 
+Infection by Streptococcus Pyogenes and GAS that is limited to the epidermis and superficial dermis, which gives erysipelas its characteristic raised sharp borders and intense erythema. Erysipelas is a superficial form of cellulitis most commonly due to Streptococcus Pyogenes. Erysipelas affects the **upper dermis** (epidermis and superficial dermis) and extends into the superficial cutaneous lymphatics. It is also known as St Anthony's fire due to the intense rash associated with it.
 
 **Clinical Features**
+
 - Fever early in course of the disease
-- Rash with characteristic raised sharp borders and intense erythema due to upper dermis involvement
+- Rash with characteristic raised **SHARP** borders and intense erythema due to upper dermis involvement
 - Overlying bullae can develop in severe cases, and patients often have constitutional symptoms (eg, fever, chills).
 - Rapid spread and onset
 
@@ -3321,15 +3464,17 @@ MRI and CT are undertaken in case of deep infection.
   - Treatment is usually for 10–14 days
 
 #### Cellulitis
-A skin infection of the deep dermis and subcutaneous fat usually caused by beta hemolytic streptococcus (non-purulent) or staphylococcus (purulent). Infections take root in areas of skin disruption (e.g. insect bite, toe-web impetigo, stasis edema). 
+A skin infection of the **deep dermis and subcutaneous fat** usually caused by beta hemolytic streptococcus (non-purulent) or staphylococcus (purulent). Infections take root in areas of skin disruption (e.g. insect bite, toe-web impetigo, stasis edema). 
 
-Type  | Agent | Features
-|---|---|---
-Non-purulent Cellulitis | Streptococcus pyogenes and MSSA | - Deep dermis and subcutaneous fat <br> - Flat edges with poor demarcation  <br> - Indolent (over days) <br> - Localized (fever later in course)
-Purulent Cellulitis | Due to MSSA and MRSA | - Purulent drainage <br> - Folliculitis: infected hair follicle <br> - Furuncles formation: folliculitis &rarr; dermis &rarr; abscess  <br> - Carbuncles formation: multiple furuncles
+- DM is 
+
+| Type                    | Agent                           | Features                                                     |
+| ----------------------- | ------------------------------- | ------------------------------------------------------------ |
+| Non-purulent cellulitis | Streptococcus pyogenes and MSSA | Flat edges with poor demarcation, Indolent (over days), Localized (fever later in course) |
+| Purulent cellulitis     | Due to MSSA and MRSA            | Purulent drainage, **Folliculitis**: infected hair follicle, **Furuncles** formation: folliculitis &rarr; dermis &rarr; abscess, **Carbuncles formation**: multiple furuncles |
 
 **Clinical Features**
-- Patients typically develop a slow spreading rash that is warm, tender, and erythematous with flat, indistinct borders. 
+- Patients typically develop a SLOW spreading rash that is warm, tender, and erythematous with flat, indistinct borders. 
 - Fever and regional lymphangitis/lymphadenitis may be present. 
 - Laboratory studies usually show leukocytosis with a predominance of neurophils, a characteristic of most acute bacterial infections. 
 
@@ -3337,10 +3482,33 @@ Purulent Cellulitis | Due to MSSA and MRSA | - Purulent drainage <br> - Follicul
 Diagnosis is based largely on clinical findings, but blood cultures may be useful in patients with systemic toxicity, extensive rash, or certain comorbidities (e.g. immunocompromised).
 
 **Management**
-- Mild cases: Cephalexin 
+- Mild cases (cover all gram positive): Cephalexin or Augmentin
+- Draw border, give oral outpatient antibiotics, tell the patient if the border is bridged, start having high grade fever, then come back for IV antibiotics
+  - Also give poly referral
+- If received antibiotics in the community but not getting better or immunocompromised admit
 
 #### Necrotizing fasciitis
-Destructive infection of the fascia and subcutaneous fat marked by severe pain, systemic toxicity, bullae, crepitus, and skin necrosis.
+Destructive infection of the **fascia and subcutaneous fat** marked by severe pain, systemic toxicity, bullae, crepitus, and skin necrosis. Might be hematogenous spread e.g. sore throat to a site. DOES NOT need to be due to penetrating skin trauma.
+
+| Type | Description                                                  |
+| ---- | ------------------------------------------------------------ |
+| I    | Polymicrobial - affect immunocompromised                     |
+| II   | Monomicrobial - vibro spp in marine workers, GAS in sandy beach goer |
+
+**Diagnosis**
+
+- Clinical presentation
+- Gold standard is surgical exploration
+- LRINEC Score if ambiguous
+- May also get an MRI (Ultrasounds doesn't help, why?)
+
+**Differential Diagnosis**
+
+- Bullous cellulitis - patient usually quite well
+
+**Management**
+
+
 
 #### Staphylococcal Scalded Skin Syndrome
 Staphylococcal scalded skin syndrome (SSSS) is a blistering skin condition most commonly found in infants and young children.  The pathogenesis involves infection with certain strains of Staphylococcus aureus that produce exfoliative toxins, which disrupt keratinocyte adhesion in the superficial epidermis. In neonates, the source of infection is often the umbilicus or circumcision site, whereas in older children, there may be nasopharyngeal colonization or a primary skin lesion (eg, pustule).
@@ -3375,19 +3543,33 @@ Bullous impetigo is a localized form of SSSS due to epidermal infection by exfol
 ![bullous impetigo](figures/bullous-impetigo.jpg)
 
 **Management**
-Oral clindamycin is appropriate therapy for extensive impetigo, a superficial bacterial infection of the skin.
+Oral **clindamycin** is appropriate therapy for extensive impetigo, a superficial bacterial infection of the skin.
 
 
 #### Crusted Impetigo
 Bacteriology - Staph aureus in 90% and Strep in 10%. Children often acquire the organism from adults, including asymptomatic nasal carriers.
 
-Clinical Feature
+- Very superficial
+
+**Clinical Feature**
+
 - painful, non-pruritic pustules with honey-crusted adherent coating
 - begins as tiny blisters that eventually burst (epidermis is eroded) and leave small wet patches of red skin that may weep fluid. Gradually, a yellowish-brown or tan crust covers the area, making it look like it has been coated with honey or brown sugar.  There are little or no symptoms. 
 
 ![crusted impetigo](figures/skin-crust-impetigo.jpeg)
 
-### Ecthyma
+**Management**
+
+- Topical mupirocin, BD, 1 week
+
+- Try not to scratch
+
+- Topical therapy — Benefits of topical therapy include fewer side effects and lower risk for contributing to bacterial resistance compared with oral therapy [29]. Mupirocin and retapamulin are first-line treatments [25]. Mupirocin is applied three times daily and retapamulin is applied twice daily. The recommended length of treatment is five days [25].
+
+  Topical fusidic acid can be effective for impetigo; however, evidence for increasing resistance of S. aureus to fusidic acid in locations where topical fusidic acid use is common has made it a less favorable option for therapy [31].
+
+### Ecthyma 
+
 Ecthyma is a skin infection characterised by crusted sores beneath which ulcers form. It is a deep form of impetigo, as the same bacteria causing the infection are involved. Ecthyma causes deeper erosions of the skin into the dermis.
 
 **Clinical Features**
@@ -3396,6 +3578,12 @@ Ecthyma is a skin infection characterised by crusted sores beneath which ulcers 
 - Often associated with pustules and small ulcers
 
 ![Ecthyma](figures/skin-ecthyma.jpg)
+
+
+### Ecthyma Gangrenosum
+
+Ecthyma gangrenosum is a skin infection most frequently due to Pseudomonas aeruginosa.  It presents as hemorrhagic pustules with surrounding erythema that evolve into necrotic ulcers and occurs most commonly in the setting of profound neutropenia and bacteremia. Unlike in pyogenic gangrenosum, patients typically have less pain but more signs of systemic infection (eg, fever).
+
 
 #### Scarlet fever
 Caused by erythrogenic toxin–producing strains of group A Streptococcus
@@ -3500,7 +3688,7 @@ usually well-defined reddish-brown nodules typically found on the face or hand. 
 4) Orificial TB: Occurs around the mouth, nose or perinanal region as a result of extension of infection from the GIT.
 5) Erythema Induratum (Bazin’s Disease): Painful, subcutaneous masses on the calves. Strongly positive Mantoux test. Responds to TB treatment.
 6) Erythema nodosum: Painful evanescent nodules on the shin which can be due to many other causes like drugs and fungal infection.
-   
+
 **Diagnosis**
 
 Identification of AFB from tissue sections or a positive culture for M. tuberculosis is definite proof of infection. However, in practice, evidence of TB infection in the lung or elsewhere, and a strongly positive Mantoux test is sufficient to make a diagnosis
@@ -3532,6 +3720,7 @@ Patients with leprosy may present with Type 1 or 2 reactions as the first presen
   - Neuritis in the nerve
   - Nephritis, hepatitis, leucocytosis, raised ESR etc.
   
+
 **Clinical features**
 Skin lesion is the presenting disease in 95% of cases and nerve damage in the remaining 5%.
 
@@ -3593,6 +3782,7 @@ Fungal disease of the skin may involve the keratin layer of skin, nail or hair a
 
 The common fungi are 
 1. Malassezia furfur
+   
    - Malassezia furfur only grow on the keratin layer to produce Tinea Versicolor (or Pityriasis Versicolor).
 2. Dermatophytes 
   
@@ -3610,6 +3800,7 @@ The common fungi are
        -  T unguium: Nail plate and surrounding skin: oral
        -  T capitis: Scalp hair and skin: oral
 3. Candidal yeasts. 
+   
    - Candidal yeasts affect the mucous membrane and nail and have a predilection for the wet part of the skin like toe webs, groin and axillae.
 
 Fusarium, Culvararia, Aspergillus and Scytallidium are the other less common fungi involved.
@@ -3707,6 +3898,7 @@ This is a ubiquitous dermatophyte infection and the most common of the superfici
   - secondary infection
   - recurrence
   
+
 **Diagnosis**
 The diagnosis is often made clinically but can also be aided with microscopy, where scrapings from the affected area are examined under microscopy, after treatment with potassium hydroxide. KOH preparation of skin scrapings show branches segmented hyhae. 
 
@@ -3813,18 +4005,21 @@ The skin may be hard or warty.
 
 
 #### Sporotrichosis
-Fungus: Sporothrix schenckii. Found in soil and thorns of plants. Very rare in Singapore, but common in Africa and South America. This is a fungal infection acquired by direct traumatic inoculation of the skin. It is characterized by ulcerating, pustular nodules at the site of inoculation and associated lymphatic channels.
+Fungus: Sporothrix schenckii. Found in soil and thorns of plants. Very rare in Singapore, but common in Africa and South America. This is a fungal infection acquired by direct traumatic inoculation of the skin, typically from rose bushes or other plant materials. It is characterized by ulcerating, pustular nodules at the site of inoculation and associated lymphatic channels. 
 
 **Clinical Feature**
 - The fungus enters though a puncture wound and grows gradually into a painless, firm nodule. 
+- It presents as a small papule or nodule at the inoculation site, usually on exposed skin of the hand or arm which then may enlarge, ulcerate, and lead to additional lesions along the draining lymphatics. 
 - It may ulcerate and present as an ulcer. 
 - Lymphatic spread produces a chain of nodules and ulcers. 
+- Pain, if present, is mild.
 ![Sporotricosis](figures/skin-sporotricosis.jpg)
 
 **Treatment**: 
 - Excision of lesions
 - Oral Terbinafine
 - Amphotericin B
+
 
 #### Mycetoma
 May be due to fungus (EUMYCETOMA) or Actinomyces (ACTINOMYCETOMA)
@@ -3875,11 +4070,11 @@ Herpes simplex type 1 and 2. Often transmitted through close and sexual contact 
    - Patients with eczema of any cause can have a superimposed herpes simplex infection.
    - Painful, vesicular rash with "punched out" erosions, and hemorrhagic crusting 
    - *Kaposi’s varicelliform eruption* refers to a generalised, and sometimes systemic herpetic infection in a patient with eczema which can be fatal.
-  
+
    Eczema herpeticum is a potential complication of severe atopic dermatitis.  Superinfection with herpes simplex virus can cause a vesicular eruption on preexisting inflamed skin.  These patients often have fever and pain.
-  
+
    ![herpeticum](figures/skin-Eczema_herpitcum.jpg)
-  
+
 **Diagnosis:**
 1) Tzanck smear: Skin cells at the base of vesicle or ulcer becomes enlarged
 and vacuolated. On staining with Giemsa stain, it appears as “Giant Cells”. Tzanck smear is positive in many other vesicles due to virus e.g. Chickenpox. It is not specific for Herpes simplex infection.
@@ -3913,7 +4108,7 @@ Tzanck smear and Immunofluorescence.
 - Treat Acute neuralgia and post herpetic neuralgia with: Carbamazepine, gabapentin, pregaballin, amitryptyline
 - VACCINATION against chickenpox is available.
   - Chickenpox vaccine
-  - Herpes zoster vaccie
+  - Herpes zoster vaccine
 
 
 #### Herpes Zoster
@@ -3922,14 +4117,21 @@ After Chickenpox infection, the virus may survive in a dorsal root ganglion. Yea
 
 **Clinical features**
 - The disease involves the area innervated by the affected dorsal root. Usually 1 or 2 dermatomes are involved. 
-- If 3 or more is involved, it is referred to as “Disseminated”. 
+- Disseminated if &geq; 3 dermatome is involved
 - Various Locations of Manifestations
   - On the skin, patient may experience itch, pain or tingling for a few days before lesions occur. It begins as a red papule which becomes vesicular, then pustular and scabbed. It can last for up to 4 weeks. Pain may persist after clearance and is referred to as “Acute Neuralgia”. 
   - Blisters and ulcers in the mouth are seen in involvement of the maxillary division whilst conjunctival and corneal ulcers (dendritic ulcer) are seen in involvement of the ophthalmic division of Trigeminal nerve. 
   - Facial palsy is seen in involvement of the Facial nerve (Ramsay-Hunt Syndrome).
   - Paralysis of diaphragm resulting in hypoxia is seen in 4th Cervical root involvement.
 - Hematuria, bloody stool, and ulcers in the external genitalia can be seen in sacral nerves involvement.
- 
+- Additional
+  - **Ramsay hunt** or Herpes Zoster Oticus: affects ears
+    - Will start to affect facial paralysis - lower motor neurone paralysis
+    - Loss of sensation over the anterior 2/3 of the tongue
+  - **Herpes Zoster Opthalmicus**: affecting eyes
+    - Check Nose and Eyes next
+    - Nasociliary branch! Means CN I and danger of cornea involvement![Screenshot 2020-06-18 at 09.51.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2009.51.39.png)
+
  ![herpes zoster](figures/skin-herpes-zoster.jpeg)
  ![herpes zoster](figures/skin-herpes-zoster-2.gif)
 
@@ -3941,10 +4143,13 @@ As in Chickenpox.
 
 Post herpetic neuralgia, which can last for life.
 
-**Treatment**
+**Management**
 
-Oral Acyclovir 800mg 5x/day for 7 days.
-Post herpetic neuralgia will need analgesia and sometimes other drugs like carbamazepine or gabapentin.
+- **Lessen duration**: oral acyclovir 800mg 5x/day for 7 days.
+- Post herpetic neuralgia will need **analgesia** and sometimes other drugs like carbamazepine or gabapentin.
+- Treat **secondary bacterial infections**
+- Prednisolone might 
+- Discharge with advice
 
 #### Hand foot and mouth disease
 Virus: Coxsackie virus type 16 and 17 is acquired by the oral-faecal route. Primary infection is in the gut.
@@ -4039,26 +4244,38 @@ Primarily clinical based on appearance of the lesion
 ### Parasitic Infestation
 
 #### Scabies
-Scabies is caused by *Sarcoptes scabiei* infestation, a mite that infects only humans. Transmitted by close contacts, with an incubation period of 3-6 weeks. Female mite burrows into the skin to lay eggs.  Classically, scabies is an intensely pruritic rash characterized by small erythematous papules in a linear arrangement (burrows) favor the web spaces, wrists and ankles, genitals, nipples, and waistline.  First-line treatment is topical 5% permethrin or oral ivermectin.
+Scabies is caused by *Sarcoptes scabiei* infestation, a mite that infects only humans. Transmitted by close contacts, with an incubation period of 3-6 weeks. Female mite burrows into the skin to lay eggs.  Classically, scabies is an intensely pruritic rash characterized by small erythematous papules in a linear arrangement (burrows) favor the **web spaces, wrists and ankles, genitals, nipples, and waistline**. **This the wet damp area.** First-line treatment is topical 5% permethrin or oral ivermectin.
 
 **Clinical Course**
 Immune response to mite, eggs and faecal material produce the itch, redness and swelling. Secondary bacterial infection causing pus-filled lesions invariably occurs. The skin lesion may also undergo secondary eczematisation. Immune reaction maybe localised and persistent.
 
+- Infants tend to have scabies around the whole head
+
 **Clinical features**
 The itch is typically more severe at night (nocturnal exacerbation). Other family members with itch or similar disease simultaneously or shortly before is a useful clinical pointer.
+
 1) Classical scabies: 
+
    -  The rash consists of small, erythematous papules or vesicles 
    -  Pathognomonic burrows, or <1-cm lines on the skin, caused by the female mite burrowing into the epidermis to lay eggs. Burrow may be found on close examination, or the burrow may be revealed by painting with a marker pen and washed off. Burrows may not be visible or may be difficult to visualize due to excoriation.
+
 2) Scabies with secondary bacterial infection: 
+
    - Most common type of disease seen. 
    - Most common in children and young adults. 
-   - Infants can get scabies from care-givers, and tend to have pustular lesions by the time they present.
+   -  Infants can get scabies from care-givers, and tend to have pustular lesions by the time they present.
+
 3) Scabetic nodules: An extremely itchy nodule on the scrotum, vulva, and axillae. 
-   - The mite is extremely difficult to find in these patients.
+
+   -  The mite is extremely difficult to find in these patients.
+
 4) Scabies incognito: 
+
    - A persistent itchy patch that do not spread or extent may be produced. 
-   - Occurs in individuals with good personal hygiene.
+   -  Occurs in individuals with good personal hygiene.
+
 5) Norwegian or crusted scabies: 
+
    - Often occurs in old patients or in individuals with poor general condition. 
    - The whole body, especially the back of the ear, dorsum of elbow, knee, sacral regions, and nail bed are thickened with crusts. 
    - Millions of mites are present, but the patient does NOT itch.
@@ -4075,7 +4292,7 @@ Scabies must be treated to prevent severe disease and spread to others.
 - Symptomatic treatment for itch and secondary eczema. 
 - Anti-scabetics include:
   - First line: 
-    - topical 5% permethrin (kills both mites and eggs) 
+    - topical **5% permethrin** (kills both mites and eggs) 
     - or oral ivermectin: new drug! important because it is easier to use than topicals and hence more effectives; currently reserved for treatment of recalcitrant scabies and Norwegian scabies.
   - Others
     - Benzyl benzoate 10% or 25%
@@ -4108,35 +4325,27 @@ Treatment is by application of anti-parasite (anti-scabetic) to the body.
 
 
 
-Sexually Transmitted Infections
-------------------------
-
-### Secondary Syphilis
-Secondary syphilis is characterized by a rash that appears from 2 to 8 weeks after the chancre develops and sometimes before it heals, a flulike syndrome, and generalized adenopathy.
-
-Condyloma lata are a manifestation of secondary syphilis characterized by flattened pink or gray velvety papules.  These are seen most commonly at the mucous membranes and moist skin of the genital organs, perineum, and mouth.
-
-![secondary syphilis](figures/skin-secondary-syphilis.png)
-
-### Disseminated Gonococcus
-Vesiculopustular rash, tenosynovitis, and migratory polyarthralgias. Most patients are febrile, and the skin lesions are predominantly found on the distal extremities and usually last only a few days. 
 
 
 Skin Growths and Tumours
 ------------------------
 
 ### Benign Skin Growths
-  
+
 #### Seborrhoeic Keratosis
-- Epithelial Benign Tumor
+Benign pigmented epithelial lesion with a well-demarcated border and a velvety or greasy surface. It may be nearly flat, but thickened lesions are often described as having a "stuck on" appearance.
+
+**Clinical Feature**
 - Occurs in the elderly - on the face, upper trunk.
-- Looks like a greasy warty plaque “stuck” on the epidermis.
+- Looks like a greasy warty plaque “stuck on” the epidermis.
 - May be pedunculated.
 - Dark brown to black in colour with keratin plugs in the follicles
 - Range in size from 1 mm to several cm.
 - May get irritated or infected. May have bleeding, oozing and crusting.
+- Elevated hyperpigmented lesions with a well-circumscribed border, stuck-on appearance, and variable tan-brown-black color and are most commonly located on the face and trunk.
 
 ![seborrhoeic keratosis](figures/skin-seborrhoeic-keratosis.jpg)
+
 **Treatment**
 1. Electrosurgery
 2. Liquid nitrogen (smaller lesions)
@@ -4207,11 +4416,12 @@ Treatment
 2. Laser
 3. Excision
 
-#### Epidermal Cyst
-Keratin-containing cyst that may occur at any age
+#### Epidermal Inclusion Cyst
+A discrete benign nodule lined with squamous epithelium that contains a semisolid core of keratin and lipid. An EIC occurs when the epidermis becomes lodged in the dermis due to trauma or comedones, or it can arise de novo.  EICs can be seen anywhere on the body, but are most common on the face, neck, scalp, or trunk.  The lesion can gradually increase in size and may intermittently produce a cheesy white discharge.  Some patients may develop significant inflammation with rupture and involvement of surrounding tissue.  An EIC will usually resolve spontaneously but can recur.
 
-Clinical Features
+**Clinical Features**
 - Skin-colored to yellowish, firm, well-demarcated dermal nodules 
+-  dome-shaped, firm, and freely movable cyst or nodule with a central punctum (small, dilated, pore-like opening)
 - May have a visible central punctum
 - May be multiple.
 - Slow growing.
@@ -4220,7 +4430,8 @@ Clinical Features
 ![epidermal cyst](figures/skin-epidermal-cyst.jpg)
 
 **Treatment**
-1. Excision
+1. Excision for cosmetic reasons
+2. Incision and drainage are occasionally needed for infected and fluctuant cysts that are painful and erythematous.
 
 #### Pilar Cyst
 Keratin-containing cyst.
@@ -4246,7 +4457,6 @@ Milia are small, bump-like cysts found under the skin. They are usually 1 to 2 m
 Treatment
 1. Incision and extraction
 
-
 ### Steatocystoma Multiplex
 - Occurs in adolescence or early adulthood
 - Sporadic or autosomal dominant inheritance.
@@ -4260,6 +4470,26 @@ Treatment
 1. Leave alone
 2. Incision and squeezing out cyst contents 
 3. Excision
+
+### Dermatofibroma
+A dermatofibroma is a common benign fibrous nodule that most often arises on the skin of the lower legs. A dermatofibroma is also called a cutaneous fibrous histiocytoma.
+
+Dermatofibromas occur at all ages and in people of every ethnicity. They are more common in women than in men.
+
+It is not clear if dermatofibroma is a reactive process or if it is a neoplasm. The lesions are made up of proliferating fibroblasts. Histiocytes may also be involved.
+They are sometimes attributed to an insect bite or rose thorn injury, but not consistently. They may be more numerous in patients with altered immunity.
+
+**Clinical Features**
+Dermatofibromas most often occur on the legs and arms, but may also arise on the trunk or any site of the body
+- People may have 1 or up to 15 lesions.
+- ize varies from 0.5–1.5 cm diameter; most lesions are 7–10 mm diameter.
+- They are firm nodules tethered to the skin surface and mobile over subcutaneous tissue.
+- The skin dimples on pinching the lesion.
+- Colour may be pink to light brown in white skin, and dark brown to black in dark skin; some appear paler in the centre.
+- They do not usually cause symptoms, but they are sometimes painful or itchy.
+
+### Lipoma
+Slowly enlarging, mobile subcutaneous massess with a soft or rubbery texture and are often golf-ball size or larger by the time they are brought to clinical attention. Lesions with the typical appearance of a lipoma are rarely malignant and can be safely observed without biopsy.
 
 
 ### Premalignant Tumors
@@ -4306,6 +4536,7 @@ Management
 
 #### SCC in-situ (erythroplasia queyrat)
 Erythroplasia of Queyrat (EQ) is an in situ squamous cell carcinoma of the penis. The glans and prepuce are most commonly involved. Erythroplasia of Queyrat is seen almost exclusively in uncircumcised men.
+
 ![queyrat](figures/skin-queyrat.png)
 
 
@@ -4342,36 +4573,44 @@ Predisposing Factors to Skin Cancers (Malignant Epithelial Tumours)
   - Male >>> female
   
 #### Basal Cell Carcinoma
-Most common malignant tumour of the skin.
-Early tumours are small, translucent or pearly, with raised and rounded areas covered by thin epidermis through which a few dilated superficial vessels show.
-Uneven pigment is seen.
+Slow-growing, flesh-colored, translucent nodule on sun-exposed skin.
 
-Other presentations
-A keratotic slightly indurated area, or a small superficial ulcer.
-Can enlarge and ulcerate causing morbidity, especially around the eyes, nose or ears.
-May invade into the bones of the face and skull
-Usually occurs usually on the head and neck, especially upper central part of the face
-Slow growing
-Rarely metastasizes
+Most common malignant tumour of the skin. Risk factors include fair skin and a history of heavy sun exposure.
+- Nodular BCC, which represents up to 80% of cases, is characterized by a pearly or translucent nodule covered by thin epidermis, with an elevated or rolled border and central telangiectasias.
+- Other presentations
+  - Plaque like
+  - A keratotic slightly indurated area, or a small superficial ulcer.
+  - Persistent open sore that bleeds, oozes, or crusts
+  - Reddish patch or irritated area (superficial BCC)
+  - Elevated or rolled border with central ulceration
+  - Pale scar-like area with poorly defined borders
 
 ![basal cell carcinoma](figures/skin-basal-cell-carcinoma.jpg)
--   Basal cell carcinomas may be pearly plaque-like or nodular with a waxy, translucent appearance, often with ulceration and/or telangiectasia
+
 -   Usually there is no associated itching or change in skin color.
 -   Basal cell carcinoma is common on the face and on other exposed skin surfaces but may occur anywhere.
 -   Comprising 60 percent of primary skin cancers, basal cell carcinomas are typically slow-growing lesions that invade local tissues but rarely metastasize.
--   A long history of sun exposure is a risk factor for basal cell carcinoma.
+    - Can enlarge and ulcerate causing morbidity, especially around the eyes, nose or ears.
+    - The cancer usually remains local and only rarely spreads to distant parts of the body, but it may continue to grow and invade nearby tissues and structures, including the nerves, bones, and brain.
+-   A long history of sun exposure is a risk factor for basal cell carcinoma: usually occurs usually on the head and neck, especially upper central part of the face
 
 **Diagnosis**
 - Excisional biopsy with narrow margin
 
+**Differentials**
+- SCC occurs more commonly among immunosuppressed patients and more commonly on the extremities, and it is more likely to cause neural invasion.
+
 **Treatment**
-Factors to consider are the histologic subtype, size and location and whether any concommitant and relevant medical issues are present.
-1. Standard excision with margins 
-2. Micrographic Surgery
-3. Radiotherapy
-4. Liquid nitrogen
-5. Curettage
-6. Topical agents eg. 5-Fluorouracil, imiquimod
+The treatment of BCC varies, depending on the histologic subtype, size, depth, and location of the cancer, as well as the presence of any concommitant and relevant medical issues.
+- Low-risk lesions on the trunk or extremities can be managed with electrodessication and curettage (ED&C).  However, ED&C is not recommended for higher-risk lesions or for BCC on the face, where the resulting scarring and hypopigmentation are undesirable. 
+-  Nodular BCC on the trunk or extremities may be easily managed with standard **surgical excisional biopsy with narrow margins**, typically with 3-5 mm margins.  
+   -  Excision with narrow margins carries a low (<5%) risk of recurrence while avoiding the sacrifice of large amounts of normal tissue and minimizing the risk of wound complications. 
+- Mohs surgery is characterized by sequential removal of thin skin layers with microscopic inspection to confirm that the margins have been cleared of malignant tissue.  This technique currently has the highest cure rate for BCC and provides the least disruption to surrounding tissues, making it ideal for delicate or cosmetically sensitive areas (eg, perioral region, nose, lips, ears).
+- Other methods: 
+   -  Radiation therapy is occasionally used to treat BCC in patients who are unable to undergo surgical excision.  It is otherwise not considered first-line management.
+   -  Systemic chemotherapy is used in patients with widely metastatic BCC.  However, this occurrence is rare and few patients with BCC require systemic treatment.
+   -  Low-risk superficial BCC may be managed with topical therapy using either 5-fluorouracil or imiquimod. 
+   -  Topical salicylic acid is useful for treating common warts and many other benign conditions (eg, acne, psoriasis, corns/calluses).  It is occasionally considered in combination with topical fluorouracil for low-risk BCC but has a higher risk of recurrence; excision is generally preferable for definitive management.
 
 #### Squamous Cell Carcinoma
 Second most common skin cancer
@@ -4379,6 +4618,20 @@ Usually occurs in older patients
 Typically on sun-exposed skin – head and neck, backs of hands and forearms
 Erythematous keratotic papule or nodule. May be plaque-like, verrucous, tumid or ulcerated.
 May arise in chronic conditions such as scars and chronic ulcers.
+
+SCC is the most common malignancy of the lip, with 95% of cases occurring in the lower lip vermilion, likely due to higher exposure to sunlight.  In addition to ultraviolet (eg, sunlight) exposure, other risk factors for SCC include fair skin tone, tobacco use (smoking or chewing), heavy alcohol use, chronic inflammation or scar formation, and immunosuppression.
+
+Squamous cell carcinoma (SCC) should be suspected in patients with a rough, scaly nodule or nonhealing, painless ulcer that develops in the setting of a scar or chronic inflammatory lesion.  Sun exposure is the most common cause of SCC, but other risk factors include radiation exposure; immunosuppression; and chronic wounds, burns, or scars.
+
+The diagnosis of SCC should be confirmed with skin biopsy (punch, shave, or excisional) that includes the deep reticular dermis to assess the depth of invasion.  Typical pathologic findings include invasive cords of squamous cells with keratin pearls.
+
+Management
+-  Prognosis is usually very good for cutaneous SCC, with curative resection seen in >90% of patients.
+   -  Small or low-risk lesions are usually managed with surgical excision or local destruction (eg, cryotherapy, electrodessication); 
+   -  lesions that are high risk or located in cosmetically sensitive areas should be referred for Mohs micrographic surgery
+- Most lesions do not metastasize, but untreated SCC can cause extensive local destruction and may eventually spread to local lymph nodes or distant structures.  
+- Adverse prognostic features include larger size, deeper invasion, and involvement of regional lymph nodes.
+- SCC is not usually metastatic at the time of diagnosis, but SCC arising in a wound or burn (termed a Marjolin ulcer) is associated with an increased risk of metastasis.
 
 SCC (both in situ and invasive) is most common in patients age > 60, and men are more frequently affected. Fair-skinned individuals are at increased risk. When SCC occurs in black patients, it is more likely to be found in atypical locations(axilla, mucosa, lower extremities)
 
@@ -4403,10 +4656,16 @@ Management
 -   Unlike basal cell carcinomas, the heaped-up edges of a squamous cell carcinoma are fleshy rather than clear in appearance.
 -   Squamous cell carcinoma comprises 20 percent of all cases of skin cancer.
 -   History of significant sun exposure is a risk factor for squamous cell carcinoma and it typically occurs on areas of the skin that have been exposed to sunlight for many years, such as the extremities or face.
-  
+
 **Treatment**
 1. Surgical excision
 2. Radiotherapy in patients unable to undergo surgery
+
+#### Marjolin Ulcer
+SCC arising within a burn wound is known as a Marjolin ulcer. In addition, SCC has been seen within the skin overlying a focus of osteomyelitis, radiotherapy scars, and venous ulcers.  SCC arising within chronic wounds tends to be more aggressive (i.e. increased risk of metastasis), so early diagnosis with biopsy is important for preventing metastatic disease. 
+
+
+
 
 ### Malignant Melanocytic Tumors
 
@@ -4425,7 +4684,7 @@ Risk factors
 -   Sun exposure is a risk factor for melanoma; studies have shown that the prevalence of melanoma increases with proximity to the equator.
 -   Persons with skin types that burns easily and tans with difficulty, and with red or blond hair, and freckles are at higher risk.
 -   Although cumulative sun exposure is linked to nonmelanoma skin cancer, intermittent intense sun exposure seems to be more related to melanoma risk.
-  
+
 Risk Factors
 
 -   Male \> female (slight)
@@ -4471,15 +4730,29 @@ May metastasize. May arise de novo (75%) or in association with a pre-existing c
 
 Sunlight exposure, hereditary factors, fair skin, and a history of preexistent dysplastic nevi are important risk factors. 
 
-Gross findings that suggest melanoma rather than a benign melanocytic nevus include
-1. ABCDE criteria
-   -   Asymmetry: Asymmetry in two or more axes.
-   -   Border: Irregular border.
-   -   Color: Two or more colors.
-   -   Diameter: Six millimeters or greater.
-   -   Enlargement: Enlargement of the surface of the lesion. (Some references refer to alternate E's: evolution or elevation). 
-2. Ugly duckling sign
+**Diagnosis**
 
+- Superficial spreading melanoma
+  - ABCDE criteria for evaluation of superficial spreading melanoma
+     -   Asymmetry: Asymmetry in two or more axes.
+     -   Border: Irregular border.
+     -   Color: Two or more colors, mixture of brown, tan, black, and red
+     -   Diameter: Six millimeters or greater.
+     -   Enlargement: Enlargement of the surface of the lesion. (Some references refer to alternate E's: evolution or elevation). 
+- Nodular malignant melanoma
+  - Nodular melanomas account for up to 30% of all melanomas but may not meet any of the ABCDE criteria until they are relatively advanced. 
+  - In contrast to superficial spreading melanoma, which grows horizontally along the dermal layer, nodular melanoma grows vertically.  Therefore, it often presents with few of the classic ABCDE criteria.  Most cases are marked by a darkly pigmented lesion with uniform color and symmetric borders; however, suspicion is generally raised due to the presence of ≥1 of the following features:
+    - The "ugly duckling sign" - patients with several pigmented cutaneous lesions (nevi) usually have lesions that all appear somewhat similar.  When a single lesion looks significantly different from the others this is called the "ugly duckling sign"; it has a high sensitivity (up to 90%) for melanoma
+    - Elevation from surrounding skin (eg, nodular, pedunculated): Palpable nodularity often corresponds with vertical growth of a melanoma and increases metastatic risk.  The Breslow depth (distance from the epidermal granular cell layer to the deepest visible melanoma cells) is the most important prognostic indicator in malignant melanoma.
+    - Firm to palpation
+    - Continuous growth over a month
+    - The diagnosis is generally confirmed by full-thickness excisional biopsy.
+    - Benign pigmented lesions are usually asymptomatic; biopsy should be considered for moles that itch, bleed, or are associated with local sensory symptoms (eg, tingling).
+- Other atyical melanoma should be diagnosed with additional visual criteria as well.
+
+Early diagnosis is critical in melanoma as survival rates rapidly decrease with increased tumor thickness and depth of invasion. 
+- Patient with suspected melanoma should undergo a full-thickness excisional biopsy with initial margins of 1-3 mm of normal tissue.
+- Although wide-margin (eg, >5 mm) excision is indicated for melanoma and high-risk or recurrent nonmelanoma skin cancer, it is associated with greater risk of wound complications and significant scarring.
 
 
 
@@ -4515,17 +4788,29 @@ Upon diagnosis, requires screening for a primary site - urogenital tract and gas
 
 ### Malignant Vascular Tumour
 
+### Cutaneous T-cell Lymphoma
+
+Sometimes referred to as mycosis fungoides, most commonly appears as scaly, pruritic patches or plaques. 
+
 #### Angiosarcoma
-Malignant tumour of endothelium (blood vessel or lymphatic differentiation), with an aggressive behaviour.
+Angiosarcoma is a relatively rare malignant tumor derived from the internal lining of blood vessels and lymphatics, with an aggressive behaviour. Primary angiosarcoma can occur anywhere in the body (eg, liver, breast). Patients who have received localized radiation therapy for cancer treatment (eg, breast cancer) are at risk of developing secondary angiosarcoma of the skin.  In addition, patients with chronic axillary lymphedema, often precipitated by surgical lymph node resection (e.g. for breast cancer treatment), are at increased risk.
+
+Patients with secondary angiosarcoma most commonly present with multiple ecchymoses or purpuric masses on the skin of the breast, axilla, or upper arm 4-8 years following completion of breast cancer therapy.  Lymphedema (nonpitting edema) is often present in the ipsilateral arm, and the skin of the breast may have a dimpled (peau d'orange) appearance.  
+
+As with most sarcomas, early hematologic metastasis is common, and patients may also have signs of metastatic disease (eg, dyspnea due to lung involvement).  Secondary angiosarcomas are typically high-grade on pathology and generally carry a poor prognosis (worse than primary angiosarcomas).  However, when possible, surgical resection is potentially curative.
+
 Usually occurs in 6th or 7th decade, in the head and neck region. Characteristic appearance: bruise-like dusky red macules or plaques, ill- defined edge. May appear nodular.
 May also occur against background of chronic lymphoedematous limbs eg. post-mastectomy and post-irradiation.
 Often delayed diagnosis because of insidious onset and asymptomatic nature, which further contributes to the poor outcome.
 
 **Treatment**
-1. Surgical excision 2. Radiotherapy
+1. Surgical excision 
+2. Radiotherapy
 3. Chemotherapy
 
 #### Kaposi’s Sarcoma
+Kaposi sarcoma is most commonly seen in the setting of coinfection involving HIV and human herpes virus 8.  The lesions typically begin as papules and later develop into plaques or nodules.  The color can change from light brown to violet, and patients often have multiple lesions.
+
 Controversial whether Kaposi’s sarcoma (KS) represents a neoplasia or hyperplasia
 All clinical variants viewed as virally-induced disease – human herpesvirus-8 (HHV-8)
 - Classical KS
@@ -4549,7 +4834,7 @@ Kaposi’s Sarcoma and AIDS
 3. Radiotherapy
 4. Cytotoxic drugs for extensive lesions or rapidly progressive KS 
 5. HARRT (highly active antiretroviral therap) for AIDS-related KS
-  
+
 ### Other Growths
 
 #### Keratoacanthoma
@@ -4580,12 +4865,24 @@ Also known as acne inversa, is a chronic, relapsing disorder characterized by th
 
 ![hidradenitis suppurativa](figures/skin-hidraadenitis-suppurativa.jpg)
 
-The exact cause is usually unclear but believed to involve a combination of genetic and environmental factors. The condition is not infectious or related to hygiene or the use of deodorant. The underlying mechanism is believed to involve either a dysfunction of apocrine sweat glands or hair follicles.
+The exact cause is usually unclear but believed to involve a combination of genetic and environmental factors. The condition is not infectious or related to hygiene or the use of deodorant. The underlying mechanism is believed to involve either a dysfunction of apocrine sweat glands or hair follicles
 
 Risk factors
 - Family member with the condition
 - Obesity 
 - Smoking
+
+Clinical feature
+- HS initially presents as solitary, painful, inflamed nodules that can last for several days to months.  
+- Most patients have a chronic, relapsing course: The nodules may regress or can progress to abscesses that open to the surface with purulent or serosanguineous drainage. 
+
+Complications 
+- sinus tracts
+- comedones
+- scarring
+  - Severe scarring can lead to dense, rope-like bands in the skin with strictures and lymphedema.  
+
+The diagnosis of HS is usually made clinically without the need for biopsy or cultures.
 
 Management
 - No known cure
@@ -4777,38 +5074,36 @@ May cause calf swelling, erythema, and warmth. An anterior rash, high fever, and
 ### Pressure sores
 
 
-
-
-
-Others
+Ulcers and Superficial Wounds
 ------------------
 
+### Pressure (decubitus) ulcers
+Pressure ulcers are most common over bony prominences, such as the sacrum, ischial tuberosities, malleoli, heels, and 1st or 5th metatarsal head.  Constant, unrelieved pressure causes necrosis of overlying skin and muscle as blood flow to the soft tissues is impeded.  Risk factors include impaired mobility, malnutrition, abnormal mental status (eg, dementia), decreased skin perfusion, and reduced sensation.
 
+Initial management of pressure ulcers includes local wound care, repositioning of the patient to reduce pressure, pain control, and nutritional support.  Shallow ulcers can be managed with occlusive or semipermeable dressings to maintain a moist wound environment.  Full-thickness wounds may require more complex dressings and surgical intervention for debridement or closure.
 
-### Erythema Nodosum
+### Arterial ulcers 
+Arterial ulcers are due to insufficient blood supply that leads to tissue necrosis.  They usually occur in the most distal parts of the body where blood flow is lowest, such as the tips of the toes.
 
-Clinica
+### Diabetic foot ulcers 
+Result from chronic unnoticed trauma due to peripheral neuropathy and poor wound healing due to microvascular insufficiency.  They often occur in association with Charcot deformity and are most common on the soles of the feet under the metatarsal heads and at the tops of the toes.
 
+### Venous stasis ulcers 
+Usually occur in the setting of chronic lower-extremity edema and stasis dermatitis.  They are most common at the pretibial area or above the medial malleolus.
 
+### Keloids
+Intralesional glucocorticoids are used for symptomatic keloids, which may form in the setting of an established scar.  Keloids are not usually ulcerated.
 
+### Granulomatous ulcers 
+These can be seen in a number of disorders, such as tertiary syphilis, tuberculosis, or disseminated fungal disease.  Most patients with these conditions would have additional systemic (eg, fever, night sweats in tuberculosis) or local (eg, genital lesions in syphilis) symptoms or known immunocompromised states.
 
-
+Others 
+----------
 
 ### Seborrheic Keratoses
-benign pigmented lesions with a well-demarcated border and a velvety or greasy surface. It may be nearly flat, but thickened lesions are often described as having a "stuck on" appearance.
-
--   Elevated hyperpigmented lesions with a well-circumscribed border, stuck-on appearance, and variable tan-brown-black color and are most commonly located on the face and trunk.
 
 
 
-### Pyoderma Gangrenosum
-
-
-
-
-
-### Leprosy
-Infection with Mycobacterium leprae, characterized by areas of hypopigmentation with anesthesia.
 
 
 ### Lyme Disease
@@ -4830,7 +5125,10 @@ Treatment: doxycycline
 Infection of the skin and soft tissue characterized by papules, pustules, plaques, nodules, abscesses, cellulitis, or ulcer.
 
 ### Crytococcus Skin Infection
-Papular skin lesions resembling Molluscum Contagiosum in immunocompromised patients. However, skin manifestations are usually seen in disseminated infection, along with involvement of the lungs or central nervous system (e.g. meningitis).
+Disseminated cryptococcosis is usually seen in immunosuppressed patients.  The skin is the most common site.  It presents as multiple, discrete, flesh- to red-colored papules of varying size with slight central umbilication.
+
+These papular skin lesions resembling Molluscum Contagiosum. However, skin manifestations are usually seen in disseminated infection, along with involvement of the lungs or central nervous system (e.g. meningitis).
+
 
 ### Bacillary Angiomatosis
 
@@ -4872,6 +5170,7 @@ DDx
 ### Hand-foot-mouth disease
 
 ### Candidal Intertrigo
+Intertrigo is due to infection with Candida species and presents as well-defined, erythematous plaques with satellite vesicles or pustules in intertriginous and occluded skin areas.  These disorders typically do not follow a chronic course or cause significant scarring.
 
 ### Dermatophytes
 
@@ -4898,29 +5197,34 @@ Tinea manuum is a fungal infection of the hands. Tinea is also called ringworm, 
 
 
 #### Tinea Corporis
-TC , sometimes called ring worm, is a superficial dermatophyte infection caused by Trichophytno rubrum and similar species. The fungi thrive in warm moist areas (e.g. shower surfaces, pools, gym mats) and can be transmitted by skin-to-skin contact, contact with animals (e.g. cats), or via fomites.
+TC , sometimes called ring worm, is a superficial dermatophyte infection caused by Trichophytno rubrum and similar species. The fungi thrive in **warm moist areas** (e.g. shower surfaces, pools, gym mats) and can be transmitted by skin-to-skin contact, contact with animals (e.g. cats), or via fomites.
 
 Patients with TC are at risk for developing additioanl foci of infection elsewhere on the body, toes, groin or nails due to autoinoculation. However, extensive widespread involvement should raise concern for immunocompromise. Possible contributing factors include DM, systemic glucocorticoid therapy, and HIV infection. In addition to appropriate screening studies, patients with widesrpead diease should receive systemic (e.g. oral fluconazole) rather than topical antifungal therapy. 
 
-Risk factors
+**Risk factors**
+
 - athelets who have skin to skin contact
 - humid environment
 - contact with infected animals
 
-Presentation
+**Presentation**
+
 - slow expanding annular rash with raised border and central clearing
 - scaly erythematous pruritic patch with centrifugal spread
 - Subsequent central clearing with raised annular border
 
 ![tinea corporis](figures/skin-tinea-corporis.jpeg)
 
-Treatment
+**Treatment**
+
 - First line / localized: topical antifungals (e.g. clotrimazole, terbinafine)
 - Second-line / extensive: oral antifungals (e.g. terbinafine, griseofulvin)
 
-DDX
+**DDX**
+
 - Lyme disease: no raised border and has systemic symptoms
-- Subacute SLE: confluent annular plaques on upper body, but should predominantly involve sun-exposed skin; the lesion should also have minimal itching
+
+Subacute SLE: confluent annular plaques on upper body, but should predominantly involve sun-exposed skin; the lesion should also have minimal itching
 
 **Rash Features**
 Scaly erythematous patches, that are typically annular, pruritic, and spread centrifugally with central clearing.
@@ -4929,22 +5233,5 @@ Scaly erythematous patches, that are typically annular, pruritic, and spread cen
 This is a common dermatophyte infection caused by Trichophyton rubrum and similar species. Risk of infection is higher in men and in individuals with diabetes or other immune-suppressing conditions. The symptoms are frequently aggrevated by heavy sweating and warm ambient temperatures.
 
 Pruritic rash at the groin sparing the scrotum, Lesions are annular plaques with raised, scaly border. 
-
-Non-Melanoma Skin Growth and Cancers
-------------------------
-
-
-### Dermatofibroma
-
-### Lipoma
-Slowly enlarging, mobile subcutaneous massess with a soft or rubbery texture and are often golf-ball size or larger by the time they are brought to clinical attention. Lesions with the typical appearance of a lipoma are rarely malignant and can be safely observed without biopsy.
-
-### Seborrheic Keratosis
-Benign pigmented lesion with a well-demarcated border and a velvety or greasy surface. It is often described as having a stuck on appearance. 
-
-### Keratoacanthoma
-
-
-### Pyrogenic granuloma
 
 

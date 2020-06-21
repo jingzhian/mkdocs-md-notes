@@ -97,7 +97,7 @@ Health Maintenance
 
 -   Hepatic abnormalities
 
-### HPV Vaccination
+### HPV Vaccination 人类乳头状瘤病毒疫苗
 
 -   Typically administered to those age 11 - 26 but can be given from age 9 - 45.
 
@@ -105,7 +105,7 @@ Health Maintenance
 
 -   Previous or current HPV vaccination is not a contraindication to HPV vaccination because vaccination provides protection against other HPV types
 
-### PAP
+### PAP smear 子宮抹片
 
 -   Begins at 21 y/o in immunocompetent patients regardless of age of onset of sexual activity or number of sexual partners
 
@@ -119,7 +119,7 @@ Health Maintenance
 
         -   If age greater than 35 (or less than 35 but with risk factors e.g. obesity and anovulation), perform endometrial biopsy to evaluate ectocervix, endocervix, and endometrium, because these may be due to either cervical or endometrial adenocarcinoma
 
-### Mammogram
+### Mammogram 乳房 X光检查
 
 -   Calcifications on MMG is concerning because maglinant cell membranes become necrotic and calcify
 
@@ -148,7 +148,10 @@ Common Treatment
 
 See more details in [\[tbl:contraception\]](#tbl:contraception){reference-type="ref" reference="tbl:contraception"}
 
-L1.25 in\|L2.25 in\|L2.5 in Contraception & Features & Side effects\
+| Contraception | Features | Side effects |
+| ------------- | -------- | ------------ |
+|               |          |              |
+
 Combined oral contraceptive & Can be used \>6 weeks postpartum while breastfeeding, can be used to control hypermenorrhea but irregular bleeding is also the most common reason for stopping& For patients who can reliably take daily medications; Side effect divided into estrogenic effects (nausea, breast tenderness, fluid retention) and androgenic effects (hair growth, male pattern baldness, nausea). Can result in increase in BP, discontinue if so, and BP is expected to return to baseline in 3 months; Also has three fold increase in risk of thromboembolic events -- [contraindicated in smokers more than 35 year old]{style="color: red"}\
 Progestin-only pill & suppress ovulation, thicken cervical mucus, alter endometrium, inhibit tubal transport; effect dependent on consistency of use (alternative needed if late by more than 3 hours) & Increased change of ectopic pregnancy if user becomes pregnant\
 GnRH agonist therapy & E.g. Leuprolide, treats heavy, regular menses by acting on the pituitary to decrease pulsatile FSH and LH release, thereby producing a hypoestrogenic state and amenorrhea. & Not recommended for long term use due to adverse effect such as decreased bone density, and is particularly avoided in patients at high risk of bone density abnormalities.\
@@ -156,7 +159,7 @@ Ulipristal & 0 -120 hr EC with efficacy of 98 - 99% & No contraindications\
 Transdermal patch &&less effect in obese patients\
 Depot-Medroxyprogesterone Acetate & Long term contraception, IM injection every 3 months & Weight gain is common, not recommended in patients with postpartum weight loss problem; Decrease in bone mass and shold not be used for more than 2 years; most common side effect is menstrual changes with amenorrhea in about 1 year;\
 Progestin-releasing subdermal implant & A long-acting reversible contraceptive that reduces menstrual bleeding in 50% of patients and causes amenorrhea in 20% of patients. & Ideal for adolescents, particularly those who have difficulty with pelvic examinations\
-Levonorgestrel containing IUD & Long-acting, reversible, lower risk of PID by thickening cervical mucus, good for 3 - 5 years & Amenorrhea - common and can be used to improve anemia and abnormal uterine bleeding; A small percentage of woman experience systemic SE inc mood changes, breast tenderness, headache\
+Levonorgestrel containing IUD 子宮环 & Long-acting, reversible, lower risk of PID by thickening cervical mucus, good for 3 - 5 years & Amenorrhea - common and can be used to improve anemia and abnormal uterine bleeding; A small percentage of woman experience systemic SE inc mood changes, breast tenderness, headache\
 Copper IUD & Highly effective! In emergency, use 0 - 120 hr, good for 10 years & Increase bleeding! - Not recommended in patients with heavy menses or anemia; also contra in acute pelvic infection, severe uterine cavity distortion, wilson disease, complicated organ transplant failure\
 
 ### Others
@@ -1835,14 +1838,14 @@ Autoimmune-mediated inflammatory destruction of the thyroid that results in hype
 
 Progesterone and estrogen prevent lactogenesis while promoting breast growth and development during pregnancy; after delivery, these levels drops and the circulating prolactin is permitted to smart lactogenesis.
 
-  --------------- ----------------------------------------------------------------------
+--------------- ----------------------------------------------------------------------
     Engorgement          bilateral, symmetrical fullness, tenderness, and warmth
    Nipple injury      Abrasion, bruising, cracking and or blistering from poor latch
    Plugged duct        Focal tenderness and firmness and /or erythema but no fever
     Galactocele     Subareolar, mobile, well-circumscribed, non-tender mass; no fever
      Mastitis          Unilateral tenderness/erythema, flu like symptoms, and fever
       Abscess      Symptoms of mastitis, unilateral and fluctuant mass, lymphadenopathy
-  --------------- ----------------------------------------------------------------------
+--------------- ----------------------------------------------------------------------
 
 #### lactational mastitis
 
@@ -1861,7 +1864,7 @@ Progesterone and estrogen prevent lactogenesis while promoting breast growth and
 ### Gynecological Cancers
 
   Cancer                              Risk
-  ----------------------------------- --------------------------------------
+----------------------------------- --------------------------------------
   Epithelial Ovarian CA               Nulliparous despite ovulatory cycles
   Endometrial CA                      Estrogen only therapy
   Vaginal Squamous Cell               Age \> 60, HPV, Smoking

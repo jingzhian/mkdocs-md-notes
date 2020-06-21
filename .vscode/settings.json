@@ -16,5 +16,8 @@
         "editor.wordWrap": "on",
         "editor.quickSuggestions": false,
         "files.trimTrailingWhitespace": false
-    }
+    },
+    "editor.glyphMargin": false,
+    "editor.folding": false,
+    "editor.lineNumbers": "off"
 }

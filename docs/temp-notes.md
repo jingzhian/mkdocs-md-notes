@@ -1,6 +1,8 @@
 Temp Notes
 ==========
 
+https://digem.med.ubc.ca/2016/03/23/a-chinese-english-phrasebook-for-english-speaking-medical-students/
+
 
 A 45-year old male presents with extensive psoriasis involving 30% of his body surface area. The psoriatic plaques are thick and scaly. He has a past history of pulmonary tuberculosis and has hypertension on atenolol 50mg/day and has liver cirrhosis from chronic alcohol consumption. What is the most appropriate choice of therapy for him?
 - NBUVB phototherapy
@@ -9,6 +11,7 @@ A 45-year old male presents with extensive psoriasis involving 30% of his body s
 - Biologics
 - UVA1 phototherapy
   
+
 In view of his extensive psoriasis and underlying medical illness, phototherapy is the preferred therapy instead of systemic agents. UVA1 phototherapy treats sclerotic skin conditions such as morphoea. Intense pulse light therapy is used for photorejuvenation. Methotrexate leads to transaminitis and worsening liver fibrosis. Biologics should be used in caution in patients with tuberculosis as they can reactivate latent TB.
 
 
@@ -19,6 +22,7 @@ You are seeing a 36-year old man with a 5-day history of a rash with severe prur
 - Topical metronizaole
 - Topical malathion
   
+
 First line topical treatment for scabies includes benzoyl benzoate emulsion, malathion and permethrin. Oral ivermectin is reserved for Norwegian Scabies and recalcitrant scabies. Topical benzoyl peroxide is for acne vulgaris. Topical metronidazole is for Rosacea. Topical salicylic acid is a keratolytic.
 
 

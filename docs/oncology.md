@@ -1,66 +1,97 @@
-Oncology {#sec:onco}
+Oncology
 ========
 
-Conditions Related to Cancer
-----------------------------
+- Palliative chemotherapy: patient is not 
+- Curative chemotherapy: Adjuvant chemotherapy vs Neo-adjuvant chemotherapy
+  - **Neoadjuvant** therapy encompasses all treatments that are administered before the primary cancer treatment, whereas **adjuvant** therapy describes regimens administered after the primary treatment.
 
-### Paraneoplastic Syndromes
+## Paraneoplastic Syndromes
 
 Divide into general conditions that applies for most cancers and some cancer specific problems
 
--   General Conditions
+### General Conditions
 
-    -   Non-specific symptoms: GI disturbances, renal failure, neuropsychiatric conditions, coma and death
+#### Non-specific symptoms: 
 
-    -   Cachexia: this is itself a syndrome, characterized by loss of body weight of 10%, reduced food intake and systemic inflammation
+-   GI disturbances, 
+-   renal failure, 
+-   neuropsychiatric conditions, 
+-   coma and death
 
-        -   Adipose tissue loss due to Zinc-&alpha;2-glycoprotein, inhibition of lipoprotein lipase by cytokines (TNF-&alpha;, IL-1, IFN-&alpha;), Cori cycle is the main metablism pathway of tumor and is only performing glycolysis, Uncoupling proteins UCP1-UCP5 in mitochondrial inner mmb results in a lack of ATP production
+#### Cachexia
 
-        -   Decreased protein synthesis not corrected by dietary supplementation plus increased protein catabolism; Proteolysis-inducing factor by tumor, cytokines (TNF-&alpha;, IFN-&alpha;); Activate NF-&kappa;&beta; and proteosome degradation ubiquitination of myofibrillar proteins
+This is itself a syndrome, characterized by loss of body weight of 10%, reduced food intake and systemic inflammation
 
-    -   Anemia: chronic production of acute phase markers, IL-6 decreases iron circulation and TNF etc decreases body response to EPO
+-   Adipose tissue loss due to Zinc-&alpha;2-glycoprotein, inhibition of lipoprotein lipase by cytokines (TNF-&alpha;, IL-1, IFN-&alpha;), Cori cycle is the main metablism pathway of tumor and is only performing glycolysis, Uncoupling proteins UCP1-UCP5 in mitochondrial inner mmb results in a lack of ATP production
+-   Decreased protein synthesis not corrected by dietary supplementation plus increased protein catabolism; Proteolysis-inducing factor by tumor, cytokines (TNF-&alpha;, IFN-&alpha;); Activate NF-&kappa;&beta; and proteosome degradation ubiquitination of myofibrillar proteins
 
-    -   Hypercoagulability (DVT, PE) due to
+#### Anemia
 
-        -   Extrinsic vascular compression / invasion
+Chronic production of acute phase markers, IL-6 decreases iron circulation and TNF etc decreases body response to EPO
 
-        -   Tissue factor production by tumor and endothelial cells
+#### Hypercoagulability
 
-        -   Accentuated platelet activation and accumulation
+Increased risk of DVT and PE due to
 
-        -   Expression of posyphatidyl serine that supports prothrombinase and tenase activity, inflammation-mediated increase in factor VIII, fibrinogen and von Willebrand factor
+-   Extrinsic vascular compression / invasion
 
-        -   Impaired endogenous fibrinolysis due to excess level of plasminogen activator-inhibitor 1
+-   Tissue factor production by tumor and endothelial cells
 
-    -   Hypercalcemia: Most common metabolic abnormality -- 10% of cancers
+-   Accentuated platelet activation and accumulation
 
-    -   Osteoclast resorption of bone due to endocrine (PTH) and paracine (local factors from bone mets inc RANKL, IL-1, TNF-&alpha;, TGF-&alpha;) effects
+-   Expression of posyphatidyl serine that supports prothrombinase and tenase activity, inflammation-mediated increase in factor VIII, fibrinogen and von Willebrand factor
 
--   Specific Conditions
+-   Impaired endogenous fibrinolysis due to excess level of plasminogen activator-inhibitor 1
 
-    -   Endocrine Abnormalities for endocrine tumors
+#### Hypercalcemia due to Malignancy
 
-    -   Carcinoid Sydnromes for Carcinoid Tumor
+Most common metabolic abnormality -- 10% of cancers
 
+-   Osteoclast resorption of bone due to endocrine (PTH) and paracine (local factors from bone mets inc RANKL, IL-1, TNF-&alpha;, TGF-&alpha;) effects
+
+### Specific Conditions
+
+#### Endocrine Abnormalities
+
+Occurs in endocrine tumors
+
+-   Carcinoid Sydnromes for Carcinoid Tumor
     -   Amyloidosis for Multiple Myeloma / Plasmacytoma
 
         -   Generally there is deposition of protin in &beta; pleated sheets from the tumor
 
         -   Or if plasma cells then there is deposition of immunoglobulin
+-   Hypertensive Crisis for Pheochromocytoma
 
-    -   Hypertensive Crisis for Pheochromocytoma
+#### Neutropenic Sepsis
+
+#### Malignant Pleural Effusion
+
+#### Malignant Ascites
+
+#### Spinal Cord Compression
+
+#### Superior Vena Cava Obstruction
+
+#### Tumor Lysis Syndrome
+
+
 
 Central Nervous System Tumors
 -----------------------------
 
-Cardiac Tumors {#ssec:ca-cardio}
+### Schwannoma
+
+-   Diagnosis: S100 stain
+
+Cardiac Tumors
 --------------
 
 ### Cardiac fibroma
 
 -   Compromise cardiac function, lead to arrhythmia
 
-Lung Cancers {#ssec:ca-lung}
+Lung Cancers
 ------------
 
 General approach to lung parenchymal cancers
@@ -96,11 +127,11 @@ infection from abcess formation
 
 -   Diagnosis: c-KIT
 
-### Schwannoma
+### Colon CA
 
--   Diagnosis: S100 stain
 
-#### Rectal CA
+
+### Rectal CA
 
 -   Often kills by hemorrhage because the tumor barrow through the intestinal wall.
 
@@ -204,7 +235,7 @@ Gynecological Cancers
 ### Risk Factors Comparison
 
   Cancer                              Risk
-  ----------------------------------- --------------------------------------
+----------------------------------- --------------------------------------
   Epithelial Ovarian CA               Nulliparous despite ovulatory cycles
   Endometrial CA                      Estrogen only therapy
   Vaginal Squamous Cell               Age \> 60, HPV, Smoking
@@ -221,9 +252,15 @@ Serotonin production results in carcinoid syndrome.
 
     -   Carcinoid heart disease: Fibrosis of valves, primarily affecting tricuspid and pulmonic valve (unless there is tumor in the lung / shunt
 
+### Pheochromocytoma
+
+
+
+
+
 Muscularskeletal Cancers
 ------------------------
 
-#### Chondrosarcoma
+### Chondrosarcoma
 
 -   Pathological fracture of the bone

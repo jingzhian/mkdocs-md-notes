@@ -1,36 +1,33 @@
 Anesthesiology
 ==============
+[[TOC]]
 
 People
-
--   Prof Hwang
-
--   Dr Hairil Abdullah - Preop preparation and optimization of surgical patients, director of perioperative services, oversee all elective surgery, protocols, and workflow, senior consultant
-
--   Prof Chan Yew Weng -
-
--   Dr Chong Shin Yuet
-
--   Dr Suneel Ramesh
-
--   Dr Christopher Liu christopher.liu.w.y\@singhealth.com.sg 
+- Prof Hwang
+- Dr Hairil Abdullah: Preop preparation and optimization of surgical patients, director of perioperative services, oversee all elective surgery, protocols, and workflow, senior consultant
+- Prof Chan Yew Weng 
+- Dr Chong Shin Yuet
+- Dr Suneel Ramesh
+- Dr Christopher Liu christopher.liu.w.y\@singhealth.com.sg
+- John Lee
 
 General
 -------
 
+### Key Principles
+
+1. Always consider patient factor, anesthesia factor, surgical factor when thinking though problems
+
+### Role of Anesthesia Service
 Anesthesia service
-
 -   Pre-op clinic
-
 -   Intra-operation
-
     -   Induction
-
     -   Maintainable
-
     -   Emergence
+    
 
-Pilot analogy is flawed because you wouldn't fly it if it is flawed.
+Pilot analogy is flawed because you wouldn't fly a plane if it is flawed.
 
 There is in general a huge number of surgeries being done. This is also increasing because of aging population.
 
@@ -1246,10 +1243,29 @@ A rare but life-threatening condition likely due to a skeletal muscle receptor a
 -   Treatment
 
     -   Respiratory / ventilation support
-
-    -   Immediate cessation of causative anesthetic
-
+-   Immediate cessation of causative anesthetic
     -   Dantrolene - a skeletal muscle relaxant
+
+### Delayed Emergence
+
+Return to consciousness after anesthesia (emergence) typically occurs within 15 minutes of extubation; at a minimum, patients should be responsive with intact protective (eg, gag) reflexes within 30-60 minutes of the last administration of an anesthetic or adjuvant agent (eg, opiate, muscle relaxant). **Delayed emergence** occurs when a patient fails to regain consciousness within the expected window. The etiology is typically multifactorial but generally occurs due to 1 of 3 major causes:
+
+- **Drug effect:** Preoperative drug ingestion (eg, opiates, benzodiazepines, illicit drugs, anticholinergic drugs, antihistamines) may potentiate anesthetic effects. Prolonged anesthesia duration or higher medication doses may also delay emergence.
+- **Metabolic disorder:** Common etiologies include hyper- or hypoglycemia, hyper- or hypothermia, hyponatremia, and liver disease.
+- **Neurologic disorder:** Intraoperative stroke, seizure (or postictal state), or elevation of intracranial pressure can cause prolonged alterations in mental status.
+
+This patient's arterial blood gas demonstrates acute hypercarbic and hypoxic **respiratory failure** (low pH, elevated pCO2, low pO2) due to **hypoventilation**. In association with the worsening bradypnea and drop in pulse (which were likely initially elevated due to agitation postextubation), this suggests that the patient's delayed emergence is due to a **prolonged medication effect**, possibly potentiated by preoperative drug or alcohol ingestion in this patient with a history of polysubstance abuse. Management of acute respiratory failure includes **ventilatory support** (eg, bag and mask, reintubation); reversal agents (eg, naloxone) may also be indicated.
+
+**(Choice A)** Acute cardiogenic pulmonary edema can occur in cardiogenic shock, which may be precipitated by surgery. However, patients with cardiogenic shock are typically elderly, have multiple cardiac risk factors, and exhibit elevated jugular venous pressure, hypotension, tachycardia, and tachypnea.
+
+**(Choice B)** Malignant hyperthermia is a hypermetabolic state that occurs in response to volatile anesthetics (eg, isoflurane, halothane) or succinylcholine. Due to increased CO2 production, patients have a respiratory and metabolic acidosis; however, malignant hyperthermia causes hyperventilation rather than hypoventilation. In addition, patients typically have muscle rigidity, hyperthermia, and tachycardia.
+
+**(Choice D)** Intraabdominal hemorrhage would be expected to cause hypotension, tachycardia, and abdominal distension. Hypercarbic respiratory failure would be unexpected.
+
+**(Choice E)** Postextubation laryngeal edema could cause hypercarbic and hypoxic respiratory failure; however, patients would be expected to be stridorous, with tachypnea (rather than bradypnea) and tachycardia.
+
+**Educational objective:**
+Delayed emergence from anesthesia is defined as the failure to return to consciousness within the expected window of the last administration of an anesthetic or adjuvant agent (typically 30-60 minutes). The etiology is often multifactorial, however; the presence of respiratory failure (eg, low pH, elevated pCO2, low pO2), bradypnea, and bradycardia suggests prolonged medication effect resulting in hypoventilation.
 
 Pediatrics Anesthesia
 ---------------------
@@ -1288,4 +1304,146 @@ Implications
 
 -   Oropharyngeal-largyngeal axis
 
--   
+
+
+Woman's Anesthesia
+------------
+
+Classify degree of urgency of LCSC 
+
+  Category | Definition | Urgency
+  |---|---|---
+  1 | Immediate threat to life of woman or fetus | Maternal or fetal compromise
+  2 | No immediate threat to life of woman or fetus | 
+  3 | Requires early delivery | 
+  4 | At a time to suit the woman and maternity services | No maternal or fetal compromise
+
+### Ideal Labour Analgesic
+- Good pain relief
+- No autonomic block (so no hypotension)
+- No adverse maternal or neonatal effects
+- No motor block
+- No effect on labor and delivery
+  - No increase in C/S rate
+  - No increase in instrumental delivery
+  - No prolongation of labor
+- Allows ambulation
+- Economical: cost and personnel wise
+
+### Unique Challenges in Woman Anesthesia
+
+#### Stress Response Induced Physiological Changes
+
+Neuro-endocrine
+- Release of endorphins and ACTH from the anterior pituitary 
+- Increased release of adrenaline and noradrenaline from the adrenal medulla
+- Rise in peripheral resistance nad cardiac output
+- Excessive sympathetic activity -> incoordinate uterine action and uteroplacental constriction, prolonged labor and abnormal foetal heart-rate patterns
+- Activation of the autonomic nervous system -> delays gastric emptying and reduces intestinal peristalsis
+
+Cardiovascular
+- Labor results in a progressive increase in maternal cardiac output, primarily due to an increase in stroke volume, and to a lesser extent, maternal heart rate
+- Greatest increase in cardiac output occurs immediately after delivery, from the increased venous return associated with the relief of venocaval compression and the autotransfusion resulting from uterine involution.
+
+Respiratory
+- Hyperventilation -> maternal hypocarbia -> respiratory alkalosis
+- Profound hypocarbia -> inhibit ventilatory drive between contractions -> maternal hypoxemia, lightheadedness, and loss of consciousness
+- ODC shifted to the left -> reduces tissue oxygen transfer, which is already compromised by the increased oxygen consumption associated with labor -> potential foetal hypoxia
+- Maternal alkalosis -> can impair oxygen transfer to the fetus (utero-placental vasoconstriction)
+
+
+#### Difficult and Failed Intubation in Obstetrics
+- Higher incidence attributed to
+  - Anesthesia factors: less GA LCSC performed now due to preference for RA technique
+  - Pregnancy related physiological, anatomical, and pathological changes
+
+Problem | Cause 
+|----|----
+High risk regurgitation of gastric contents and acid aspiration syndrome | Reduced lower oesophageal sphincter tone and increased gastric pressures; gastric emptying delayed by labor and opioids; increased gastric acid volume and acidity 
+Rapid onset of hypoxemia | reduced FRC by 20%, increased O2 consumption (up to 60% during labor)
+Difficulty inserting laryngoscope | Enlarged breasts, weight gain / obesity
+Poor view at laryngoscopy | cricoid pressure, airway edema from increased TBW or presence of pre-eclampsia
+Risk of bleeding from airway manipulation | Capillary engorgement of mucosa, coagulopathy in pre-eclampsia
+
+
+### Preparing for Obestetrics Anesthesia
+
+#### Getting to know the patient
+Focused history and physical examination must be taken prior to any anesthetic.
+
+Important details include
+- indications for LSCS
+- Fasting status
+- Gestational history
+  -  Mother
+     -  Pre-clampsia 
+        -  Take precautions for control of BP
+        -  Careful fluid management to avoid pulmonary edema
+        -  Seizure prophylaxis with MgSO4
+        -  Associated thrombocytopenia can increase risk of bleeding and make patient unsuitable for spinal / epidural
+     - Diabetes
+       - Precautions taken for control of glucose levels
+       - Associated fetal macrosomia may lead to difficulties in delivery and increased blood loss
+     - Placental abnormalties
+       - Increased risk of massive bleeding
+  -  Fetus 
+     - Gestational age: prematurity worsens neonatal outcomes, need neonatologist on standby
+     - Fetal abnormalities: may indicate a need for urgent surgery post delivery; so neonatologists and paediatric anaesthetist and surgeons on standby
+- Past medical history
+- Allergies
+- Previous history of anesthetics and associated problems 
+  - Airway problems
+  - Difficulties or complications with spinal / epidural
+  - Post-op NV
+
+Important Physical Examinations
+- Vital signs
+- Airway, cardiac, respiratory, and lower back examination
+
+
+
+#### Pre-op Tests for LSCS
+- All parturients coming for LCSC should have at minimum
+  - Full blood count
+    - Baseline Hb helps to determine allowable blood loss during LSCS
+    - Platelet count helps to determine suitability for spinal / epidural
+  - Type and screen
+    - In preparation for post-partum haemorrhage
+- U/S pelvis
+  - Estbalish position of placenta, low-lying anterior placenta puts parturient at risk of major haemorrhage, esp if associated with scar from previous CS
+- Other tests as indicated by maternal condition
+
+
+### Spinal and Epidural Anesthesia
+
+Contraindications
+- Absolute
+  - Patient refusal
+  - Coagulopathy
+  - Thrombocytopenia
+  - Overlying infection
+- Relative
+  - Sepsis
+  - Back surgery / instrumentation / PID / scoliosis
+  - LA allergy
+  - Neurological deficits / disorders
+
+### Transcutaneous Electrical Nerve Stimulation
+
+TENS (transcutaneous electrical nerve stimulation) produces analgesia via stimulation of large afferent fibers. This is generally used for mild-moderate acute pain and chronic pain such as low back pain, arthritis, and neuropathic pain.
+
+Activates opioid recetors in the CNS. 
+
+Theories:
+- Gate Theory: afferent input from large epicritic fibers competes out input from small pain fibers.
+- Conduction block theory: high rates of stimulation exhaust the small nerve fiber ability to transmit signal.
+
+Conventional use: TENS electrodes are applied to the same dermatome as the pain. The electrodes are periodically stimulated by a direct current generator (typically for 30 minutes several times a day). The usual current is 10-30 mA with a pulse width of 50-80 microseconds at a frequency of 80-100 Hz.
+
+Alternative use (for patient’s refractory to Conventional use): Low-frequency TENS: a stimulus with a pulse width >200 microseconds and a frequency of < 10 Hz (for 5-15 minutes). Note, the effect of low-frequency stimulation is at least partially reversed by naloxone suggesting a role for endogenous opioids.
+
+Complications
+- Possible irritation from gel
+- Interference with medical equipment that monitors fetal heartbeat, as well as electrotocography
+
+
