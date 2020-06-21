@@ -57,7 +57,7 @@ Haematology/Oncology Service, and Director of Paediatric Bone Marrow Transplant 
 
 NK = natural killer cells; VST = Virus specific T cells
 
-![frontier-lineage-haem](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-lineage-haem.png)
+![frontier-lineage-haem](figures/frontier-lineage-haem.png)
 
 - **NK cells** and clinical use in cancer therapy
 
@@ -88,7 +88,7 @@ NK = natural killer cells; VST = Virus specific T cells
     - Mismatched with KIR matching is better
     - Mismatched also over comes the graft vs host
 
-  - ![frontier-nk-usage](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-nk-usage.png)
+  - ![frontier-nk-usage](figures/frontier-nk-usage.png)
 
   - Current survival
 
@@ -122,7 +122,7 @@ NK = natural killer cells; VST = Virus specific T cells
 
   - Similar mechanisms and approach can be applied to other immune cells
 
-    ![frontier-NKinCA](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-NKinCA.png)
+    ![frontier-NKinCA](figures/frontier-NKinCA.png)
 
   - Questions
 
@@ -152,7 +152,7 @@ NK = natural killer cells; VST = Virus specific T cells
 
       - Increased T cell is associated with reduced cytokine levels
 
-        ![frontier-covid19-tcell](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-covid19-tcell.png)
+        ![frontier-covid19-tcell](figures/frontier-covid19-tcell.png)
 
   - Process of therapy
 
@@ -165,7 +165,7 @@ NK = natural killer cells; VST = Virus specific T cells
 
   - Why T cell might be better
 
-    ![frontier-plasma-tcell](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/frontier-plasma-tcell.png)
+    ![frontier-plasma-tcell](figures/frontier-plasma-tcell.png)
 
     - Living drug means that the T cells continue to grow
 

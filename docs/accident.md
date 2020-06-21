@@ -26,13 +26,13 @@ What signs may suggest airway burns?
 - Hoarseness of voice
 - Facial burns
 
-![Screenshot 2020-06-18 at 11.36.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.36.48.png)
+![Screenshot 2020-06-18 at 11.36.48](figures/Screenshot%202020-06-18%20at%2011.36.48.png)
 
 - Nasoendoscopy looking for edema
 
 ### Burn Classification
 
-![Screenshot 2020-06-18 at 11.43.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.43.31.png)
+![Screenshot 2020-06-18 at 11.43.31](figures/Screenshot%202020-06-18%20at%2011.43.31.png)
 
 
 
@@ -43,13 +43,13 @@ This is important to define because we give fluids. This is defined as >20% BSA.
 - Use patient's palm for patchy burns - no fingers
 - Or use the chart
 
-![Screenshot 2020-06-18 at 11.43.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.43.48.png)
+![Screenshot 2020-06-18 at 11.43.48](figures/Screenshot%202020-06-18%20at%2011.43.48.png)
 
 ### Management
 
 #### Fluids
 
-![Screenshot 2020-06-18 at 11.46.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.46.35.png)
+![Screenshot 2020-06-18 at 11.46.35](figures/Screenshot%202020-06-18%20at%2011.46.35.png)
 
 - Parkland - creep phenomenon, patient becomes oedematous, intraabdominal compartment syndrome
 - Modified Parkland, just 2 ml/kg x %BSA 
@@ -58,7 +58,7 @@ This is important to define because we give fluids. This is defined as >20% BSA.
 
 Cutting through the epidermis / dermis to relieve tension. 
 
-![Screenshot 2020-06-18 at 11.47.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.47.59.png)
+![Screenshot 2020-06-18 at 11.47.59](figures/Screenshot%202020-06-18%20at%2011.47.59.png)
 
 
 
@@ -73,13 +73,13 @@ Cutting through the epidermis / dermis to relieve tension.
 
 #### Child Abuse
 
-![Screenshot 2020-06-18 at 11.57.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.57.10.png)
+![Screenshot 2020-06-18 at 11.57.10](figures/Screenshot%202020-06-18%20at%2011.57.10.png)
 
 
 
 #### Chemical Burn
 
-![Screenshot 2020-06-18 at 11.56.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.56.07.png)
+![Screenshot 2020-06-18 at 11.56.07](figures/Screenshot%202020-06-18%20at%2011.56.07.png)
 
 #### Oil Burn - Deep Partial to Full Thickness
 
@@ -91,7 +91,7 @@ First aid: locally people like to put toothpaste, NNNNOOOOO!!!! Only running wat
 - Blistering burns should have the blister removed
 - Dress with tegaderm
 
-![Screenshot 2020-06-18 at 11.51.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.51.55.png)
+![Screenshot 2020-06-18 at 11.51.55](figures/Screenshot%202020-06-18%20at%2011.51.55.png)
 
 
 

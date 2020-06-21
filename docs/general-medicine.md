@@ -217,7 +217,7 @@ Glucose/4 + Na = corrected sodium
 
 
 
-![genmed-na-alg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-na-alg.gif)
+![genmed-na-alg](figures/genmed-na-alg.gif)
 
 ### Potassium 
 
@@ -273,7 +273,7 @@ How much
 
   Nonurgent hypokalemia is treated with 40 to 100 mmol of oral potassium per day over days to weeks. For the prevention of hypokalemia in patients with persistent losses, as with ongoing diuretic therapy or hyperaldosteronism, 20 mmol per day is usually sufficient.
 
-![img](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/afp20150915p487-f1.gif)
+![img](figures/afp20150915p487-f1.gif)
 
 #### Hyperkalemia
 
@@ -283,7 +283,7 @@ How much
   - Difficulty breathing - Kussmaul breathing from acidosis
 - Workup
 
-![img](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/afp20150915p487-f2.gif)
+![img](figures/afp20150915p487-f2.gif)
 
 - Treatment
   - IV 15 - 30 ml of 10%  **calcium glutamate** - stabilize the myocardium 
@@ -299,7 +299,7 @@ How much
   - **Dialysis** - get renal reg; need to send patient to renal unit
   - Do not give calcium and NaHCO3 together: CaCO2 will precipitate out
 
-![img](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/afp20150915p487-f3.gif)
+![img](figures/afp20150915p487-f3.gif)
 
 ### Calcium
 
@@ -386,7 +386,7 @@ ABGs tell us about activity in two systems; the respiratory system and the ‘me
 - PaO2 < 8 kPa is when the hypoxic drive start to compete with the pH balance mechanisms to prevent harmful levels of hypoxia
 - When PaCO2 rises, PaO2 falls; and vice versa
 
-![image-20200604231211646](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures//image-20200604231211646.png)
+![image-20200604231211646](figures//image-20200604231211646.png)
 
 Normal bicarb = 22 - 26
 
@@ -441,7 +441,7 @@ A high anion gap (>10) means there are more anions than cations.
 
 
 
-![Screenshot 2020-06-19 at 10.01.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.01.39.png)
+![Screenshot 2020-06-19 at 10.01.39](figures/Screenshot%202020-06-19%20at%2010.01.39.png)
 
 - If there NAGMA and HAGMA?
   - If there is DKA, we should volume replace, sodium chloride in massive amount, would result in NAGMA
@@ -504,15 +504,15 @@ Chronic alcohol consumers often have limited nutritional intake and depleted gly
 
 ### Acetaminophen Ingestion
 
-![Screenshot 2020-06-18 at 16.37.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2016.37.34.png)
+![Screenshot 2020-06-18 at 16.37.34](figures/Screenshot%202020-06-18%20at%2016.37.34.png)
 
 #### Methanol and Ethylene Glycol Poisoning
 
-![Screenshot 2020-06-18 at 16.36.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2016.36.07.png)
+![Screenshot 2020-06-18 at 16.36.07](figures/Screenshot%202020-06-18%20at%2016.36.07.png)
 
 #### Isopropanol Ingestion
 
-![Screenshot 2020-06-18 at 16.35.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2016.35.44.png)
+![Screenshot 2020-06-18 at 16.35.44](figures/Screenshot%202020-06-18%20at%2016.35.44.png)
 
 ### Metabolic Alkalosis
 

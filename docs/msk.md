@@ -25,7 +25,7 @@ Bone scans identify areas of high bone turnover and are used to evaluate metasta
 - Most common distal radial fracture: Colle's fracture
 - 
 
-![Screenshot 2020-06-11 at 09.10.03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2009.10.03.png)
+![Screenshot 2020-06-11 at 09.10.03](figures/Screenshot%202020-06-11%20at%2009.10.03.png)
 
 
 
@@ -57,7 +57,7 @@ The locations of colles, smith, and barton's fractures.
 
 A **Colles**' **fracture** is a type of **fracture** of the distal forearm in which the broken end of the radius is bent backwards. Symptoms may include pain, swelling, deformity, and bruising. Complications may include damage to the median nerve. It typically occurs as a result of a fall on an outstretched hand.
 
-![Screenshot 2020-06-11 at 10.05.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.05.57.png)
+![Screenshot 2020-06-11 at 10.05.57](figures/Screenshot%202020-06-11%20at%2010.05.57.png)
 
 5 criteria for Colles' fracture
 
@@ -108,7 +108,7 @@ Also known as reverse colles fracture.
 
 Fracture dislocation of the distal fragment. Note that the location matters.
 
-![Screenshot 2020-06-11 at 09.41.05](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2009.41.05.png)
+![Screenshot 2020-06-11 at 09.41.05](figures/Screenshot%202020-06-11%20at%2009.41.05.png)
 
 Manage
 
@@ -121,7 +121,7 @@ Dislocation of the proximal radial head
 
 Mid shaft ulnar fracture with dislocation of the proximal radial head
 
-![Screenshot 2020-06-11 at 09.43.18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2009.43.18.png)
+![Screenshot 2020-06-11 at 09.43.18](figures/Screenshot%202020-06-11%20at%2009.43.18.png)
 
 
 
@@ -150,7 +150,7 @@ Radial head subluxation.
 
 - Nursemaid elbow reduction: be gentle, no need drug
 
-  ![Reduction of Common Joint Dislocations and Subluxations | Obgyn Key](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/DA14C105FF1.gif)
+  ![Reduction of Common Joint Dislocations and Subluxations | Obgyn Key](figures/DA14C105FF1.gif)
 
 #### Elbow Dislocation
 
@@ -159,7 +159,7 @@ Worry
 - Ulnar nerve and more rarely medium nerve
 - Brachial artery - and delayed compartment syndrome
 
-![Screenshot 2020-06-11 at 10.38.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.38.16.png)
+![Screenshot 2020-06-11 at 10.38.16](figures/Screenshot%202020-06-11%20at%2010.38.16.png)
 
 **Management**
 
@@ -176,9 +176,9 @@ Note the squaring of the shoulder on the left. History is that patient is liftin
 - Check for sensation; check brachial plexus injury with medial and ulnar sensation
 - Watch out for the 
 
-![Screenshot 2020-06-11 at 10.17.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.17.04.png)
+![Screenshot 2020-06-11 at 10.17.04](figures/Screenshot%202020-06-11%20at%2010.17.04.png)
 
-![Screenshot 2020-06-11 at 10.24.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.24.11.png) 
+![Screenshot 2020-06-11 at 10.24.11](figures/Screenshot%202020-06-11%20at%2010.24.11.png) 
 
 **Management**
 
@@ -192,7 +192,7 @@ Note the squaring of the shoulder on the left. History is that patient is liftin
 
 #### Avulsion Fracture of Greater Tuberosity
 
-![Screenshot 2020-06-11 at 10.25.26](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.25.26.png)
+![Screenshot 2020-06-11 at 10.25.26](figures/Screenshot%202020-06-11%20at%2010.25.26.png)
 
 - Read y image of the scapular
 - Avulsion fracture of greater tuberosity; infraspinatous.
@@ -204,7 +204,7 @@ Note the squaring of the shoulder on the left. History is that patient is liftin
 
 #### Acromioclavicular Joint Injury
 
-![Screenshot 2020-06-11 at 10.44.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.44.12.png)
+![Screenshot 2020-06-11 at 10.44.12](figures/Screenshot%202020-06-11%20at%2010.44.12.png)
 
 **Rockwood Classification**
 
@@ -237,9 +237,9 @@ Note the squaring of the shoulder on the left. History is that patient is liftin
 - Brachial Plexus Injury - claw hand
 - Engorged penis
 
-![Screenshot 2020-06-11 at 11.47.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.47.10.png)
+![Screenshot 2020-06-11 at 11.47.10](figures/Screenshot%202020-06-11%20at%2011.47.10.png)
 
-![Screenshot 2020-06-11 at 11.48.14](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.48.14.png)
+![Screenshot 2020-06-11 at 11.48.14](figures/Screenshot%202020-06-11%20at%2011.48.14.png)
 
 Management
 
@@ -271,7 +271,7 @@ After significant associated injuries have been ruled out or treated, the mainst
 
 A **pelvic fracture** is a break of the bony structure of the **pelvis**. This includes any break of the sacrum, hip bones (ischium, pubis, ilium), or tailbone. Symptoms include pain, particularly with movement. Complications may include internal bleeding, injury to the bladder, urethra, or vaginal trauma.
 
-![Screenshot 2020-06-11 at 11.39.54](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.39.54.png)
+![Screenshot 2020-06-11 at 11.39.54](figures/Screenshot%202020-06-11%20at%2011.39.54.png)
 
 **Management**
 
@@ -287,7 +287,7 @@ A **pelvic fracture** is a break of the bony structure of the **pelvis**. This i
 
 #### Posterior Hip Dislocation 
 
-![Screenshot 2020-06-11 at 11.30.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.30.33.png)
+![Screenshot 2020-06-11 at 11.30.33](figures/Screenshot%202020-06-11%20at%2011.30.33.png)
 
 **Management**
 
@@ -299,21 +299,21 @@ A **pelvic fracture** is a break of the bony structure of the **pelvis**. This i
 
   - Allis Maneuver
 
-    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g001.jpg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/or-2016-1-6253-g001.jpg)
+    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g001.jpg](figures/or-2016-1-6253-g001.jpg)
 
   - Bigelow maneuver
 
-    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g002.jpg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/or-2016-1-6253-g002.jpg)
+    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g002.jpg](figures/or-2016-1-6253-g002.jpg)
 
   -  Lefkowitz maneuver
 
-    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g003.jpg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/or-2016-1-6253-g003.jpg)
+    ![An external file that holds a picture, illustration, etc. Object name is or-2016-1-6253-g003.jpg](figures/or-2016-1-6253-g003.jpg)
 
 
 
 #### Anterior Dislocation of the Hip
 
-![Screenshot 2020-06-11 at 11.39.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.39.10.png)
+![Screenshot 2020-06-11 at 11.39.10](figures/Screenshot%202020-06-11%20at%2011.39.10.png)
 
 **Management**
 
@@ -321,7 +321,7 @@ A **pelvic fracture** is a break of the bony structure of the **pelvis**. This i
 
 #### Mid Shaft Femoral Fracture
 
-![Screenshot 2020-06-11 at 11.19.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.19.02.png)
+![Screenshot 2020-06-11 at 11.19.02](figures/Screenshot%202020-06-11%20at%2011.19.02.png)
 
 - Femoral block for analgesics
 - Traction splint
@@ -329,7 +329,7 @@ A **pelvic fracture** is a break of the bony structure of the **pelvis**. This i
 
 #### Suprapatellar Quadricep Tendon Rupture
 
-![Screenshot 2020-06-11 at 11.44.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.44.33-1847086.png)
+![Screenshot 2020-06-11 at 11.44.33](figures/Screenshot%202020-06-11%20at%2011.44.33-1847086.png)
 
 **Management**
 
@@ -337,9 +337,9 @@ A **pelvic fracture** is a break of the bony structure of the **pelvis**. This i
 
 #### Patella Dislocation
 
-![Screenshot 2020-06-11 at 11.25.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.25.33.png)
+![Screenshot 2020-06-11 at 11.25.33](figures/Screenshot%202020-06-11%20at%2011.25.33.png)
 
-![Screenshot 2020-06-11 at 11.29.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.29.15.png)
+![Screenshot 2020-06-11 at 11.29.15](figures/Screenshot%202020-06-11%20at%2011.29.15.png)
 
 - Lateral displacement of the patella
 
@@ -368,7 +368,7 @@ Femoral-**tibial dislocation** is an infrequent and potentially limb threatening
 
 Anterior and posterior dislocations comprise more than half of all knee dislocations and have a high incidence of concomitant popliteal artery injury.
 
-![Screenshot 2020-06-11 at 09.54.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2009.54.36.png)
+![Screenshot 2020-06-11 at 09.54.36](figures/Screenshot%202020-06-11%20at%2009.54.36.png)
 
 Distal on the left; pull like crazy! Thigh muscles will be in spasm.
 
@@ -383,7 +383,7 @@ Distal on the left; pull like crazy! Thigh muscles will be in spasm.
 
 #### Archilles Tendon Rupture
 
-![Screenshot 2020-06-11 at 11.45.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.45.41.png)
+![Screenshot 2020-06-11 at 11.45.41](figures/Screenshot%202020-06-11%20at%2011.45.41.png)
 
 **Management**
 
@@ -394,9 +394,9 @@ Distal on the left; pull like crazy! Thigh muscles will be in spasm.
 
 #### Ankle Dislocation* with Pott's Fracture
 
-![Screenshot 2020-06-11 at 11.07.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.07.28.png)
+![Screenshot 2020-06-11 at 11.07.28](figures/Screenshot%202020-06-11%20at%2011.07.28.png)
 
-![Screenshot 2020-06-11 at 11.10.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.10.32.png)
+![Screenshot 2020-06-11 at 11.10.32](figures/Screenshot%202020-06-11%20at%2011.10.32.png)
 
 - Complication: Skin necrosis indicate limb threatening
 
@@ -411,9 +411,9 @@ Distal on the left; pull like crazy! Thigh muscles will be in spasm.
 
 **Lisfranc injury**, also known as **Lisfranc fracture**, is an **injury** of the foot in which one or more of the metatarsal bones are displaced from the tarsus. The **injury** is named after Jacques **Lisfranc** de St.
 
-![Screenshot 2020-06-11 at 11.21.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2011.21.30.png)
+![Screenshot 2020-06-11 at 11.21.30](figures/Screenshot%202020-06-11%20at%2011.21.30.png)
 
-![foot | Description, Drawings, Bones, & Facts | Britannica](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Bones-foot-tarsal-bones-talus-metatarsal-calcaneus.jpg)
+![foot | Description, Drawings, Bones, & Facts | Britannica](figures/Bones-foot-tarsal-bones-talus-metatarsal-calcaneus.jpg)
 
 **Management**
 
@@ -428,7 +428,7 @@ A **Jones fracture** is a break between the base and middle part of the fifth me
 
 #### Foreign Body Foot
 
-![Screenshot 2020-06-11 at 10.52.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.52.24.png)
+![Screenshot 2020-06-11 at 10.52.24](figures/Screenshot%202020-06-11%20at%2010.52.24.png)
 
 - Look out for the small puncture 
 - Refer to ortho, because it is looking for needle in haystack
@@ -444,17 +444,17 @@ A **Jones fracture** is a break between the base and middle part of the fifth me
 
 #### Calceneal Fracture
 
-![Screenshot 2020-06-11 at 10.58.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-11%20at%2010.58.12.png)
+![Screenshot 2020-06-11 at 10.58.12](figures/Screenshot%202020-06-11%20at%2010.58.12.png)
 
 - May clue is flattening of the calcaneal / collapsed tent
 
 - Gissane angle
 
-  ![Anatomy Critical Angle of Gissane for Calcaneus Fractures](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/100033.png)
+  ![Anatomy Critical Angle of Gissane for Calcaneus Fractures](figures/100033.png)
 
 - Bohler angle
 
-  ![Böhler angle • LITFL • Medical Eponym Library](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Bohler-Angle-1931-calcaneal-fracture-tuber-angle-2.png)
+  ![Böhler angle • LITFL • Medical Eponym Library](figures/Bohler-Angle-1931-calcaneal-fracture-tuber-angle-2.png)
 
 
 

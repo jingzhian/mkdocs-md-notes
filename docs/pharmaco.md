@@ -814,7 +814,7 @@ Combination therapies are used in 30% patients who do not respond well to AEDs. 
 
 - Different metabolism: For the new epileptic drugs
 
-  ![Screenshot 2020-06-08 at 11.24.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2011.24.32.png)
+  ![Screenshot 2020-06-08 at 11.24.32](figures/Screenshot%202020-06-08%20at%2011.24.32.png)
 
   - Lacosamide is partially metabolized by the liver (CYP2C19) and 40% of it is excreted in the urine as an unchanged form (no drug interaction). 
   - Oxcarbazepine (OXC) is a weaker activator of microsomal enzyme systems compared with carbamazepine. 
@@ -3264,7 +3264,7 @@ Common Cause of Poisoning
   - Sustained release formation that slow down GI tract transit
   - Co ingest ants which alter PK of paracetamol
 
-  ![Screenshot 2020-06-10 at 09.30.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2009.30.31.png)
+  ![Screenshot 2020-06-10 at 09.30.31](figures/Screenshot%202020-06-10%20at%2009.30.31.png)
 
 **Intervention**
 
@@ -3318,7 +3318,7 @@ Common Cause of Poisoning
 
 - Note that we might need to activate early liver transplant
 
-![Screenshot 2020-06-10 at 09.40.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2009.40.46.png)
+![Screenshot 2020-06-10 at 09.40.46](figures/Screenshot%202020-06-10%20at%2009.40.46.png)
 
 **Special cases**
 
@@ -3365,7 +3365,7 @@ Usually die from AMI / dissection / severe HTN bleeds into the brain.
 
 #### Drug Trafficking
 
-![Screenshot 2020-06-10 at 10.07.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2010.07.22.png)
+![Screenshot 2020-06-10 at 10.07.22](figures/Screenshot%202020-06-10%20at%2010.07.22.png)
 
 - Ilicit drugs concealed by the body
 - Give polyethylene glycol for the second patient
@@ -3378,7 +3378,7 @@ Toxic ingredients in medicates oils
 
 **Metabolism of Salicylate**
 
-- ![Screenshot 2020-06-10 at 10.34.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2010.34.15.png)
+- ![Screenshot 2020-06-10 at 10.34.15](figures/Screenshot%202020-06-10%20at%2010.34.15.png)
 
 - PH dependent removal from the kidneys: haemodialysis
 
@@ -3487,7 +3487,7 @@ Toxic ingredients in medicates oils
 - These are the causes of toxic seizures
   - Mothballs: paradichlorobenzene, camphor, methylin
 
-![Screenshot 2020-06-10 at 11.17.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2011.17.42.png)
+![Screenshot 2020-06-10 at 11.17.42](figures/Screenshot%202020-06-10%20at%2011.17.42.png)
 
 **Intervention**
 

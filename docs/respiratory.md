@@ -86,7 +86,7 @@ obliterates the pleural space to prevent recurrence of frequent pleural effusion
 
 ARDS involves an inflammatory response that leads to capillary leakage and **diffuse pulmonary edema**.
 
-![resp-ards-berlin](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/resp-ards-berlin.gif)
+![resp-ards-berlin](figures/resp-ards-berlin.gif)
 
 - ARDS typically takes 6-72 hours (or longer) to evolve after the inciting event (while the inflammatory response builds)
 
@@ -622,7 +622,7 @@ Anaphylaxis presents with acute-onset respiratory distress, angioedema/urticaria
 
 ### Asthma 气喘病
 
-![Difference in the pathophysiology of asthma and copd](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/patho-asthmavscopd.jpg){#fig:asthmavscopd width="90%"}
+![Difference in the pathophysiology of asthma and copd](figures/patho-asthmavscopd.jpg){#fig:asthmavscopd width="90%"}
 
 Asthma is a chronic inflammatory disease of the airways that involves many cells, in particular: mast cells, eosinophils, T lymphocytes, macrophages, neutrophils, and epithelial cells. This chronic inflammation leads to airway hyperresponsiveness and limitation of airway flow (obstruction). The persistence of inflammation can lead to airway edema. Long-term inflammation can lead to airway remodeling and permanent loss of lung function.
 
@@ -766,7 +766,7 @@ COPD encompasses both chronic bronchitis and emphysema and is characterized by a
 
   - Smoking cessation is single-most important treatment strategy for COPD. Although it sounds logical to have the patient decrease smoking, complete abstinence has been shown overall to have better quit rates than cutting down. Major improvement is seen in the first year after smoking cessation. Some structured smoking cessation programs, however, have had success with cutting down. Assess your patient's readiness to quit smoking, recommend that he stop smoking, and give him information on available smoking-cessation programs.
 
-    ![Benefit of quiting. Lung function decreased at twice the rate in patients who continued smoking versus those who quit. Quitting smoking provided benefit whenever the person quit. Continuing smoking or relapsing worsened lung function.](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/copd-smokeing.jpeg){#fig:copd-smoking}
+    ![Benefit of quiting. Lung function decreased at twice the rate in patients who continued smoking versus those who quit. Quitting smoking provided benefit whenever the person quit. Continuing smoking or relapsing worsened lung function.](figures/copd-smokeing.jpeg){#fig:copd-smoking}
 
     Start the discussion by saying \"I would like to switch gears, and talk about what you can do to keep the COPD from getting worse\"
 
@@ -780,7 +780,7 @@ COPD encompasses both chronic bronchitis and emphysema and is characterized by a
 
   - CAT scoring
 
-    ![resp-copd-cat](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/resp-copd-cat.jpg)
+    ![resp-copd-cat](figures/resp-copd-cat.jpg)
 
   - Prevent exacerbations, most commonly due to infections: Influenza and pneumococcal vaccines are recommended for adults with COPD. If the patient is due for a tetanus booster, then he should receive TdaP, which contains Tetanus toxoid, diphtheria, and acellular pertussis.
 
@@ -828,7 +828,7 @@ It is important to manage breathlessness in COPD. Reduce tiredness, depression, 
 
 **Impact of Breathlessness**
 
-![pall-breathless-impact](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/pall-breathless-impact.png)
+![pall-breathless-impact](figures/pall-breathless-impact.png)
 
 **Pathophysiology**
 

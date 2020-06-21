@@ -27,15 +27,15 @@ Struggle
 
 | Artery                             | Distribution                                                 |
 | ---------------------------------- | ------------------------------------------------------------ |
-| Circumflex occlusion               | Posterior infarct<br />![Circumflex Occlusion (Back of heart)](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/circumflex-occlusion-back-sm2.ashx) |
-| Left anterior descending occlusion | Anterolateral of the heart<br /> ![LAD Occlusion](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/right-coronary-artery-occlusion-front-sm2.ashx) |
-| Right coronary artery occlusion    | Inferior the heart<br />![Right Coronary Artery Occlusion](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/lad-occlusion-front-sm2.ashx) |
+| Circumflex occlusion               | Posterior infarct<br />![Circumflex Occlusion (Back of heart)](figures/circumflex-occlusion-back-sm2.ashx) |
+| Left anterior descending occlusion | Anterolateral of the heart<br /> ![LAD Occlusion](figures/right-coronary-artery-occlusion-front-sm2.ashx) |
+| Right coronary artery occlusion    | Inferior the heart<br />![Right Coronary Artery Occlusion](figures/lad-occlusion-front-sm2.ashx) |
 
 
 
 ### Cardiac Markers
 
-![cardio-markers](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-markers.png)
+![cardio-markers](figures/cardio-markers.png)
 
 | Marker         | Onset                    | Offset   | Sensitivity | Specificity |
 | -------------- | ------------------------ | -------- | ----------- | ----------- |
@@ -661,7 +661,7 @@ This is deemed to have occurred when signs of circulation persist without need f
   
   | Type               | Feature                                                      |
   | ------------------ | ------------------------------------------------------------ |
-  | I (diagnosis)      | a. J-point elevation >2mm (0.2 mV).<br/>b. Negative T wave in >l right precordial lead (Vl-V3). <br />c. Coved ST-T configuration.<br/>d. Gradually descending ST segment.<br />![Brugada Syndrome - ECGpedia](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/300px-Brugada_ecg_characteristics.svg-20200602112802927.png) |
+  | I (diagnosis)      | a. J-point elevation >2mm (0.2 mV).<br/>b. Negative T wave in >l right precordial lead (Vl-V3). <br />c. Coved ST-T configuration.<br/>d. Gradually descending ST segment.<br />![Brugada Syndrome - ECGpedia](figures/300px-Brugada_ecg_characteristics.svg-20200602112802927.png) |
 | 2 (non-diagnostic) | Saddleback appearance with high take-off <br />ST segment elevation >2mm (0.2 mV)<br />Either positive or biphasic T waves. |
   | 2 (non-diagnostic) | Either saddleback or coved appearance with <br />ST segment elevation <1mm (0.1 mV). |
   
@@ -849,7 +849,7 @@ Serious signs and symptoms of bradydysrhythmias include altered mental status, g
 - Admit all **patients with symptomatic bradydysrhythmias.**
 - All patients on **pacing** should be admitted to the **coronary care unit.**
 
-![cardio-brady-alg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-brady-alg.png)
+![cardio-brady-alg](figures/cardio-brady-alg.png)
 
 ### Tachycardia
 
@@ -1103,7 +1103,7 @@ Causes of **irregular wide complex tachydysrhythmias:**
 
 #### Initial Management
 
-![cardio-wct-alg](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-wct-alg.png)
+![cardio-wct-alg](figures/cardio-wct-alg.png)
 
 #### Polymorphic VT and Torsades de Pointes
 
@@ -1962,7 +1962,7 @@ A dilated left ventricle with apical hypokinesis and engorgement of the inferior
   - **Cardiac Tamponade** causes prepulmonary obstructive shock as blood is unable to fill the compressed right-sided heart chambers.  Despite reduced left-sided preload, the expected PCWP is paradoxically elevated due to external compression of the left atrium, a rare exception when left-sided preload and PCWP are discordant.
   - **Right ventricular myocardial infarction and failure** will demonstrate elevated CVP and low or normal PCWP, the same findings expected in prepulmonary obstructive shock.
 
-  ![genmed-shock-pe](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-shock-pe.png)
+  ![genmed-shock-pe](figures/genmed-shock-pe.png)
 
 - **Postpulmonary obstructive shock** typically involves obstruction within the left side of the heart or aorta; PCWP is elevated, making the hemodynamic parameters the same as those expected in cardiogenic shock.
 

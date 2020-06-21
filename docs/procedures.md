@@ -356,7 +356,7 @@ When not to intubate
     - **etomidate**: indicated for hypotensive and cardiac patients; not indicated in sepsis
     - **ketamine**: indicated for all hypotensive patients, relatively contraindicated in hypertension
     - **propofol**: neuroprotective, contraindicated in hypotension.
-  - Paralytic agents: ![pharma-succvsroc](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/pharma-succvsroc.jpeg)
+  - Paralytic agents: ![pharma-succvsroc](figures/pharma-succvsroc.jpeg)
     - **Succinylcholine** - fast and short acting; will wear off more quickly and need not bag the patient for as long. Bag for 5 minutes and the patient resumes 
       - May increase ICP 
     - **Rocuronium** (used when patient has hyperkalemia) - reversible agent is available
@@ -576,7 +576,7 @@ Visualization of the uterine cavity for diagnosis and treatment of intrauterine 
 - Most common reason for nurses to call HO
 - Counsel patients and families (correcting misconceptions e.g. no addiction)
 
-![Screenshot 2020-06-17 at 11.32.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-17%20at%2011.32.42.png)
+![Screenshot 2020-06-17 at 11.32.42](figures/Screenshot%202020-06-17%20at%2011.32.42.png)
 
 
 
@@ -620,7 +620,7 @@ Tipping patient into depression seadtion
 
   
 
-  ![Screenshot 2020-06-17 at 11.36.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-17%20at%2011.36.58.png)
+  ![Screenshot 2020-06-17 at 11.36.58](figures/Screenshot%202020-06-17%20at%2011.36.58.png)
 
 #### Administering conscious sedation
 
@@ -851,7 +851,7 @@ Be very parallel to the skin.
   - Cold LA is more painful.
   - Inject while withdrawing; 
 
-  ![Peripheral Nerve Blocks and Field Blocks | Basicmedical Key](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/images.jpeg)
+  ![Peripheral Nerve Blocks and Field Blocks | Basicmedical Key](figures/images.jpeg)
 
 
 

@@ -1226,7 +1226,7 @@ Complication of unattended hematoma, infection. But when initially presented, us
 
 Definitely has to come out. Give LA and pull it out. Antibiotics and tetanus. 
 
-![Screenshot 2020-06-18 at 11.16.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.16.13.png)
+![Screenshot 2020-06-18 at 11.16.13](figures/Screenshot%202020-06-18%20at%2011.16.13.png)
 
 If not barefooted, the shoe bits might be in the wound, need more exploration by ortho.
 
@@ -1256,11 +1256,11 @@ Antibiotic prophylaxis
 
 #### Fight bite
 
-![Screenshot 2020-06-18 at 11.23.54](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.23.54.png)
+![Screenshot 2020-06-18 at 11.23.54](figures/Screenshot%202020-06-18%20at%2011.23.54.png)
 
 - Do x-ray and check for FB
 
-  ![Screenshot 2020-06-18 at 11.24.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2011.24.24.png)
+  ![Screenshot 2020-06-18 at 11.24.24](figures/Screenshot%202020-06-18%20at%2011.24.24.png)
 
 #### Sutures
 
@@ -1358,10 +1358,10 @@ The key to good pressure ulcer management is prevention, if possible.
 
 | Stage                                                        | Picture                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Stage I: Nonblanchable Erythema:** Intact skin with non-blanchable redness of a localised area, usually over a bony prominence. | ![stage1_0](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/stage1_0.png) |
-| **Stage II: Partial Thickness Skin Loss** Presents clinically as a blister, shallow crater or open ulcer with a red pink wound bed, without slough. | ![stage2](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/stage2.png) |
-| **Stage III: Full Thickness Skin Loss** Presents clinically as a deep crater with or without undermining of adjacent tissue. Possible visibility of subcutaneous fat but no exposure of bone, tendon or muscle. Slough, if present, does not obscure depth of tissue loss. | ![stage3](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/stage3.png) |
-| **Stage IV: Full Thickness Tissue Loss** Presents with exposed bone, tendon or muscle, with **undermining and tunnelling**. Presence of slough or eschar. | ![stage4](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/stage4.png) |
+| **Stage I: Nonblanchable Erythema:** Intact skin with non-blanchable redness of a localised area, usually over a bony prominence. | ![stage1_0](figures/stage1_0.png) |
+| **Stage II: Partial Thickness Skin Loss** Presents clinically as a blister, shallow crater or open ulcer with a red pink wound bed, without slough. | ![stage2](figures/stage2.png) |
+| **Stage III: Full Thickness Skin Loss** Presents clinically as a deep crater with or without undermining of adjacent tissue. Possible visibility of subcutaneous fat but no exposure of bone, tendon or muscle. Slough, if present, does not obscure depth of tissue loss. | ![stage3](figures/stage3.png) |
+| **Stage IV: Full Thickness Tissue Loss** Presents with exposed bone, tendon or muscle, with **undermining and tunnelling**. Presence of slough or eschar. | ![stage4](figures/stage4.png) |
 
 **Pressure Ulcer Treatment**
 
@@ -1614,7 +1614,7 @@ We cannot control what we cannot measure. Therefore we must do our best to chara
 
   - FLACC scores 
 
-    ![Table 1: FLACC Score](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/JAnaesthClinPharmacol_2012_28_2_185_94839_b1.jpg)
+    ![Table 1: FLACC Score](figures/JAnaesthClinPharmacol_2012_28_2_185_94839_b1.jpg)
 
     
 
@@ -2345,7 +2345,7 @@ Approach
   - skin tears
   - fungating wound
 
-![pall-wound-care](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/pall-wound-care.png)
+![pall-wound-care](figures/pall-wound-care.png)
 
 
 

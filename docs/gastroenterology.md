@@ -9,7 +9,7 @@ Upper GI
 
 Upper GI ends at **ligament of Treitz**.
 
-![gastro-ligament-treiz](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/gastro-ligament-treiz.jpg)
+![gastro-ligament-treiz](figures/gastro-ligament-treiz.jpg)
 
 ### Achalasia
 

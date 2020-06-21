@@ -209,7 +209,7 @@ Other issues
 
 - Lower middle and middle middle income
 
-![sys-homeservice](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/sys-homeservice.png)
+![sys-homeservice](figures/sys-homeservice.png)
 
 
 

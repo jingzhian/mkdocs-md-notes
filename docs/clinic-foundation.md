@@ -34,7 +34,7 @@ Evidence in support of biopsychosocial approach to care
 
 ### Disease and Illness
 
-![disease and illness](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/found-disease-illness.png)
+![disease and illness](figures/found-disease-illness.png)
 
 **Disease**
 

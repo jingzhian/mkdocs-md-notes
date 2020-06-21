@@ -96,7 +96,7 @@ Identify and evaluate the severity of the impairments, activity limitations ('di
 
   WHO International Classification of Functioning, Disability and Health (WHO-ICF)
 
-  ![rehab-who-icf](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/rehab-who-icf.png)
+  ![rehab-who-icf](figures/rehab-who-icf.png)
 
   - Identify impairment, limitation, restrictions
   - Give appropriate therapy
@@ -110,7 +110,7 @@ Identify and evaluate the severity of the impairments, activity limitations ('di
 
 - Application
   - Use ICF to measure long-term performance of COVID19 patients
-  - ![rehab-covid19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/rehab-covid19.png)
+  - ![rehab-covid19](figures/rehab-covid19.png)
 
 #### Provide solutions 
 
@@ -124,7 +124,7 @@ A large range of medical and non-medical modalities
 
 #### Outcomes
 
-![genmed-outcome](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-outcome.png)
+![genmed-outcome](figures/genmed-outcome.png)
 
 #### Prognosticate
 
@@ -395,9 +395,9 @@ Caution
 
    - PREP Algorithm
 
-     ![rehab-prep-algorithm](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/rehab-prep-algorithm.png)
+     ![rehab-prep-algorithm](figures/rehab-prep-algorithm.png)
 
-   ![rehab-prep-preditions](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/rehab-prep-preditions.png)
+   ![rehab-prep-preditions](figures/rehab-prep-preditions.png)
 
    The intensity of PT and OT is based on achievable goals. If the type of stroke is very severe goals are aimed at reducing care burden , prevent complications. If patient is too unwell for rehabiliation from medical point of view stabilisation is of prime concern.
 
@@ -530,7 +530,7 @@ Defined a pain localised below the line of 12 rib and above the inferior gluteal
 - Canal size decrease with extension and increase with flexion
 - Intradiscal pressure increase with forward bend or seated with arms unsupported Facet load increase with extension and decrease with flexion
 
-![msk-L4toS1](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/msk-L4toS1.jpg)
+![msk-L4toS1](figures/msk-L4toS1.jpg)
 
 **Classifications**
 
@@ -553,7 +553,7 @@ Defined a pain localised below the line of 12 rib and above the inferior gluteal
     - Diabetic radiculopathy
     - Referred from hip (kinetic chain)
 
-  ![msk-backpainddx](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/msk-backpainddx.png)
+  ![msk-backpainddx](figures/msk-backpainddx.png)
 
 - **acute** if it lasts <6 weeks; **subacute** if between 6 weeks and 3 months; and **chronic** when > 3 months.
 
@@ -689,7 +689,7 @@ Amputations
 - Symes
 - Transmetatarsal
 
-![msk-amputationlevel](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/msk-amputationlevel.gif)
+![msk-amputationlevel](figures/msk-amputationlevel.gif)
 
 
 
@@ -729,7 +729,7 @@ Role of a rehabilitation physician
 - Advocate for suitable integration back to society
 - Medical legal representation on insurance and compensation cases
 
-![msk-amputeeklevel](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/msk-amputeeklevel.png)
+![msk-amputeeklevel](figures/msk-amputeeklevel.png)
 
 Prognosticate with
 
@@ -929,7 +929,7 @@ Cancer - phases of rehabilitation that keep going around and around
 
 **Model for thinking about cancer patients**
 
-![genmed-cancer](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-cancer.png)
+![genmed-cancer](figures/genmed-cancer.png)
 
 Colorectal cancer
 
@@ -1114,9 +1114,9 @@ Physical activity prescription is a 4-step process:
 
 4. Provision of a more complex, customized physical activity prescription.
 
-5. ![genmed-exercise-aerobic](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-exercise-aerobic.png)
+5. ![genmed-exercise-aerobic](figures/genmed-exercise-aerobic.png)
 
-   ![genmed-exercise-strength](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/genmed-exercise-strength.png)
+   ![genmed-exercise-strength](figures/genmed-exercise-strength.png)
 
 #### Duration and Frequency
 
@@ -1445,7 +1445,7 @@ Common clinical assessments
 | Skin integrity/hygiene             | Number of pressure sores/time for hygiene |
 | Disfigurement                      | Resting angle, serial photos/videos       |
 
-![neuro-spasticity](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-spasticity.png)
+![neuro-spasticity](figures/neuro-spasticity.png)
 
 **Modified Ashworth Scale**
 

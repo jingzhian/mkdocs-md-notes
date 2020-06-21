@@ -27,19 +27,19 @@ Dr Melvin Chua
 - Practice is centre based
 - Childcare service at Singhealth is free
 
-![singhealth-academic](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-academic.png)
+![singhealth-academic](figures/singhealth-academic.png)
 
-![singhealth-programs](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-programs.png)
+![singhealth-programs](figures/singhealth-programs.png)
 
 
 
-![singhealth-upcoming](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-upcoming.png)
+![singhealth-upcoming](figures/singhealth-upcoming.png)
 
-![singhealth-clinicianscientist](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-clinicianscientist.png)
+![singhealth-clinicianscientist](figures/singhealth-clinicianscientist.png)
 
-![singhealth-positions](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-positions.png)
+![singhealth-positions](figures/singhealth-positions.png)
 
-![singhealth-accreditation](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/singhealth-accreditation.png)
+![singhealth-accreditation](figures/singhealth-accreditation.png)
 
 - Only the things in the blue boxes are ACGME accredited
 
@@ -56,7 +56,7 @@ Dr Melvin Chua
   - Everyone has brain, no problem studying
   - What differentiate one from other is the additional experiences
 
-  ![image-20200603195625107](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures//image-20200603195625107.png)
+  ![image-20200603195625107](figures//image-20200603195625107.png)
 
 **Cheong May Anne Singhealth Residency Experience**
 

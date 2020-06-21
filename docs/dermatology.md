@@ -20,7 +20,7 @@ Question:
 
 Doc said it's eczema. applied cream given by doctor but it got worse. it's becoming swollen and started bleeding. anyone know what can be done? (asking on behalf of a mummy!)
 
-![unknown-skin-rxn](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/unknown-skin-rxn.jpg)
+![unknown-skin-rxn](figures/unknown-skin-rxn.jpg)
 
 ## General Skills
 
@@ -1304,7 +1304,7 @@ Note fixed food /drink eruption from quinin in Soda water; and fixed solar erupt
 
 ### Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis
 
-![Screenshot 2020-06-18 at 09.15.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2009.15.08-2442978.png)Stevens johnson syndrome is an inflammatory reaction to drugs or certain infections (e.g. Mycoplasma pneumoniae) and is characterized by coalescing erythematous macules, bullae, desquamation and mucositis. Systemtic signs include fever, haemodynamic instabiloity, and altered level of consciousness. 
+![Screenshot 2020-06-18 at 09.15.08](figures/Screenshot%202020-06-18%20at%2009.15.08-2442978.png)Stevens johnson syndrome is an inflammatory reaction to drugs or certain infections (e.g. Mycoplasma pneumoniae) and is characterized by coalescing erythematous macules, bullae, desquamation and mucositis. Systemtic signs include fever, haemodynamic instabiloity, and altered level of consciousness. 
 
 Acute mucocutaneous disorder with associated systemic toxicity. Due to inflammatory **type IV hypersensitivity** (T-cell mediated) reaction to drugs, or certain infections. 
 
@@ -4130,7 +4130,7 @@ After Chickenpox infection, the virus may survive in a dorsal root ganglion. Yea
     - Loss of sensation over the anterior 2/3 of the tongue
   - **Herpes Zoster Opthalmicus**: affecting eyes
     - Check Nose and Eyes next
-    - Nasociliary branch! Means CN I and danger of cornea involvement![Screenshot 2020-06-18 at 09.51.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-18%20at%2009.51.39.png)
+    - Nasociliary branch! Means CN I and danger of cornea involvement![Screenshot 2020-06-18 at 09.51.39](figures/Screenshot%202020-06-18%20at%2009.51.39.png)
 
  ![herpes zoster](figures/skin-herpes-zoster.jpeg)
  ![herpes zoster](figures/skin-herpes-zoster-2.gif)

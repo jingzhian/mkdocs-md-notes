@@ -14,7 +14,7 @@ Thyroid disorder
 
 ### Hypothyroidism
 
-![Screenshot 2020-06-19 at 09.35.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2009.35.58.png)
+![Screenshot 2020-06-19 at 09.35.58](figures/Screenshot%202020-06-19%20at%2009.35.58.png)
 
 #### Myxedema Coma
 
@@ -61,7 +61,7 @@ Thyroid disorder
 
 - CK for rhabdo
 
-  ![Screenshot 2020-06-19 at 09.33.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2009.33.13.png)
+  ![Screenshot 2020-06-19 at 09.33.13](figures/Screenshot%202020-06-19%20at%2009.33.13.png)
 
 **Management**
 
@@ -84,13 +84,13 @@ Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, 
 
 #### Thyroid Storm
 
-![Screenshot 2020-06-19 at 10.45.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.45.58.png)
+![Screenshot 2020-06-19 at 10.45.58](figures/Screenshot%202020-06-19%20at%2010.45.58.png)
 
 **Clinical Feature**
 
 - Hyperthermia typically with diaphoresis (as opposed to dry in heatstroke)
 
-![Screenshot 2020-06-19 at 10.46.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.46.46.png)
+![Screenshot 2020-06-19 at 10.46.46](figures/Screenshot%202020-06-19%20at%2010.46.46.png)
 
 **Diagnosis**
 
@@ -119,11 +119,11 @@ Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, 
   - Lugol's solution, KI solution, 5 drops Q6 hourly
   - For allergies to iodine, use lithium instead
 
-![Screenshot 2020-06-19 at 10.49.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.49.25.png)
+![Screenshot 2020-06-19 at 10.49.25](figures/Screenshot%202020-06-19%20at%2010.49.25.png)
 
-![Screenshot 2020-06-19 at 10.50.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.50.41.png)
+![Screenshot 2020-06-19 at 10.50.41](figures/Screenshot%202020-06-19%20at%2010.50.41.png)
 
-![Screenshot 2020-06-19 at 10.56.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.56.21.png)
+![Screenshot 2020-06-19 at 10.56.21](figures/Screenshot%202020-06-19%20at%2010.56.21.png)
 
 - If people can tolerate, go for propranolol. 
 - Np, he is staying that the peripheral effect of non selective beta blocker is not ideal (why). Many patients cannot tolerate it. Therefore we would think about the selective beta blockers. However, if we think that the patients can tolerate the peripheral effects of non beta blocker, it is good to go for propranolol so that we can also take advantage of its T4 conversion blocking power.
@@ -189,9 +189,9 @@ Diagnosis: HCO3 < 18, elevated serum or urine ketones, Glucose >14 with **acidos
 
 
 
-![Screenshot 2020-06-19 at 10.07.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.07.24.png)
+![Screenshot 2020-06-19 at 10.07.24](figures/Screenshot%202020-06-19%20at%2010.07.24.png)
 
-![Screenshot 2020-06-19 at 10.07.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.07.34.png)
+![Screenshot 2020-06-19 at 10.07.34](figures/Screenshot%202020-06-19%20at%2010.07.34.png)
 
 **Management**
 
@@ -236,16 +236,16 @@ Diagnosis: HCO3 < 18, elevated serum or urine ketones, Glucose >14 with **acidos
     - Young patient, paediatric patients at risk
     - Patients with significant hyperosmolarity, calculated serum ism >330
     - Can be seen in 
-    - ![Screenshot 2020-06-19 at 10.37.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.37.07.png)
+    - ![Screenshot 2020-06-19 at 10.37.07](figures/Screenshot%202020-06-19%20at%2010.37.07.png)
   - Consider DVT prophylaxis
 
-![Screenshot 2020-06-19 at 10.38.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.38.53.png)
+![Screenshot 2020-06-19 at 10.38.53](figures/Screenshot%202020-06-19%20at%2010.38.53.png)
 
 - Anuric - not as volume depleted, and not losing as much potassium; Go a lot more slower and more gently; Insulin is really excreted, go lower on the dose; Instead of 10 unit IV dose, we use 6 - 8 unit in renal patients - half life is prolonged and glucose and K can drop a lot faster. 
 
   
 
-- ![Screenshot 2020-06-19 at 10.37.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2010.37.49.png)
+- ![Screenshot 2020-06-19 at 10.37.49](figures/Screenshot%202020-06-19%20at%2010.37.49.png)
 
 #### Hyperosmolar Hyperglycemic State
 
@@ -327,9 +327,9 @@ Adrenal
   - Check out the metabolic derangements in CAH!
   - Never forget neonatal trauma
 
-![Screenshot 2020-06-19 at 11.02.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2011.02.19.png)![Screenshot 2020-06-19 at 11.07.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2011.07.42.png)
+![Screenshot 2020-06-19 at 11.02.19](figures/Screenshot%202020-06-19%20at%2011.02.19.png)![Screenshot 2020-06-19 at 11.07.42](figures/Screenshot%202020-06-19%20at%2011.07.42.png)
 
-![Screenshot 2020-06-19 at 11.12.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2011.12.31.png)
+![Screenshot 2020-06-19 at 11.12.31](figures/Screenshot%202020-06-19%20at%2011.12.31.png)
 
 - Number 1 cause of chronic adrenal insufficiency
   - Withdrawal from steroids

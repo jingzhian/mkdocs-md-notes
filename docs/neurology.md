@@ -5,11 +5,11 @@ Neurology
 
 ### Blood Supply
 
-![neuro-brain-bloodsupply](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-brain-bloodsupply.jpeg)
+![neuro-brain-bloodsupply](figures/neuro-brain-bloodsupply.jpeg)
 
-![neuro-brain-bloodsupply-coronal](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-brain-bloodsupply-coronal.jpeg)
+![neuro-brain-bloodsupply-coronal](figures/neuro-brain-bloodsupply-coronal.jpeg)
 
-![neuro-cerebellum-bloodsupply](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-cerebellum-bloodsupply.jpg)
+![neuro-cerebellum-bloodsupply](figures/neuro-cerebellum-bloodsupply.jpg)
 
 
 
@@ -120,7 +120,7 @@ Disorders of consciousness (DOC) arise from direct perturbations of neural syste
 - Novel applications of functional neuroimaging and electrophysiological techniques have been employed to detect covert signs of conscious awareness, improve outcome prediction, and establish brain–computer interfaces to augment communication ability
 - Recent empirical evidence suggests that treatment interventions aimed at neuromodulation can accelerate recovery and enhance outcome during both the acute and chronic phases
 
-![neuro-doc](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-doc.png)
+![neuro-doc](figures/neuro-doc.png)
 
 
 
@@ -817,7 +817,7 @@ Patients with warfarin-associated intracerebral hemorrhage should have their ant
 
 - Severity of impairment
 
-  ![neuro-tbi-stratify](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-tbi-stratify.png)
+  ![neuro-tbi-stratify](figures/neuro-tbi-stratify.png)
 
   ​		There are also other variants.
 
@@ -977,9 +977,9 @@ The ISNCSCI scoring is used for **classification** and **prognostication**. It c
    - 
 3. Anorectal examination:  assess sensation and volitional sphincteric contraction
 
-![rehab-isncsci](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/rehab-isncsci.png)
+![rehab-isncsci](figures/rehab-isncsci.png)
 
-![neuro-asia-muscles](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-asia-muscles.png)
+![neuro-asia-muscles](figures/neuro-asia-muscles.png)
 
 
 
@@ -1011,7 +1011,7 @@ The ISNCSCI scoring is used for **classification** and **prognostication**. It c
   - If voluntary anal contraction = No AND all S4-5 sensory score = ) AND deep anal pressure = NO, then the injury is complete; otherwise the injury is incomplete
 - Determine the ASIA Impairment Scale Grade
 
-![neuro-ais-grading](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-ais-grading.png)
+![neuro-ais-grading](figures/neuro-ais-grading.png)
 
 **A: Complete** No sensory or motor function is preserved in the sacral segments S4-S5.
 **B: Sensory incomplete** Sensory but not motor function is preserved below the neurological level and includes the sacral segments S4-S5 (light touch, pin prick at S4-S5 or deep anal pressure), AND no motor function is preserved more than three levels below the motor level on either side of the body.
@@ -1025,7 +1025,7 @@ Incomplete spinal cord syndromes are caused by lesions of the ascending or desce
 
 #### Spinal Cord Anatomy and Typical Syndromes
 
-<img src="/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-spinaltract.jpg" alt="neuro-spinal-anatomy" style="zoom:150%;" />
+<img src="figures/neuro-spinaltract.jpg" alt="neuro-spinal-anatomy" style="zoom:150%;" />
 
 There are three tracts to pay attention to:
 
@@ -1439,7 +1439,7 @@ Neuro-Oncology
 - Tumors originating in the **cerebral cortex** (ie, supratentorial) classically present with **headache** due to increased intracranial pressure; however, **new-onset seizure** may be the presenting symptom.
 - **Changes in speech, memory, and personality** (eg, irritability, declining academic performance) can also occur with **supratentorial masses**, and **hemiparesis** and **hyperreflexia** are common with parietal lobe involvement.
 
-![neuro-pedstumor](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/neuro-pedstumor.jpg)
+![neuro-pedstumor](figures/neuro-pedstumor.jpg)
 
 ### Craniopharyngioma 
 

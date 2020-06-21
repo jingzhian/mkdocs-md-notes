@@ -324,7 +324,7 @@ Primary vs secondary
 
 Need to watch for acute glaucoma: mid dilated pupils, VA affected. EASILY MISSED! Time sensitive treatment
 
-![Screenshot 2020-06-08 at 09.09.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.09.43.png)
+![Screenshot 2020-06-08 at 09.09.43](figures/Screenshot%202020-06-08%20at%2009.09.43.png)
 
 - Additional red flags: 
   - New onset in elderly older than 50 years
@@ -332,16 +332,16 @@ Need to watch for acute glaucoma: mid dilated pupils, VA affected. EASILY MISSED
 
 | Cases                                                        | Remark                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot 2020-06-08 at 09.11.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.11.56.png) | Right EDH in the parental lobe, with associated fracture, hemocranium, |
-| ![Screenshot 2020-06-08 at 09.12.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.12.49.png) | SAH along the fulx and on the left                           |
-| ![Screenshot 2020-06-08 at 09.13.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.13.37.png) | Brain mets from breast CA                                    |
-| ![Screenshot 2020-06-08 at 09.17.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.17.28.png) | Suprasellar mass; may have bitemporal hemianopia             |
-| ![Screenshot 2020-06-08 at 09.18.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.18.43.png) | Bony erosions / lytic lesions; mets                          |
-| ![Screenshot 2020-06-08 at 09.26.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.26.12.png)![Screenshot 2020-06-08 at 09.26.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.26.58.png) | starfish sign; ventricle is compressed, there is hydrocephalus from SAH; the aneurysm is on the right vertebral artery |
-| ![Screenshot 2020-06-08 at 10.03.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.03.34.png) | Venous sinus thrombosis                                      |
-| ![Screenshot 2020-06-08 at 10.06.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.06.58.png) | Left temporal lobe bleed;                                    |
-| ![Screenshot 2020-06-08 at 10.13.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.13.12.png) | Subacute SAH (3 days to 3 weeks); isodense with the brain; also an old patient. |
-| ![Screenshot 2020-06-08 at 10.19.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.19.57.png) | Dense MCA sign for MCS thrombotic stroke; dense basilar sign |
+| ![Screenshot 2020-06-08 at 09.11.56](figures/Screenshot%202020-06-08%20at%2009.11.56.png) | Right EDH in the parental lobe, with associated fracture, hemocranium, |
+| ![Screenshot 2020-06-08 at 09.12.49](figures/Screenshot%202020-06-08%20at%2009.12.49.png) | SAH along the fulx and on the left                           |
+| ![Screenshot 2020-06-08 at 09.13.37](figures/Screenshot%202020-06-08%20at%2009.13.37.png) | Brain mets from breast CA                                    |
+| ![Screenshot 2020-06-08 at 09.17.28](figures/Screenshot%202020-06-08%20at%2009.17.28.png) | Suprasellar mass; may have bitemporal hemianopia             |
+| ![Screenshot 2020-06-08 at 09.18.43](figures/Screenshot%202020-06-08%20at%2009.18.43.png) | Bony erosions / lytic lesions; mets                          |
+| ![Screenshot 2020-06-08 at 09.26.12](figures/Screenshot%202020-06-08%20at%2009.26.12.png)![Screenshot 2020-06-08 at 09.26.58](figures/Screenshot%202020-06-08%20at%2009.26.58.png) | starfish sign; ventricle is compressed, there is hydrocephalus from SAH; the aneurysm is on the right vertebral artery |
+| ![Screenshot 2020-06-08 at 10.03.34](figures/Screenshot%202020-06-08%20at%2010.03.34.png) | Venous sinus thrombosis                                      |
+| ![Screenshot 2020-06-08 at 10.06.58](figures/Screenshot%202020-06-08%20at%2010.06.58.png) | Left temporal lobe bleed;                                    |
+| ![Screenshot 2020-06-08 at 10.13.12](figures/Screenshot%202020-06-08%20at%2010.13.12.png) | Subacute SAH (3 days to 3 weeks); isodense with the brain; also an old patient. |
+| ![Screenshot 2020-06-08 at 10.19.57](figures/Screenshot%202020-06-08%20at%2010.19.57.png) | Dense MCA sign for MCS thrombotic stroke; dense basilar sign |
 |                                                              |                                                              |
 
 - Bone window can be selected post-hoc
@@ -358,15 +358,15 @@ Need to watch for acute glaucoma: mid dilated pupils, VA affected. EASILY MISSED
 - 12% worst headache of their life and NORMAL neuro exam
 - 25% worst headache of their life and ABNORMAL neuro exam
 
-![Screenshot 2020-06-08 at 09.29.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.29.07.png)
+![Screenshot 2020-06-08 at 09.29.07](figures/Screenshot%202020-06-08%20at%2009.29.07.png)
 
 **Hunt and Hess Classification for SAH to determine survival**
 
-![Screenshot 2020-06-08 at 09.30.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.30.12.png)
+![Screenshot 2020-06-08 at 09.30.12](figures/Screenshot%202020-06-08%20at%2009.30.12.png)
 
 Physical
 
-- Subhyaloid hemorrhage 20 - 40% in reduced GCS![Screenshot 2020-06-08 at 09.33.00](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2009.33.00.png)
+- Subhyaloid hemorrhage 20 - 40% in reduced GCS![Screenshot 2020-06-08 at 09.33.00](figures/Screenshot%202020-06-08%20at%2009.33.00.png)
 
 2 pertinent investigations required for SAH
 
@@ -439,7 +439,7 @@ Risks
 
 #### Intracranial Bleeds
 
-![Screenshot 2020-06-08 at 10.07.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.07.49.png)
+![Screenshot 2020-06-08 at 10.07.49](figures/Screenshot%202020-06-08%20at%2010.07.49.png)
 
 - Two major risk factors: Amyloid angiopathy - aging and HTN
 - Management
@@ -487,7 +487,7 @@ Risks
     - Patient selection using diffusion imaging
   - The thought is that penumbra still has blood supply, but there is a mismatch between ischemic core and the subregion penumbra; if there is salvageable tissue, do it
 
-  ![Screenshot 2020-06-08 at 10.33.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-08%20at%2010.33.36.png)
+  ![Screenshot 2020-06-08 at 10.33.36](figures/Screenshot%202020-06-08%20at%2010.33.36.png)
 
 - 2019 AHA/ASA updated management guidelines
   - NCCT Head as initial scan
@@ -592,7 +592,7 @@ O: oxygen (lack of), opiates
 
 U: uraemia
 
-![Screenshot 2020-06-01 at 22.57.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-01%20at%2022.57.59.png)
+![Screenshot 2020-06-01 at 22.57.59](figures/Screenshot%202020-06-01%20at%2022.57.59.png)
 
 **Measurement of Consicousness**
 
@@ -840,7 +840,7 @@ Syncope is a sudden, temporary loss of consciousness and postural tone secondary
 
 **Etiologies can be**
 
-**![Screenshot 2020-06-01 at 23.10.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-01%20at%2023.10.07.png)**
+**![Screenshot 2020-06-01 at 23.10.07](figures/Screenshot%202020-06-01%20at%2023.10.07.png)**
 
 -   Psy: Stress, fright, pain (vasovagal syncope)
 -   cardiac: decreased CO; arrhythmias, bradyarrhythmias, valvular heart disease like aortic stenosis, atrial fibrillation and uncontrolled heart rate
@@ -856,7 +856,7 @@ Syncope is a sudden, temporary loss of consciousness and postural tone secondary
 
 Neurological causes are more common in younger patients.
 
-![Screenshot 2020-06-01 at 23.03.26](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-01%20at%2023.03.26.png)
+![Screenshot 2020-06-01 at 23.03.26](figures/Screenshot%202020-06-01%20at%2023.03.26.png)
 
 - It is important, on first encounter, to ensure chat the patient does not have a significant **life- threatening disease,** such as the following:
 
@@ -961,7 +961,7 @@ Nystagmus & unidirectional (usually horizontal and rotational) and does not chan
 
 Do the Head Thrust Test to distinguish between peripheral and central vertigo: Observation of nystagmus is essential to differentiating between peripheral and central vertigo. The head thrust test (sometimes called the head impulse test) is used to demonstrate a likely peripheral lesion. Normally, when you face your patient and ask them to keep looking at your nose, their eyes will stay fixed on your nose if you move their head suddenly to the side. If there is a peripheral lesion in the vestibular system, the vestibular ocular reflex will be disrupted and the patient's eyes will move with the head and then saccade back to center when their head is moved in the direction of the lesion. A normal or positive head thrust test in the presence of vertigo means the peripheral vestibular system is intact and that the lesion is central.
 
-![Screenshot 2020-06-01 at 23.02.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-01%20at%2023.02.43.png)
+![Screenshot 2020-06-01 at 23.02.43](figures/Screenshot%202020-06-01%20at%2023.02.43.png)
 
 #### Disequilibrium
 
@@ -1203,7 +1203,7 @@ Management
   - in ED, ketamine is fine, to give the dissociate amnesia however  if long term need sedation e.g. in ICU, better  to use dex so as not to have ICU induced delirium
 - diuresis: diuretic effect takes a while to set in. 
 
-![resp-death-spiral-apo](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/resp-death-spiral-apo.png)
+![resp-death-spiral-apo](figures/resp-death-spiral-apo.png)
 
 Standby care for near-drowning (never say drowning). 22 years old gentleman, drunk, dived off the pier. Bystander CPR done. 
 
@@ -1323,7 +1323,7 @@ Process
 
      The ligament of Treitz demarcate the junction between upper GI bleeding vs lower GI bleeding.
 
-     ![gi-ligamentoftreitz](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/gi-ligamentoftreitz.jpg)
+     ![gi-ligamentoftreitz](figures/gi-ligamentoftreitz.jpg)
 
      | Upper GI Bleeding            | Lower GI Bleeding          |
      | ---------------------------- | -------------------------- |

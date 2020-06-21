@@ -108,7 +108,7 @@ During the Test: Read the questions very very carefully!!
   - Centralized assessments
 - Goals and learning objectives
 
-![Screenshot 2020-06-19 at 17.44.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-19%20at%2017.44.25.png)
+![Screenshot 2020-06-19 at 17.44.25](figures/Screenshot%202020-06-19%20at%2017.44.25.png)
 
 - RIME - reporter, interpretor, manager, educator
 - Don't be a silent member of the team!
@@ -141,7 +141,7 @@ Alternative: NUHS Peds surgery
 
 #### Program
 
-![Screenshot 2020-06-17 at 18.36.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-17%20at%2018.36.17.png)
+![Screenshot 2020-06-17 at 18.36.17](figures/Screenshot%202020-06-17%20at%2018.36.17.png)
 
 - First 3 years in adult surgical departments in GS, urology, thoracic surgery, children's emergency, paediatric medicine or paediatric anesthesia
   - SIG resident x 2 : for foundation
@@ -222,7 +222,7 @@ Case: Trauma, oncology, spine
 
 Very demanding, more time at work (at home), as opposed to at home; expect juniors to call even after work hours, for the rest of the life. 
 
-![Screenshot 2020-06-12 at 18.43.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%25202020-06-12%2520at%252018.43.23.png)
+![Screenshot 2020-06-12 at 18.43.23](figures/Screenshot%25202020-06-12%2520at%252018.43.23.png)
 
 - Maintain case volume for surgery. 
 - The specialty is gender neutral but need to know if the family is stable

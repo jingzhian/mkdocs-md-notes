@@ -275,7 +275,7 @@ Causes of hypotension
 
 Deliberate practice
 
-![Screenshot 2020-06-12 at 11.46.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-12%20at%2011.46.24.png)
+![Screenshot 2020-06-12 at 11.46.24](figures/Screenshot%202020-06-12%20at%2011.46.24.png)
 
 ### Permission hypotension 
 
@@ -287,7 +287,7 @@ Deliberate practice
   - However, there is not Hartman
 - However, just start blood
 
-![Screenshot 2020-06-12 at 11.34.18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-12%20at%2011.34.18.png)
+![Screenshot 2020-06-12 at 11.34.18](figures/Screenshot%202020-06-12%20at%2011.34.18.png)
 
 		- Each **unit of FFP** contains approximately 200 to 250 mL. **Apheresis-derived** **units** can contain as much as 400 to 600 mL. Administration of one 250 mL **unit** should raise the fibrinogen level by 5 to 10 mg/dl. The goal of therapy is a cessation of bleeding.
 		- Typically, **one unit of PRBC** is approximately 350 mL in volume, of which RBC volume is 200–250 mL. The remaining volume is due to plasma (typically <50 mL), white blood cells (WBCs), platelets and anticoagulants.
@@ -305,7 +305,7 @@ Deliberate practice
 
 CRASH-2: 
 
-![Screenshot 2020-06-12 at 11.36.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-12%20at%2011.36.45.png)
+![Screenshot 2020-06-12 at 11.36.45](figures/Screenshot%202020-06-12%20at%2011.36.45.png)
 
 
 
@@ -379,15 +379,15 @@ This rule CANNOT be applied for
   - Solid tissue
 - Imaging: Xray ct, MRI, ultrasound
 
-![Screenshot 2020-06-15 at 09.27.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-15%20at%2009.27.21.png)
+![Screenshot 2020-06-15 at 09.27.21](figures/Screenshot%202020-06-15%20at%2009.27.21.png)
 
 - Acute on chronic component; midline shift
 
-  ![Screenshot 2020-06-15 at 09.28.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-15%20at%2009.28.37.png)
+  ![Screenshot 2020-06-15 at 09.28.37](figures/Screenshot%202020-06-15%20at%2009.28.37.png)
 
   - 
 
-![Screenshot 2020-06-15 at 09.29.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-15%20at%2009.29.58.png)
+![Screenshot 2020-06-15 at 09.29.58](figures/Screenshot%202020-06-15%20at%2009.29.58.png)
 
 - Traumatic subarachnoid hemorrhage, 
 - Contra coup injury; 
@@ -397,15 +397,15 @@ This rule CANNOT be applied for
 
 ## Traumatic Amputation
 
-![trauma-amputation](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/trauma-amputation.png)
+![trauma-amputation](figures/trauma-amputation.png)
 
 
 
 ## Pelvic Fracture In Trauma
 
- ![Musculoskeletal Pelvic Anatomy - ScienceDirect](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/3-s2.0-B9780128032282000039-f03-01-9780128032282.jpg)
+ ![Musculoskeletal Pelvic Anatomy - ScienceDirect](figures/3-s2.0-B9780128032282000039-f03-01-9780128032282.jpg)
 
-![Screenshot 2020-06-12 at 12.32.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-12%20at%2012.32.15.png)
+![Screenshot 2020-06-12 at 12.32.15](figures/Screenshot%202020-06-12%20at%2012.32.15.png)
 
 ### Pelvic Binder - think Mini Skirt
 
@@ -413,7 +413,7 @@ This rule CANNOT be applied for
 
 ## Bee Sting
 
-![trauma-beesting](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/trauma-beesting.png)
+![trauma-beesting](figures/trauma-beesting.png)
 
 ## Video inspired discussion
 

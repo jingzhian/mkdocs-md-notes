@@ -9,7 +9,7 @@
 
 
 
-![Screenshot 2020-06-17 at 09.16.20](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%25202020-06-17%2520at%252009.16.20.png)
+![Screenshot 2020-06-17 at 09.16.20](figures/Screenshot%25202020-06-17%2520at%252009.16.20.png)
 
 
 

@@ -25,7 +25,7 @@
 
 #### How to put on ECG
 
-![cardio-ecg-leadpos](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-leadpos.png)
+![cardio-ecg-leadpos](figures/cardio-ecg-leadpos.png)
 
 - Clean skin with alcohol; then wipe off the alcohol
 - Rub skin with a paper towel to introduce mild abrasion
@@ -70,7 +70,7 @@
            - Is the QRS complex the same shape throughout (i.e. has it the same initial direction of deflection as the normal beat, and has it the same duration)? Supraventricular beats look the same as each other; ventricular beats may look differe       dnt from each other.
            - Is the T wave the same way up as in the normal beat? In supraventricular beats, it is the same way up; in ventricular beats, it is inverted.
 
-     ![cardio-ecg-components](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-components.png)
+     ![cardio-ecg-components](figures/cardio-ecg-components.png)
 
 3. Check the **Cardiac Axis** using leads I and II
 
@@ -80,7 +80,7 @@
 
    - If I positive  and II negative, left axis deviation (I and II point away): left ventricular hypertrophy e.g. conduction defect
 
-     ![cardio-ecg-axis](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-axis.png)
+     ![cardio-ecg-axis](figures/cardio-ecg-axis.png)
 
 4. Look at the critical intervals
 
@@ -220,9 +220,9 @@
 | Arrhythmia         | ECG Features                                                 | Remarks                                                      |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Sinus bradycardia  | Long RR interval but otherwise normal ECG                    | Associated with athletic training, fainting attacks, hypothermia or myxoedema, and is also often seen immediately after a heart attack. |
-| Atrial escape      | Occasional **abnormal P wave** is followed by a normal QRS complex; Remaining beats show a return to sinus arrhythmia![cardio-ecg-atrlescp](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-atrlescp.png) | If the rate of depolarization of the SA node slows down and a different focus in the atrium takes over control of the heart, the rhythm is described as ‘atrial escape’ |
-| Junctional escape  | **No P waves** in junctional beats (indicates either no atrial contraction or P wave lost in QRS complex); Normal QRS complex![cardio-ecg-juncescp](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-juncescp.png) | Region around the AV node takes over as the focus of depolarization. |
-| Ventricular escape | Transient abnormal QRS complexes; when no relationship between P waves and wide QRS![cardio-ecg-ventescp](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-ventescp.png) | Ventricular escape rhythms can occur without complete heart block, and ventricular escape beats can be single |
+| Atrial escape      | Occasional **abnormal P wave** is followed by a normal QRS complex; Remaining beats show a return to sinus arrhythmia![cardio-ecg-atrlescp](figures/cardio-ecg-atrlescp.png) | If the rate of depolarization of the SA node slows down and a different focus in the atrium takes over control of the heart, the rhythm is described as ‘atrial escape’ |
+| Junctional escape  | **No P waves** in junctional beats (indicates either no atrial contraction or P wave lost in QRS complex); Normal QRS complex![cardio-ecg-juncescp](figures/cardio-ecg-juncescp.png) | Region around the AV node takes over as the focus of depolarization. |
+| Ventricular escape | Transient abnormal QRS complexes; when no relationship between P waves and wide QRS![cardio-ecg-ventescp](figures/cardio-ecg-ventescp.png) | Ventricular escape rhythms can occur without complete heart block, and ventricular escape beats can be single |
 
 **Tachycardias**
 
@@ -234,11 +234,11 @@
 | Arrhythmia                         | ECG Features                                                 | Remarks                                                      |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | sinus tachycardia                  | Normal P waves, which may superimpose on T waves of preceding beat | Associated with exercise, fear, pain, haemorrhage or thyrotoxicosis. |
-| Atrial tachycardia                 | abnormal P waves may superimpose on the T waves of the preceding beats (M shaped T)![cardio-ecg-atrialtachy](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-atrialtachy.png) | Supra ventricular tachycardia with atrial depolarising faster than **150/min**; The AV node cannot conduct atrial rates of discharge greater than about 200/min. If the atrial rate is faster than this, ‘atrioventricular block’ occurs, with some P waves not followed by QRS complexes, but not due to conduction problem as in heart block. |
-| Atrial Flutter                     | no flat baseline between the P waves; ![cardio-ecg-atrialflutter2to1](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-atrialflutter2to1.png) | Supraventricular tachycardia with atrial depolarising faster than **250/min**; A narrow complex tachycardia with a ventricular rate of about 125–150/min should always alert you to the possibility of atrial flutter with 2:1 block - look carefully to identify extra P wave, these can be differentiated from T waves of the preceding QRS by regularity. **Carotid sinus pressure** can increase the block between atria and the ventricles, to make atrial flutter appear more obvious. |
-| Junctional Tachycardia             | P waves may be seen very close to the QRS complexes, or may not be seen at all![cardio-ecg-junctionaltachy](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-junctionaltachy.png) |                                                              |
-| Ventricular Tachycardia            | QRS complex is wide and abnormal.![cardio-ecg-vt](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-vt.png) | Carotid sinus pressure has no effect since it acts of the AV node and the source of VT is below the AV node. |
-| Accelerated idioventricular rhythm | Transient rhythm with no p-wave and wide QRS![cardio-ecg-accidiovent](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-accidiovent.png) | The rhythm of the heart controlled by a ventricular focus with an intrinsic frequency of discharge faster than that seen in complete heart block. Often associated with AMI. Although appears similar to ventricular tachycardia, it should NOT be treated. VT should not be treated unless it is faster than 120/min |
+| Atrial tachycardia                 | abnormal P waves may superimpose on the T waves of the preceding beats (M shaped T)![cardio-ecg-atrialtachy](figures/cardio-ecg-atrialtachy.png) | Supra ventricular tachycardia with atrial depolarising faster than **150/min**; The AV node cannot conduct atrial rates of discharge greater than about 200/min. If the atrial rate is faster than this, ‘atrioventricular block’ occurs, with some P waves not followed by QRS complexes, but not due to conduction problem as in heart block. |
+| Atrial Flutter                     | no flat baseline between the P waves; ![cardio-ecg-atrialflutter2to1](figures/cardio-ecg-atrialflutter2to1.png) | Supraventricular tachycardia with atrial depolarising faster than **250/min**; A narrow complex tachycardia with a ventricular rate of about 125–150/min should always alert you to the possibility of atrial flutter with 2:1 block - look carefully to identify extra P wave, these can be differentiated from T waves of the preceding QRS by regularity. **Carotid sinus pressure** can increase the block between atria and the ventricles, to make atrial flutter appear more obvious. |
+| Junctional Tachycardia             | P waves may be seen very close to the QRS complexes, or may not be seen at all![cardio-ecg-junctionaltachy](figures/cardio-ecg-junctionaltachy.png) |                                                              |
+| Ventricular Tachycardia            | QRS complex is wide and abnormal.![cardio-ecg-vt](figures/cardio-ecg-vt.png) | Carotid sinus pressure has no effect since it acts of the AV node and the source of VT is below the AV node. |
+| Accelerated idioventricular rhythm | Transient rhythm with no p-wave and wide QRS![cardio-ecg-accidiovent](figures/cardio-ecg-accidiovent.png) | The rhythm of the heart controlled by a ventricular focus with an intrinsic frequency of discharge faster than that seen in complete heart block. Often associated with AMI. Although appears similar to ventricular tachycardia, it should NOT be treated. VT should not be treated unless it is faster than 120/min |
 
 **Extrasystoles**
 
@@ -250,8 +250,8 @@
 | Arrhythmia               | ECG Features                                                 | Remarks                                                      |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Atrial extrasystole      | Abnormally shaped P wave; normal QRS complex; P wave after missed P wave appears late |                                                              |
-| Junctional extrasystole  | No P wave or P wave appears immediately before or after the QRS complex; normal QRS; P wave after missed P wave appears late![cardio-ecg-juncextra](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-juncextra.png) |                                                              |
-| Ventricular extrasystole | Early beat with wide QRS complex and abnormal T wave; ![cardio-ecg-ventextra](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-ventextra.png)<br />may also have 'R on T' phenomenon![cardio-ecg-ront](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-ront.png) | Ventricular extrasystoles are common, and are usually of no importance. However, when they occur early in the T wave of a preceding beat they can induce ventricular fibrillation, and are thus potentially dangerous. |
+| Junctional extrasystole  | No P wave or P wave appears immediately before or after the QRS complex; normal QRS; P wave after missed P wave appears late![cardio-ecg-juncextra](figures/cardio-ecg-juncextra.png) |                                                              |
+| Ventricular extrasystole | Early beat with wide QRS complex and abnormal T wave; ![cardio-ecg-ventextra](figures/cardio-ecg-ventextra.png)<br />may also have 'R on T' phenomenon![cardio-ecg-ront](figures/cardio-ecg-ront.png) | Ventricular extrasystoles are common, and are usually of no importance. However, when they occur early in the T wave of a preceding beat they can induce ventricular fibrillation, and are thus potentially dangerous. |
 
 **Fibrillations**
 
@@ -274,8 +274,8 @@
 
 | Feature                                            | Remarks                                                      |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| Tall (more than 1 small box in V1; >2.5 box in II) | **right atrial** hypertrophy (think tricuspid valve stenosis or pulmonary HTN)![cardio-ecg-rvh](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-rvh.png) |
-| Broad (>120 ms) AND bifid                          | **left atrial** hypertrophy (think mitral stenosis if there is NO LVH)![cardio-ecg-bifidp](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-bifidp.png) |
+| Tall (more than 1 small box in V1; >2.5 box in II) | **right atrial** hypertrophy (think tricuspid valve stenosis or pulmonary HTN)![cardio-ecg-rvh](figures/cardio-ecg-rvh.png) |
+| Broad (>120 ms) AND bifid                          | **left atrial** hypertrophy (think mitral stenosis if there is NO LVH)![cardio-ecg-bifidp](figures/cardio-ecg-bifidp.png) |
 
 **Abnormalities in QRS Complex**
 
@@ -362,7 +362,7 @@
 
 **Case 1**
 
-![cardio-ecg-01](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-01.png)
+![cardio-ecg-01](figures/cardio-ecg-01.png)
 
 - Diagnosis: **Normal**
   - My diagnosis: Left atrial hypertrophy without signs of LVH; suggestive of mitral stenosis - no the P wave is not broad but just appears to be bifid, he doesn't see this as being abnormal
@@ -372,7 +372,7 @@
 
 **Case 2** 
 
-![cardio-ecg-02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-02.png)
+![cardio-ecg-02](figures/cardio-ecg-02.png)
 
 - Diagnosis: **Sinus arrhythmia**
   -  (My guess) septal infarct - unlikely because in thin chested individual, we can have tall T waves in some leads
@@ -388,7 +388,7 @@
 
 **Case 3**
 
-![cardio-ecg-03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-03.png)
+![cardio-ecg-03](figures/cardio-ecg-03.png)
 
 - Diagnosis: **sick sinus syndrome / SA exit block**
 - ECG Features
@@ -402,7 +402,7 @@
 
 **Case 4**
 
-![cardio-ecg-04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-04.png)
+![cardio-ecg-04](figures/cardio-ecg-04.png)
 
 - Diagnosis: **atrial bigeminy**
   - NOT! 2:1  block
@@ -429,7 +429,7 @@
 
 **Case 5**
 
-![cardio-ecg-05](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-05.png)
+![cardio-ecg-05](figures/cardio-ecg-05.png)
 
 - Diagnosis: **Junctional tachycardia**
   - Ddx: Atrial flutter with rapid ventricular response with 2:1 conduction
@@ -451,7 +451,7 @@
 
 **Case 6**
 
-![cardio-ecg-06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-06.png)
+![cardio-ecg-06](figures/cardio-ecg-06.png)
 
 - Diagnosis: **atrial fibrillation**
 - ECG Features
@@ -468,7 +468,7 @@
 
 **Case 7**
 
-![cardio-ecg-07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-07.png)
+![cardio-ecg-07](figures/cardio-ecg-07.png)
 
 - Diagnosis: **atrial flutter with 4;1 block**
 - ECG Features
@@ -480,7 +480,7 @@
 
 **Case 8**
 
-![cardio-ecg-08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-08.png)
+![cardio-ecg-08](figures/cardio-ecg-08.png)
 
 - Diagnosis: **first degree heart block**
 - ECG Features
@@ -492,7 +492,7 @@
 
 **Case 9**
 
-![cardio-ecg-09](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-09.png)
+![cardio-ecg-09](figures/cardio-ecg-09.png)
 
 - Diagnosis: **Mobitz Type 1 AV Block**
 - ECG Features
@@ -503,7 +503,7 @@
 
 **Case 10**
 
-![cardio-ecg-10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-10.png)
+![cardio-ecg-10](figures/cardio-ecg-10.png)
 
 - Diagnosis: **Mobitz type II AV Block**
 - ECG Features
@@ -515,7 +515,7 @@
 
 **Case 11**
 
-![cardio-ecg-11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-11.png)
+![cardio-ecg-11](figures/cardio-ecg-11.png)
 
 - Diagnosis: **Third degree heart block**
 - ECG Features
@@ -533,7 +533,7 @@
 
 **Case 12**
 
-![cardio-ecg-12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-12.png)
+![cardio-ecg-12](figures/cardio-ecg-12.png)
 
 - Diagnosis: **Ventricular Escape**
 - ECG Features
@@ -542,7 +542,7 @@
 
 **Case 13**
 
-![cardio-ecg-13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-13.png)
+![cardio-ecg-13](figures/cardio-ecg-13.png)
 
 - Diagnosis: **Ventricular asystole**
 - ECG Features
@@ -550,7 +550,7 @@
 
 **Case 14**
 
-![cardio-ecg-14](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-14.png)
+![cardio-ecg-14](figures/cardio-ecg-14.png)
 
 - Diagnosis: Extensive Anterior STEMI (Left descending artery)
 - ECG Features
@@ -562,7 +562,7 @@
 
 **Case 15**
 
-![cardio-ecg-15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-15.png)
+![cardio-ecg-15](figures/cardio-ecg-15.png)
 
 - Diagnosis: Inferior STEMI
 - ECG Features
@@ -575,7 +575,7 @@
 
 **Case 16**
 
-![cardio-ecg-16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-16.png)
+![cardio-ecg-16](figures/cardio-ecg-16.png)
 
 - Diagnosis: inferior-fronto STEMI with right ventricular infarct
   - Worry dual vessel disease: dominant right coronary is possible
@@ -590,7 +590,7 @@
 
 **Case 17**
 
-![cardio-ecg-17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-17.png)
+![cardio-ecg-17](figures/cardio-ecg-17.png)
 
 - Diagnosis: Inferior STEMI with, lateral, posterior extension, with AV block
   - Very dominant right coronary, that extends to the apex of the heart
@@ -607,7 +607,7 @@
 
 **Case 18**
 
-![cardio-ecg-18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-18.png)
+![cardio-ecg-18](figures/cardio-ecg-18.png)
 
 - Diagnosis: ventricular tachycardia
 - ECG Features
@@ -616,14 +616,14 @@
 
 **Case 19**
 
-![cardio-ecg-19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-19.png)
+![cardio-ecg-19](figures/cardio-ecg-19.png)
 
 - Diagnosis: torsade de pointes
 - How to treat: **MgSO4**
 
 **Case 20**
 
-![cardio-ecg-20](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-20.png)
+![cardio-ecg-20](figures/cardio-ecg-20.png)
 
 - Diagnosis: **Pulmonary Embolism**
   - Right ventricular hypertrophy 
@@ -642,7 +642,7 @@
 
 **Case 21**
 
-![cardio-ecg-21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-21.png)
+![cardio-ecg-21](figures/cardio-ecg-21.png)
 
 - Diagnosis: **Hyperkalemia**
 - ECG Features
@@ -655,7 +655,7 @@
 
 **Case 22**
 
-![cardio-ecg-22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/cardio-ecg-22.png)
+![cardio-ecg-22](figures/cardio-ecg-22.png)
 
 - Diagnosis: **hypokalaemia** (?)
 - ECG Features
@@ -671,7 +671,7 @@
 
 Key diagnostic features include ST depression and peaked T waves in the precordial leads. The **de Winter** pattern is seen in ~2% of acute LAD occlusions and is under-recognised by clinicians
 
-![Screenshot 2020-06-10 at 13.50.51](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2013.50.51.png)
+![Screenshot 2020-06-10 at 13.50.51](figures/Screenshot%202020-06-10%20at%2013.50.51.png)
 
 - Cat lab activation is indicated in patients with de Winter and Cath lab
 
@@ -679,11 +679,11 @@ Key diagnostic features include ST depression and peaked T waves in the precordi
 
 **Case: SVT**
 
-![Screenshot 2020-06-10 at 13.53.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2013.53.46.png)
+![Screenshot 2020-06-10 at 13.53.46](figures/Screenshot%202020-06-10%20at%2013.53.46.png)
 
 **Case : Fast Afib**
 
-![Screenshot 2020-06-10 at 13.54.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2013.54.41.png)
+![Screenshot 2020-06-10 at 13.54.41](figures/Screenshot%202020-06-10%20at%2013.54.41.png)
 
 
 
@@ -691,13 +691,13 @@ Key diagnostic features include ST depression and peaked T waves in the precordi
 
 - T-wave inversion HTN, LVH, 
 
-![Screenshot 2020-06-10 at 13.56.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2013.56.10.png)
+![Screenshot 2020-06-10 at 13.56.10](figures/Screenshot%202020-06-10%20at%2013.56.10.png)
 
 
 
 **Case: RBBB**
 
-![Screenshot 2020-06-10 at 13.58.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2013.58.28.png)
+![Screenshot 2020-06-10 at 13.58.28](figures/Screenshot%202020-06-10%20at%2013.58.28.png)
 
 - ST depression and Slurred S wave are part of RBBB
 
@@ -705,7 +705,7 @@ Key diagnostic features include ST depression and peaked T waves in the precordi
 
 **Case: VT**
 
-![Screenshot 2020-06-10 at 14.06.06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.06.06.png)
+![Screenshot 2020-06-10 at 14.06.06](figures/Screenshot%202020-06-10%20at%2014.06.06.png)
 
 
 
@@ -713,51 +713,51 @@ Key diagnostic features include ST depression and peaked T waves in the precordi
 
 **Case: Atrial Flutter**
 
-![Screenshot 2020-06-10 at 14.08.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.08.44.png)
+![Screenshot 2020-06-10 at 14.08.44](figures/Screenshot%202020-06-10%20at%2014.08.44.png)
 
 
 
 **Case: Fronto-lateral MI**
 
-![Screenshot 2020-06-10 at 14.09.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.09.17.png)
+![Screenshot 2020-06-10 at 14.09.17](figures/Screenshot%202020-06-10%20at%2014.09.17.png)
 
 - Poor R progression
 
 **Case: Inferior with posterior AMI**
 
-![Screenshot 2020-06-10 at 14.17.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.17.22.png)
+![Screenshot 2020-06-10 at 14.17.22](figures/Screenshot%202020-06-10%20at%2014.17.22.png)
 
 - Do Right sided leads 
 - Right ventricular infarct, becomes preload dependent, worry GTN
 - Be careful about fluids
 - Interior MI is associated with bradycardia
 
-![Screenshot 2020-06-10 at 14.29.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.29.15.png)
+![Screenshot 2020-06-10 at 14.29.15](figures/Screenshot%202020-06-10%20at%2014.29.15.png)
 
 
 
 Case: normal ECG
 
-![Screenshot 2020-06-10 at 14.30.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.30.27.png)
+![Screenshot 2020-06-10 at 14.30.27](figures/Screenshot%202020-06-10%20at%2014.30.27.png)
 
 
 
 Case: Is this MI? LBBB
 
-![Screenshot 2020-06-10 at 14.33.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.33.56.png)
+![Screenshot 2020-06-10 at 14.33.56](figures/Screenshot%202020-06-10%20at%2014.33.56.png)
 
 - Use sgarbossa criteria if patient has chest pain
-- ![Screenshot 2020-06-10 at 14.37.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.37.13.png)
+- ![Screenshot 2020-06-10 at 14.37.13](figures/Screenshot%202020-06-10%20at%2014.37.13.png)
 
 Case
 
-![Screenshot 2020-06-10 at 14.39.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.39.08.png)
+![Screenshot 2020-06-10 at 14.39.08](figures/Screenshot%202020-06-10%20at%2014.39.08.png)
 
 - RBBB with ST elevation
 
 **Case: Complete heart block**
 
-![Screenshot 2020-06-10 at 14.28.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-10%20at%2014.28.17.png)
+![Screenshot 2020-06-10 at 14.28.17](figures/Screenshot%202020-06-10%20at%2014.28.17.png)
 
 
 
@@ -890,7 +890,7 @@ The sample is routinely obtained from the radial artery and it is recognised tha
 
 - HAGMA
 
-  ![High anion gap metabolic acidosis - Wikipedia](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/1200px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png)
+  ![High anion gap metabolic acidosis - Wikipedia](figures/1200px-Cat_mudpiles_-_causes_of_high_anion-gap_metabolic_acidosis.svg.png)
 
 
 
@@ -949,7 +949,7 @@ X-ray densities
 | ----- | --------- | ------------------- | ------------------ | ----- |
 | gas   | fat       | Soft tissue / Fluid | Bone calcification | Metal |
 
-![inv-radio-abdox-ray](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/inv-radio-abdox-ray.png)
+![inv-radio-abdox-ray](figures/inv-radio-abdox-ray.png)
 
 - **Bowel gas pattern**
 
@@ -966,7 +966,7 @@ X-ray densities
   | Mucosal / wall pattern | Rugal folds: mucosa and submucosa forming thick ridges | Valvular conniventes - mucosal folds cross full width; closely spaced in jejunum and widely spaced in ileum | Haustra - sacculations formed in spaces between taeniae coli; do not cross entire width |
   | Size / diameter        | Variable                                               | 3 cm                                                         | 6 cm (caecum 9 cm)                                           |
 
-  ![inv-abdo-xray](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/inv-abdo-xray.png)
+  ![inv-abdo-xray](figures/inv-abdo-xray.png)
 
 - 5 Locations of extra-luminal air
 
@@ -1052,16 +1052,16 @@ X-ray densities
 
 | Signs                                                        | Diagnosis                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Staghorn calculi![Screenshot 2020-06-07 at 14.22.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.22.13.png) |                                                              |
-| ![Screenshot 2020-06-07 at 14.25.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.25.12.png) | Patient with stag horn calculi and fever, emphysematous pyelonephritis |
-| ![Screenshot 2020-06-07 at 14.27.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.27.47.png) | hepatosplenomegaly                                           |
-| ![Screenshot 2020-06-07 at 14.33.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.33.04.png) | Small bowel obstruction                                      |
-| ![Screenshot 2020-06-07 at 14.42.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.42.13.png) | Portal venous gas, dilated bowel secondary to ileum, intramural gas, perforation = ischemia |
-| ![Screenshot 2020-06-07 at 14.34.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.34.37.png) | Large bowel obstruction                                      |
-| ![Screenshot 2020-06-07 at 14.35.14](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.35.14.png) | Sigmoid volvulus coffee bean;<br />Endoscopic decompression may be done in stable patient, and exploratory laparotomy. <br />Common surgical emergency, elderly with chronic constipation and redundant sigmoid loops; closed-loop obstruction (competent ileocaecal valve may result in additional closed-loop) |
-| ![Screenshot 2020-06-07 at 14.40.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.40.46.png) | Caecum volvulus; large bowels are collapsed in contrast to sigmoid volvulus |
-| ![Screenshot 2020-06-07 at 14.46.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.46.56.png)![Screenshot 2020-06-07 at 14.47.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.47.21.png) | Perforation, pneumoperitoneum with air under the diaphragm, hyperlucent liver sign, Rigler's sign |
-| ![Screenshot 2020-06-07 at 14.52.00](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2014.52.00.png) | Intussusception, invagination of bowel into lumen of more distal bowel; most commonly 6 months to 2 years (no lead point); look at the target sign |
+| Staghorn calculi![Screenshot 2020-06-07 at 14.22.13](figures/Screenshot%202020-06-07%20at%2014.22.13.png) |                                                              |
+| ![Screenshot 2020-06-07 at 14.25.12](figures/Screenshot%202020-06-07%20at%2014.25.12.png) | Patient with stag horn calculi and fever, emphysematous pyelonephritis |
+| ![Screenshot 2020-06-07 at 14.27.47](figures/Screenshot%202020-06-07%20at%2014.27.47.png) | hepatosplenomegaly                                           |
+| ![Screenshot 2020-06-07 at 14.33.04](figures/Screenshot%202020-06-07%20at%2014.33.04.png) | Small bowel obstruction                                      |
+| ![Screenshot 2020-06-07 at 14.42.13](figures/Screenshot%202020-06-07%20at%2014.42.13.png) | Portal venous gas, dilated bowel secondary to ileum, intramural gas, perforation = ischemia |
+| ![Screenshot 2020-06-07 at 14.34.37](figures/Screenshot%202020-06-07%20at%2014.34.37.png) | Large bowel obstruction                                      |
+| ![Screenshot 2020-06-07 at 14.35.14](figures/Screenshot%202020-06-07%20at%2014.35.14.png) | Sigmoid volvulus coffee bean;<br />Endoscopic decompression may be done in stable patient, and exploratory laparotomy. <br />Common surgical emergency, elderly with chronic constipation and redundant sigmoid loops; closed-loop obstruction (competent ileocaecal valve may result in additional closed-loop) |
+| ![Screenshot 2020-06-07 at 14.40.46](figures/Screenshot%202020-06-07%20at%2014.40.46.png) | Caecum volvulus; large bowels are collapsed in contrast to sigmoid volvulus |
+| ![Screenshot 2020-06-07 at 14.46.56](figures/Screenshot%202020-06-07%20at%2014.46.56.png)![Screenshot 2020-06-07 at 14.47.21](figures/Screenshot%202020-06-07%20at%2014.47.21.png) | Perforation, pneumoperitoneum with air under the diaphragm, hyperlucent liver sign, Rigler's sign |
+| ![Screenshot 2020-06-07 at 14.52.00](figures/Screenshot%202020-06-07%20at%2014.52.00.png) | Intussusception, invagination of bowel into lumen of more distal bowel; most commonly 6 months to 2 years (no lead point); look at the target sign |
 |                                                              |                                                              |
 
 - Majority radioopaque x-ray almost all visible on CT, smooth ovoid, linear or staghorm
@@ -1079,7 +1079,7 @@ X-ray densities
 
 ### Body Imaging, Chest
 
-![Screenshot 2020-06-06 at 16.02.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.02.22.png)
+![Screenshot 2020-06-06 at 16.02.22](figures/Screenshot%202020-06-06%20at%2016.02.22.png)
 
 - 5 radiographics densities
   - Air
@@ -1087,7 +1087,7 @@ X-ray densities
   - Water / soft tissue
   - Bone
   - Metal
-- ![Screenshot 2020-06-06 at 16.04.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.04.44.png)
+- ![Screenshot 2020-06-06 at 16.04.44](figures/Screenshot%202020-06-06%20at%2016.04.44.png)
 
 - Same density processes or structures efface one another
 - Position matters
@@ -1095,7 +1095,7 @@ X-ray densities
 
 
 
-![Screenshot 2020-06-06 at 16.10.20](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.10.20.png)
+![Screenshot 2020-06-06 at 16.10.20](figures/Screenshot%202020-06-06%20at%2016.10.20.png)
 
 General principles for reviewing X-rays
 
@@ -1198,7 +1198,7 @@ Contrasted scans for the chest, abdomen and pelvis by far have greater utility t
 
 | Signs                                                        | Diagnosis       |
 | ------------------------------------------------------------ | --------------- |
-| Lytic lesions in the ribs![invest-cxr-bonemets](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/invest-cxr-bonemets.png) | Bone metastasis |
+| Lytic lesions in the ribs![invest-cxr-bonemets](figures/invest-cxr-bonemets.png) | Bone metastasis |
 
 
 
@@ -1206,46 +1206,46 @@ Contrasted scans for the chest, abdomen and pelvis by far have greater utility t
 
 
 
-![Screenshot 2020-06-07 at 15.10.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.10.17.png)
+![Screenshot 2020-06-07 at 15.10.17](figures/Screenshot%202020-06-07%20at%2015.10.17.png)
 
 - Lines should be smooth
 - Unfused apophysis can be seen in young patients
-- ![Screenshot 2020-06-07 at 15.22.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.22.13.png)
+- ![Screenshot 2020-06-07 at 15.22.13](figures/Screenshot%202020-06-07%20at%2015.22.13.png)
 
 - TLICS Thoraco-lumbar Injury Classification and Severity Score 
 
-![Screenshot 2020-06-07 at 15.23.52](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.23.52.png)
+![Screenshot 2020-06-07 at 15.23.52](figures/Screenshot%202020-06-07%20at%2015.23.52.png)
 
 
 
 | Sign                                                         | Condition                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Screenshot 2020-06-07 at 15.11.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.11.27.png) | Communicated calcaneal fracture                              |
-| ![Screenshot 2020-06-07 at 15.12.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.12.41.png) | Left pubic bone fracture and widened sacroiliac joint (diathesis) - the osseous and ligamentous components of the pelvis cause it to act like a ring, injury at a location should prompt searching for injury at another location |
+| ![Screenshot 2020-06-07 at 15.11.27](figures/Screenshot%202020-06-07%20at%2015.11.27.png) | Communicated calcaneal fracture                              |
+| ![Screenshot 2020-06-07 at 15.12.41](figures/Screenshot%202020-06-07%20at%2015.12.41.png) | Left pubic bone fracture and widened sacroiliac joint (diathesis) - the osseous and ligamentous components of the pelvis cause it to act like a ring, injury at a location should prompt searching for injury at another location |
 | ![Screenshot 2020-06-07 at 15.16.19](/Users/jzan/Library/Application%20Support/typora-user-images/Screenshot%202020-06-07%20at%2015.18.48.png) | L2 burst fracture                                            |
-| ![Screenshot 2020-06-07 at 15.19.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.19.21.png) | L2 burst fracture with surrounding edema and caudal equina compression |
-| ![Screenshot 2020-06-07 at 15.26.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.26.13.png) | T10 anterior translation, T11 fractured,                     |
-| ![Screenshot 2020-06-07 at 15.33.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.33.22.png) | Vertebral fracture with epidural hematoma (Slightly bright on T1) resulting in cord compression |
-| ![Screenshot 2020-06-07 at 15.35.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.35.25.png) | Ankylosing spondylosis patients are very prone to trauma induced fracture due to altered biomechanics |
-| ![Screenshot 2020-06-07 at 15.38.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.38.32.png)![Screenshot 2020-06-07 at 15.40.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.40.24.png)![Screenshot 2020-06-07 at 15.39.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.39.23.png) | Mets, look for primary                                       |
-| ![Screenshot 2020-06-07 at 15.41.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.41.19.png) | Another case of mets                                         |
-| ![Screenshot 2020-06-07 at 15.44.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.44.10.png)![Screenshot 2020-06-07 at 15.44.38](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.44.38.png)![Screenshot 2020-06-07 at 15.46.20](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2015.46.20.png) | Disc space narrowing, X-ray with opacity with central lucency, cystic with small nodules around it called tree in bud, indicate small airway disease favouring inflammatory / infectious ethology, disruption of the vertebrae, necrotic psoas muscle; ***spondylodiscitis***; drainage of psoas abscess; consider Staph aureus and TB |
-| ![Screenshot 2020-06-07 at 16.18.05](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.18.05.png) | avascular necrosis<br />Alcohol, SLE / sickle cell, exogenous steroids, pancreatitis, trauma, infection, Caisson disease |
-| ![Screenshot 2020-06-07 at 16.21.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.21.48.png)![Screenshot 2020-06-07 at 16.22.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.22.25.png) | Fat fluid level, tibea plateau fracture with lipohaemarthrosis; very specific but not sensitive for intra-arthrotic fracture<br />Osseofascial compartment pressure rising. Emergent fasciotomy is needed. <br />Fractures involving arms and leg look for second injury, remember it is a ring |
-| ![Screenshot 2020-06-07 at 16.26.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.26.28.png) | Supracondylar fracture<br />Anterior and posterior fat pads, the latter is NOT normal. Elbow dislocation is a differential but NOT common. |
-| ![Screenshot 2020-06-07 at 16.30.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.30.44.png) | boxer's fracture                                             |
-| ![Screenshot 2020-06-07 at 16.32.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.32.22.png) |                                                              |
-| ![Screenshot 2020-06-07 at 16.33.54](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.33.54.png)![Screenshot 2020-06-07 at 16.35.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.35.12.png) | Sunburst, sclerotic, lifting of periosteneum: osteosarcoma   |
-| ![Screenshot 2020-06-07 at 16.36.18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.36.18.png) | oscius mets to the lung                                      |
-| ![Screenshot 2020-06-07 at 16.37.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.37.49.png) | Soft tissue loss, air tracking: osteomyelitis; osteomyelitis is a clinical diagnosis; treat with ray amputation |
-| ![Screenshot 2020-06-07 at 16.39.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.39.15.png) | Air in soft tissue; arranged MRI ned fas, treated with IV antibiotics; Often polymicrobial; Risk factor is immune suppression (esp diabetes); imaging is NOT required for diagnosis or treatment, treat emergency debridement is required. |
-| ![Screenshot 2020-06-07 at 16.41.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.41.36.png)![Screenshot 2020-06-07 at 16.43.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.43.57.png) | Prosthetic loosening; aseptic osteolysis; parallel lucency greater than 2 mm at the bone-prosthetic interface, progressive linear lucency after 2 years postoperatively; change in position of arthroplastic |
-| ![Screenshot 2020-06-07 at 16.44.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.44.58.png) | periprosthetic fracture                                      |
-| ![Screenshot 2020-06-07 at 16.45.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.45.35.png) | Besides fixing the fracture, need to review medication, including analgesics. Bisphosphonate related fracture - the other leg has abnormal thickening, focal lateral cortical thickening, in history there is minimal trauma; |
-| ![Screenshot 2020-06-07 at 16.48.54](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.48.54.png) | Avulsion injury; frequent cause of hip pain in adolescents involved in sports. At this age the tendons are generally stronger than the apophyses. |
-| ![Screenshot 2020-06-07 at 16.49.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.49.44.png) | Pathological fracture; worry malignant lesion, look at other bones |
-| ![Screenshot 2020-06-07 at 16.51.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.51.17.png)![Screenshot 2020-06-07 at 16.53.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.53.04.png) | Young person, bilateral knee pain. There are bilateral stress fractures. |
-| ![Screenshot 2020-06-07 at 16.54.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-07%20at%2016.54.04.png) |                                                              |
+| ![Screenshot 2020-06-07 at 15.19.21](figures/Screenshot%202020-06-07%20at%2015.19.21.png) | L2 burst fracture with surrounding edema and caudal equina compression |
+| ![Screenshot 2020-06-07 at 15.26.13](figures/Screenshot%202020-06-07%20at%2015.26.13.png) | T10 anterior translation, T11 fractured,                     |
+| ![Screenshot 2020-06-07 at 15.33.22](figures/Screenshot%202020-06-07%20at%2015.33.22.png) | Vertebral fracture with epidural hematoma (Slightly bright on T1) resulting in cord compression |
+| ![Screenshot 2020-06-07 at 15.35.25](figures/Screenshot%202020-06-07%20at%2015.35.25.png) | Ankylosing spondylosis patients are very prone to trauma induced fracture due to altered biomechanics |
+| ![Screenshot 2020-06-07 at 15.38.32](figures/Screenshot%202020-06-07%20at%2015.38.32.png)![Screenshot 2020-06-07 at 15.40.24](figures/Screenshot%202020-06-07%20at%2015.40.24.png)![Screenshot 2020-06-07 at 15.39.23](figures/Screenshot%202020-06-07%20at%2015.39.23.png) | Mets, look for primary                                       |
+| ![Screenshot 2020-06-07 at 15.41.19](figures/Screenshot%202020-06-07%20at%2015.41.19.png) | Another case of mets                                         |
+| ![Screenshot 2020-06-07 at 15.44.10](figures/Screenshot%202020-06-07%20at%2015.44.10.png)![Screenshot 2020-06-07 at 15.44.38](figures/Screenshot%202020-06-07%20at%2015.44.38.png)![Screenshot 2020-06-07 at 15.46.20](figures/Screenshot%202020-06-07%20at%2015.46.20.png) | Disc space narrowing, X-ray with opacity with central lucency, cystic with small nodules around it called tree in bud, indicate small airway disease favouring inflammatory / infectious ethology, disruption of the vertebrae, necrotic psoas muscle; ***spondylodiscitis***; drainage of psoas abscess; consider Staph aureus and TB |
+| ![Screenshot 2020-06-07 at 16.18.05](figures/Screenshot%202020-06-07%20at%2016.18.05.png) | avascular necrosis<br />Alcohol, SLE / sickle cell, exogenous steroids, pancreatitis, trauma, infection, Caisson disease |
+| ![Screenshot 2020-06-07 at 16.21.48](figures/Screenshot%202020-06-07%20at%2016.21.48.png)![Screenshot 2020-06-07 at 16.22.25](figures/Screenshot%202020-06-07%20at%2016.22.25.png) | Fat fluid level, tibea plateau fracture with lipohaemarthrosis; very specific but not sensitive for intra-arthrotic fracture<br />Osseofascial compartment pressure rising. Emergent fasciotomy is needed. <br />Fractures involving arms and leg look for second injury, remember it is a ring |
+| ![Screenshot 2020-06-07 at 16.26.28](figures/Screenshot%202020-06-07%20at%2016.26.28.png) | Supracondylar fracture<br />Anterior and posterior fat pads, the latter is NOT normal. Elbow dislocation is a differential but NOT common. |
+| ![Screenshot 2020-06-07 at 16.30.44](figures/Screenshot%202020-06-07%20at%2016.30.44.png) | boxer's fracture                                             |
+| ![Screenshot 2020-06-07 at 16.32.22](figures/Screenshot%202020-06-07%20at%2016.32.22.png) |                                                              |
+| ![Screenshot 2020-06-07 at 16.33.54](figures/Screenshot%202020-06-07%20at%2016.33.54.png)![Screenshot 2020-06-07 at 16.35.12](figures/Screenshot%202020-06-07%20at%2016.35.12.png) | Sunburst, sclerotic, lifting of periosteneum: osteosarcoma   |
+| ![Screenshot 2020-06-07 at 16.36.18](figures/Screenshot%202020-06-07%20at%2016.36.18.png) | oscius mets to the lung                                      |
+| ![Screenshot 2020-06-07 at 16.37.49](figures/Screenshot%202020-06-07%20at%2016.37.49.png) | Soft tissue loss, air tracking: osteomyelitis; osteomyelitis is a clinical diagnosis; treat with ray amputation |
+| ![Screenshot 2020-06-07 at 16.39.15](figures/Screenshot%202020-06-07%20at%2016.39.15.png) | Air in soft tissue; arranged MRI ned fas, treated with IV antibiotics; Often polymicrobial; Risk factor is immune suppression (esp diabetes); imaging is NOT required for diagnosis or treatment, treat emergency debridement is required. |
+| ![Screenshot 2020-06-07 at 16.41.36](figures/Screenshot%202020-06-07%20at%2016.41.36.png)![Screenshot 2020-06-07 at 16.43.57](figures/Screenshot%202020-06-07%20at%2016.43.57.png) | Prosthetic loosening; aseptic osteolysis; parallel lucency greater than 2 mm at the bone-prosthetic interface, progressive linear lucency after 2 years postoperatively; change in position of arthroplastic |
+| ![Screenshot 2020-06-07 at 16.44.58](figures/Screenshot%202020-06-07%20at%2016.44.58.png) | periprosthetic fracture                                      |
+| ![Screenshot 2020-06-07 at 16.45.35](figures/Screenshot%202020-06-07%20at%2016.45.35.png) | Besides fixing the fracture, need to review medication, including analgesics. Bisphosphonate related fracture - the other leg has abnormal thickening, focal lateral cortical thickening, in history there is minimal trauma; |
+| ![Screenshot 2020-06-07 at 16.48.54](figures/Screenshot%202020-06-07%20at%2016.48.54.png) | Avulsion injury; frequent cause of hip pain in adolescents involved in sports. At this age the tendons are generally stronger than the apophyses. |
+| ![Screenshot 2020-06-07 at 16.49.44](figures/Screenshot%202020-06-07%20at%2016.49.44.png) | Pathological fracture; worry malignant lesion, look at other bones |
+| ![Screenshot 2020-06-07 at 16.51.17](figures/Screenshot%202020-06-07%20at%2016.51.17.png)![Screenshot 2020-06-07 at 16.53.04](figures/Screenshot%202020-06-07%20at%2016.53.04.png) | Young person, bilateral knee pain. There are bilateral stress fractures. |
+| ![Screenshot 2020-06-07 at 16.54.04](figures/Screenshot%202020-06-07%20at%2016.54.04.png) |                                                              |
 
 - Galeazzi fracture. Maisonneuvre fracture, Pilon fracture, Segound fracture etc
 - Fatigue, insufficiency, stress fractures; often missed and even when no clinical history given. 
@@ -1380,23 +1380,23 @@ Caution: Blind spots easily missed in CXR
 - Patient is taking in a deep breath - 9 / 10 posterior ribs; so that atelectasis is pathological if seen
 - In CXR don't use lobes, say zones, 
 
-![Screenshot 2020-06-06 at 16.14.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.14.44.png)
+![Screenshot 2020-06-06 at 16.14.44](figures/Screenshot%202020-06-06%20at%2016.14.44.png)
 
 
 
 - Mediastinal outline - go for veins, artery, heart
 
-![Screenshot 2020-06-06 at 16.15.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.15.53.png)
+![Screenshot 2020-06-06 at 16.15.53](figures/Screenshot%202020-06-06%20at%2016.15.53.png)
 
-![Screenshot 2020-06-06 at 16.16.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.16.13.png)
+![Screenshot 2020-06-06 at 16.16.13](figures/Screenshot%202020-06-06%20at%2016.16.13.png)
 
 
 
 Cases: 56M, 2 days of fever, cough and anosmia
 
-![Screenshot 2020-06-06 at 16.19.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.19.17.png)
+![Screenshot 2020-06-06 at 16.19.17](figures/Screenshot%202020-06-06%20at%2016.19.17.png)
 
-![Screenshot 2020-06-06 at 16.21.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.21.43.png)
+![Screenshot 2020-06-06 at 16.21.43](figures/Screenshot%202020-06-06%20at%2016.21.43.png)
 
 
 
@@ -1406,17 +1406,17 @@ Case: Nursing home resident, Fever 3 days
 - Vascular marking is obscured
 - Linear band on the lower left is called a linear atelectasis; which may indicate that a patient didn't take breath adequately to inflate the lungs when taking the CXR
 
-![Screenshot 2020-06-06 at 16.25.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.25.12.png)
+![Screenshot 2020-06-06 at 16.25.12](figures/Screenshot%202020-06-06%20at%2016.25.12.png)
 
-![Screenshot 2020-06-06 at 16.22.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.22.25.png)
+![Screenshot 2020-06-06 at 16.22.25](figures/Screenshot%202020-06-06%20at%2016.22.25.png)
 
 
 
-Lobe collapses![Screenshot 2020-06-06 at 16.28.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.28.44.png)
+Lobe collapses![Screenshot 2020-06-06 at 16.28.44](figures/Screenshot%202020-06-06%20at%2016.28.44.png)
 
-![Screenshot 2020-06-06 at 16.27.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.27.49.png)
+![Screenshot 2020-06-06 at 16.27.49](figures/Screenshot%202020-06-06%20at%2016.27.49.png)
 
-![Screenshot 2020-06-06 at 16.28.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.28.08.png)
+![Screenshot 2020-06-06 at 16.28.08](figures/Screenshot%202020-06-06%20at%2016.28.08.png)
 
 
 
@@ -1427,20 +1427,20 @@ Trauma
 - Lung contusion
 - Flail chest
 
-![Screenshot 2020-06-06 at 16.30.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.30.16.png)
+![Screenshot 2020-06-06 at 16.30.16](figures/Screenshot%202020-06-06%20at%2016.30.16.png)
 
 Injury patterns on CXR indicate underlying soft tissue injury; 
 
 
 
-Case:  ![Screenshot 2020-06-06 at 16.33.29](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.33.29.png)
+Case:  ![Screenshot 2020-06-06 at 16.33.29](figures/Screenshot%202020-06-06%20at%2016.33.29.png)
 
 - Cannon ball appearance
 - Small amount of gas - normal in the context of recently inserted chest drain
 - Pneumothorax - both left and right
 - Satisfaction of reach - have a systemic way to review the film
 - Position dependent again
-- ![Screenshot 2020-06-06 at 16.36.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.36.45.png)
+- ![Screenshot 2020-06-06 at 16.36.45](figures/Screenshot%202020-06-06%20at%2016.36.45.png)
 
 
 
@@ -1450,13 +1450,13 @@ Aortic Dissection:
 - Double wall sign
 - 
 
-![Screenshot 2020-06-06 at 16.38.54](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.38.54.png)
+![Screenshot 2020-06-06 at 16.38.54](figures/Screenshot%202020-06-06%20at%2016.38.54.png)
 
 - Arrange CT angiogram
 
-![Screenshot 2020-06-06 at 16.39.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.39.59.png)
+![Screenshot 2020-06-06 at 16.39.59](figures/Screenshot%202020-06-06%20at%2016.39.59.png)
 
-![Screenshot 2020-06-06 at 16.40.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.40.34.png)
+![Screenshot 2020-06-06 at 16.40.34](figures/Screenshot%202020-06-06%20at%2016.40.34.png)
 
 - Aortic dissection is not uncommon, Amy be rapidly fatal
 - Have a high index of suspicion with the appropriate clinical symptoms
@@ -1467,12 +1467,12 @@ Epigastric Pain
 
 
 
-![Screenshot 2020-06-06 at 16.41.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.41.57.png)
+![Screenshot 2020-06-06 at 16.41.57](figures/Screenshot%202020-06-06%20at%2016.41.57.png)
 
 - Peanut shape lucency
 - Hiatal hernia
 
-![Screenshot 2020-06-06 at 16.46.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.46.24.png)
+![Screenshot 2020-06-06 at 16.46.24](figures/Screenshot%202020-06-06%20at%2016.46.24.png)
 
 - Cardiomegaly with double density sign (left atrial enlargement)
 - Upper lobe venous distension
@@ -1480,15 +1480,15 @@ Epigastric Pain
 - Bat winging
 - Pleural effusions - may be caught in oblique fissure
 
-![Screenshot 2020-06-06 at 16.45.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.45.46.png)
+![Screenshot 2020-06-06 at 16.45.46](figures/Screenshot%202020-06-06%20at%2016.45.46.png)
 
-![Screenshot 2020-06-06 at 16.47.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.47.36.png)![Screenshot 2020-06-06 at 16.48.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.48.11.png)
+![Screenshot 2020-06-06 at 16.47.36](figures/Screenshot%202020-06-06%20at%2016.47.36.png)![Screenshot 2020-06-06 at 16.48.11](figures/Screenshot%202020-06-06%20at%2016.48.11.png)
 
 
 
-![Screenshot 2020-06-06 at 16.48.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.48.33.png)
+![Screenshot 2020-06-06 at 16.48.33](figures/Screenshot%202020-06-06%20at%2016.48.33.png)
 
-![Screenshot 2020-06-06 at 16.49.05](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2016.49.05.png)
+![Screenshot 2020-06-06 at 16.49.05](figures/Screenshot%202020-06-06%20at%2016.49.05.png)
 
 
 
@@ -1916,7 +1916,7 @@ Basic Anatomy
 
 - Territaries of cerebral arteries
 
-  ![Screenshot 2020-06-06 at 14.16.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.16.48.png)Cerebrellar tonsils cannot be below the foramen magnum
+  ![Screenshot 2020-06-06 at 14.16.48](figures/Screenshot%202020-06-06%20at%2014.16.48.png)Cerebrellar tonsils cannot be below the foramen magnum
 
 
 
@@ -1944,7 +1944,7 @@ Left anterior cerebral artery infarct involving the paramedian frontal lobe
 - Loss of grey-white differentiation
 - Cortical swelling and sulk effacement
 - 
-- ![Screenshot 2020-06-06 at 14.14.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.14.37.png)
+- ![Screenshot 2020-06-06 at 14.14.37](figures/Screenshot%202020-06-06%20at%2014.14.37.png)
 
 Case 2 : Left vital homonymous hemianopia
 
@@ -1964,13 +1964,13 @@ Case 3: Left sided weakness
 - Within thrombolysis is 4.5 hours and thrombectomy is 24 hours
   - Additional considerations: patient’s cormorbidities, NIHSS score, contraindication to thrombolysis, extent of infarct, any hemorrhagic conversion
   - ASPECT score to assess the extent of infarct at the midbrain level
-    - Divide MCA territory ![Screenshot 2020-06-06 at 14.24.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.24.48.png)
+    - Divide MCA territory ![Screenshot 2020-06-06 at 14.24.48](figures/Screenshot%202020-06-06%20at%2014.24.48.png)
     - Then consider the deep nuclei and internal capsule for the remaining 4 points
     - 10 means all areas are fine
 
-![Screenshot 2020-06-06 at 14.20.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.20.48.png)
+![Screenshot 2020-06-06 at 14.20.48](figures/Screenshot%202020-06-06%20at%2014.20.48.png)
 
-![Screenshot 2020-06-06 at 14.23.03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.23.03.png)
+![Screenshot 2020-06-06 at 14.23.03](figures/Screenshot%202020-06-06%20at%2014.23.03.png)
 
 
 
@@ -1978,9 +1978,9 @@ Case 3: Left sided weakness
 
 - Check DWI sequence and CT on admission
 
-![Screenshot 2020-06-06 at 14.26.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.26.02.png)
+![Screenshot 2020-06-06 at 14.26.02](figures/Screenshot%202020-06-06%20at%2014.26.02.png)
 
-**![Screenshot 2020-06-06 at 14.26.29](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.26.29.png)**
+**![Screenshot 2020-06-06 at 14.26.29](figures/Screenshot%202020-06-06%20at%2014.26.29.png)**
 
 Case: 48 M with HTN presents with seizure GSC 3
 
@@ -1990,11 +1990,11 @@ Case: 48 M with HTN presents with seizure GSC 3
 - Pupils became fixed and dilated with absence of brainstem reflexes
 - Posterior fossa is a small anatomical space, increased mass effect can quickly lead to hydrocephalus, and  death.
 
-![Screenshot 2020-06-06 at 14.27.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.27.48.png)
+![Screenshot 2020-06-06 at 14.27.48](figures/Screenshot%202020-06-06%20at%2014.27.48.png)
 
-![Screenshot 2020-06-06 at 14.30.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.30.04.png)
+![Screenshot 2020-06-06 at 14.30.04](figures/Screenshot%202020-06-06%20at%2014.30.04.png)
 
-![Screenshot 2020-06-06 at 14.30.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.30.36.png)
+![Screenshot 2020-06-06 at 14.30.36](figures/Screenshot%202020-06-06%20at%2014.30.36.png)
 
 Case 5 
 
@@ -2012,20 +2012,20 @@ Complications of ischemic stroke
 
 Identify the ischmeic stroke, itendiy vascular territory, look for complications
 
-![Screenshot 2020-06-06 at 14.35.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.35.23.png)
+![Screenshot 2020-06-06 at 14.35.23](figures/Screenshot%202020-06-06%20at%2014.35.23.png)
 
 Case 6: 83 F fall, drowsy and speech problem
 
 - Hyperdensity over the right cerebral
 - Acute subdural hematoma
 
-![Screenshot 2020-06-06 at 14.34.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.34.57.png)
+![Screenshot 2020-06-06 at 14.34.57](figures/Screenshot%202020-06-06%20at%2014.34.57.png)
 
 - Epidural hematoma is often associated with a fracture
 
   - More risk for rapid expansion than SDH
 
-  ![Screenshot 2020-06-06 at 14.36.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.36.21.png)
+  ![Screenshot 2020-06-06 at 14.36.21](figures/Screenshot%202020-06-06%20at%2014.36.21.png)
 
 
 
@@ -2037,7 +2037,7 @@ Case: 55 yo suden onset headache and left sided weakness
   - Do CT cerebral angiogram, likely due to ruptured aneurysm
 - Causes if ICH - aneurysm is the most common especially at branching areas with high hemodynamic stress
 
-![Screenshot 2020-06-06 at 14.38.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.38.41.png)
+![Screenshot 2020-06-06 at 14.38.41](figures/Screenshot%202020-06-06%20at%2014.38.41.png)
 
 Case 8: 62 M, GSC 5, not moving
 
@@ -2053,13 +2053,13 @@ Case 8: 62 M, GSC 5, not moving
 
 - 
 
-  ![Screenshot 2020-06-06 at 14.40.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.40.16.png)
+  ![Screenshot 2020-06-06 at 14.40.16](figures/Screenshot%202020-06-06%20at%2014.40.16.png)
 
-- ![Screenshot 2020-06-06 at 14.42.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.42.21.png)
+- ![Screenshot 2020-06-06 at 14.42.21](figures/Screenshot%202020-06-06%20at%2014.42.21.png)
 
 - Involusion over time
 
-![Screenshot 2020-06-06 at 14.43.25](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.43.25.png)
+![Screenshot 2020-06-06 at 14.43.25](figures/Screenshot%202020-06-06%20at%2014.43.25.png)
 
 
 
@@ -2072,7 +2072,7 @@ Case 9: 40 year old lady accompanied by husband, increased lethargy
 
 - Hx of breast CA
 
-![Screenshot 2020-06-06 at 14.46.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.46.24.png)
+![Screenshot 2020-06-06 at 14.46.24](figures/Screenshot%202020-06-06%20at%2014.46.24.png)
 
 
 
@@ -2085,9 +2085,9 @@ Case 10: 29 y/o man presents with intermittent right arm numbness
 - After contrast, we can see meningioma
 - 
 
-![Screenshot 2020-06-06 at 14.47.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.47.12.png)![Screenshot 2020-06-06 at 14.48.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.48.53.png)
+![Screenshot 2020-06-06 at 14.47.12](figures/Screenshot%202020-06-06%20at%2014.47.12.png)![Screenshot 2020-06-06 at 14.48.53](figures/Screenshot%202020-06-06%20at%2014.48.53.png)
 
-![Screenshot 2020-06-06 at 14.48.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.48.19.png)
+![Screenshot 2020-06-06 at 14.48.19](figures/Screenshot%202020-06-06%20at%2014.48.19.png)
 
 - Ddx: Feds or adult
 - Intraaxial or extraaxial?
@@ -2099,11 +2099,11 @@ Mass effects
   - Volume of three components (brain, CSF, blood) nearly constant in a state of dynamic equilibrium
   - Decrease in one component should be compensated by the increase in the other and vice-a-versa
 
-![Screenshot 2020-06-06 at 14.50.52](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.50.52.png)
+![Screenshot 2020-06-06 at 14.50.52](figures/Screenshot%202020-06-06%20at%2014.50.52.png)
 
-![Screenshot 2020-06-06 at 14.50.06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.50.06.png)
+![Screenshot 2020-06-06 at 14.50.06](figures/Screenshot%202020-06-06%20at%2014.50.06.png)
 
-![Screenshot 2020-06-06 at 14.51.14](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2014.51.14.png)
+![Screenshot 2020-06-06 at 14.51.14](figures/Screenshot%202020-06-06%20at%2014.51.14.png)
 
 Take home points
 
@@ -2285,7 +2285,7 @@ Posterior circulation infarct
 | Star Signs                                                   | SAH                         |
 |                                                              | Subdural hemorrhage         |
 |                                                              | Epidural hemorrhage         |
-| ![invest-brainct-1](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/invest-brainct-1.png) | Acute and chronic condition |
+| ![invest-brainct-1](figures/invest-brainct-1.png) | Acute and chronic condition |
 
 #### CT Angiography
 
@@ -2301,7 +2301,7 @@ CT myelogram: direct injection into the spinal canal, can see dural very well.
 
 Think of the spine as a very simple version of brain
 
-![Screenshot 2020-06-06 at 15.09.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.09.57.png)
+![Screenshot 2020-06-06 at 15.09.57](figures/Screenshot%202020-06-06%20at%2015.09.57.png)
 
 **Spinal anatomy**
 
@@ -2312,7 +2312,7 @@ Think of the spine as a very simple version of brain
   - Extramedullary, intramural: neoplastic
   - Extradural: tumor, degenerative process, infective and trauma
 
-**![Screenshot 2020-06-06 at 15.11.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.11.36.png)**
+**![Screenshot 2020-06-06 at 15.11.36](figures/Screenshot%202020-06-06%20at%2015.11.36.png)**
 
 **Approach to spinal lesions / pathology**
 
@@ -2362,17 +2362,17 @@ Case: Urinary retention
 
 Spine / bone radiographs: alignment - 2 orthogonal view; bone (contour density), cartilage (decreased), 
 
-![Screenshot 2020-06-06 at 15.17.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.17.36.png)
+![Screenshot 2020-06-06 at 15.17.36](figures/Screenshot%202020-06-06%20at%2015.17.36.png)
 
-![Screenshot 2020-06-06 at 15.20.51](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.20.51.png)
+![Screenshot 2020-06-06 at 15.20.51](figures/Screenshot%202020-06-06%20at%2015.20.51.png)
 
 T2 normal on the left, and T1 post contrast on the right
 
 
 
-![Screenshot 2020-06-06 at 15.21.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.21.36.png)
+![Screenshot 2020-06-06 at 15.21.36](figures/Screenshot%202020-06-06%20at%2015.21.36.png)
 
-![Screenshot 2020-06-06 at 15.22.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.22.19.png)
+![Screenshot 2020-06-06 at 15.22.19](figures/Screenshot%202020-06-06%20at%2015.22.19.png)
 
 
 
@@ -2380,45 +2380,45 @@ Case 2:  Chronic neck pain
 
 Bilateral neck pain and bilateral upper limb numbness
 
-![Screenshot 2020-06-06 at 15.23.52](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.23.52.png)
+![Screenshot 2020-06-06 at 15.23.52](figures/Screenshot%202020-06-06%20at%2015.23.52.png)
 
-![Screenshot 2020-06-06 at 15.24.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.24.44.png)
+![Screenshot 2020-06-06 at 15.24.44](figures/Screenshot%202020-06-06%20at%2015.24.44.png)
 
-![Screenshot 2020-06-06 at 15.25.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.25.13.png)
+![Screenshot 2020-06-06 at 15.25.13](figures/Screenshot%202020-06-06%20at%2015.25.13.png)
 
 Case: 30M upper limb weakness and bilateral hearing loss
 
-![Screenshot 2020-06-06 at 15.27.06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.27.06.png)
+![Screenshot 2020-06-06 at 15.27.06](figures/Screenshot%202020-06-06%20at%2015.27.06.png)
 
-![Screenshot 2020-06-06 at 15.30.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.30.02.png)
+![Screenshot 2020-06-06 at 15.30.02](figures/Screenshot%202020-06-06%20at%2015.30.02.png)
 
 Neurofibromatosis, npc type II
 
 
 
-![Screenshot 2020-06-06 at 15.30.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.30.49.png)
+![Screenshot 2020-06-06 at 15.30.49](figures/Screenshot%202020-06-06%20at%2015.30.49.png)
 
 - Meningitis cannot be diagnosed on imaging
 
-![Screenshot 2020-06-06 at 15.31.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.31.16.png)
+![Screenshot 2020-06-06 at 15.31.16](figures/Screenshot%202020-06-06%20at%2015.31.16.png)
 
 
 
 Case: 55M unsteady, decreased sensation in the chest over 3 months
 
-![Screenshot 2020-06-06 at 15.32.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.32.02.png)
+![Screenshot 2020-06-06 at 15.32.02](figures/Screenshot%202020-06-06%20at%2015.32.02.png)
 
-![Screenshot 2020-06-06 at 15.32.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.32.31.png)
+![Screenshot 2020-06-06 at 15.32.31](figures/Screenshot%202020-06-06%20at%2015.32.31.png)
 
-![Screenshot 2020-06-06 at 15.33.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.33.23.png)
+![Screenshot 2020-06-06 at 15.33.23](figures/Screenshot%202020-06-06%20at%2015.33.23.png)
 
 
 
 Case 5: 30 year old lady presented to you with episodic numbness of all limbs and recent urinary incontinence
 
-![Screenshot 2020-06-06 at 15.34.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.34.47.png)
+![Screenshot 2020-06-06 at 15.34.47](figures/Screenshot%202020-06-06%20at%2015.34.47.png)
 
-![Screenshot 2020-06-06 at 15.36.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.36.49.png)
+![Screenshot 2020-06-06 at 15.36.49](figures/Screenshot%202020-06-06%20at%2015.36.49.png)
 
 - Incomplete horseshoe enhancement and Dawson's fingers are characteristics
 
@@ -2437,15 +2437,15 @@ How would one differentiate between a non-contrast scan vs contrast scan, just f
 
 Case: 70 M chest discomfort and sudden onset paralysis of lower limbs, MRI spin
 
-![Screenshot 2020-06-06 at 15.38.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.38.13.png)
+![Screenshot 2020-06-06 at 15.38.13](figures/Screenshot%202020-06-06%20at%2015.38.13.png)
 
-- ![Screenshot 2020-06-06 at 15.39.57](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.39.57.png)
+- ![Screenshot 2020-06-06 at 15.39.57](figures/Screenshot%202020-06-06%20at%2015.39.57.png)
 
-![Screenshot 2020-06-06 at 15.40.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.40.31.png)
+![Screenshot 2020-06-06 at 15.40.31](figures/Screenshot%202020-06-06%20at%2015.40.31.png)
 
 - Spinal cord infarct
 
-![Screenshot 2020-06-06 at 15.43.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.43.44.png)
+![Screenshot 2020-06-06 at 15.43.44](figures/Screenshot%202020-06-06%20at%2015.43.44.png)
 
 When suspecting a posterior circulation stroke, what will be the initial imagining modality of choice? CT or MRI? CT to rule out a bleed. MRI for further assessment if indicated
 
@@ -2580,7 +2580,7 @@ they are two separate vascular abnormalities. A dissection- a flap needs to be s
 
 
 
-![Screenshot 2020-06-06 at 15.44.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.44.04.png)![Screenshot 2020-06-06 at 15.46.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-06%20at%2015.46.04.png)
+![Screenshot 2020-06-06 at 15.44.04](figures/Screenshot%202020-06-06%20at%2015.44.04.png)![Screenshot 2020-06-06 at 15.46.04](figures/Screenshot%202020-06-06%20at%2015.46.04.png)
 
 ### Positive Emission Tomography
 
