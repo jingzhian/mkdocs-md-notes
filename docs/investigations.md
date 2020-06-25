@@ -9,7 +9,7 @@
 
 Bloom's Taxonomy of Learning Domains
 
-![Screenshot 2020-06-25 at 12.15.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.15.10.png)
+![Screenshot 2020-06-25 at 12.15.10](figures/Screenshot%202020-06-25%20at%2012.15.10.png)
 
 ## Monitoring
 
@@ -840,7 +840,7 @@ Urea / creatinine ratio
 - [albumin](https://www.healthline.com/health/albumin-serum)
 - [bilirubin](https://www.healthline.com/health/bilirubin-blood)
 
-![Screenshot 2020-06-25 at 12.18.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.18.55.png)
+![Screenshot 2020-06-25 at 12.18.55](figures/Screenshot%202020-06-25%20at%2012.18.55.png)
 
 
 
@@ -851,9 +851,9 @@ Urea / creatinine ratio
 
 
 
-![Screenshot 2020-06-25 at 12.23.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.23.15.png)
+![Screenshot 2020-06-25 at 12.23.15](figures/Screenshot%202020-06-25%20at%2012.23.15.png)
 
-![Screenshot 2020-06-25 at 12.21.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.21.42.png)
+![Screenshot 2020-06-25 at 12.21.42](figures/Screenshot%202020-06-25%20at%2012.21.42.png)
 
 #### Procalcitonin
 

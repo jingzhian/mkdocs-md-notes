@@ -248,7 +248,7 @@ Any major stress to your body, such as injury or surgery, can also cause malaise
 
 Differentials
 
-![Screenshot 2020-06-24 at 13.15.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.15.04.png)
+![Screenshot 2020-06-24 at 13.15.04](figures/Screenshot%202020-06-24%20at%2013.15.04.png)
 
 - Anemia is usually Folate / B12; some Fe deficiency requiring referral to Gastro for scope
 
@@ -339,7 +339,7 @@ Evaluation is driven by location
 | Middle     |                                                              | **Gastric**: Esophagitis, gastritis, PUD<br />**GI**: Early appendicitis, IO |                                                              |
 | Lower      | **Appendicitis** / peritonitis, colitis, diverticulitis, IBD, IBS<br />**Gynaecological**: ectopic pregnancy, fibroids, ovarian mass, torsion, PID<br />**Renal**: cystitis, nephrolithiasis, pyelonephritis | **Appendicitis** / peritonitis, colitis, diverticulitis, IBD, IBS<br />**Gynaecological**: ectopic pregnancy, fibroids, ovarian mass, torsion, PID<br />**Renal**: cystitis, nephrolithiasis, pyelonephritis | **Sigmoid diverticulitis** (most common) hence focus of investigation. Colitis, IBD, IBS <br />**Gynaecological**: ectopic pregnancy, fibroids, ovarian mass, torsion, PID<br />**Renal**: cystitis, nephrolithiasis, pyelonephritis |
 
-![img](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/gr1.jpg)
+![img](figures/gr1.jpg)
 
 - History
   
@@ -528,7 +528,7 @@ Process
 
      The ligament of Treitz demarcate the junction between upper GI bleeding vs lower GI bleeding.
 
-     ![gi-ligamentoftreitz](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/gi-ligamentoftreitz.jpg)
+     ![gi-ligamentoftreitz](figures/gi-ligamentoftreitz.jpg)
 
      | Upper GI Bleeding                                            | Lower GI Bleeding          |
      | ------------------------------------------------------------ | -------------------------- |
@@ -546,19 +546,19 @@ Process
 
        - 14 hr transition
 
-       ![Screenshot 2020-06-22 at 12.19.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.19.04.png)
+       ![Screenshot 2020-06-22 at 12.19.04](figures/Screenshot%202020-06-22%20at%2012.19.04.png)
 
      - Hematochezia: stool mixed with blood
 
-       ![Screenshot 2020-06-22 at 12.18.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.18.42.png)
+       ![Screenshot 2020-06-22 at 12.18.42](figures/Screenshot%202020-06-22%20at%2012.18.42.png)
 
      - Frank bleeding: usually lower GI
 
-       ![Screenshot 2020-06-22 at 12.18.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.18.53.png)
+       ![Screenshot 2020-06-22 at 12.18.53](figures/Screenshot%202020-06-22%20at%2012.18.53.png)
 
      - Iron stools: **greenish tinge**
 
-       ![Screenshot 2020-06-22 at 12.18.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.18.17.png)
+       ![Screenshot 2020-06-22 at 12.18.17](figures/Screenshot%202020-06-22%20at%2012.18.17.png)
 
 3. Assess the **severity** of the bleed and risk factors
 

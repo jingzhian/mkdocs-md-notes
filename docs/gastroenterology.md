@@ -196,9 +196,9 @@ Associated with H pylori infection (75 - 95% of the duodenal ulcers, and 65 - 95
 
         Testing for H. Pylori eradication is also useful in patients with H. pylori-associated MALT lymphoma, history of resection for early gastric cancer, and patients planning to resume chronic NSAID therapy.
 
-![Peptic Ulcer Bleeding](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.56.38.png)
+![Peptic Ulcer Bleeding](figures/Screenshot%202020-06-22%20at%2012.56.38.png)
 
-![Screenshot 2020-06-22 at 13.01.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2013.01.22.png)
+![Screenshot 2020-06-22 at 13.01.22](figures/Screenshot%202020-06-22%20at%2013.01.22.png)
 
 - Endoscopic treatment for high risk ulcers
   - Argon plasma coagulation
@@ -438,7 +438,7 @@ Management
         -   Grey Turner Sign: Ecchymotic discoloration in the flank
         -   Cullen sign: Ecchymptoc discoloration in the periumbilical region
 
-        ![Screenshot 2020-06-22 at 11.34.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2011.34.16.png)
+        ![Screenshot 2020-06-22 at 11.34.16](figures/Screenshot%202020-06-22%20at%2011.34.16.png)
 
 -   Diagnosis
 
@@ -488,7 +488,7 @@ The clinical manifestations of hepatitis vary somewhat depending on etiology, bu
 
 ### Cirrhosis
 
-![Screenshot 2020-06-25 at 11.12.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.12.16.png)
+![Screenshot 2020-06-25 at 11.12.16](figures/Screenshot%202020-06-25%20at%2011.12.16.png)
 
 #### Presentation
 
@@ -506,7 +506,7 @@ The clinical manifestations of hepatitis vary somewhat depending on etiology, bu
   - Enlarged portal vein diameter
   - Reversal of portal flow
 
-![Screenshot 2020-06-25 at 11.21.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.21.10.png)
+![Screenshot 2020-06-25 at 11.21.10](figures/Screenshot%202020-06-25%20at%2011.21.10.png)
 
 #### Causes of Liver Cirrhosis
 
@@ -559,7 +559,7 @@ Child-pugh scoring
 | 7 - 9   | B     | 81%               | 57%               |
 | 10 - 15 | C     | 45%               | 35%               |
 
-![Screenshot 2020-06-25 at 11.44.00](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.44.00.png)
+![Screenshot 2020-06-25 at 11.44.00](figures/Screenshot%202020-06-25%20at%2011.44.00.png)
 
 
 
@@ -575,7 +575,7 @@ Child-pugh scoring
 
    - Differential of AMS even if there is cirrhosis
 
-     ![Screenshot 2020-06-25 at 11.57.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.57.55.png)
+     ![Screenshot 2020-06-25 at 11.57.55](figures/Screenshot%202020-06-25%20at%2011.57.55.png)
 
 4. **Hepatocellular Carcinoma**
 
@@ -592,7 +592,7 @@ Child-pugh scoring
 
 - Liver transplant is the only definitive treatment.
 
-![Screenshot 2020-06-25 at 11.50.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.50.27.png)
+![Screenshot 2020-06-25 at 11.50.27](figures/Screenshot%202020-06-25%20at%2011.50.27.png)
 
 #### Triggers of Hepatic Decompensation - HEPTICUS 
 
@@ -620,11 +620,11 @@ Surgery
 - Regular HCC surveillance with AFP and US abdomen
 - 
 
-![Screenshot 2020-06-25 at 12.00.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.00.24.png)
+![Screenshot 2020-06-25 at 12.00.24](figures/Screenshot%202020-06-25%20at%2012.00.24.png)
 
 **Treatment for Cirrhosis Complications**
 
-![Screenshot 2020-06-25 at 12.00.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.00.33.png)
+![Screenshot 2020-06-25 at 12.00.33](figures/Screenshot%202020-06-25%20at%2012.00.33.png)
 
 - Oesophageal varices
   - EVL
@@ -639,7 +639,7 @@ Surgery
 - Hepatic Encephalopahty
   - Lactulose
     - Very special, not just flushing the gut like other diuretics
-    - ![Screenshot 2020-06-25 at 12.04.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.04.43.png)
+    - ![Screenshot 2020-06-25 at 12.04.43](figures/Screenshot%202020-06-25%20at%2012.04.43.png)
     - Ammonia is processed in the liver in urea cycle into urea, which when disrupted, ammonia 
     - Lactulose is a probiotic, polysaccharide, not absorbed, processed into short chain fatty acids by the gut bacteria that is not only hyper-osmotic but also 
   - Rifaximin: antibiotic used to treat traveler's diarrhea, irritable bowel syndrome, and hepatic encephalopathy

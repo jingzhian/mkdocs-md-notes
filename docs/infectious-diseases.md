@@ -108,29 +108,29 @@ General ID Knowledge and Conditions
 
 - Palpitation
 
-  ![Screenshot 2020-06-24 at 13.17.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.17.35.png)
+  ![Screenshot 2020-06-24 at 13.17.35](figures/Screenshot%202020-06-24%20at%2013.17.35.png)
 
   - Rule out PE with wells score + D-dimer
 
-- ![Screenshot 2020-06-24 at 13.23.38](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.23.38.png)
+- ![Screenshot 2020-06-24 at 13.23.38](figures/Screenshot%202020-06-24%20at%2013.23.38.png)
 
-- ![Screenshot 2020-06-24 at 13.26.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.26.11.png)![Screenshot 2020-06-24 at 13.28.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.28.35.png)
+- ![Screenshot 2020-06-24 at 13.26.11](figures/Screenshot%202020-06-24%20at%2013.26.11.png)![Screenshot 2020-06-24 at 13.28.35](figures/Screenshot%202020-06-24%20at%2013.28.35.png)
 
 - Comments
 - This is determined by the medication available to the migrant workers; 
 
 Mental Health and COVID
 
-- ![Screenshot 2020-06-24 at 13.41.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.41.48.png)
-- ![Screenshot 2020-06-24 at 13.43.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.43.45.png)
-- ![Screenshot 2020-06-24 at 13.44.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.44.55.png)
-- ![Screenshot 2020-06-24 at 13.47.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.47.15.png)
-- ![Screenshot 2020-06-24 at 13.48.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.48.32.png)
-- ![Screenshot 2020-06-24 at 13.49.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.49.23.png)
-- ![Screenshot 2020-06-24 at 13.51.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.51.08.png)
+- ![Screenshot 2020-06-24 at 13.41.48](figures/Screenshot%202020-06-24%20at%2013.41.48.png)
+- ![Screenshot 2020-06-24 at 13.43.45](figures/Screenshot%202020-06-24%20at%2013.43.45.png)
+- ![Screenshot 2020-06-24 at 13.44.55](figures/Screenshot%202020-06-24%20at%2013.44.55.png)
+- ![Screenshot 2020-06-24 at 13.47.15](figures/Screenshot%202020-06-24%20at%2013.47.15.png)
+- ![Screenshot 2020-06-24 at 13.48.32](figures/Screenshot%202020-06-24%20at%2013.48.32.png)
+- ![Screenshot 2020-06-24 at 13.49.23](figures/Screenshot%202020-06-24%20at%2013.49.23.png)
+- ![Screenshot 2020-06-24 at 13.51.08](figures/Screenshot%202020-06-24%20at%2013.51.08.png)
 
-- ![Screenshot 2020-06-24 at 13.53.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.53.49.png)
-- ![Screenshot 2020-06-24 at 13.55.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.55.11.png)
+- ![Screenshot 2020-06-24 at 13.53.49](figures/Screenshot%202020-06-24%20at%2013.53.49.png)
+- ![Screenshot 2020-06-24 at 13.55.11](figures/Screenshot%202020-06-24%20at%2013.55.11.png)
 - 
 
 

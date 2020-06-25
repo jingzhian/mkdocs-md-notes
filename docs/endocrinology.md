@@ -58,7 +58,7 @@ Typically present in one or more of the following ways
 
 - Of all of the above hormone secreting pituitary adenoma, prolactinoma is the only one that is best treated non-surgically because >95% will respond well to dopamine agonist. This is regardless of the size of the tumour. 
 
-  ![Screenshot 2020-06-23 at 12.50.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.50.31.png)
+  ![Screenshot 2020-06-23 at 12.50.31](figures/Screenshot%202020-06-23%20at%2012.50.31.png)
 
 - Use surgical resection for
 
@@ -156,15 +156,15 @@ Thyroid disorder
 
 ### Thyroid Exam
 
-![Screenshot 2020-06-23 at 13.03.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2013.03.30.png)
+![Screenshot 2020-06-23 at 13.03.30](figures/Screenshot%202020-06-23%20at%2013.03.30.png)
 
-![Screenshot 2020-06-23 at 13.04.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2013.04.28.png)
+![Screenshot 2020-06-23 at 13.04.28](figures/Screenshot%202020-06-23%20at%2013.04.28.png)
 
-![Screenshot 2020-06-23 at 13.05.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2013.05.24.png)
+![Screenshot 2020-06-23 at 13.05.24](figures/Screenshot%202020-06-23%20at%2013.05.24.png)
 
-![Screenshot 2020-06-23 at 13.05.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2013.05.55.png)
+![Screenshot 2020-06-23 at 13.05.47](figures/Screenshot%202020-06-23%20at%2013.05.55.png)
 
-![Screenshot 2020-06-23 at 13.06.20](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2013.06.20.png)
+![Screenshot 2020-06-23 at 13.06.20](figures/Screenshot%202020-06-23%20at%2013.06.20.png)
 
 
 
@@ -220,11 +220,11 @@ People with hypothyroidism may be pushed into physiologic stress e.g. sepsis, co
 
 
 
-![Screenshot 2020-06-23 at 11.41.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.41.34.png)
+![Screenshot 2020-06-23 at 11.41.34](figures/Screenshot%202020-06-23%20at%2011.41.34.png)
 
 **Evaluation of Hypothyroidism**
 
-![Screenshot 2020-06-23 at 11.42.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.42.39.png)
+![Screenshot 2020-06-23 at 11.42.39](figures/Screenshot%202020-06-23%20at%2011.42.39.png)
 
 Central hypothyroidism
 
@@ -234,14 +234,14 @@ Central hypothyroidism
 - Either hypothalamic (tertiary hypothyroidism) or pituitary (secondary hypothyroidism)
   - Suspected in the following 
 
-![Screenshot 2020-06-23 at 11.43.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.43.35.png)
+![Screenshot 2020-06-23 at 11.43.35](figures/Screenshot%202020-06-23%20at%2011.43.35.png)
 
 Treatment
 
 - Give synthetic thyroxine (T4, levothyroxine) tablet
   - Deiodinated in peripheral tissues to form T3 (active TH)
 
-![Screenshot 2020-06-23 at 11.44.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.44.02.png)
+![Screenshot 2020-06-23 at 11.44.02](figures/Screenshot%202020-06-23%20at%2011.44.02.png)
 
 
 
@@ -307,11 +307,11 @@ Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, 
 
 #### Thyroid Storm
 
-![Screenshot 2020-06-23 at 11.23.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.23.59.png)
+![Screenshot 2020-06-23 at 11.23.59](figures/Screenshot%202020-06-23%20at%2011.23.59.png)
 
 ![Screenshot 2020-06-19 at 10.45.58](figures/Screenshot%202020-06-19%20at%2010.45.58.png)
 
-![Screenshot 2020-06-23 at 11.27.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.27.27.png)
+![Screenshot 2020-06-23 at 11.27.27](figures/Screenshot%202020-06-23%20at%2011.27.27.png)
 
 **Clinical Feature**
 
@@ -328,9 +328,9 @@ Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, 
 - Blood test does not differ very much from thyrotoxicosis
 - May use Burch Criteria, but note that this is not very specific
 
-![Screenshot 2020-06-23 at 11.28.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.28.55.png)
+![Screenshot 2020-06-23 at 11.28.55](figures/Screenshot%202020-06-23%20at%2011.28.55.png)
 
-![Screenshot 2020-06-23 at 11.29.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.29.40.png)
+![Screenshot 2020-06-23 at 11.29.40](figures/Screenshot%202020-06-23%20at%2011.29.40.png)
 
 
 
@@ -377,18 +377,18 @@ Symptoms of hyperthyroidism include heat intolerance, frequent bowel movements, 
 - Acute manamgenet
   - Block synthesis: thionamides - PTU 200 mg 4 -6 hourly
   - Block release: PO Lugol's iodine / IV sodium iodide - start 1 hour after PTU
-  - ![Screenshot 2020-06-23 at 11.32.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.32.33.png)
+  - ![Screenshot 2020-06-23 at 11.32.33](figures/Screenshot%202020-06-23%20at%2011.32.33.png)
   - 
 
 #### Thionamide induced agranulocytosis
 
 Always a risk if patient is started on carbimazole or propyluracil. Whenever these patients have fever or signs of infection for these patients, do FBC asap
 
-![Screenshot 2020-06-23 at 11.19.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.19.37.png)
+![Screenshot 2020-06-23 at 11.19.37](figures/Screenshot%202020-06-23%20at%2011.19.37.png)
 
 - Admit, work up for sems
 
-![Screenshot 2020-06-23 at 11.21.01](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.21.01.png)
+![Screenshot 2020-06-23 at 11.21.01](figures/Screenshot%202020-06-23%20at%2011.21.01.png)
 
 **Acute management**
 
@@ -397,7 +397,7 @@ Always a risk if patient is started on carbimazole or propyluracil. Whenever the
 - Consider G-CSF
   - Reduce time to haematological recovery
 
-![Screenshot 2020-06-23 at 11.22.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.22.15.png)
+![Screenshot 2020-06-23 at 11.22.15](figures/Screenshot%202020-06-23%20at%2011.22.15.png)
 
 - 1:10000 risk of ruminant liver disease for PTU; need to counsel patient; special cases when we would use PTU over carbamizole: thyroid storm, pregnancy
 
@@ -442,21 +442,21 @@ Symptomatic management
 
 ### Hypercalcaemia
 
-![Screenshot 2020-06-23 at 11.48.21](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.48.21.png)
+![Screenshot 2020-06-23 at 11.48.21](figures/Screenshot%202020-06-23%20at%2011.48.21.png)
 
-![Screenshot 2020-06-23 at 11.48.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.48.59.png)
+![Screenshot 2020-06-23 at 11.48.59](figures/Screenshot%202020-06-23%20at%2011.48.59.png)
 
 Answer: serum parathyroid hormone (PTH)
 
 #### Clinical
 
-![Screenshot 2020-06-23 at 11.51.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.51.13.png)
+![Screenshot 2020-06-23 at 11.51.13](figures/Screenshot%202020-06-23%20at%2011.51.13.png)
 
 
 
 #### W/U approach
 
-![Screenshot 2020-06-23 at 11.49.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.49.59.png)
+![Screenshot 2020-06-23 at 11.49.59](figures/Screenshot%202020-06-23%20at%2011.49.59.png)
 
 - Outpatient hypercalcaemia is often primary; inpatient hypercalcemia if often secondary to malignant cause
 
@@ -468,7 +468,7 @@ Answer: serum parathyroid hormone (PTH)
 
 
 
-![Screenshot 2020-06-23 at 11.51.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.51.59.png)
+![Screenshot 2020-06-23 at 11.51.59](figures/Screenshot%202020-06-23%20at%2011.51.59.png)
 
 - Cannot use calcitonin for more than a few days because of the side effect of tachyphylaxis
 
@@ -479,31 +479,31 @@ Answer: serum parathyroid hormone (PTH)
 - PTH-mediated 
 - End-organ complications: renal calculi, osteoporosis
 
-![Screenshot 2020-06-23 at 11.53.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.53.45.png)
+![Screenshot 2020-06-23 at 11.53.45](figures/Screenshot%202020-06-23%20at%2011.53.45.png)
 
 Note that benign familial hypocalciuric hypercalcaemia does not require treatmnet
 
-![Screenshot 2020-06-23 at 11.56.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.56.07.png)
+![Screenshot 2020-06-23 at 11.56.07](figures/Screenshot%202020-06-23%20at%2011.56.07.png)
 
 ### Malignancy-related Hypercalcaemia
 
-![Screenshot 2020-06-23 at 11.57.17](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.57.17.png)
+![Screenshot 2020-06-23 at 11.57.17](figures/Screenshot%202020-06-23%20at%2011.57.17.png)
 
 
 
 ### Hypocalcemia
 
-![Screenshot 2020-06-23 at 11.58.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.58.43.png)
+![Screenshot 2020-06-23 at 11.58.43](figures/Screenshot%202020-06-23%20at%2011.58.43.png)
 
 
 
 #### Hypoparathyroidism
 
-![Screenshot 2020-06-23 at 11.59.52](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.59.52.png)
+![Screenshot 2020-06-23 at 11.59.52](figures/Screenshot%202020-06-23%20at%2011.59.52.png)
 
 **Treatment**
 
-![Screenshot 2020-06-23 at 12.01.00](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.01.00.png)
+![Screenshot 2020-06-23 at 12.01.00](figures/Screenshot%202020-06-23%20at%2012.01.00.png)
 
 - Patient will be on vitamin B long term. 
 
@@ -511,19 +511,19 @@ Note that benign familial hypocalciuric hypercalcaemia does not require treatmne
 
 ### Osteoporosis
 
-![Screenshot 2020-06-23 at 12.53.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.53.11.png)
+![Screenshot 2020-06-23 at 12.53.11](figures/Screenshot%202020-06-23%20at%2012.53.11.png)
 
-![Screenshot 2020-06-23 at 12.53.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.53.31.png)
+![Screenshot 2020-06-23 at 12.53.31](figures/Screenshot%202020-06-23%20at%2012.53.31.png)
 
-![Screenshot 2020-06-23 at 12.54.03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.54.03.png)
+![Screenshot 2020-06-23 at 12.54.03](figures/Screenshot%202020-06-23%20at%2012.54.03.png)
 
-![Screenshot 2020-06-23 at 12.54.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.54.58.png)
+![Screenshot 2020-06-23 at 12.54.58](figures/Screenshot%202020-06-23%20at%2012.54.58.png)
 
-![Screenshot 2020-06-23 at 12.55.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.55.24.png)
+![Screenshot 2020-06-23 at 12.55.24](figures/Screenshot%202020-06-23%20at%2012.55.24.png)
 
-![Screenshot 2020-06-23 at 12.56.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.56.34.png)
+![Screenshot 2020-06-23 at 12.56.34](figures/Screenshot%202020-06-23%20at%2012.56.34.png)
 
-![Screenshot 2020-06-23 at 12.56.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.56.46.png)
+![Screenshot 2020-06-23 at 12.56.46](figures/Screenshot%202020-06-23%20at%2012.56.46.png)
 
 - VElosafine? Venous thrombosis, better for younger patients
 - Supplement 500 mg/day elemental calcium to avoid the kidney stones
@@ -542,11 +542,11 @@ What is diabetes mellitus
 - A complex metabolic disorder
 - Characterized by a 
 
-![Screenshot 2020-06-24 at 11.11.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.11.34.png)
+![Screenshot 2020-06-24 at 11.11.34](figures/Screenshot%202020-06-24%20at%2011.11.34.png)
 
-![Screenshot 2020-06-24 at 11.12.03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.12.03.png)
+![Screenshot 2020-06-24 at 11.12.03](figures/Screenshot%202020-06-24%20at%2011.12.03.png)
 
-![Screenshot 2020-06-24 at 11.12.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.12.40.png)
+![Screenshot 2020-06-24 at 11.12.40](figures/Screenshot%202020-06-24%20at%2011.12.40.png)
 
 
 
@@ -560,13 +560,13 @@ Peripheral neuropathy - severity indicates damage; initial phase more positive s
 
 #### Type II DM Pathogenesis
 
-![Screenshot 2020-06-24 at 11.15.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.15.59.png)
+![Screenshot 2020-06-24 at 11.15.59](figures/Screenshot%202020-06-24%20at%2011.15.59.png)
 
-![Screenshot 2020-06-24 at 11.20.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.20.15.png)
+![Screenshot 2020-06-24 at 11.20.15](figures/Screenshot%202020-06-24%20at%2011.20.15.png)
 
-![Screenshot 2020-06-24 at 11.21.29](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.21.29.png)
+![Screenshot 2020-06-24 at 11.21.29](figures/Screenshot%202020-06-24%20at%2011.21.29.png)
 
-![Screenshot 2020-06-24 at 11.22.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.22.08.png)
+![Screenshot 2020-06-24 at 11.22.08](figures/Screenshot%202020-06-24%20at%2011.22.08.png)
 
 
 
@@ -574,53 +574,53 @@ Peripheral neuropathy - severity indicates damage; initial phase more positive s
 
 #### Diagnosis
 
-![Screenshot 2020-06-24 at 11.23.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.23.15.png)
+![Screenshot 2020-06-24 at 11.23.15](figures/Screenshot%202020-06-24%20at%2011.23.15.png)
 
 
 
-![Screenshot 2020-06-24 at 11.26.02](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.26.02.png)
+![Screenshot 2020-06-24 at 11.26.02](figures/Screenshot%202020-06-24%20at%2011.26.02.png)
 
 
 
-![Screenshot 2020-06-24 at 11.26.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.26.12.png)
+![Screenshot 2020-06-24 at 11.26.12](figures/Screenshot%202020-06-24%20at%2011.26.12.png)
 
-![Screenshot 2020-06-24 at 11.27.34](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.27.34.png)
+![Screenshot 2020-06-24 at 11.27.34](figures/Screenshot%202020-06-24%20at%2011.27.34.png)
 
 Diabetic Neuropathy
 
 - Divide the hypoglycaemic symptoms into autonomic vs somatic symtoms; 
 
-![Screenshot 2020-06-24 at 11.29.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.29.44.png)
+![Screenshot 2020-06-24 at 11.29.44](figures/Screenshot%202020-06-24%20at%2011.29.44.png)
 
 
 
 - Wet risk fungal foot; dry risk bad ulcers
 
-![Screenshot 2020-06-24 at 11.32.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.32.23.png)
+![Screenshot 2020-06-24 at 11.32.23](figures/Screenshot%202020-06-24%20at%2011.32.23.png)
 
 
 
-![Screenshot 2020-06-24 at 11.33.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.33.53.png)
+![Screenshot 2020-06-24 at 11.33.53](figures/Screenshot%202020-06-24%20at%2011.33.53.png)
 
-![Screenshot 2020-06-24 at 11.34.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.34.36.png)
-
-
-
-![Screenshot 2020-06-24 at 11.35.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.35.33.png)
+![Screenshot 2020-06-24 at 11.34.36](figures/Screenshot%202020-06-24%20at%2011.34.36.png)
 
 
 
-![Screenshot 2020-06-24 at 11.37.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.37.35.png)
+![Screenshot 2020-06-24 at 11.35.33](figures/Screenshot%202020-06-24%20at%2011.35.33.png)
 
-![Screenshot 2020-06-24 at 11.38.18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.38.18.png)
 
-![Screenshot 2020-06-24 at 11.40.04](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.40.04.png)
 
-![Screenshot 2020-06-24 at 11.41.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.41.48.png)
+![Screenshot 2020-06-24 at 11.37.35](figures/Screenshot%202020-06-24%20at%2011.37.35.png)
 
-![Screenshot 2020-06-24 at 11.42.03](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.42.03.png)
+![Screenshot 2020-06-24 at 11.38.18](figures/Screenshot%202020-06-24%20at%2011.38.18.png)
 
-![Screenshot 2020-06-24 at 11.43.09](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.43.09.png)
+![Screenshot 2020-06-24 at 11.40.04](figures/Screenshot%202020-06-24%20at%2011.40.04.png)
+
+![Screenshot 2020-06-24 at 11.41.48](figures/Screenshot%202020-06-24%20at%2011.41.48.png)
+
+![Screenshot 2020-06-24 at 11.42.03](figures/Screenshot%202020-06-24%20at%2011.42.03.png)
+
+![Screenshot 2020-06-24 at 11.43.09](figures/Screenshot%202020-06-24%20at%2011.43.09.png)
 
 
 
@@ -652,40 +652,40 @@ Several guidelines recommend treatment to reduce HbA1c levels to less than 7%; h
 
 - Max metformin is 2000 mg/day
 
-![Screenshot 2020-06-24 at 11.55.07](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.55.07.png)
+![Screenshot 2020-06-24 at 11.55.07](figures/Screenshot%202020-06-24%20at%2011.55.07.png)
 
 - Extreme lactic acidosis on metformin is very rare; 
 
-![Screenshot 2020-06-24 at 11.58.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.58.32.png)
+![Screenshot 2020-06-24 at 11.58.32](figures/Screenshot%202020-06-24%20at%2011.58.32.png)
 
-![Screenshot 2020-06-24 at 11.57.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.57.36.png)
+![Screenshot 2020-06-24 at 11.57.36](figures/Screenshot%202020-06-24%20at%2011.57.36.png)
 
 - Useful in reducing stroke in someone with previous stroke
 
 
 
-![Screenshot 2020-06-24 at 11.59.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2011.59.42.png)
+![Screenshot 2020-06-24 at 11.59.42](figures/Screenshot%202020-06-24%20at%2011.59.42.png)
 
-![Screenshot 2020-06-24 at 12.00.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.00.39.png)
+![Screenshot 2020-06-24 at 12.00.39](figures/Screenshot%202020-06-24%20at%2012.00.39.png)
 
-![Screenshot 2020-06-24 at 12.01.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.01.08.png)
-
-
+![Screenshot 2020-06-24 at 12.01.08](figures/Screenshot%202020-06-24%20at%2012.01.08.png)
 
 
 
-![Screenshot 2020-06-24 at 12.02.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.02.56.png)
+
+
+![Screenshot 2020-06-24 at 12.02.56](figures/Screenshot%202020-06-24%20at%2012.02.56.png)
 
 - Linagliptin does not need dose readjustment in renal patients.
 
-![Screenshot 2020-06-24 at 12.03.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.03.40.png)
+![Screenshot 2020-06-24 at 12.03.40](figures/Screenshot%202020-06-24%20at%2012.03.40.png)
 
 
 
 - More calories loss;
 - 2- 3 kg in 2- 3 months
 
-![Screenshot 2020-06-24 at 12.05.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.05.47.png)
+![Screenshot 2020-06-24 at 12.05.47](figures/Screenshot%202020-06-24%20at%2012.05.47.png)
 
 - SGLT2 inhibitor patient with DKA may have normlflcose;
 
@@ -694,21 +694,21 @@ Several guidelines recommend treatment to reduce HbA1c levels to less than 7%; h
   - This seems to be a class effect
   - Mechanism is unclear
 
-![Screenshot 2020-06-24 at 12.13.44](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.13.44.png)
+![Screenshot 2020-06-24 at 12.13.44](figures/Screenshot%202020-06-24%20at%2012.13.44.png)
 
 - With heart event and risk factors, move towards GLP-1 RAs
 
-   ![Screenshot 2020-06-24 at 12.15.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.15.45.png)
+   ![Screenshot 2020-06-24 at 12.15.45](figures/Screenshot%202020-06-24%20at%2012.15.45.png)
 
-![Screenshot 2020-06-24 at 12.16.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.16.16.png)'![Screenshot 2020-06-24 at 12.18.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.18.42.png)
+![Screenshot 2020-06-24 at 12.16.16](figures/Screenshot%202020-06-24%20at%2012.16.16.png)'![Screenshot 2020-06-24 at 12.18.42](figures/Screenshot%202020-06-24%20at%2012.18.42.png)
 
-![Screenshot 2020-06-24 at 12.18.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.18.55.png)
+![Screenshot 2020-06-24 at 12.18.55](figures/Screenshot%202020-06-24%20at%2012.18.55.png)
 
 
 
-![Screenshot 2020-06-24 at 12.21.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.21.46.png)
+![Screenshot 2020-06-24 at 12.21.46](figures/Screenshot%202020-06-24%20at%2012.21.46.png)
 
-![Screenshot 2020-06-24 at 12.23.05](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.23.05.png)
+![Screenshot 2020-06-24 at 12.23.05](figures/Screenshot%202020-06-24%20at%2012.23.05.png)
 
 #### Insulin
 
@@ -744,7 +744,7 @@ Intensification of insulin regimen
   - Change to premixed insulin 2x /day
   - Start 
 
-![Screenshot 2020-06-24 at 12.51.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2012.51.36.png)
+![Screenshot 2020-06-24 at 12.51.36](figures/Screenshot%202020-06-24%20at%2012.51.36.png)
 
 - Stop the drugs that stop the endogenous injection
 - Rotating the site is important to prevent 
@@ -759,11 +759,11 @@ Sliding scale is used in SC or IV
   - No idea as to what the insulin requirement is
   - Check glucose pre-meal;
 
-![Screenshot 2020-06-24 at 13.04.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.04.10.png)
+![Screenshot 2020-06-24 at 13.04.10](figures/Screenshot%202020-06-24%20at%2013.04.10.png)
 
 
 
-![Screenshot 2020-06-24 at 13.07.39](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.07.39.png)
+![Screenshot 2020-06-24 at 13.07.39](figures/Screenshot%202020-06-24%20at%2013.07.39.png)
 
 #### Diabetic Ketoacidosis
 
@@ -781,7 +781,7 @@ Diagnosis: HCO3 < 18, elevated serum or urine ketones, Glucose >14 with **acidos
 
 **Management**
 
-- ![Screenshot 2020-06-24 at 13.01.51](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.01.51.png)
+- ![Screenshot 2020-06-24 at 13.01.51](figures/Screenshot%202020-06-24%20at%2013.01.51.png)
 - Fluid is super important
 - Insulin therapy
   - **Hourly capillary glucose monitoring** and **potassium** levels
@@ -929,9 +929,9 @@ Adrenal
 
 ### Pheochromocytoma
 
-![Screenshot 2020-06-23 at 12.30.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.30.08.png)
+![Screenshot 2020-06-23 at 12.30.08](figures/Screenshot%202020-06-23%20at%2012.30.08.png)
 
-![Screenshot 2020-06-23 at 12.30.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.30.41.png)
+![Screenshot 2020-06-23 at 12.30.41](figures/Screenshot%202020-06-23%20at%2012.30.41.png)
 
 
 
@@ -978,13 +978,13 @@ Symptoms result from increased catecholamine secretion
         -   24 hr fractionated metanephrines
         -   Or plasma
     
-        ![Screenshot 2020-06-23 at 12.32.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.32.43.png)
+        ![Screenshot 2020-06-23 at 12.32.43](figures/Screenshot%202020-06-23%20at%2012.32.43.png)
 
 Symptoms of pheochromocytoma include headache, diaphoresis, palpitations, tremor, nausea, weakness, anxiety, nervousness, irritability, and weight loss, among other symptoms. On physical examination, patients typically present with tachycardia and severely elevated blood pressure. For laboratory studies, the patient will have elevated urinary VMA, urinary HVA, urinary metanephrines, and serum glucose. Pheochromocytoma may be associated with various syndromes, such as multiple endocrine neoplasia and Von Hippel-Lindau disease.
 
 Differentiate from neuroblastoma in children.
 
-![Screenshot 2020-06-23 at 12.33.29](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.33.29.png)
+![Screenshot 2020-06-23 at 12.33.29](figures/Screenshot%202020-06-23%20at%2012.33.29.png)
 
 
 
@@ -992,11 +992,11 @@ Managemnent
 
 - Work up location
 
-- ![Screenshot 2020-06-23 at 12.34.58](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.34.58.png)
+- ![Screenshot 2020-06-23 at 12.34.58](figures/Screenshot%202020-06-23%20at%2012.34.58.png)
 
 - CCB can be added if insufficient alpha blockage
 
-- ![Screenshot 2020-06-23 at 12.35.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.35.55.png)
+- ![Screenshot 2020-06-23 at 12.35.55](figures/Screenshot%202020-06-23%20at%2012.35.55.png)
 
 - &beta;-blocker can be used to control heart rate (reflex tachycardia from &alpha;-blockage)
 
@@ -1014,7 +1014,7 @@ Differentiate Cushing's syndrome from simple obesity:
 3. Uncontrolled hyperglycemia
 4. Ecchymoses
 
-![Screenshot 2020-06-23 at 12.16.37](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.16.37.png)
+![Screenshot 2020-06-23 at 12.16.37](figures/Screenshot%202020-06-23%20at%2012.16.37.png)
 
 -   Clinical manifestations
 
@@ -1037,11 +1037,11 @@ Differentiate Cushing's syndrome from simple obesity:
     -   24-hour urinary cortisol excretion
 -   Late night salivary cortisol assay
     -   Low-dose dexamethasone suppression test
--   ![Screenshot 2020-06-23 at 12.17.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.17.23.png)
+-   ![Screenshot 2020-06-23 at 12.17.23](figures/Screenshot%202020-06-23%20at%2012.17.23.png)
 
-![Screenshot 2020-06-23 at 12.19.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.19.40.png)
+![Screenshot 2020-06-23 at 12.19.40](figures/Screenshot%202020-06-23%20at%2012.19.40.png)
 
-![Screenshot 2020-06-23 at 12.20.46](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.20.46.png)
+![Screenshot 2020-06-23 at 12.20.46](figures/Screenshot%202020-06-23%20at%2012.20.46.png)
 
 ACTH independent Cushing's. 
 
@@ -1049,13 +1049,13 @@ ACTH independent Cushing's.
 
 Establishing the causes of CS (Localization)
 
-![Screenshot 2020-06-23 at 12.22.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.22.45.png)
+![Screenshot 2020-06-23 at 12.22.45](figures/Screenshot%202020-06-23%20at%2012.22.45.png)
 
 
 
 Complications of Cushing's Syndrome
 
-![Screenshot 2020-06-23 at 12.24.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.24.16.png)
+![Screenshot 2020-06-23 at 12.24.16](figures/Screenshot%202020-06-23%20at%2012.24.16.png)
 
 
 
@@ -1064,13 +1064,13 @@ Dexamethasone suppression test is used to evaluate hypercortisolism (i.e. Cushin
 
 #### Primary Aldosteronism 
 
-![Screenshot 2020-06-23 at 12.25.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.25.28.png)
+![Screenshot 2020-06-23 at 12.25.28](figures/Screenshot%202020-06-23%20at%2012.25.28.png)
 
-![Screenshot 2020-06-23 at 12.26.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.26.08.png)
+![Screenshot 2020-06-23 at 12.26.08](figures/Screenshot%202020-06-23%20at%2012.26.08.png)
 
-![Screenshot 2020-06-23 at 12.27.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.27.24.png)
+![Screenshot 2020-06-23 at 12.27.24](figures/Screenshot%202020-06-23%20at%2012.27.24.png)
 
-![Screenshot 2020-06-23 at 12.28.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.28.12.png)
+![Screenshot 2020-06-23 at 12.28.12](figures/Screenshot%202020-06-23%20at%2012.28.12.png)
 
 
 
@@ -1084,7 +1084,7 @@ Dexamethasone suppression test is used to evaluate hypercortisolism (i.e. Cushin
 
 ### Adrenal Insufficiency
 
-![Screenshot 2020-06-23 at 12.03.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.03.19.png)
+![Screenshot 2020-06-23 at 12.03.19](figures/Screenshot%202020-06-23%20at%2012.03.19.png)
 
 What investigation?
 
@@ -1094,19 +1094,19 @@ Low blood pressure and low sodium suggest adrenal insufficiency.
 
 Worry exogenous glucosterid therapy which the patient may have stopped taking. Precipitating the crisis.
 
-![Screenshot 2020-06-23 at 12.04.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.04.53.png)
+![Screenshot 2020-06-23 at 12.04.53](figures/Screenshot%202020-06-23%20at%2012.04.53.png)
 
-![Screenshot 2020-06-23 at 12.06.18](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.06.18.png)
+![Screenshot 2020-06-23 at 12.06.18](figures/Screenshot%202020-06-23%20at%2012.06.18.png)
 
-![Screenshot 2020-06-23 at 12.07.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.07.47.png)
+![Screenshot 2020-06-23 at 12.07.47](figures/Screenshot%202020-06-23%20at%2012.07.47.png)
 
-![Screenshot 2020-06-23 at 12.09.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.09.30.png)
+![Screenshot 2020-06-23 at 12.09.30](figures/Screenshot%202020-06-23%20at%2012.09.30.png)
 
 
 
 Glucocorticoid replacement uses a short acting glucocorticoid such as 
 
-![Screenshot 2020-06-23 at 12.11.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.11.23.png)
+![Screenshot 2020-06-23 at 12.11.23](figures/Screenshot%202020-06-23%20at%2012.11.23.png)
 
 Missing slides....
 
@@ -1114,13 +1114,13 @@ Missing slides....
 
 ### Addison's Disease
 
-![Screenshot 2020-06-23 at 12.13.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.13.23.png)
+![Screenshot 2020-06-23 at 12.13.23](figures/Screenshot%202020-06-23%20at%2012.13.23.png)
 
-![Screenshot 2020-06-23 at 12.13.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.13.43.png)
+![Screenshot 2020-06-23 at 12.13.43](figures/Screenshot%202020-06-23%20at%2012.13.43.png)
 
 - Primary people have both mineral corticoid and glucocorticoid deficiency
 
-![Screenshot 2020-06-23 at 12.14.26](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2012.14.26.png)
+![Screenshot 2020-06-23 at 12.14.26](figures/Screenshot%202020-06-23%20at%2012.14.26.png)
 
 
 
@@ -1145,15 +1145,15 @@ By Swee Du Soon
 
 Common causes of hyperthyroidism in the wards
 
-![Screenshot 2020-06-23 at 11.10.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.10.56.png)
+![Screenshot 2020-06-23 at 11.10.56](figures/Screenshot%202020-06-23%20at%2011.10.56.png)
 
 1. TSH-secreting pituitary adenoma
 2. Factitious hyperthyroidism
 3. Subacute thyroiditis
 4. Graves' disease
-5. ![Screenshot 2020-06-23 at 11.13.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.13.30.png)
+5. ![Screenshot 2020-06-23 at 11.13.30](figures/Screenshot%202020-06-23%20at%2011.13.30.png)
 
-![Screenshot 2020-06-23 at 11.11.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.11.42.png)
+![Screenshot 2020-06-23 at 11.11.42](figures/Screenshot%202020-06-23%20at%2011.11.42.png)
 
  Here are the most useful studies to do
 
@@ -1170,7 +1170,7 @@ Common causes of hyperthyroidism in the wards
 
 #### 
 
-![Screenshot 2020-06-23 at 11.16.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.16.45.png)
+![Screenshot 2020-06-23 at 11.16.45](figures/Screenshot%202020-06-23%20at%2011.16.45.png)
 
 Which of the following investigation would be the most helpful?
 
@@ -1181,7 +1181,7 @@ Which of the following investigation would be the most helpful?
 
 FBC for white blood cells, worry agranulocytosis secondary to carbimazole use. 
 
-![Screenshot 2020-06-23 at 11.19.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-23%20at%2011.19.11.png)
+![Screenshot 2020-06-23 at 11.19.11](figures/Screenshot%202020-06-23%20at%2011.19.11.png)
 
 
 

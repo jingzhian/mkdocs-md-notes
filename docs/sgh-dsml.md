@@ -10,13 +10,13 @@
 - Raymond from hospital level, using statistics, for what is happening within the hospital: business data
 - QI not strictly in research
 - Incubator - some hardware and some software for data analytics
-- ![Screenshot 2020-06-22 at 18.24.38](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.24.38.png)
+- ![Screenshot 2020-06-22 at 18.24.38](figures/Screenshot%202020-06-22%20at%2018.24.38.png)
 
 - Solve meaningful tractable research, clinical practice, and business challenges
 
-![Screenshot 2020-06-22 at 18.27.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.27.40.png)
+![Screenshot 2020-06-22 at 18.27.40](figures/Screenshot%202020-06-22%20at%2018.27.40.png)
 
-- ![Screenshot 2020-06-22 at 18.28.26](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.28.26.png)
+- ![Screenshot 2020-06-22 at 18.28.26](figures/Screenshot%202020-06-22%20at%2018.28.26.png)
 - Aggregate for the best return if we want to share resources
 
 
@@ -81,21 +81,21 @@ Here are some more specific thoughts:
 
 Impact on Patient Care
 
-![Screenshot 2020-06-22 at 18.33.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.33.40.png)
+![Screenshot 2020-06-22 at 18.33.40](figures/Screenshot%202020-06-22%20at%2018.33.40.png)
 
 **Outcome: Predictive model for critical illness in hospitalised patients**
 
-![Screenshot 2020-06-22 at 18.34.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.34.45.png)
+![Screenshot 2020-06-22 at 18.34.45](figures/Screenshot%202020-06-22%20at%2018.34.45.png)
 
-![Screenshot 2020-06-22 at 18.35.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.35.47.png)
+![Screenshot 2020-06-22 at 18.35.47](figures/Screenshot%202020-06-22%20at%2018.35.47.png)
 
-![Screenshot 2020-06-22 at 18.36.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.36.19.png)
+![Screenshot 2020-06-22 at 18.36.19](figures/Screenshot%202020-06-22%20at%2018.36.19.png)
 
-![Screenshot 2020-06-22 at 18.38.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.38.41.png)
+![Screenshot 2020-06-22 at 18.38.41](figures/Screenshot%202020-06-22%20at%2018.38.41.png)
 
 
 
-![Screenshot 2020-06-22 at 18.39.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.39.12.png)
+![Screenshot 2020-06-22 at 18.39.12](figures/Screenshot%202020-06-22%20at%2018.39.12.png)
 
 **New development in critical care:** 
 
@@ -137,17 +137,17 @@ Sheryl
 
 
 
-![Screenshot 2020-06-22 at 18.56.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.56.53.png)
+![Screenshot 2020-06-22 at 18.56.53](figures/Screenshot%202020-06-22%20at%2018.56.53.png)
 
-![Screenshot 2020-06-22 at 18.58.51](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.58.51.png)
+![Screenshot 2020-06-22 at 18.58.51](figures/Screenshot%202020-06-22%20at%2018.58.51.png)
 
 
 
-![Screenshot 2020-06-22 at 19.00.06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.00.06.png)
+![Screenshot 2020-06-22 at 19.00.06](figures/Screenshot%202020-06-22%20at%2019.00.06.png)
 
-![Screenshot 2020-06-22 at 19.02.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.02.15.png)
+![Screenshot 2020-06-22 at 19.02.15](figures/Screenshot%202020-06-22%20at%2019.02.15.png)
 
-![Screenshot 2020-06-22 at 19.03.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.03.13.png)
+![Screenshot 2020-06-22 at 19.03.13](figures/Screenshot%202020-06-22%20at%2019.03.13.png)
 
 
 
@@ -189,7 +189,7 @@ This is an operations research area - operations analytics team.
 
 Dr Kang Mei Ling
 
-![Screenshot 2020-06-22 at 19.22.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.22.45.png)
+![Screenshot 2020-06-22 at 19.22.45](figures/Screenshot%202020-06-22%20at%2019.22.45.png)
 
 
 
@@ -211,11 +211,11 @@ Clinical score for LOS
 - Dependent on clinical team / practice
 - Will change with different practice
 
-![Screenshot 2020-06-22 at 19.29.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.29.28.png)
+![Screenshot 2020-06-22 at 19.29.28](figures/Screenshot%202020-06-22%20at%2019.29.28.png)
 
-![Screenshot 2020-06-22 at 19.31.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.31.16.png)
+![Screenshot 2020-06-22 at 19.31.16](figures/Screenshot%202020-06-22%20at%2019.31.16.png)
 
-![Screenshot 2020-06-22 at 19.31.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.31.59.png)
+![Screenshot 2020-06-22 at 19.31.59](figures/Screenshot%202020-06-22%20at%2019.31.59.png)
 
 23K to DIM, 80% of the DIM cases in the coming years in AMW.
 
@@ -249,25 +249,25 @@ Family medicine colleagues have done a study...
 
 Dr Amanda Lam
 
-![Screenshot 2020-06-22 at 19.50.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.50.31.png)
+![Screenshot 2020-06-22 at 19.50.31](figures/Screenshot%202020-06-22%20at%2019.50.31.png)
 
 - 10 - 20 patients a day for the worst of the worst
 - Non-critically ill patients treated with insulin
 - Classification and prediction **for 24 hours** - why 24 hours?
 
-![Screenshot 2020-06-22 at 19.53.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.53.11.png)
+![Screenshot 2020-06-22 at 19.53.11](figures/Screenshot%202020-06-22%20at%2019.53.11.png)
 
-![Screenshot 2020-06-22 at 19.53.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.53.56.png)
+![Screenshot 2020-06-22 at 19.53.56](figures/Screenshot%202020-06-22%20at%2019.53.56.png)
 
 
 
-![Screenshot 2020-06-22 at 19.54.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.54.13.png)
+![Screenshot 2020-06-22 at 19.54.13](figures/Screenshot%202020-06-22%20at%2019.54.13.png)
 
-![Screenshot 2020-06-22 at 19.54.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.54.48.png)
+![Screenshot 2020-06-22 at 19.54.48](figures/Screenshot%202020-06-22%20at%2019.54.48.png)
 
-![Screenshot 2020-06-22 at 19.55.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.55.40.png)
+![Screenshot 2020-06-22 at 19.55.40](figures/Screenshot%202020-06-22%20at%2019.55.40.png)
 
-![Screenshot 2020-06-22 at 19.56.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.56.19.png)
+![Screenshot 2020-06-22 at 19.56.19](figures/Screenshot%202020-06-22%20at%2019.56.19.png)
 
 
 
@@ -293,25 +293,25 @@ Dr Amanda Lam
 
 Daniel Lim - good project
 
-![Screenshot 2020-06-22 at 20.09.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.09.30.png)
+![Screenshot 2020-06-22 at 20.09.30](figures/Screenshot%202020-06-22%20at%2020.09.30.png)
 
-![Screenshot 2020-06-22 at 20.11.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.11.56.png)
+![Screenshot 2020-06-22 at 20.11.56](figures/Screenshot%202020-06-22%20at%2020.11.56.png)
 
-![Screenshot 2020-06-22 at 20.14.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.14.27.png)
+![Screenshot 2020-06-22 at 20.14.27](figures/Screenshot%202020-06-22%20at%2020.14.27.png)
 
 - Would patient come late during COVID19?
 - Could be interesting for respiratory conditions as well.
 - Only Singapore has a closed population
 
-![Screenshot 2020-06-22 at 20.17.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.17.42.png)
+![Screenshot 2020-06-22 at 20.17.42](figures/Screenshot%202020-06-22%20at%2020.17.42.png)
 
 - If we know certain conditions are more vulnerable to circuit breaker we should go ahead and warn these patient
 - Source data availability
-  - ![Screenshot 2020-06-22 at 20.19.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.19.27.png)
+  - ![Screenshot 2020-06-22 at 20.19.27](figures/Screenshot%202020-06-22%20at%2020.19.27.png)
 
 - Domain
 
-![Screenshot 2020-06-22 at 20.20.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.20.10.png)
+![Screenshot 2020-06-22 at 20.20.10](figures/Screenshot%202020-06-22%20at%2020.20.10.png)
 
 
 
