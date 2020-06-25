@@ -290,16 +290,17 @@ Arthritis 关节炎
     -   Occurs in recurrent episodes of acute unilateral pain and swelling lasting days to weeks.
 
     -   Most common joint is the first metatarsophalangeal joint, though other joints such as the knees are commonly affected.
-
 -   Physical
 
     -   Painful joint to touch
 
     -   Can be associated with tophi which are visible or palpable nodules often located on the ears or in the soft tissue. Tophi can also form in the bones, joints, and cartilage. They are typically not painful, and take years to develop.
-
 -   Investigation
 
     -   Arthrocentesis with clear or slightly cloudy synovial fluid with Negatively birefringent rods
+-   Management
+    -   Dicolfenac
+    -   
 
 #### Pseudogout 假痛风
 

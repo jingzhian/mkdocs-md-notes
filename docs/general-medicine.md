@@ -576,7 +576,51 @@ The most common acid-base disturbance in asthma is respiratory alkalosis (due to
 
 #### Alcohol Withdrawal
 
+#### Alcohol Liver Disease
 
+Alcoholic liver disease occurs after years of heavy drinking. Over time, scarring and cirrhosis can occur. Cirrhosis is the final phase of alcoholic liver disease.
+
+Alcoholic liver disease does NOT occur in all heavy drinkers. The chances of getting liver disease go up the longer you have been drinking and more alcohol you consume. You do not have to get drunk for the disease to happen.
+
+The disease is common in people between **40 and 50 years** of age. **Men** are more likely to have this problem. However, women may develop the disease after less exposure to alcohol than men. Some people may have an **inherited risk** for the disease.
+
+**Stages**
+
+Early symptoms include:
+
+- Loss of energy
+- Poor appetite and weight loss
+- Nausea
+- Belly pain
+- Small, red spider-like blood vessels on the skin
+
+As liver function worsens, symptoms may include:
+
+- Fluid buildup of the legs (edema) and in the abdomen (ascites)
+- Yellow color in the skin, mucous membranes, or eyes (jaundice)
+- Redness on the palms of the hands
+- In men, impotence, shrinking of the testicles, and breast swelling
+- Easy bruising and abnormal bleeding
+- Confusion or problems thinking
+- Pale or clay-colored stools
+
+**Exams and Tests**
+
+Examine patient for chronic liver disease, cirrhosis, and complications
+
+Tests you may have include:
+
+- Complete blood count (CBC)
+- Liver function tests
+- Coagulation studies
+- Liver biopsy
+
+Tests to rule out other diseases include:
+
+- Abdominal CT scan
+- Blood tests for other causes of liver disease
+- Ultrasound of the abdomen
+- Ultrasound elastography
 
 ### Poisoning
 

@@ -13,7 +13,56 @@ General ID Knowledge and Conditions
 | ------ | ------------------------------------------------------------ |
 | Fomite | A fomite or fomes is any inanimate object that, when contaminated with or exposed to infectious agents, can transfer disease to a new host. |
 
-### Various Precautions
+### Infection Control Measures
+
+#### MDRO Prevention Program - At SGH
+
+- Prompt identification and notification
+  - Active surveillance for MRSA, VRE and CP-CRE (carbapenemase producing carbapenem-resistant enterobacteriaceae)
+  - System of tagging in Citrix
+  - Screen contacts of CP-CRE
+- Patient isolation (follow criteria) and Contact Precautions
+- Hand hygiene
+- Antiseptic baths for all
+- Environmental hygiene including alcohol toilet seat cleaners
+- Decolonization regime in all MRSA carriers
+
+#### Criteria for Patient Isolation (with limited isolation rooms)
+
+- CP-CRE (ALL)
+- Suspected and known TB patients till rendered non-infectious after 2 weeks of effective therapy
+- VZV (chicken pox and herpes zoster)
+- VRE patients with diarrhea, VRE patients requiring HD and ICA care
+- MRSA patients who are respiratory dispersers or whose wounds cannot be covered
+- C difficile till no more diarrhea for at least 48 hours
+- Symptomatic Influenza patients of Haematology, Oncology departments and those on other transplant programs (single room in their own ward as 1st line)
+
+#### Preventing CLABSI
+
+- Daily review of line necessity with prompt removal of unnecessary lines
+- Optimal catheter site selection: if possible subclavian and avoid femoral vein
+- Hand hygiene
+- Maximal barrier precautions
+- Chlorhexidine skin antisepsis
+  - Chlorhexidine 2% in 70% IPA
+  - Apply using back and forth friction scrub for at least 30 seconds
+  - Allow antiseptic solution time to dry completely before puncturing the site
+  - Do not wipe or blot
+
+#### Preventing CAUTI
+
+- Review catheter necessity daily and remove promptly - use Houdini
+- Insert using aseptic technique
+  - Ensure only trained personnel performs the catheterization
+  - Choose appropriate catheter size
+  - Choose appropriate antiseptic solution (CHG 0.05%)
+  - Single-use lubrication jelly for insertion
+- Maintain catheter based on recommended guidelines
+- Avoid unnecessary urinary catheters
+  - Leave catheter in place only for as long as necessary
+  - Avoid changing indwelling catheters or drainage bag at routine or fixed intervals except in presence of infection such as blood streaks and cloudy urine including obstruction and when there is break in the closed drainage system is suspected.
+
+
 
 
 
@@ -53,9 +102,44 @@ General ID Knowledge and Conditions
 
 #### Hepatitis B, B 型肝炎
 
+#### COVID19
+
+**Presentation**
+
+- Palpitation
+
+  ![Screenshot 2020-06-24 at 13.17.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.17.35.png)
+
+  - Rule out PE with wells score + D-dimer
+
+- ![Screenshot 2020-06-24 at 13.23.38](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.23.38.png)
+
+- ![Screenshot 2020-06-24 at 13.26.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.26.11.png)![Screenshot 2020-06-24 at 13.28.35](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.28.35.png)
+
+- Comments
+- This is determined by the medication available to the migrant workers; 
+
+Mental Health and COVID
+
+- ![Screenshot 2020-06-24 at 13.41.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.41.48.png)
+- ![Screenshot 2020-06-24 at 13.43.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.43.45.png)
+- ![Screenshot 2020-06-24 at 13.44.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.44.55.png)
+- ![Screenshot 2020-06-24 at 13.47.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.47.15.png)
+- ![Screenshot 2020-06-24 at 13.48.32](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.48.32.png)
+- ![Screenshot 2020-06-24 at 13.49.23](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.49.23.png)
+- ![Screenshot 2020-06-24 at 13.51.08](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.51.08.png)
+
+- ![Screenshot 2020-06-24 at 13.53.49](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.53.49.png)
+- ![Screenshot 2020-06-24 at 13.55.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-24%20at%2013.55.11.png)
+- 
 
 
-## Skin Bugs and Diseases
+
+
+
+
+
+#### Skin Bugs and Diseases
 
 ### Methicillin-Resistant Staphylococcus Aureus (MRSA) 抗药性金黃葡萄球菌
 

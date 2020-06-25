@@ -18,3 +18,18 @@ at multiple trauma centers.
 | HR &geq; 120 in ED         | 1     |
 | Positive FAST              | 1     |
 
+
+
+## About those Fluids
+
+### Saag Criteria For Ascites
+
+SAAG = (albumin concentration of serum) – (albumin concentration of ascitic fluid)
+
+**Interpretation**
+
+- SAAG > 1.1 g/dL indicates portal hypertension is the cause of ascites with 97% accuracy.
+- SAAG scores do not indicate the cause of the portal hypertension.
+
+### Light's Criteria for Pleural Effusion
+

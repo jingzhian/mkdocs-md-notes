@@ -89,11 +89,9 @@ extra_css:
 nav:
   - Home: index.md
   # - Exam Info: exam-info.md
-  - Healthcare System: healthcare-system.md
   - Basics of Anatomy, Physiology & Pathology: biomed-sciences.md
   - Foundation of Clinical Medicine: clinic-foundation.md
   - Bedside Etiquette: encounter.md
-  - Common presentations: approach.md
   # - emergency.md
   - neurology.md
   - endocrinology.md
@@ -107,7 +105,6 @@ nav:
   - msk.md
   - rheumatology.md
   - psychiatry.md
-  - frontiers.md
   - palliative.md
   - UWorld Complete:
     - dermatology.md
@@ -126,7 +123,6 @@ nav:
     - reproductive.md
     - respiratory.md
     # - review-peds.md
-    - surgery.md
     - accident.md
     - approach-signs.md
     - approach-symptoms.md
@@ -138,17 +134,32 @@ nav:
     - general-medicine.md
     - genetics-immune.md
     - infectious-diseases.md
-    - investigations.md
     - pain-management.md
     - pediatrics.md
     - people.md
     - procedures.md
     - rehabilitation.md
     - residency.md
-    - sgh-dsml.md
     - system-checklist.md
     - trauma.md
     - vascular.md
+  - Tools:
+    - approach.md
+    - physicalexam.md
+    - investigations.md
+    - pharmaco.md
+    - procedures.md
+    - surgery.md
+  - Conditions:
+    - fammed.md
+    - anesthesiology.md
+    - ENT.md
+  - Beyond Clinical:
+    - tech-notes.md
+    - healthcare-system.md
+    - frontiers.md
+    - career.md
+    - sgh-dsml.md
 
   #- Completed:
 

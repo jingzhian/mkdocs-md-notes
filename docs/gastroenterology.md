@@ -1,9 +1,5 @@
 # Gastroenterology
 
-
-
-
-
 Upper GI
 --------
 
@@ -21,10 +17,14 @@ Achalasia occurs due to degeneration of neurons within the myenteric plexus. Pat
 
 Management
 
-- Do  not insert a nasogastric tube as it may worsen the bleeding!
-- Start IV **somatostatin** 250 mcg bolus, followed by an IV infusion of 250 mcg/hr (successful in up to 85-90% of cases). 
+- Do not insert a nasogastric tube as it may worsen the bleeding!
+- Start **IV somatostatin 250 mcg** bolus, followed by an IV infusion of 250 mcg/hr (successful in up to 85-90% of cases). 
 - If somatostatin is unsuccessful in stopping the bleeding, and there is the risk of the patient exsanguinating before endoscopy can be arranged, then the insertion of a **Sengstaken-Blakemore tube** should be considered. This should be inserted *only by* an experienced operator.
 - Administer IV **antibiotic prophylaxis** with **ceftriaxone or ciprofloxacin** to prevent spontaneous bacterial peritonitis.
+- TIPPS
+  - TIPPS in singapore is IR guided and thus while early TIPSS definition is within 48 hours, there are logistical limitations
+  - Use temporising treatments like SB and Dannis stents in the interim
+- DO NOT USE APC for managing varices - too deep. Bleeding will become more intense. 
 
 ### Esophagitis
 
@@ -109,21 +109,32 @@ GERD is a chronic relapsing condition in which gastric contents reflux through t
 
 ### Peptic Ulcer Disease 溃疡 
 
+Associated with H pylori infection (75 - 95% of the duodenal ulcers, and 65 - 95% of gastric ulcers), although most patients do not know their H. Pylori status. In addition, many patients with ulcer disease and serology findings negative for H. Pylori report recent use of NSAIDs. 
+
 -   Presentation
 
-    -   Epigastric abdominal pain that improves with meals is the hallmark of PUD. However, in some cases, symptoms of PUD may worsen with meals. For example, gastric ulcer pain may occur 5 to 15 minutes after eating and remain until the stomach empties, which may be up to several hours in duration; the pain may otherwise be absent during times of fasting. Pain from duodenal ulcers is often relieved by eating, drinking milk, or taking antacids but may return anywhere from 90 minutes to four hours after eating a meal. Both gastric and duodenal ulcers may be associated with nausea and vomiting occurring anytime shortly after eating to several hours later.
+    -   Concurrent, episodic gnawing or burning pain; pain relieved by food; and nighttime awakening with pain. 
+    -   **Epigastric abdominal pain that improves with meals is the hallmark of PUD**. However, in some cases, symptoms of PUD may worsen with meals. For example, gastric ulcer pain may occur 5 to 15 minutes after eating and remain until the stomach empties, which may be up to several hours in duration; the pain may otherwise be absent during times of fasting. Pain from **duodenal ulcers is often relieved by eating**, drinking milk, or taking antacids but may return anywhere from 90 minutes to four hours after eating a meal. Both gastric and duodenal ulcers may be associated with nausea and vomiting occurring anytime shortly after eating to several hours later.
 
     -   Hematemesis, if present, suggests more complicated disease, such as bleeding ulcer, and warrants urgent GI referral and endoscopy. Melena commonly occurs in the setting of an upper GI bleed secondary to PUD or hemorrhagic gastritis (e.g., NSAID-gastritis). Hematochezia only occurs in the setting of an upper GI bleed when massive (e.g., variceal rupture).
-
 -   Risk Factors
 
-    -   Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) are the predominant pharmacologic agents that contribute to the development of PUD. Classically, older adults are at the highest attributable risk of ulceration and perforation due to chronic NSAID use. Chronic NSAID use is a leading cause of morbidity in older adults.
+    -   Aspirin and other **nonsteroidal anti-inflammatory drugs** (NSAIDs) are the predominant pharmacologic agents that contribute to the development of PUD. Classically, older adults are at the highest attributable risk of ulceration and perforation due to chronic NSAID use. Chronic NSAID use is a leading cause of morbidity in older adults.
 
     -   There is no evidence to support a cause-and-effect association between cigarette smoking and PUD. However, cigarette smoking does decrease vascularity to gastric mucosal cells, resulting in decreased rates of mucosal healing after injury, and, in combination with NSAID use or H. pylori infection, increases the risk of ulceration.
 
     -   Colonization of the stomach by H. pylori renders the underlying mucosa more vulnerable to peptic acid damage by disrupting the mucous layer, liberating enzymes and toxins, and adhering to the gastric epithelium. In addition, the body's immune response to H. pylori incites an inflammatory reaction that contributes to tissue injury and leads to chronic gastritis. In most individuals the chronic gastritis is asymptomatic and does not progress. In some cases, however, altered gastric secretion coupled with tissue injury leads to peptic ulcer disease. In other cases, gastritis progresses to mucosal atrophy, intestinal metaplasia, and eventually gastric carcinoma. Rarely, persistent immune stimulation of gastric lymphoid tissue can lead to gastric lymphoma.
 
     -   Moderate to severe physiologic stress may lead to stress ulceration, predominantly in patients in the intensive care unit (ICU).
+-   Physical
+    -   Oral mucosa hydration
+    -   Abdominal examination: tenderness? organomegaly
+    -   DRE for Fecal Occult Blood
+-   Investigation
+    -   Raised urea may indicate GI bleed
+        -   But must be interpreted with creatinine
+        -   Worsening of renal function
+        -   Patient with Gout and worsening of renal function
 
 -   Diagnosis: withhold PPI and histamine then conduct Urea Breath Test
 
@@ -185,6 +196,22 @@ GERD is a chronic relapsing condition in which gastric contents reflux through t
 
         Testing for H. Pylori eradication is also useful in patients with H. pylori-associated MALT lymphoma, history of resection for early gastric cancer, and patients planning to resume chronic NSAID therapy.
 
+![Peptic Ulcer Bleeding](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2012.56.38.png)
+
+![Screenshot 2020-06-22 at 13.01.22](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2013.01.22.png)
+
+- Endoscopic treatment for high risk ulcers
+  - Argon plasma coagulation
+  - Endoscopic rubber band ligation
+
+#### Cases
+
+- Patient with Gout presents with abdominal pain suggestive of PUD and AKI; worry NSAIDS
+  - Start omeprazole if on-call
+  - Start hydration
+  - Check UFEME
+  - Endoscopy - linear ulceration
+
 ### Gastroenteritis 肠胃炎
 
 Divide into Non-invasive and Invasive.
@@ -202,32 +229,6 @@ Divide into Non-invasive and Invasive.
 
 ## Bowel Conditions
 
-### Irritable Bowel Disease
-
-IBS (irritable bowel syndrome) typically causes a variety of symptoms which can include abdominal pain, loose stools, diarrhea, constipation, abdominal bloating, increased flatulence and mucus in stools. IBS is generally a diagnosis of exclusion. Symptoms of IBS can be brought on initially by a case of gastroenteritis and can be aggravated by stress, anxiety, and depression, dietary changes or change in activity, and are often unpredictable.
-
--   Presentation
-
-    -   crampy pain prior to and during menses, but will also occur at other times during the month.
-
-    -   This pain is often associated with diarrhea and/or constipation.
-
--   Diagnosis: Rome Criteria
-
-    -   Recurrent abdominal pain, on average day per week in past three months with of following features:
-
-        -   related to defecation;
-
-        -   associated with change in stool frequency;
-
-        -   associated with change in stool form (appearance)
-
-        Lab studies are NOT required if other diagnoses are unlikely.
-
--   Treatment
-
-    -   Offering behavioral therapies and exercise
-
 ### Hernia
 
 #### Inguinal Hernia
@@ -239,6 +240,8 @@ Indirect hernia: An indirect inguinal hernia develops as a result of a persisten
 Direct hernia: A direct inguinal hernia usually occurs due to a defect or weakness in the transversalis fascia area of the Hesselbach triangle. The triangle is defined inferiorly by the inguinal ligament, laterally by the inferior epigastric arteries, and medially by the conjoint tendon.
 
 ### Intestinal Obstruction
+
+Constipation has the highest positive predictive value. 
 
 - Sluggish bowel sounds
 - Four cardinal signs: abdominal pain, abdominal distention, constipation, nausea/vomiting
@@ -260,13 +263,19 @@ Direct hernia: A direct inguinal hernia usually occurs due to a defect or weakne
 
 
 
+### Paralytic Ileus
+
+
+
 ### Appendicitis 盲肠炎
+
+Location of the pain has a very strong and highest predictive value. 
 
 All patients with RLQ tenderness should be diagnosed as having appendicitis until proven otherwise. Special groups of patients to be particularly vigilant include children, the elderly, women, pregnant women and the immunocompromised.
 
 **Clinical Features**
 
-- The **classical presentation** of pain beginning periumbilically and moving to the right lower quadrant (RLQ) associated with vomiting, anorexia, rebound, and fever are reported in only 50-60% of patients.
+- The **classical presentation** of pain beginning periumbilically and **moving** to the right lower quadrant (RLQ) associated with vomiting, anorexia, rebound, and fever are reported in only 50-60% of patients.
   - Body temperatures >39°C are uncommon in the first 24 hours of illness but not uncommon - after the rupture of the appendix. Think of other diagnosis (e.g. acute pyelonephritis, PID) in a patient with a high fever (>39°C) early in the onset of abdominal pain.
   - Patients with acute appendicitis will frequently give a history of having had some vomiting. They generally have nausea, loss of appetite, mild fever, and will usually have decreased stooling or constipation.
 - **Atypical/early presentations** are actually more common. Early pain may be vaguely localized to the epigastrium which makes diagnosis difficult. Retrocaecal appendix, due to its 'hidden' position, is thought to result in delayed diagnosis of acute appendicitis and increased rate of perforation.
@@ -338,9 +347,39 @@ All patients with RLQ tenderness should be diagnosed as having appendicitis unti
 
     -   Most common in patients over 50 years of age.
 
-### Inflammatory Bowel Disease 炎性肠道疾病
+### Inflammatory Bowel Syndrome 炎性肠道疾病
 
 Inflammatory bowel disease can often be misdiagnosed as a gynecologic problem since constipation and diarrhea are associated with premenstrual syndrome as well. Additionally, when a person has bloody stools during her menses, the clinical diagnosis can be more confusing. However, when there is pain with defecation and bloody stools occur at times other than during menses this diagnosis becomes clearer. Abnormal vaginal bleeding is not a typical symptom of inflammatory bowel disease.
+
+#### Ulcerative Colitis
+
+#### Crohn's Disease
+
+### Irritable Bowel Disease
+
+IBS (irritable bowel syndrome) typically causes a variety of symptoms which can include abdominal pain, loose stools, diarrhea, constipation, abdominal bloating, increased flatulence and mucus in stools. IBS is generally a diagnosis of exclusion. Symptoms of IBS can be brought on initially by a case of gastroenteritis and can be aggravated by stress, anxiety, and depression, dietary changes or change in activity, and are often unpredictable.
+
+-   Presentation
+
+    -   crampy pain prior to and during menses, but will also occur at other times during the month.
+
+    -   This pain is often associated with diarrhea and/or constipation.
+
+-   Diagnosis: Rome Criteria
+
+    -   Recurrent abdominal pain, on average day per week in past three months with of following features:
+
+        -   related to defecation;
+
+        -   associated with change in stool frequency;
+
+        -   associated with change in stool form (appearance)
+
+        Lab studies are NOT required if other diagnoses are unlikely.
+
+-   Treatment
+
+    -   Offering behavioral therapies and exercise
 
 ## Blood and Lymphatics Conditions
 
@@ -370,6 +409,16 @@ Management
 
 ### Acute Pancreatitis 急性胰腺炎
 
+**Causes**
+
+- Autoimmune causes
+- Alcohol
+- Trauma
+- Metabolic causes
+- Neoplastic causes
+
+**Clinical Features**
+
 -   Presentation
 
     -   Causes severe abdominal pain, associated with nausea and vomiting
@@ -384,13 +433,22 @@ Management
 
     -   Ill appearance on exam, and clinical signs of dehydration such as tachycardia, jaundice may be seen if there is obstruction of the common bile duct.
 
-    -   Grey Turner Sign: Ecchymotic discoloration in the flank
+    -   Signs of necrotising pancreatitis
 
-    -   Cullen sign: Ecchymptoc discoloration in the periumbilical region
+        -   Grey Turner Sign: Ecchymotic discoloration in the flank
+        -   Cullen sign: Ecchymptoc discoloration in the periumbilical region
+
+        ![Screenshot 2020-06-22 at 11.34.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2011.34.16.png)
 
 -   Diagnosis
 
     -   Leads to elevations in serum lipase and amylase.
+    
+-   Management
+
+    -   Mainstay treatment is **hydration**! Hartmann's
+    -   May do imaging of liver and biliary system
+    -   **Cholangitis** is suspected, then do blood cultures and start antibiotics
 
 ### Chronic Pancreatitis 慢性胰腺炎
 
@@ -426,11 +484,176 @@ The clinical manifestations of hepatitis vary somewhat depending on etiology, bu
 
 #### Viral Hepatitis
 
-### Cirrhosis and Chronic Liver Disease
 
-#### Portal Hypertension
 
-#### Variceal Bleeding
+### Cirrhosis
+
+![Screenshot 2020-06-25 at 11.12.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.12.16.png)
+
+#### Presentation
+
+- Biochemical
+- Clinical
+  - Development of ascites / pedal edema
+  - Splenomegaly
+  - Spider Naevi
+  - Palmar erythema
+- Radiological
+  - Coarse echoes on ultrasound
+  - Shrunken nodular liver
+  - Compensatory caudate lobe hypertrophy
+  - Splenomegaly
+  - Enlarged portal vein diameter
+  - Reversal of portal flow
+
+![Screenshot 2020-06-25 at 11.21.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.21.10.png)
+
+#### Causes of Liver Cirrhosis
+
+In defending order of likelihood
+
+- Chronic viral hepatitis: **Hep B**, Hep C
+- Non-alcoholic fatty liver disease
+- Alcohol
+- Immune: primary sclerosing cholangitis, autoimmune liver disease
+- Biliary: primary biliary cirrhosis, secondary biliary, cirrhosis, cystic fibrosis
+- Genetic: Haemochromatosis, Wilson's disease, &alpha;1-antitrypsin deficiency
+- Cryptogenic (unknown -15%)
+- Chronic venous outflow obstruction
+- Any chronic liver disease
+
+Work-up Etiology
+
+- Important history
+  - History of diabetes, metabolic syndrome
+  - History of other autoimmune disease
+  - Previous hepatitis serologies
+  - Family history of liver disease
+  - Previous vaccinations
+  - Alcohol intake
+- Investigations (aetiology)
+  - HbS-ag, HCV IgG, HAV IgG
+  - ANA, anti-SMA, anti-liver antibody, SLA/LP, LC-1, LKM-1, M2 
+  - Caeruloplasmin (younger patients)
+
+#### Assessment of severity
+
+Child-pugh scoring
+
+- 2 clinical: Hepatic encephalopathy, ascites, 
+- 3 labs: Total bilirubin, serum albumin, prothrombin time
+
+| Measure                 | 1 point | 2 points                                   | 3 points                       |
+| ----------------------- | ------- | ------------------------------------------ | ------------------------------ |
+| Total bilirubin (mg/dL) | >3.5    | 2.8 - 3.5                                  | < 2.8                          |
+| Serum albumin (g/dL)    | <34     | 34 - 50                                    | > 50                           |
+| Prothrombin time (s)    | <4.0    | 4.0 - 6.0                                  | >6.0                           |
+| Ascities                | None    | Mild                                       | Moderate to Severe             |
+| Hepatic encephalopathy  | None    | Grade I-II (or suppressed with medication) | Grade III - IV (or refractory) |
+
+1 mg/dL = 17.1 umol/L
+
+| Points  | Class | One year survival | Two year survival |
+| ------- | ----- | ----------------- | ----------------- |
+| 5 - 6   | A     | 100 %             | 85 %              |
+| 7 - 9   | B     | 81%               | 57%               |
+| 10 - 15 | C     | 45%               | 35%               |
+
+![Screenshot 2020-06-25 at 11.44.00](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.44.00.png)
+
+
+
+#### Complications
+
+1. **Portal Hypertension** - Ascites +/- spontaneous bacterial peritonitis
+
+   - What we would send ascites for
+
+2. **Variceal Bleeding**
+
+3. **Hepatic Encephalopathy**
+
+   - Differential of AMS even if there is cirrhosis
+
+     ![Screenshot 2020-06-25 at 11.57.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.57.55.png)
+
+4. **Hepatocellular Carcinoma**
+
+5. **Portal vein thrombosis** - some patients are prothrombotic - in compensated; but if there is infection, the patients can be tipped over into coagulopathy.
+
+#### Investigation is Severity Dependent
+
+- Physical examination
+- FBC, renal panel, LFT, PT/PTT, AFP
+- US abdomen +/- Doppler
+- OGD
+
+#### Management
+
+- Liver transplant is the only definitive treatment.
+
+![Screenshot 2020-06-25 at 11.50.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2011.50.27.png)
+
+#### Triggers of Hepatic Decompensation - HEPTICUS 
+
+Hemorrhage
+
+Electrolytes
+
+Protein (for HE)
+
+Alcohol
+
+Trauma / tumor
+
+Infection
+
+Constipation (for HE)
+
+Uremia
+
+Surgery
+
+#### Treatment of cirrhosis complications
+
+- Treatment of underlying cause of liver cirrhosis to prevent progression of disease (e.g. stop alcohol, treat HBV)
+- Regular HCC surveillance with AFP and US abdomen
+- 
+
+![Screenshot 2020-06-25 at 12.00.24](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.00.24.png)
+
+**Treatment for Cirrhosis Complications**
+
+![Screenshot 2020-06-25 at 12.00.33](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.00.33.png)
+
+- Oesophageal varices
+  - EVL
+  - NSBB
+  - Regular surveillance of progression of varices
+
+- Ascites
+  - Low salt diet
+  - Diuretics (spironolactone, furosemide)
+  - Large volume paracentesis in diuretic refractory and diuretic intolerant
+  - TIPPS
+- Hepatic Encephalopahty
+  - Lactulose
+    - Very special, not just flushing the gut like other diuretics
+    - ![Screenshot 2020-06-25 at 12.04.43](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.04.43.png)
+    - Ammonia is processed in the liver in urea cycle into urea, which when disrupted, ammonia 
+    - Lactulose is a probiotic, polysaccharide, not absorbed, processed into short chain fatty acids by the gut bacteria that is not only hyper-osmotic but also 
+  - Rifaximin: antibiotic used to treat traveler's diarrhea, irritable bowel syndrome, and hepatic encephalopathy
+
+#### Hepatorenal syndrome
+
+- Always in a pre-renal failure state due to chronic vasodilation, and splenic dilation, portal system shunting of blood; on top of ascites and third spacing; Therefore kidneys have pre-renal failure, due to low flow kicked into full failure by infections, 
+- Treatment is vasoconstriction
+
+#### Hepatopulmonary syndrome
+
+- Shunt formation in the lung
+- Due to angiogenesis (body trying to by pass a shunt), lungs have a lot of AVM shunts everywhere
+- The patients will become hypoxic
 
 ### Budd-Chiari Syndrome
 
@@ -593,21 +816,55 @@ Tips
 
   - Consult Gastroenterology with a view co-admit to a high dependency unit (or intensive care unit if incubated).
 
-### Gallstones 胆石 and Biliary Colic
+### Cholelithiasis 胆石 
 
-Presentation\
-Biliary colic typically causes right upper quadrant pain, epigastric pain or chest pain that is constant (the term \"colic\" is a misnomer), typically lasts 4-6 hours or less, and often radiates to the back (classically under the right shoulder blade). It is often accompanied by nausea or vomiting and often follows a heavy, fatty meal. These symptoms are a result of a stimulated gallbladder (e.g., from a fatty meal) contracting when a gallstone obstructs the outlet of the cystic duct. The hallmark of biliary colic is that the stone is mobile and eventually moves away from the outlet allowing resumption of normal gallbladder function and resolution of symptoms.
+Symptoms are a result of a stimulated gallbladder (e.g., from a fatty meal) contracting when a gallstone obstructs the outlet of the cystic duct. 
+
+Presentation
+
+- Biliary colic typically causes right upper quadrant pain, epigastric pain or chest pain that is constant (the term \"colic\" is a misnomer), typically lasts 4-6 hours or less, and often radiates to the back (classically under the right shoulder blade). 
+- It is often accompanied by nausea or vomiting and often follows a heavy, fatty meal. 
+- The hallmark of biliary colic is that the stone is mobile and eventually moves away from the outlet allowing resumption of normal gallbladder function and resolution of symptoms.
 
 ### Cholecystitis
 
--   Presentation\
-    RUQ pain from cholecystitis also causes right upper quadrant pain with associated nausea and vomiting and also classically occurs following a large, fatty meal. The pathophysiology of cholecystitis is similar to biliary colic but is caused by a stone that is not dislodged from the cystic duct outlet. In contrast to biliary colic, the symptoms of cholecystitis typically persist, are more severe, and are often associated with fever. An elevated white blood cell count is often present from inflammation of the distended gallbladder wall. It should be noted that these inflammatory changes found with cholecystitis can be acute or chronic. Additionally, the condition of acalculous cholecystitis, in which gall stones are not implicated in the pathophysiology, can occur, particularly in the elderly and the very-ill ICU patient.
+The pathophysiology of cholecystitis is similar to biliary colic but is caused by a stone that is not dislodged from the cystic duct outlet. 
 
--   Physical\
+**Clinical Features**
+
+- RUQ pain from cholecystitis also causes right upper quadrant pain with associated nausea and vomiting and also classically occurs following a large, fatty meal. 
+- In contrast to biliary colic, the symptoms of cholecystitis typically persist, are more severe, and are often associated with fever. An elevated white blood cell count is often present from inflammation of the distended gallbladder wall. It should be noted that these inflammatory changes found with cholecystitis can be acute or chronic. 
+- Less than 25% of patients with Acute Cholecystitis present without right upper quadrant pain or colic
+
+-   Physical
 
     -   Positive Murphy's sign - high specificity, low sensitivity
 
+#### Acalculous Cholecystitis
+
+A cholecystitis in which gallstones are not implicated in the pathophysiology, can occur, particularly in the elderly and the very-ill ICU patient.
+
 ### Cholangitis
+
+#### Acute Cholangitis
+
+- Charcot's Triad: fever, upper abdominal pain, jaundice
+- Rayneud's Pentad: Charcot's triad + HoTN + syncope
+
+**Management**
+
+- Blood culture
+- ERCP
+
+**Case**
+
+- Patient worsen after ERCP
+
+  - HAGMA found in renal panel
+    - Lactate and ketones
+      - DKA delayed presentation
+
+  
 
 ### Hepatobiliary Sepsis
 

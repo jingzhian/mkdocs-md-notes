@@ -77,26 +77,6 @@ Cone of light point anteriorly.
 
 #### Physiology
 
-#### Rinne and Weber Tests
-
-| Condition                  | Rinne                  | Weber                             |
-| -------------------------- | ---------------------- | --------------------------------- |
-| Normal                     | AC \> BC in both ears  | Midline                           |
-| Conductive hearing loss    | BC \> AC in affect ear | Lateralizes to the affected ear   |
-| Sensorineural hearing loss | AC \> BC in both ears  | Lateralizes to the unaffected ear |
-| Mixed hearing loss         | BC \> AC in affect ear | Lateralizes to the unaffected ear |
-
-In conductive hearing loss, Weber test lateralizes to the affected ear because the conductive deficit masks the ambient noise in the room, allowing the sound to be better heard. In sensorineural hearing loss, Weber test lateralizes to the unaffected ear because the inner ear on the affected side is impaired and does not allow sound to be heard. Rinne because abnormal if there is a component of conductive problem in hearing lost only.
-
-512 Hz tuning fork for testing because
-- it is present in the mid speech frequency range
-- ovetones ar eminmals
-- sounds is more auditory than tactile in nature
-- tone decay is optimal
-Other possible range are 218, 512, and 1024 Hz
-
-POSTIVE Rinne is Normal!
-
 
 #### Audiometry and Audiogram
 

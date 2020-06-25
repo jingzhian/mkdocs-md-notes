@@ -4,10 +4,11 @@ title: Exam Information
 Career
 ================
 
+## Setting Up at a New Hospital
+
 Training notes
 
-- Check SingHealth infonet for procedure consent forms
-- 
+- Check SingHealth infopedia for procedure consent forms
 
 Tests and Testing Strategy
 -------------

@@ -2308,7 +2308,10 @@ An autoimmune dermal reaction due to dietary gluten and is commonly associated w
 ![Dermatitis Herpetiformis](figures/skin-dermatitis-herpatiformis.jpg)
 ![Dermatitis Herpetiformis](figures/skin-herpetiformis.jpg)
 
+![Screenshot 2020-06-22 at 11.21.36](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2011.21.36.png)
+
 **Diagnosis**
+
 - Skin biopsy shows subepidermal microabscesses (blisters) at the tips of the dermal papillae
 - Immunofluorescence studies show deposits of anti-epidermal transglutaminase IgA in the dermis. 
 

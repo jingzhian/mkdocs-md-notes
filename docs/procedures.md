@@ -6,6 +6,12 @@ Follow up
 
 - Go to ED and do lung U/S, see sliding lung sign
 
+In all procedures, there is
+
+1. Preparatory phase
+2. Performance phase
+3. Follow-up phase
+
 ## Basic Care of Patient
 
 ### Intake
@@ -54,47 +60,386 @@ Follow up
 
 ### Dress an open wound
 
+Materials required
+
+	1. Non-sterile glove
+ 	2. Dressing set
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers.
+2. Explain procedure, potential complications and obtain consent from the patient.
+3. Switch off fan, if applicable. Draw curtain around the bed.
+4. Perform hand hygiene.
+5. Unfold the wrapper of the dressing set without touching the inner surface.
+6. Pour the required solution into the compartment of the dressing tray.
+7. Add dressing materials, wound care products or equipment into the sterile field as required.
+
+**Performance Phase**
+
+8. Perform hand hygiene.
+9. Position patient in a comfortable and safe position. Remove necessary clothing to expose the dressing. Place protective sheet.
+10. Wear non-sterile gloves to remove the old dressing. Discard gloves after.
+11. Perform surgical hand rub.
+12. Wear sterile gloves *if necessary*.
+13. Assess the condition of the wound using the mnemonic: 
+    - M – Measure (wound size – length, width, depth)
+    - E – Exudate (amount, colour, consistency, odour)
+    - A – Appearance (wound bed colour)
+    - S - Suffering (pain score)
+    - U – Undermining (size – circumference area using clock system) 
+    - R – Re-evaluate (signs of infection progress of healing)
+    - E – Edge (wound edge and periwound area)
+14. Drape surrounding area of the wound with the dressing towel.
+15. Cleanse wound from least contaminated to most contaminated area. (Use separate swabs for each cleansing stroke)
+16. Irrigate wound if necessary.
+17. Clean the surrounding area of the wound.
+18. Use dry gauze to dab wound dry.
+19. Apply wound care products (if needed) and primary dressing.
+20. Secure the dressing with surgical tape /transparent dressing /bandage.
+21. Remove gloves.
+22. Perform hand hygiene.
+23. Assist patient to a comfortable position, and help patient to dress up.
+24. Perform hand hygiene.
+
+**Follow up Phase**
+
+25. Document the date and time of procedure, MEASURE findings and type of wound care products / dressings used in clinical notes
+26. Perform hand hygiene.
+
 ### Suture Removal
 
 
 
 ## Bloods and Injections
 
-### Capillary Blood Glucose Measurement
-
-
-
-### Needles
+### Needles and Disposal
 
 | Color | Gauge    | Application |
 | ----- | -------- | ----------- |
 | Blue  | 23 Gauge |             |
 
-### Disposal of needles and Sharps
 
-### Venepuncture
 
-### Intravenous cannulation
+### Capillary Blood Glucose Measurement
+
+Material: gloves, alcohol swabs, lancets, test strips, glucometer, gauze, sharp box, plaster
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers.
+2. Explain procedure to patient and obtain consent.
+3. Perform hand hygiene.
+4. Prepare material
+5. Check test strips expiry date and lot number. Ensure strip is not expired and that lot number matches glucometer.
+
+**Performance Phase**
+
+6. Perform hand hygiene.
+7. Insert test strip into glucometer.
+8. Wear gloves.
+9. Choose site of puncture. It should be
+   - On non-dominant hand
+   - non-index finger
+   - over on the lateral/medial aspect of the distal tip
+   - no overlying infection.
+10. Swab the site of puncture, and allow alcohol to dry.
+11. Squeeze fingertip and puncture with lancet.
+12. Discard lancet into sharp box.
+13. Apply glucometer with test strip over drop of blood.
+14. Clean blood away with gauze and apply plaster.
+15. Allow time for glucometer to give reading.
+
+**Follow up phase**
+
+16. Discard used items, remove gloves and perform hand hygiene.
+17. Document the date, time and result of procedure (report abnormal finding).
+18. Perform hand hygiene.
+
+### SC Injection
+
+**Preparatory Phase**
+
+1. Check electronic Medication Administration Record (eMAR) for 7 rights of medication administration. (patient, medication, dosage, route, time/frequency, diluent and rate/speed)
+2. Check for drug allergy in eMAR.
+    (take note of medication of the same drug class)
+3. Perform hand hygiene.
+4. Check medication for expiry date, intact seal, presence of sediments and discolouration.
+5. Prepare requisites using an aseptic non-touch technique. 
+   - swab medication vial
+   - inject similar volume of air into medication vial
+   - withdraw the volume of medication needed
+
+**Execution Phase**
+
+6. Identify the patient using two patient identifiers.
+
+7. Check with patient for history of drug allergy.
+
+8. Explain procedure, potential complications and obtain consent from the patient.
+
+9. Perform hand hygiene.
+
+10. Wear gloves.
+
+11. Select appropriate injection site and locate site using anatomical landmarks. 
+
+    - abdomen- 2 fingers away from umbilicus
+    - lateral aspect of upper arms and thighs
+
+    Think where can I find skin folds.
+
+12. Clean chosen site with alcohol swab. Apply swab at center of the selected site and clean outward in a circular direction.
+
+13. Grasp a fold of skin to form a pinch between thumb and index finger using your non-dominant hand.
+
+14. Inject needle at an angle of **90 degree** into the skin fold.
+
+15. Inject medication according to the recommended speed.
+
+16. Withdraw the needle, release the skinfold and cover puncture area with a cotton swab. (apply light pressure)
+
+17. Dispose syringe and needle into sharp box immediately.
+
+18. Remove the cotton swab when there is no more oozing of blood.
+
+19. Remove gloves.
+
+20. Perform hand hygiene.
+
+**Follow up**
+
+21. Document the date and time of administration in eMAR.
+22. Observe and report any adverse reaction.
+
+
+
+
+
+### IM Injection
+
+**Preparation**
+
+1. Check electronic Medication Administration Record (eMAR) for 7 rights of medication administration. (patient, medication, dosage, route, time/frequency, diluent, and rate/speed)
+2. Check for drug allergy in eMAR. (take note of medication of the same drug class)
+3. Perform hand hygiene.
+4. Check medication for expiry date, intact seal, presence of sediments and discolouration.
+
+5. Prepare requisites using an aseptic non-touch technique.
+   - swab medication vial
+   - attach withdrawal needle
+   - inject similar volume of air into medication vial
+   - withdraw the volume of medication needed
+   - detach withdrawal needle and dispose into sharp box
+   - attach injecting needle and prime it
+
+**Execution**
+
+6. Identify the patient using two patient identifiers.
+7. Check with patient for history of drug allergy.
+8. Explain procedure, potential complications and obtain consent from patient.
+9. Perform hand hygiene.
+10. Wear gloves.
+11. Select appropriate injection site and locate site using anatomical landmarks. (Deltoid - 0.5 to 2mls, Vastus lateralis – 1 to 5mls, Ventrogluteal – 2.5 to 5mls)
+12. Clean chosen site with alcohol swab. Apply swab at center of the selected site and clean outward in a circular direction.
+13. Stretch skin taut across injection site (Z technique) and inject needle at a **90-degree angle** into muscle.
+14. Aspirate briefly; if blood appears, withdraw needle. Replace it with a new one.
+15. Inject medication according to the recommended speed.
+16. Withdraw needle and dispose syringe and needle into sharp box immediately.
+17. Cover puncture area with a cotton swab. (apply light pressure).
+18. Remove the cotton swab when there is no more oozing of blood. Apply adhesive bandage.
+19. Remove gloves.
+20. Perform hand hygiene.
+
+**Follow-up**
+
+21. Document the date and time of administration in eMAR.
+22. Observe and report any adverse reaction.
+
+
 
 ### Arterial Puncture for ABG
 
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers and check laboratory form for the investigation ordered.
+2. Explain procedure, potential complications and obtain consent from the patient.
+3. Perform hand hygiene.
+4. Prepare requisites using an aseptic non-touch technique. (Attach needle to the ABG syringe.) 
+5. Perform hand hygiene.
+6. Perform Modified Allen’s test for collateral circulation. *(if circulation is impaired, use the other arm or consider alternative site)*
+
+**Performance Phase**
+
+7. Position the patient’s arm with the wrist extended (20-30°).
+8. Perform hand hygiene.
+9. Wear gloves.
+10. Palpate for the radial artery and clean the site with an alcohol wipe.
+11. Palpate the radial artery with your non-dominant hand’s index finger around 1cm proximal to the planned puncture site. *(avoiding directly touching the* planned puncture site that you have just cleaned)
+12. Insert the ABG needle through the skin at an **angle of 45° over the point of maximal radial artery pulsation**. *(which you identified during palpation in step 10)*
+13. Advance the needle into the radial artery until you observe blood flashback into the ABG syringe. *(The syringe should then begin to self-fill in a pulsatile manner, dark, non-pulsatile blood that requires manual suction suggests a venous sample.)*
+14. Once the required amount of blood has been collected, remove needle and apply immediate firm pressure over the puncture site for at least 5 minutes.
+15. Dispose the needle into sharp box and expel an air from the syringe.
+16. Cap the syringe and send it for analysis as soon as possible (store the sample in some crushed ice during transportation)
+17. Dress the puncture site and ensure bleeding has stopped.
+18. Remove gloves and dispose requisites.
+19. Perform hand hygiene.
+
+**Follow up**
+
+20. Document the date and time of procedure and specimen collected (indicate if patient is on oxygen therapy) in clinical notes
+21. Perform hand hygiene
+
+
+
+### Venepuncture
+
+Material: tubes, vacutainer system, glovers, tourniquet
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers and check laboratory form for the investigation ordered.
+2. Explain procedure to patient and obtain consent.
+3. Perform hand hygiene.
+4. Prepare specimen tubes and requisites (assemble the vacutainer system).
+5. Perform hand hygiene.
+
+**Performance Phase**
+
+6. Select an appropriate site for venepuncture on upper arm or forearm, and place a protective sheet under the selected site.
+7. Apply a tourniquet the selected site. **(Approximately 7cm above)**
+8. Palpate the vein to confirm its location.
+9. Clean selected site with alcohol swab in a circular motion from center outward to the periphery (radius of approximate 5 cm). Wait for 30 seconds for alcohol to dry before proceeding.
+10. Perform hand hygiene.
+11. Wear gloves.
+12. Stabilize the vein while maintaining traction on the skin with the thumb.
+13. Insert needle at **15** **–** **30** angle with the bevel facing upwards.
+14. Advance the needle until the vein is punctured.
+15. Once there is flash back of blood into the tubing, advance needle another 1mm and hold it in place.
+16. Advance specimen tube into vacutainer barrel to puncture the tube stopper.
+17. Withdraw the required amount of blood. There should be a smooth free flow of blood. 
+18. Remove the specimen tube when it is filled and repeat to collect other specimens if required.
+19. Release tourniquet.
+20. Place gauze over puncture site and withdraw the needle. Apply pressure over puncture site for **2 minutes**.
+21. Discard needle into the sharp disposal container 
+22. Apply an adhesive plaster over puncture site. (Ensure bleeding has stopped)
+
+**Follow up Phase**
+
+23. Dispose material, remove gloves and perform hand hygiene.
+24. Print specimen label(s), paste onto specimen tube(s) and dispatch the specimen(s) per hospital protocol.
+25. Document the date and time of specimen collection and dispatch on clinical notes.
+26. Perform hand hygiene.
+
+### IV cannulation
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers.
+
+2. Explain procedure to patient and obtain consent.
+
+3. Perform hand hygiene.
+
+4. Prepare requisites.
+
+5. Prepare IV fluid according to prescribed orders and prime the administration set;
+
+   **OR**
+
+   Attach 5ml prefilled 0.9% Sodium Chloride syringe to needle free connector (e.g. microclave) and prime it.
+
+6. Perform hand hygiene.
+
+**Performance Phase**
+
+7. Choose an appropriate site for IV cannulation on upper arm or forearm
+8. Apply a tourniquet the selected site. **(Approximately 7cm above)**
+9. Palpate the vein to confirm its location.
+10. Clean selected site with alcohol swab in a circular motion from center outward to the periphery (radius of 5 cm). Wait for 30 seconds for alcohol to dry before proceeding.
+11. Perform hand hygiene.
+12. Wear gloves.
+13. Stabilize the vein while maintaining traction on the skin with thumb.
+14. Insert needle at **15** **–** **30** angle with the bevel facing upwards.
+15. Advance the needle until the vein is punctured.
+16. Once there is flash back of blood into the needle hub, lower the cannula and proceed to advance another 1mm and stop.
+17. Withdraw the stylet and observe for second flashback of blood at the cannula.
+18. Advance the cannula while holding the stylet.
+19. Release tourniquet and place a sterile gauze under the cannula hub.
+20. Apply pressure over the distal tip of indwelling cannula.
+21. Remove the stylet and discard it into the sharp disposal container.
+22. Connect hub to IV tubing. **OR** Connect needle free connector to the hub, aspirate for backflow then flush with 5ml of Sodium Chloride 0.9% Injection.
+23. Apply transparent dressing and secure with tape.
+
+**Follow up Phase**
+
+24. Discard used items, remove gloves and perform hand hygiene
+25. Document the date and time of procedure in clinical notes.
+26. Perform hand hygiene.
+
 ### Aseptic Blood Culture
+
+**Preparation**
+
+1. Identify the patient using two patient identifiers and check laboratory form for the investigation ordered.
+
+2. Explain procedure to patient and obtain consent.
+
+3. Perform hand hygiene.
+
+4. Prepare specimen bottles and requisites.
+
+   1. Open the disposable blood culture set
+
+   2. Remove alcohol swabs, tourniquet and protective sheet.
+
+   3. Set up the waste bag.
+
+   4. Remove dust cap from top of culture bottle(s) and disinfect each septum with an
+
+      alcohol swab; **leave the alcohol swab on septum during skin preparation and**
+
+      **remove swab just before inoculating culture bottle(s).**
+
+5. Perform hand hygiene.
+6. Palpate the arm to locate an appropriate vein and apply tourniquet.
+7. Place protective sheet below the patient's arm.
+
+**Execution**
+
+8. Perform a surgical hand rub.
+9. Open inner wrapper of blood culture kit, while maintaining a sterile field.
+10. Put on the sterile gloves.
+11. Tear open swab stick and assemble the vacutainer system.
+12. Clean selected site with swab stick in a circular motion from center outward to the periphery (radius of approximate 5 cm). Wait for 30 seconds for alcohol to dry before proceeding.
+13. Apply the aperture drape, exposing the skin zone where the area was cleaned and paste the adhesive tape onto the patient's skin - **do not touch or re-palpate the site after cleaning.**
+14. Insert needle at **15** **–** **30** angles with the bevel facing upwards.
+15. Advance the needle until the vein is punctured.
+16. Once there is flash back of blood into the tubing, advance needle another 1mm and hold it in place.
+17. Remove alcohol swab resting on the culture bottle septum. Advance bottle into the vacutainer barrel to puncture the septum. Collect blood to the marked line and once filled
+18. Withdraw the required amount of blood, and invert the bottle gently 2-3 times to mix the blood and the medium.  **(keep the culture bottle upright and below the level of the patient's arm** at all times to prevent reflux of the culture medium into the vacutainer system)
+19. Remove culture bottle when it is filled and repeat to collect other specimens if required. Collect blood for **aerobic, anaerobic, fungal bottle** (if needed) – in this order.
+20. Once the culture is completed. Remove the tourniquet, and cover the venipuncture site with gauze while withdrawing the needle.
+21. Discard needle into the sharp disposal container.
+22. Apply an adhesive plaster over puncture site. (Ensure bleeding has stopped)
+23. Remove drape, dispose requisites and sterile gloves.
+24. Perform hand hygiene.
+
+**Follow-up**
+
+25. Print specimen label(s), paste onto specimen bottle(s) and dispatch specimen as per hospital protocol.
+26. Document date/time of specimen collection and dispatch in clinical notes.
+27. Perform hand hygiene.
 
 ### Peripheral Line
 
 ### Central Line
 
-## Medication Delivery
-
 ### IV Drip
 
-### IM Injection
-
-### SC Injection
-
-#### Insulin
-
 ### Nebulization
+
+
 
 ## Tissue Sampling
 
@@ -478,9 +823,54 @@ Insertion of an additional chest tube is indicated if the existing one is inadeq
 
 
 
-#### Chest Tube Placement, Maintainance, Removal
+#### Chest Tube Placement
 
+#### Chest Tube Maintainance
 
+#### Removal
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers.
+
+2. Explain procedure to the patient and obtain consent to proceed.
+
+3. Perform hand hygiene.
+
+4. Prepare requisites.
+
+5. Perform hand hygiene.
+
+6. Assist patient into a **semi lateral position away from the drain site**.
+
+   Put on a pair of non-sterile gloves and remove dressing covering drain site.
+
+7. *(If the drain site appears inflamed or purulent, consider doing a wound swab for culture and sensitivity analysis)*
+
+8. Remove the non-sterile gloves.
+
+9. Release/ clamp vacuum suction on drain bottle.
+
+**Performance Phase**
+
+10. Perform surgical handrub.
+11. Put on a pair of sterile gloves.
+12. Prepare sterile field.
+13. Clean the drain exit site with cleansing solution. *(in concentric circles starting from the exit site outwards to a diameter of 3 inche*s)
+14. Position a sterile drape around the exit site.
+15. Hold one end of the stitch’s knot with a pair of sterile artery forceps and cut below the knot close to the skin with a pair of sterile scissors. Pull the stitch out gently.
+16. Place a sterile gauze over the drain site with non-dominant hand to support the skin surrounding the drain site.
+17. Inform the patient of a pulling sensation while the drain is removed.
+    *(Instruct the patient to take slow, deep breaths)*
+18. Pull out the drain firmly and smoothly, near to the skin using the dominant hand. *(If resistant is felt during the removal, do not pull the drain with force)* Check that the entire drain has been removed. Note that the tip is intact.
+19. Measure the length and compare with the length stated in the intra-operative records. *(Inform surgeon if there is a discrepancy)*
+20. Maintain pressure over the drain site with the gauze pad until the bleeding / drainage is minimal. Apply dressing.
+
+**Follow up Phase**
+
+21. Remove gloves, dispose requisites and perform hand hygiene.
+22. Document the date and time of procedure and specimen collected/ dispatched (if any) in clinical notes.
+23. Perform hand hygiene.
 
 ### Thoracotomy
 
@@ -541,6 +931,130 @@ Indication: pancreatitis secondary to choledocolithiasis, cholestatic jaundice
 | **I**ngestion                 | Toxic alcohols (methanol, ethylene glycol); Salicylate; Lithium; Sodium valproate, carbamazepine |
 | **O**verload                  | Volume overload refractory to diuretics                      |
 | **U**remia                    | Symptomatic: Encephalopathy, Pericarditis, Bleeding          |
+
+### Catheterization
+
+#### Male
+
+**Preparation**
+
+1. Identify the patient using two patient identifiers.
+2. Explain procedure and obtain consent from patient.
+3. Check if the patient has any allergy to lignocaine or cleansing solution.
+4. Perform hand hygiene.
+5. Prepare requisites.
+   1. Open catheterization set without touching the inner surface.
+   2. Urine catheter into the sterile area using non-touch techniques.
+   3. Put lubricating gel into the sterile area using non-touch techniques.
+   4. Put 10mls syringe into the sterile area using non-touch techniques.
+   5. Put drainage bag into the sterile area using non-touch techniques.
+   6. Pour water for injection into the sterile area using non-touch techniques. 
+   7. Pour cleansing solution into the sterile area using non-touch techniques.
+   8. Put sterile gloves into the sterile area using non-touch techniques.
+6. Perform hand hygiene.
+7. Expose the genital area and place patient in supine position with legs apart.
+8. Place protective sheet below hips and between the thighs.
+
+**Execution**
+
+9. Perform surgical hand rub.
+10. Put on sterile gloves.
+11. **Test the balloon** of the catheter by inflating and deflating it with 10mls of water for injection.
+12. Prepare gauzes for cleaning.
+13. Lubricate catheter tip with sterile lignocaine 2% gel and place it in the sterile kidney dish.
+14. Hold the penis shaft with a sterile gauze using non-dominant hand, lift the penis at 90 degree angle to patient’s body and retract foreskin.
+15. Use dominant hand to clean glans penis and ureteral meatus to base of penis in a circular motion using one swab for each stroke. Repeat as required. (??)
+16. Drape the area to expose only the genitalia.
+17. Place the kidney dish with the lubricated catheter between patient’s thighs.
+18. Instill sterile lignocaine 2% gel to the urethra and wait for 3-5 minutes.
+19. Hold the shaft of penis raising it almost straight up.
+20. Hold tip of catheter with dissecting forceps or gloved hand leaving the open end in the sterile kidney dish.
+21. Insert the catheter into the urethra and advance catheter **15-25 cm** until urine flows.
+22. When urine begins to flow, advance catheter another 2.5cm. Do not force if met resistance
+23. Inflate the balloon with **10 ml of water** for injection. Stop inflation if resistance or patient complains of pain.
+24. Gently pull back catheter until the balloon sits on the neck of bladder.
+25. Reposition foreskin back – if retracted before procedure.
+26. Attach the catheter to urinary drainage bag using non-touch technique.
+27. Secure catheter to lateral aspect of the patient’s thigh/ lower abdomen.
+28. Remove and discard gloves, dispose requisites and perform hand hygiene.
+
+**Follow up**
+
+28. Document the date and time of procedure and specimen collected / dispatch (if any) in clinical notes
+29. Perform hand hygiene
+
+#### Female
+
+**Preparatory Phase**
+
+1. Identify the patient using two patient identifiers.
+2. Explain procedure and obtain consent from patient.
+3. Check if the patient has any allergy to lignocaine or cleansing solution.
+4. Perform hand hygiene.
+5. Prepare required material
+   1. Open catheterization set without touching the inner surface.
+   2. Put urine catheter into the sterile area using non-touch techniques.
+   3. Put lubricating gel into the sterile area using non-touch techniques.
+   4. Put 10mls syringe into the sterile area using non-touch techniques.
+   5. Put drainage bag into the sterile area using non-touch techniques.
+   6. Pour water for injection into the sterile area using non-touch techniques. 
+   7. Pour cleansing solution into the sterile area using non-touch techniques. 
+   8. Put sterile gloves into the sterile area using non-touch techniques.
+6. Perform hand hygiene.
+7. Expose the genital area and place patient in dorsal recumbent position and flex knees with thighs apart.
+8. Place protective sheet below hips and between the thighs.
+
+**Execution**
+
+9. Perform surgical hand rub.
+
+10. Put on sterile gloves.
+
+11. Test the balloon of the catheter by inflating and deflating it with 10mls of water for injection.
+
+12. Lubricate catheter tip with sterile lubricant gel and place it in the sterile kidney dish.
+
+13. Prepare gauzes for cleaning.
+
+14. Perform vulva swabbing using one swab for each stroke
+
+    - Swab left labia majora
+    - Swab right labia majora
+
+15. Drape the area to expose only the genitalia
+
+16. Perform swabbing of labia minor using one swab for each stroke
+
+    - Swab left labia minora
+    - Swab right labia minora
+
+    Keep the left and right labia minora separated with index finger and thumb of non-dominant hand and then
+
+    - Swab urethral meatus
+
+17. Place the kidney dish with the lubricated catheter between patient’s thighs.
+
+18. Hold tip of catheter with dissecting forceps or gloved hand leaving the open end in the sterile receiver.
+
+19. Separate labia minora with 2 fingers to reveal the urethral orifice.
+
+20. Insert catheter gently and advance catheter (approximately 4 to 10cm depending on the age of the patient) until urine starts to flow
+
+21. When urine begins to flow, advance catheter another 2.5cm.
+
+22. Inflate the balloon with 10ml of water for injection. **Stop inflation if resistance or patient complains of pain.**
+
+23. Gently pull back catheter until the balloon sits on the neck of bladder.
+
+24. Attach the catheter to urinary drainage bag using non-touch technique.
+
+25. Secure catheter to lateral aspect of the patient’s thigh/ lower abdomen.
+
+**Follow up**
+
+26. Remove and discard gloves, dispose requisites and perform hand hygiene.
+27. Document the date and time of procedure and specimen collected/ dispatch (if any) in clinical notes.
+28. Perform hand hygiene
 
 ### Suprapubic Catheter
 

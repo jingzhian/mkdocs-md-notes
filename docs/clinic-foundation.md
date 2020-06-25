@@ -16,7 +16,7 @@ Struggles
 Basic Principles of Clinical Medicine 
 -------------------------------------
 
--   Dangerous things are dangerous, common things are common
+-   **Dangerous things are dangerous, common things are common**
 -   Multiple conditions may co-exist, and contribute to each other, e.g. PAD and cellulitis 2/2 foot ulcer; therefore do not over simplify, especially if there is a mixed picture
 -   Disease is a function of the condition and patient.
 -   In all disease, think from diagnosis to disability
@@ -442,14 +442,14 @@ Hospital acquired infection: infection not present before coming to the hospital
 
 Microorganisms are spread primarily through three ways within a hospital setting
 
-1.  Airborne: occurs when infectious pathogens are aerosolized and remain suspended in the air for long periods of time. e.g. TB, chickenpox, measles
+1.  **Airborne**: occurs when infectious pathogens are aerosolized and remain suspended in the air for long periods of time. e.g. **TB, chickenpox, measles**
 
-2.  Droplet: occurs when droplets containing microorganisms from the infected person are propelled a short distance through the air and deposited on the susceptible host's conjunctivae, nasal mucosa, or mouth. E.g. repiratory tract infections, influenza, mumps, rubella, MRSA respiratory disperser, Neisseria Meningitis
+2.  **Droplet**: occurs when droplets containing microorganisms from the infected person are propelled a short distance through the air and deposited on the susceptible host's conjunctivae, nasal mucosa, or mouth. E.g. **respiratory tract infections, influenza, MRSA respiratory disperser, mumps, rubella, Neisseria Meningitis**
 
-3.  Contact: there are two forms of contact transmission
+3.  **Contact**: there are two forms of contact transmission
     -   Direct transmission: involves physical contract between an infected person and a susceptible person
     -   Indirect transmission: involves contact of a susceptible person with a contaminated intermediate object
-    Examples: MRSA, VRE, clostridium difficle
+    Examples: **MRSA, VRE, clostridium difficle**
 
 
 #### Identifying Patient's Precaution Status 
@@ -487,19 +487,18 @@ Method of identifying infectious patients in SGH
             3.  After body fluid exposure risk
             4.  After touching a patient
             5.  After touching patient surroundings
-        
+    
 -   Outpatient
-        
     1.  Before touching a patient
             2.  Before clean / aseptic procedure
             3.  After body fluid exposure risk
             4.  After touching a patient
-        
+    
 -   **Respiratory Hygiene**
         Maintain goodrepsiratory hygiene / cough etiquette
         1. Cover mouth and eyes when coughing
         2. Do not come to work if ill
-      
+    
     -   **PPE**
         -   Where PPE when there is a need to prevent tranmission of containants from patient's blood and body fluid
         -   Surgical masks prevent respiratory transmission; change mask every 4 - 6 hours, or if soiled.

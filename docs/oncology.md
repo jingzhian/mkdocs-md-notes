@@ -77,6 +77,21 @@ Occurs in endocrine tumors
 
 
 
+### Treatment Related Conditions
+
+#### 
+
+![Screenshot 2020-06-23 at 11.34.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%25202020-06-23%2520at%252011.34.10.png)
+
+Which of the following is a possible cause of his thyroid function
+
+- Wholebrain RT - induced thyroiditis
+- Cancer immunotherapy
+- Metastatic disease involving thyroid gland
+- Metastatic disease involving pituitary gland
+
+See primary hyperthyroidism, as evident by a low T4 and high TSH. Most likely cause is cancer immunotherapy (or BAT)
+
 Central Nervous System Tumors
 -----------------------------
 

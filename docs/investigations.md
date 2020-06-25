@@ -5,6 +5,12 @@
   - Started by lai lok chen
 - Kee Tze Phei - neuroradiology and neurointerventionist
 
+
+
+Bloom's Taxonomy of Learning Domains
+
+![Screenshot 2020-06-25 at 12.15.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.15.10.png)
+
 ## Monitoring
 
 ### Vitals
@@ -827,6 +833,27 @@ For each lab, consider:
 Urea / creatinine ratio
 
 #### Liver Panel
+
+- [alanine transaminase (ALT)](https://www.healthline.com/health/alt)
+- [aspartate aminotransferase (AST)](https://www.healthline.com/health/ast)
+- [alkaline phosphatase (ALP)](https://www.healthline.com/health/alp)
+- [albumin](https://www.healthline.com/health/albumin-serum)
+- [bilirubin](https://www.healthline.com/health/bilirubin-blood)
+
+![Screenshot 2020-06-25 at 12.18.55](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.18.55.png)
+
+
+
+- Iron metabolism
+- Glucose metabolism (glycogenesis, glycogenolysis, gluconeogenesis)
+- Synthesizing proteins (cholesterol, albumin, clotting factors)
+- Synth
+
+
+
+![Screenshot 2020-06-25 at 12.23.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.23.15.png)
+
+![Screenshot 2020-06-25 at 12.21.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-25%20at%2012.21.42.png)
 
 #### Procalcitonin
 

@@ -1,5 +1,334 @@
 # DSML Notes
 
+## Meetings
+
+### 22 Jun 2020
+
+- Introduction of everyone
+- Data analytics
+- Digital platform - standing database for research
+- Raymond from hospital level, using statistics, for what is happening within the hospital: business data
+- QI not strictly in research
+- Incubator - some hardware and some software for data analytics
+- ![Screenshot 2020-06-22 at 18.24.38](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.24.38.png)
+
+- Solve meaningful tractable research, clinical practice, and business challenges
+
+![Screenshot 2020-06-22 at 18.27.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.27.40.png)
+
+- ![Screenshot 2020-06-22 at 18.28.26](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.28.26.png)
+- Aggregate for the best return if we want to share resources
+
+
+
+Dear Prof Chow, 
+
+Thank you so much for having me at the dsml meeting yesterday. I took some time to reflect on the meeting and have some questions that I would like your thoughts on:
+
+1. What is the expertise that DSML would like to develop to differentiate it from all the other entities that does data science and machine learning in a way that also leverages on the strength of Singhealth to make the work of DSML difficult to surpass?
+
+   
+
+2. DSML hub members working with domain experts; or DSML members who are domain experts.
+
+   - In most of the projects, under the slides on domain experts commitment. 
+
+   `
+
+3. There was the mentioning of the cost of maintenance as an important factor to consider during project selection. 
+
+   - A comment was made when discussing project 3, that due to COVID19 situation, recent data may not translate to prediction that is as reliable for baseline situations. This led to the mentioning of the cost of maintenance, whereby active maintenance is required for projects with dynamically changing backdrop, as opposed to more 'low cost' projects in which we can build a learning algorithm that continues to work. 
+
+   - I would like to point out that the cost of software development and maintenance should not be underestimated, even for algorithms that we do not plan to continue to adjust; software is subjected to influence not only from the developers but also the whole software engineering community. For instance while I was consulting for a medical device company, the company had to actively keep track of Java updates and update their code frequently (for the same functions). In the MIT community there is also and often discussions about how to prevent biases in learning algorithms, which would require frequent checking and re-checking. So given the non-deterministic nature of most of the proposed projects, I think would be risky to dismiss ideas or select ideas based on the static nature of the problem in order to satisfy 'certain cost of maintenance'. Unless perhaps the products of the projects are meant to be short lived and the development phase or deployment phase would not be under the care of DSML. 
+
+     
+
+4. DSML hub members working with domain experts; or DSML members who are domain experts.
+
+   - In most of the projects, under the slides on domain experts commitment. 
+
+
+
+I am going to be very bold here and ask for your generosity for me to share some of my reflections from the meeting. Apologises in advance if this is stepping over the line because you obviously have a solid plan in place and being new to the system I do not have the full background to comment on. Yet I do want to highlight a few things that felt important to me arising from the meeting, which were not adequately discussed. If anything is not appropriate, or if there is anything that you feel like commenting on (for a lack of better expression for 指正), please feel free to let me know. As you have shared, this is a learning process for all involved.
+
+In general, I felt very encouraged by all the ground up enthusiasm, and there is great potential in harnessing these energies and interests to do great work that advance medical practice in useful and powerful ways. However I get the sense that there is insufficient in-depth technological understanding, and therefore insufficient details when it comes to defining the technical aspects of the projects. As such the scale and complexity of the projects may not have been adequately assessed. This could translate to missed opportunities.
+
+Here are some more specific thoughts:
+
+1. There was the mentioning of one project characteristics under examination being the cost of maintenance, which may not be a reliable measure from get-go.
+
+   - A comment was made when discussing project 3, that due to COVID19 situation, recent data may not translate to prediction that is as reliable for baseline situations. This led to the mentioning of the cost of maintenance, whereby active maintenance is required for projects with dynamically changing backdrop, as opposed to more 'low cost' projects in which we can build a learning algorithm that continues to work. 
+
+   - I would like to point out that the cost of software development and maintenance should not be underestimated, even for algorithms that we do not plan to continue to adjust; software is subjected to influence not only from the developers but also the whole software engineering community. For instance while I was consulting for a medical device company, the company had to actively keep track of Java updates and update their code frequently (for the same functions). In the MIT community there is also and often discussions about how to prevent biases in learning algorithms, which would require frequent checking and re-checking. So given the non-deterministic nature of most of the proposed projects, I think would be risky to dismiss ideas or select ideas based on the static nature of the problem in order to satisfy 'certain cost of maintenance'. Unless perhaps the products of the projects are meant to be short lived and the development phase or deployment phase would not be under the care of DSML. 
+
+     
+
+2. DSML hub members working with domain experts; or DSML members who are domain experts.
+
+   - In most of the projects, under the slides on domain experts commitment. 
+
+
+
+
+
+#### Project 1: Dr Phua Ghee Chee and Ken Goh
+
+- Early prediction of critical illness in hospitalised patients
+  - Early predictions and recognition of critical illness remains poor
+  - Current state: clinical acumen, concerned staff, monitoring of vital signs (early warning scores), protocols, critical lab tests
+  - Current response: rapid response teams and code blue teams
+  - Potential for machine learning to integrate data from electronic
+
+Impact on Patient Care
+
+![Screenshot 2020-06-22 at 18.33.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.33.40.png)
+
+**Outcome: Predictive model for critical illness in hospitalised patients**
+
+![Screenshot 2020-06-22 at 18.34.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.34.45.png)
+
+![Screenshot 2020-06-22 at 18.35.47](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.35.47.png)
+
+![Screenshot 2020-06-22 at 18.36.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.36.19.png)
+
+![Screenshot 2020-06-22 at 18.38.41](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.38.41.png)
+
+
+
+![Screenshot 2020-06-22 at 18.39.12](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.39.12.png)
+
+**New development in critical care:** 
+
+Their data is intermittent, but we are starting to use wearables. Deploy container isolation wards. All patients will be fitted with continuous monitoring? IOT prevalent. COVID is driving wearable will become the normal worldwide. In isolation ward.
+
+**Question**
+
+- How would you define critical illness? Which particular critical illness?
+  - Triage patient for ICU space?
+  - Improve patient care we can reduce ICU enter
+  - Code blue success rate data for past several years and rapid response - baseline data
+    - ED to General Ward
+  - Roll out the program in one ward
+  - Admission issue that is coded for all patients. But it depends on the clerking doctor whether or not they fill up all the info. 
+- What data is available? Why are we uniquely position to solve this illness?
+  - Discrete data right now will eventually transit to continuous data
+  - If the operation capability already here for 12 - 24 hours
+  - From data ingestion process need to work with backend team; 
+  - Desmond Chew Singhealth cannot do real-time right now but is working towards it.
+    - So how does the wearable data communicate with the system?
+  - No NPL required
+  - Andrew is involved in data prediction and he is in the team.
+    - Andrew is knowledgeable in data science
+
+**Infrastructure**
+
+- We need a way to easily pull data and activate predictor and then push the results to the interface
+
+**Where we can maybe do better**
+
+- Fluid plug in and extraction from the EHR / EMR
+- Next 24 and 48 hours etc.
+
+Very ambitious result. Mei Ling's department has early warning score system hospital one for traditional new score. This would help us capture baseline data. 
+
+####  Project 2: Predicting Haemodialysis Centre Workload
+
+Sheryl 
+
+
+
+![Screenshot 2020-06-22 at 18.56.53](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.56.53.png)
+
+![Screenshot 2020-06-22 at 18.58.51](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2018.58.51.png)
+
+
+
+![Screenshot 2020-06-22 at 19.00.06](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.00.06.png)
+
+![Screenshot 2020-06-22 at 19.02.15](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.02.15.png)
+
+![Screenshot 2020-06-22 at 19.03.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.03.13.png)
+
+
+
+These are all great visions.
+
+- Each project can be thought of as a research program.
+  - Project 1: 
+    - Dimension to play with like different critical illness
+    - Do we want to predict for different phases: pre ICU to within ICU deterioration etc. 
+    - A good chance to do MDI
+  - Project 2:
+    - Scheduling system talking - a piping project
+      - Automatic scheduling
+    - Analysis of may data
+    - Help with surge - the stochastic changes matters more
+    - Help with surgical planning - long time line; seasonality matters
+
+- Supply is relatively fixed
+
+This is an operations research area - operations analytics team. 
+
+**Question**
+
+- How much in advance do you need to activate the surge plan?
+  - There seems to be multiple time lines
+    - Surgery - months in advance
+    - Activate surge - short
+  - Different level of precision is required and different types of data;
+- Sounds like a multi-data source planning question?
+  - Surgeons admitting for pre-op dialysis optimization
+  - How much inpatient scheduled and how much not scheduled
+- Not a static project
+- Synergy between the two projects, if we can predict dialysis requirement, we might also consider renal failure is a critical illness
+- Difference between these QI project, renal modelling and simulation
+
+
+
+#### Project 3: Prediction of DIM patients with shorter length of stay for right-siting to AMW
+
+Dr Kang Mei Ling
+
+![Screenshot 2020-06-22 at 19.22.45](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.22.45.png)
+
+
+
+- Pilot AMW in ward 73
+- Improved length of stay for pneumonia without increasing re-admission rate
+- Based on diagnosis alone, we cannot predict who is going to stay
+  - The patient factor matters a lot too
+  - Observe up to 50% of the patients admitted cannot go home. 
+
+H9A - 168 new beds to admit the patients. 
+
+- Prediction model of medical patients who will achieve LOS at the point of ED admission
+- So they can be right sited into ADW
+- Current is only general, ICU, observation
+- Age, admission diagnostic code, 
+
+Clinical score for LOS
+
+- Dependent on clinical team / practice
+- Will change with different practice
+
+![Screenshot 2020-06-22 at 19.29.28](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.29.28.png)
+
+![Screenshot 2020-06-22 at 19.31.16](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.31.16.png)
+
+![Screenshot 2020-06-22 at 19.31.59](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.31.59.png)
+
+23K to DIM, 80% of the DIM cases in the coming years in AMW.
+
+**Idea: Admitting diagnosis vs. actual diagnosis**
+
+- Machine assisted likelihood calculation in real time? Bayesian modelling? Go really evidence based?
+
+**Question**
+
+- Heterogenous is always a question - think about how to reduce heterogenous by reducing the scope
+- If we trust the DSML approach, we should not need to start by reasoning what is reasonable.... If the collaborators love the reasoning, can they let go of control?
+- If machine learning is going to help you understand where the patient is coming from: Interpretable AI.
+
+**How to be different**
+
+- Be a midline between mechanistic and the DSML to help generate hypothesis
+
+- MDI is valuable and an important relationship to nurture - become the trusted FDA of Asia? Because FDA is too hard to get to.
+
+- Synthesis of data from more than the hospital
+
+  
+
+Regional difference, patient data, CPF data etc might be available. But cross government agency may be challenging; But need API.
+
+- Live data
+
+Family medicine colleagues have done a study...
+
+#### Project 4: ML for predicting patient glycemic control
+
+Dr Amanda Lam
+
+![Screenshot 2020-06-22 at 19.50.31](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.50.31.png)
+
+- 10 - 20 patients a day for the worst of the worst
+- Non-critically ill patients treated with insulin
+- Classification and prediction **for 24 hours** - why 24 hours?
+
+![Screenshot 2020-06-22 at 19.53.11](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.53.11.png)
+
+![Screenshot 2020-06-22 at 19.53.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.53.56.png)
+
+
+
+![Screenshot 2020-06-22 at 19.54.13](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.54.13.png)
+
+![Screenshot 2020-06-22 at 19.54.48](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.54.48.png)
+
+![Screenshot 2020-06-22 at 19.55.40](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.55.40.png)
+
+![Screenshot 2020-06-22 at 19.56.19](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2019.56.19.png)
+
+
+
+- Decision support for preemptive management of glucose
+
+
+
+**Potential problems**
+
+- Decision support is probably is going to be useful only from day 2 onwards
+- Diagnosis codes are coded at the end of admission; and as free text
+- Another project algorithm to predict the hypoglycemia
+
+
+
+**Question**
+
+- Prediction of blood sugar - average glucose
+
+
+
+#### Project 5: Measuring the health impact of circuit breaker
+
+Daniel Lim - good project
+
+![Screenshot 2020-06-22 at 20.09.30](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.09.30.png)
+
+![Screenshot 2020-06-22 at 20.11.56](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.11.56.png)
+
+![Screenshot 2020-06-22 at 20.14.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.14.27.png)
+
+- Would patient come late during COVID19?
+- Could be interesting for respiratory conditions as well.
+- Only Singapore has a closed population
+
+![Screenshot 2020-06-22 at 20.17.42](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.17.42.png)
+
+- If we know certain conditions are more vulnerable to circuit breaker we should go ahead and warn these patient
+- Source data availability
+  - ![Screenshot 2020-06-22 at 20.19.27](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.19.27.png)
+
+- Domain
+
+![Screenshot 2020-06-22 at 20.20.10](/Users/jzan/Dropbox/00-medicine/mkdoc-md-notes/docs/figures/Screenshot%202020-06-22%20at%2020.20.10.png)
+
+
+
+**Learning**
+
+- Use bayesian probability as an analogy
+
+- Granular data will not be available at MOH level
+
+- Think with the presenters, encourage before discourage
+
+  
+
+**Medical Device Integration (?)** 
+
+
+
 ## Setting Up
 
 ### People Involved
@@ -8,15 +337,40 @@
 | -------------- | ----------- | ------------- |
 | Su Ying Low    | SGH         | Chair for CPI |
 | Chan Cilburn   | Duke        |               |
-| Chow Wan Cheng |             |               |
-| Phua GC        |             |               |
-| Ken Goh        |             |               |
-| Ryan Tan       |             |               |
-| Sheryl Gan     |             |               |
-| Kang ML        |             |               |
-| Tharma         |             |               |
-| Orlanda Goh    |             |               |
-| Amanda Lam     |             |               |
+| Chow Wan Cheng | SGH         |               |
+| Phua GC        | SGH         |               |
+| Ken Goh        | SGH         |               |
+| Ryan Tan       | SGH         |               |
+| Sheryl Gan     | SGH         |               |
+| Kang ML        | SGH         |               |
+| Tharma         | SGH         |               |
+| Orlanda Goh    | SGH         |               |
+| Amanda Lam     | SGH         |               |
+| Hawa           | SGH         |               |
+| Mei Kang       | SGH         |               |
+
+- Ken Goh - duke student, currently IM doctor
+- Daniel - IM resident, stopped to do a masters in data science, tech area queuing optimisation, masters in data analytics, continuing IM residency afterwards
+- Amanda Lam - endocrinology, health informatics, AI project for diabetic complications, health informatics course
+- Ratna Div Med - supportive staff
+- Ryan Tan - associative consultants, breast and gynec cancer
+- Sheryl - for director of inpatient dialysis patient center
+- Tharmma Balakrishnan - 
+- Ghee Chee Phua - critical care medicine; predictive analytics before during and after care; lung transplant
+- Lynn - get stuff
+- Xiaohui - small groups of colleagues for descriptive analytics work
+- Jet Singhealth digital strategy office for insight and analytics
+- Julian Thumboo from research office
+- Affect the next central grant
+- Hawa supporting coordinator, Executive under DIM from DIM under Lim
+- Mei Lin Kang, SGH clinical department, finding a bed is a problem for him
+- Cliburn - talk to chicken and talk to the duck
+- Demond Chew - OIA data science team
+- Orlanda Goh - SR, interest in HSR and what medics can do for it
+- Raymond from organisation planing and performance
+- Julian T - work with Xiao hui in health services research; 
+
+
 
 #### Tan Mei Ling
 
