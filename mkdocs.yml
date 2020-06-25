@@ -150,6 +150,8 @@ nav:
     - pharmaco.md
     - procedures.md
     - surgery.md
+    - imaging.md
+    - labs.md
   - Conditions:
     - fammed.md
     - anesthesiology.md
